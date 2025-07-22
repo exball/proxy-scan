@@ -9,19 +9,19 @@
 103.87.70.169,21242,ID,Advertise via PT. Abhinawa
 103.87.70.146,51002,ID,Advertise via PT. Abhinawa
 206.84.101.84,443,ID,AGIS
-172.232.239.151,587,ID,Akamai Technologies, Inc.
-172.232.239.147,587,ID,Akamai Technologies, Inc.
-172.232.231.24,587,ID,Akamai Technologies, Inc.
-172.232.239.249,587,ID,Akamai Technologies, Inc.
-172.235.251.7,587,ID,Akamai Technologies, Inc.
-172.232.237.112,2053,ID,Akamai Technologies, Inc.
-172.232.237.31,587,ID,Akamai Technologies, Inc.
-172.232.239.134,443,ID,Akamai Technologies, Inc.
-172.232.249.53,443,ID,Akamai Technologies, Inc.
-8.215.41.90,8080,ID,Alibaba (US) Technology Co., Ltd.
+172.232.239.151,587,ID,Akamai Technologies
+172.232.239.147,587,ID,Akamai Technologies
+172.232.231.24,587,ID,Akamai Technologies
+172.232.239.249,587,ID,Akamai Technologies
+172.235.251.7,587,ID,Akamai Technologies
+172.232.237.112,2053,ID,Akamai Technologies
+172.232.237.31,587,ID,Akamai Technologies
+172.232.239.134,443,ID,Akamai Technologies
+172.232.249.53,443,ID,Akamai Technologies
+8.215.41.90,8080,ID,Alibaba (US) Technology Co.
 8.215.196.18,587,ID,Alibaba Cloud (Singapore) Private Limited
-43.218.77.16,1443,ID,Amazon.com, Inc.
-43.218.77.16,443,ID,Amazon.com, Inc.
+43.218.77.16,1443,ID,Amazon.com
+43.218.77.16,443,ID,Amazon.com
 103.56.205.84,8080,ID,Argon Data Communication
 182.253.93.3,53281,ID,BIZNET
 202.165.47.90,55443,ID,Circlecom
@@ -103,4 +103,4 @@
 202.65.226.218,1452,ID,SpaceX Starlink
 103.133.61.164,1010,ID,TLINK
 103.156.248.101,8080,ID,Trans Media Telekomunikasi
-202.56.161.181,8282,ID,Varnion Technology Semesta, PT
+202.56.161.181,8282,ID,Varnion Technology Semesta
