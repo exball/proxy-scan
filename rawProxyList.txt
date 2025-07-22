@@ -1,7 +1,7 @@
 103.80.98.130,8080,ID,Advertise via PT Menaksopal
 103.145.68.201,8181,ID,ALFANET
-8.215.31.146,1347,ID,Alibaba (US) Technology Co., Ltd.
-8.215.41.90,8080,ID,Alibaba (US) Technology Co., Ltd.
+8.215.31.146,1347,ID,Alibaba (US) Technology Co.
+8.215.41.90,8080,ID,Alibaba (US) Technology Co.
 103.155.246.155,8080,ID,AMANNA
 202.57.25.152,8080,ID,announced of WINET
 103.56.205.84,8080,ID,Argon Data Communication
@@ -43,24 +43,24 @@
 27.54.117.180,4444,ID,Indonesia Network Information Center
 163.223.119.6,8085,ID,Indonesia Network Information Center
 103.124.199.116,8080,ID,INTEK
-202.58.206.15,8080,ID,Internet Madju Abad Millenindo, PT
+202.58.206.15,8080,ID,Internet Madju Abad Millenindo
 160.202.42.156,8080,ID,Jakarta 5 8 Iconpln
 103.155.196.153,8080,ID,JEMBATANDATA
 154.90.48.76,80,ID,Kaopu Cloud HK Limited
 103.22.99.12,2020,ID,KHALISTAGROUP
-180.211.94.50,8080,ID,Kings Network Indonesia, PT
+180.211.94.50,8080,ID,Kings Network Indonesia
 103.38.102.142,8080,ID,LAXONET
 103.175.240.161,3127,ID,LDP
 202.137.31.186,8080,ID,LINKNET
 149.113.79.239,8080,ID,Linknet-Fastnet ASN
 111.95.41.121,8080,ID,Linknet-Fastnet ASN
 118.136.100.60,8080,ID,Linknet-Fastnet ASN
-103.189.96.180,8080,ID,Lintas Data Prima, PT
-202.47.188.193,7777,ID,Lintas Data Prima, PT
-103.46.11.156,7500,ID,Lintas Data Prima, PT
-103.46.11.92,8080,ID,Lintas Data Prima, PT
-103.46.10.76,7777,ID,Lintas Data Prima, PT
-103.51.205.168,8080,ID,Lintas Data Prima, PT
+103.189.96.180,8080,ID,Lintas Data Prima
+202.47.188.193,7777,ID,Lintas Data Prima
+103.46.11.156,7500,ID,Lintas Data Prima
+103.46.11.92,8080,ID,Lintas Data Prima
+103.46.10.76,7777,ID,Lintas Data Prima
+103.51.205.168,8080,ID,Lintas Data Prima
 103.14.2.89,2020,ID,MADA
 103.151.247.235,7777,ID,MANAKARRANET
 122.144.7.137,7775,ID,Maxindo
@@ -117,7 +117,7 @@
 103.36.11.119,8181,ID,PT Awinet Global Mandiri
 103.36.10.223,8080,ID,PT Awinet Global Mandiri
 103.191.254.134,8080,ID,PT Ayodya Data Internusa
-103.119.147.235,8080,ID,PT Bali Towerindo Sentra, Tbk
+103.119.147.235,8080,ID,PT Bali Towerindo Sentra
 157.66.50.125,1111,ID,PT BARAYA TELEKOMUNIKASI INDONESIA
 103.125.116.114,8080,ID,PT Baraya Telematika Nusantara
 103.177.153.18,8080,ID,PT Beibi Cemerlang Indonesia
