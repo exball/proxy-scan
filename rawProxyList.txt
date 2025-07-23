@@ -1,4 +1,4 @@
-139.59.208.107,80,DE,DigitalOcean, LLC
+139.59.208.107,80,DE,DigitalOcean
 116.203.14.62,2053,DE,Hetzner Online GmbH
 116.203.119.40,80,DE,Hetzner Online GmbH
 116.203.60.150,2083,DE,Hetzner Online GmbH
@@ -24,6 +24,6 @@
 103.23.128.165,8081,JP,World First Communication LTD
 103.14.77.6,80,KR,NewMedia Express Pte Ltd
 51.83.129.79,80,PL,OVH SAS
-138.197.220.61,2053,US,DigitalOcean, LLC
-138.197.82.137,7777,US,DigitalOcean, LLC
+138.197.220.61,2053,US,DigitalOcean
+138.197.82.137,7777,US,DigitalOcean
 103.28.38.55,7777,VN,NhanHoa Software Company
