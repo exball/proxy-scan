@@ -1,5 +1,5 @@
 43.157.197.19,12556,ID,Aceville Pte.ltd
-8.215.15.163,51,ID,Alibaba (US) Technology Co., Ltd.
+8.215.15.163,51,ID,Alibaba (US) Technology Co.
 149.129.226.9,100,ID,Alibaba.com Singapore E-Commerce Private Limited
 103.152.238.146,1080,ID,APRIN
 103.113.3.240,3128,ID,Diskominfo Tangerang Selatan
