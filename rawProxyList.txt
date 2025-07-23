@@ -1,106 +1,29 @@
-103.87.70.130,11211,ID,Advertise via PT. Abhinawa
-103.87.70.137,11211,ID,Advertise via PT. Abhinawa
-103.87.70.166,11211,ID,Advertise via PT. Abhinawa
-103.87.70.169,11007,ID,Advertise via PT. Abhinawa
-103.87.70.188,21100,ID,Advertise via PT. Abhinawa
-103.87.70.169,11211,ID,Advertise via PT. Abhinawa
-103.87.70.137,11182,ID,Advertise via PT. Abhinawa
-103.87.70.162,11211,ID,Advertise via PT. Abhinawa
-103.87.70.169,21242,ID,Advertise via PT. Abhinawa
-103.87.70.146,51002,ID,Advertise via PT. Abhinawa
-206.84.101.84,443,ID,AGIS
-172.232.239.151,587,ID,Akamai Technologies
-172.232.239.147,587,ID,Akamai Technologies
-172.232.231.24,587,ID,Akamai Technologies
-172.232.239.249,587,ID,Akamai Technologies
-172.235.251.7,587,ID,Akamai Technologies
-172.232.237.112,2053,ID,Akamai Technologies
-172.232.237.31,587,ID,Akamai Technologies
-172.232.239.134,443,ID,Akamai Technologies
-172.232.249.53,443,ID,Akamai Technologies
-8.215.41.90,8080,ID,Alibaba (US) Technology Co.
-8.215.196.18,587,ID,Alibaba Cloud (Singapore) Private Limited
-43.218.77.16,1443,ID,Amazon.com
-43.218.77.16,443,ID,Amazon.com
-103.56.205.84,8080,ID,Argon Data Communication
-182.253.93.3,53281,ID,BIZNET
-202.165.47.90,55443,ID,Circlecom
-203.194.112.119,8443,ID,CV. Rumahweb Indonesia
-203.194.112.119,2053,ID,CV. Rumahweb Indonesia
-103.169.139.13,8081,ID,Dinas Kominfo Kabupaten Rembang
-103.210.35.182,8080,ID,Diskominfo DIY
-114.6.27.84,8520,ID,GEBPP-ISAT
-35.219.50.99,443,ID,Google LLC
-35.219.15.90,443,ID,Google LLC
-34.101.247.19,53681,ID,Google LLC
-34.101.224.204,3128,ID,Google LLC
-212.34.194.244,80,ID,Huawei International Pte. Ltd.
-202.169.229.139,53281,ID,IP JMN Soho
-154.90.48.76,80,ID,Kaopu Cloud HK Limited
-103.38.102.142,8080,ID,LAXONET
-103.165.157.107,8080,ID,MEGADATA-ISP
-103.174.36.143,12126,ID,MORATELINDONAP
-103.175.231.96,10001,ID,MYREPUBLIC
-103.123.25.65,80,ID,Pemerintah Provinsi Kalimantan Tengah
-103.178.86.10,8080,ID,PT Adhi Pradana Makayasa
-103.127.138.9,8443,ID,PT Biznet Gio Nusantara
-103.127.138.9,443,ID,PT Biznet Gio Nusantara
-103.127.138.9,2083,ID,PT Biznet Gio Nusantara
-113.192.3.230,1452,ID,PT Boombas Carlo Medianet
-103.156.86.129,8080,ID,PT Chacha Networking System
-103.186.1.209,2053,ID,PT Cloud Hosting Indonesia
-103.133.223.51,2096,ID,PT Cloud Teknologi Nusantara
-103.133.223.52,2096,ID,PT Cloud Teknologi Nusantara
-103.133.223.50,2096,ID,PT Cloud Teknologi Nusantara
-103.157.117.226,81,ID,PT Cloud Teknologi Nusantara
-203.175.126.229,8080,ID,PT Cubiespot Pilar Data Nusantara
-203.175.127.240,8080,ID,PT Cubiespot Pilar Data Nusantara
-103.126.226.23,10011,ID,PT Deneva
-103.173.72.34,1111,ID,PT Eyza Kausa Sinergi Abadi
-103.63.26.229,8080,ID,PT Global Media Data Prima
-103.171.182.229,8080,ID,PT Hayat Teknologi Informatika
-103.168.146.169,20132,ID,PT Herza Digital Indonesia
-103.66.46.150,3125,ID,PT Iconmedia Lintas Nusantara
-157.15.73.10,8080,ID,PT Indo Teknologi Konstruksi
-103.180.123.107,8085,ID,PT Indo Telemedia Solusi
-117.54.114.102,80,ID,PT IndoInternet
-117.54.114.35,80,ID,PT IndoInternet
-103.160.179.36,8888,ID,PT Infonet Nusa Solusindo
-103.14.231.218,3168,ID,PT Internet Corp Ltd
-103.186.193.135,8080,ID,PT Lentera Digital Nusantara
-103.190.113.120,8085,ID,PT Linkbit Inovasi Teknologi
-157.20.144.195,8089,ID,PT Lintas Network Solusi
-103.169.128.133,8080,ID,PT Media Akses Data
-103.247.240.34,8080,ID,PT Media Kerinci Network
-157.66.16.36,5568,ID,PT Mitra Mandiri Network
-103.191.251.198,8083,ID,PT Mulia Batam Net
-103.171.82.213,8080,ID,PT Multi Network Indonesia
-103.203.234.13,8181,ID,PT Nesta Indo Media
-202.6.235.162,50901,ID,PT Padi Internet
-103.195.65.199,8080,ID,PT Perwira Media Solusi
-31.56.78.170,8181,ID,PT Perwira Media Solusi
-103.133.24.19,8080,ID,PT PHATRIA INTI PERSADA
-38.211.24.18,8080,ID,PT Putra Garsel Interkoneksi
-103.102.153.215,33128,ID,PT Qwords Company International
-103.162.63.181,8080,ID,PT Ring Media Nusantara
-103.81.194.120,8080,ID,PT Rtiga Global Media
-103.187.86.10,8182,ID,PT Satunol Digital Teknologi
-103.208.102.2,8080,ID,PT Tidar Lintas Nusa
-103.184.123.41,8888,ID,PT Wijaya Trimitra Indonesia
-202.93.247.51,3128,ID,PT. Dutakom Wibawa Putra
-103.144.209.104,8715,ID,PT. Indonesia Comnets Plus
-114.9.52.2,1452,ID,PT. INDOSAT Tbk
-150.107.136.205,39843,ID,PT. Media Antar Nusa
-103.54.217.92,10909,ID,PT. Mora Telematika Indonesia
-103.63.101.10,443,ID,PT. NEWTON CIPTA INFORMATIKA
-36.95.152.58,12137,ID,PT. Telekomunikasi Indonesia
-125.163.139.137,3128,ID,PT. Telekomunikasi Indonesia
-36.64.162.194,8080,ID,PT. Telekomunikasi Indonesia
-118.97.47.249,55443,ID,PT. TELKOM INDONESIA
-103.6.207.108,8080,ID,PUSATMEDIA
-103.158.253.13,8382,ID,Rapid Network
-43.133.145.156,53136,ID,Shenzhen Tencent Computer Systems Company Limited
-202.65.226.218,1452,ID,SpaceX Starlink
-103.133.61.164,1010,ID,TLINK
-103.156.248.101,8080,ID,Trans Media Telekomunikasi
-202.56.161.181,8282,ID,Varnion Technology Semesta
+139.59.208.107,80,DE,DigitalOcean, LLC
+116.203.14.62,2053,DE,Hetzner Online GmbH
+116.203.119.40,80,DE,Hetzner Online GmbH
+116.203.60.150,2083,DE,Hetzner Online GmbH
+116.203.252.216,80,DE,Hetzner Online GmbH
+51.83.73.191,2095,FR,OVH SAS
+51.83.73.191,2053,FR,OVH SAS
+51.83.0.11,443,FR,OVH SAS
+51.83.75.109,8080,FR,OVH SAS
+51.83.0.11,8000,FR,OVH SAS
+139.59.173.126,2083,GB,DIGITALOCEAN
+139.59.175.88,8080,GB,DIGITALOCEAN
+103.53.10.209,8443,HK,Data Wing Limited
+103.14.74.31,8880,ID,PT Lippo Malls Indonesia
+103.53.189.105,8443,ID,PT Maxindo Mitra Solusi
+36.80.53.186,8443,ID,PT. TELKOM INDONESIA
+103.53.52.236,2053,IN,raagav communications pvt ltd
+103.15.67.75,8443,IN,Rajesh Patel NET Services PVT LTD
+103.15.67.75,443,IN,Rajesh Patel NET Services PVT LTD
+45.32.34.61,8181,JP,The Constant Company
+45.32.34.61,2053,JP,The Constant Company
+45.32.34.61,10080,JP,The Constant Company
+103.23.128.165,9999,JP,World First Communication LTD
+103.23.128.165,8081,JP,World First Communication LTD
+103.14.77.6,80,KR,NewMedia Express Pte Ltd
+51.83.129.79,80,PL,OVH SAS
+138.197.220.61,2053,US,DigitalOcean, LLC
+138.197.82.137,7777,US,DigitalOcean, LLC
+103.28.38.55,7777,VN,NhanHoa Software Company
