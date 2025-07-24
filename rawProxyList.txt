@@ -1,12 +1,12 @@
 23.36.242.207,443,ID,Akamai International B.V.
-172.232.249.53,443,ID,Akamai Technologies
-172.232.244.40,9999,ID,Akamai Technologies
-172.232.244.10,9999,ID,Akamai Technologies
-172.232.244.21,8880,ID,Akamai Technologies
-172.232.244.6,8880,ID,Akamai Technologies
-172.232.244.20,8880,ID,Akamai Technologies
-172.232.244.32,9090,ID,Akamai Technologies
-172.232.244.229,9999,ID,Akamai Technologies
+172.232.249.53,443,ID,Akamai Technologies, Inc.
+172.232.244.40,9999,ID,Akamai Technologies, Inc.
+172.232.244.10,9999,ID,Akamai Technologies, Inc.
+172.232.244.21,8880,ID,Akamai Technologies, Inc.
+172.232.244.6,8880,ID,Akamai Technologies, Inc.
+172.232.244.20,8880,ID,Akamai Technologies, Inc.
+172.232.244.32,9090,ID,Akamai Technologies, Inc.
+172.232.244.229,9999,ID,Akamai Technologies, Inc.
 210.210.172.54,55555,ID,CBN
 88.223.91.78,443,ID,Hostinger International Limited
 88.223.91.112,443,ID,Hostinger International Limited
@@ -25,5 +25,5 @@
 154.194.12.104,2087,SG,Great Golden Horse Co
 154.194.12.50,2083,SG,Great Golden Horse Co
 154.194.12.222,8443,SG,Great Golden Horse Co
-154.194.12.248,8443
-154.194.12.196,2053
+154.194.12.248,8443,SG,Great Golden Horse Co
+154.194.12.196,2053,SG,Great Golden Horse Co
