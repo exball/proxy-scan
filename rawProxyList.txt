@@ -1,5 +1,4 @@
-103.115.164.174,3128,ID,PT Cloud Teknologi Nusantara
-45.127.134.125,3128,ID,Alibaba
-103.28.148.171,3128,ID,Akamai Technologies Inc
-172.232.239.147,587,ID,Akamai Connected Cloud
-172.232.231.24,587,ID,Akamai Connected Cloud
+172.232.249.53,443
+104.99.183.207,443
+104.106.203.207,443
+23.36.242.207,443
