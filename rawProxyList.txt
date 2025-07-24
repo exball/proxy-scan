@@ -1,6 +1,23 @@
 23.36.242.207,443,ID,Akamai International B.V.
-172.232.249.53,443,ID,Akamai Technologies
+172.232.249.53,443,ID,Akamai Technologies, Inc.
+172.232.244.40,9999,ID,Akamai Technologies, Inc.
+172.232.244.10,9999,ID,Akamai Technologies, Inc.
+172.232.244.21,8880,ID,Akamai Technologies, Inc.
+172.232.244.6,8880,ID,Akamai Technologies, Inc.
+172.232.244.20,8880,ID,Akamai Technologies, Inc.
+172.232.244.32,9090,ID,Akamai Technologies, Inc.
+172.232.244.229,9999,ID,Akamai Technologies, Inc.
+210.210.172.54,55555,ID,CBN
 88.223.91.78,443,ID,Hostinger International Limited
+88.223.91.112,443,ID,Hostinger International Limited
 103.150.89.146,443,ID,PT Biznet Gio Nusantara
+103.189.121.163,9090,ID,PT Data Buana Nusantara
+101.255.18.22,2000,ID,PT Remala Abadi
+114.124.132.70,8888,ID,PT Telekomunikasi Selular Indonesia
+103.119.48.56,2080,ID,PT. Eka Mas Republik
 104.106.203.207,443,ID,PT. INDOSAT Tbk
+123.176.125.6,9100,ID,PT. Mega Akses Persada
+182.3.34.33,9999,ID,PT. Telekomunikasi Selular
+182.3.34.14,5566,ID,PT. Telekomunikasi Selular
 104.99.183.207,443,ID,Telekomunikasi Indonesia
+154.194.12.85,2053,SG,Great Golden Horse Co
