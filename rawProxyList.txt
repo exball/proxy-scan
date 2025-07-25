@@ -907,3 +907,12 @@
 154.194.12.135,443,SG,Great Golden Horse Co
 165.154.205.11,443,SG,Scloud Pte Ltd
 180.131.145.68,443,US,Colocation America Corporation
+62.112.138.244,443,ID,Global Communication Network Limited
+103.41.207.211,443,ID,Infinys Network
+103.41.206.200,443,ID,Infinys Network
+103.126.226.13,12818,ID,PT Deneva
+117.53.44.97,443,ID,PT Infinys System Indonesia
+117.53.45.84,443,ID,PT Infinys System Indonesia
+202.77.111.168,443,ID,PT. LINKNET
+202.77.111.174,443,ID,PT. LINKNET
+202.77.111.173,443,ID,PT. LINKNET
