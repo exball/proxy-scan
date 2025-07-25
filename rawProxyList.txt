@@ -1,5 +1,5 @@
 202.155.141.235,443,HK,Arisk Communications inc
-180.131.144.14,443,HK,Asymptote Network, LLC
+180.131.144.14,443,HK,Asymptote Network
 103.87.70.167,11007,ID,Advertise via PT. Abhinawa
 103.87.70.130,11007,ID,Advertise via PT. Abhinawa
 103.87.70.169,11007,ID,Advertise via PT. Abhinawa
@@ -23,39 +23,34 @@
 206.84.101.83,8443,ID,AGIS
 23.47.197.213,443,ID,Akamai International B.V.
 23.47.196.77,443,ID,Akamai International B.V.
-172.232.238.56,443,ID,Akamai Technologies, Inc.
-172.232.232.59,443,ID,Akamai Technologies, Inc.
-172.232.234.166,443,ID,Akamai Technologies, Inc.
-172.232.238.52,443,ID,Akamai Technologies, Inc.
-172.232.238.245,443,ID,Akamai Technologies, Inc.
-172.232.235.30,443,ID,Akamai Technologies, Inc.
-172.232.251.141,443,ID,Akamai Technologies, Inc.
-172.232.251.105,443,ID,Akamai Technologies, Inc.
-172.232.237.44,443,ID,Akamai Technologies, Inc.
-172.232.248.192,443,ID,Akamai Technologies, Inc.
-172.232.245.128,443,ID,Akamai Technologies, Inc.
-172.232.245.129,443,ID,Akamai Technologies, Inc.
-172.232.248.101,8443,ID,Akamai Technologies, Inc.
-8.215.192.122,80,ID,Alibaba (US) Technology Co., Ltd.
-8.215.22.237,80,ID,Alibaba (US) Technology Co., Ltd.
-8.215.194.65,80,ID,Alibaba (US) Technology Co., Ltd.
-8.215.21.164,80,ID,Alibaba (US) Technology Co., Ltd.
-8.215.200.12,80,ID,Alibaba (US) Technology Co., Ltd.
-8.215.35.68,80,ID,Alibaba (US) Technology Co., Ltd.
-8.215.18.30,80,ID,Alibaba (US) Technology Co., Ltd.
-8.215.193.5,80,ID,Alibaba (US) Technology Co., Ltd.
-8.215.44.159,80,ID,Alibaba (US) Technology Co., Ltd.
-8.215.43.176,80,ID,Alibaba (US) Technology Co., Ltd.
-8.215.27.138,80,ID,Alibaba (US) Technology Co., Ltd.
+172.232.238.56,443,ID,Akamai Technologies
+172.232.232.59,443,ID,Akamai Technologies
+172.232.234.166,443,ID,Akamai Technologies
+172.232.238.52,443,ID,Akamai Technologies
+172.232.238.245,443,ID,Akamai Technologies
+172.232.235.30,443,ID,Akamai Technologies
+172.232.251.141,443,ID,Akamai Technologies
+172.232.251.105,443,ID,Akamai Technologies
+172.232.237.44,443,ID,Akamai Technologies
+172.232.248.192,443,ID,Akamai Technologies
+172.232.245.128,443,ID,Akamai Technologies
+172.232.245.129,443,ID,Akamai Technologies
+172.232.248.101,8443,ID,Akamai Technologies
+8.215.192.122,80,ID,Alibaba (US) Technology Co.
+8.215.22.237,80,ID,Alibaba (US) Technology Co.
+8.215.194.65,80,ID,Alibaba (US) Technology Co.
+8.215.21.164,80,ID,Alibaba (US) Technology Co.
+8.215.200.12,80,ID,Alibaba (US) Technology Co.
+8.215.35.68,80,ID,Alibaba (US) Technology Co.
+8.215.18.30,80,ID,Alibaba (US) Technology Co.
+8.215.193.5,80,ID,Alibaba (US) Technology Co.
+8.215.44.159,80,ID,Alibaba (US) Technology Co.
+8.215.43.176,80,ID,Alibaba (US) Technology Co.
+8.215.27.138,80,ID,Alibaba (US) Technology Co.
 8.215.196.15,80,ID,Alibaba Cloud (Singapore) Private Limited
 147.139.191.92,80,ID,Alibaba Cloud LLC
 147.139.242.12,80,ID,Alibaba Cloud LLC
 147.139.246.34,80,ID,Alibaba Cloud LLC
-147.139.191.92,80,ID,Alibaba Cloud LLC
-147.139.191.92,80,ID,Alibaba Cloud LLC
-147.139.191.92,80,ID,Alibaba Cloud LLC
-147.139.191.92,80,ID,Alibaba Cloud LLC
-147.139.191.92,80,ID,Alibaba Cloud LLC
 147.139.246.220,80,ID,Alibaba Cloud LLC
 103.127.99.92,8443,ID,BYOIP PT. Biznet Gio Nusantara
 38.9.141.180,443,ID,Cogent Communications
