@@ -38,7 +38,8 @@ class ProxyValidatorEnhanced:
             'enriched_isp': 0,
             'corrected_country': 0,
             'corrected_isp': 0,
-            'invalid_ips': 0
+            'invalid_ips': 0,
+            'duplicates_removed': 0
         }
         
     def log(self, message: str):
@@ -448,6 +449,24 @@ class ProxyValidatorEnhanced:
             elif original_isp != 'UNKNOWN' and original_isp != new_isp:
                 self.stats['corrected_isp'] += 1
         
+        # Remove duplicates based on IP and port combination
+        self.log("Removing duplicate proxies...")
+        original_count = len(validated_proxies)
+        seen_proxies = set()
+        unique_proxies = []
+        
+        for proxy in validated_proxies:
+            proxy_key = (proxy['ip'], proxy['port'])
+            if proxy_key not in seen_proxies:
+                seen_proxies.add(proxy_key)
+                unique_proxies.append(proxy)
+            else:
+                self.stats['duplicates_removed'] += 1
+        
+        validated_proxies = unique_proxies
+        self.log(f"Removed {self.stats['duplicates_removed']} duplicate proxies")
+        self.log(f"Unique proxies remaining: {len(validated_proxies)}")
+        
         # Sort by country code (primary) and ISP (secondary)
         validated_proxies.sort(key=lambda x: (x['country_code'].upper(), x['isp'].upper()))
         
@@ -474,7 +493,8 @@ class ProxyValidatorEnhanced:
         self.log(f"Total lines processed: {self.stats['total_lines']:,}")
         self.log(f"IPs skipped (no port): {self.stats['skipped_no_port']:,}")
         self.log(f"Invalid IPs: {self.stats['invalid_ips']:,}")
-        self.log(f"Successfully validated: {len(validated_proxies):,}")
+        self.log(f"Duplicates removed: {self.stats['duplicates_removed']:,}")
+        self.log(f"Successfully validated (unique): {len(validated_proxies):,}")
         self.log("")
         self.log("DATA CHANGES:")
         self.log(f"  - Country data enriched: {self.stats['enriched_country']:,}")
