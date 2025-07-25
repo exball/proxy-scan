@@ -1,20 +1,20 @@
 202.155.141.235,443,HK,Arisk Communications inc
-180.131.144.14,443,HK,Asymptote Network, LLC
+180.131.144.14,443,HK,Asymptote Network
 206.84.101.83,8443,ID,AGIS
 23.47.197.213,443,ID,Akamai International B.V.
 23.47.196.77,443,ID,Akamai International B.V.
-172.232.238.56,443,ID,Akamai Technologies, Inc.
-172.232.232.59,443,ID,Akamai Technologies, Inc.
-172.232.234.166,443,ID,Akamai Technologies, Inc.
-172.232.238.52,443,ID,Akamai Technologies, Inc.
-172.232.238.245,443,ID,Akamai Technologies, Inc.
-172.232.235.30,443,ID,Akamai Technologies, Inc.
-172.232.251.141,443,ID,Akamai Technologies, Inc.
-172.232.251.105,443,ID,Akamai Technologies, Inc.
-172.232.237.44,443,ID,Akamai Technologies, Inc.
-172.232.248.192,443,ID,Akamai Technologies, Inc.
-172.232.245.128,443,ID,Akamai Technologies, Inc.
-172.232.245.129,443,ID,Akamai Technologies, Inc.
+172.232.238.56,443,ID,Akamai Technologies
+172.232.232.59,443,ID,Akamai Technologies
+172.232.234.166,443,ID,Akamai Technologies
+172.232.238.52,443,ID,Akamai Technologies
+172.232.238.245,443,ID,Akamai Technologies
+172.232.235.30,443,ID,Akamai Technologies
+172.232.251.141,443,ID,Akamai Technologies
+172.232.251.105,443,ID,Akamai Technologies
+172.232.237.44,443,ID,Akamai Technologies
+172.232.248.192,443,ID,Akamai Technologies
+172.232.245.128,443,ID,Akamai Technologies
+172.232.245.129,443,ID,Akamai Technologies
 38.9.141.180,443,ID,Cogent Communications
 35.219.102.103,443,ID,Google LLC
 43.230.131.191,443,ID,Internet Ini Saja
