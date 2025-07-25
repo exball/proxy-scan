@@ -1,7 +1,5 @@
 202.155.141.235,443,HK,Arisk Communications inc
-202.155.141.235,443,HK,Arisk Communications inc
-180.131.144.14,443,HK,Asymptote Network, LLC
-180.131.144.14,443,HK,Asymptote Network, LLC
+180.131.144.14,443,HK,Asymptote Network
 103.87.70.167,11007,ID,Advertise via PT. Abhinawa
 103.87.70.130,11007,ID,Advertise via PT. Abhinawa
 103.87.70.169,11007,ID,Advertise via PT. Abhinawa
@@ -26,58 +24,39 @@
 206.84.101.84,443,ID,AGIS
 23.47.197.213,443,ID,Akamai International B.V.
 23.47.196.77,443,ID,Akamai International B.V.
-23.47.196.77,443,ID,Akamai International B.V.
-23.47.197.213,443,ID,Akamai International B.V.
 23.36.242.207,443,ID,Akamai International B.V.
-172.232.238.56,443,ID,Akamai Technologies, Inc.
-172.232.232.59,443,ID,Akamai Technologies, Inc.
-172.232.234.166,443,ID,Akamai Technologies, Inc.
-172.232.238.52,443,ID,Akamai Technologies, Inc.
-172.232.238.245,443,ID,Akamai Technologies, Inc.
-172.232.235.30,443,ID,Akamai Technologies, Inc.
-172.232.251.141,443,ID,Akamai Technologies, Inc.
-172.232.251.105,443,ID,Akamai Technologies, Inc.
-172.232.237.44,443,ID,Akamai Technologies, Inc.
-172.232.248.192,443,ID,Akamai Technologies, Inc.
-172.232.245.128,443,ID,Akamai Technologies, Inc.
-172.232.245.129,443,ID,Akamai Technologies, Inc.
-172.232.248.101,8443,ID,Akamai Technologies, Inc.
-172.232.245.130,443,ID,Akamai Technologies, Inc.
-172.232.245.37,443,ID,Akamai Technologies, Inc.
-172.232.249.161,443,ID,Akamai Technologies, Inc.
-172.232.251.39,443,ID,Akamai Technologies, Inc.
-172.232.238.56,443,ID,Akamai Technologies, Inc.
-172.232.232.59,443,ID,Akamai Technologies, Inc.
-172.232.234.166,443,ID,Akamai Technologies, Inc.
-172.232.238.52,443,ID,Akamai Technologies, Inc.
-172.232.238.245,443,ID,Akamai Technologies, Inc.
-172.232.235.30,443,ID,Akamai Technologies, Inc.
-172.232.251.141,443,ID,Akamai Technologies, Inc.
-172.232.251.105,443,ID,Akamai Technologies, Inc.
-172.232.237.44,443,ID,Akamai Technologies, Inc.
-172.232.248.192,443,ID,Akamai Technologies, Inc.
-172.232.245.128,443,ID,Akamai Technologies, Inc.
-172.232.245.129,443,ID,Akamai Technologies, Inc.
-172.232.245.130,443,ID,Akamai Technologies, Inc.
-172.232.245.37,443,ID,Akamai Technologies, Inc.
-172.232.249.161,443,ID,Akamai Technologies, Inc.
-172.232.251.39,443,ID,Akamai Technologies, Inc.
-172.232.236.166,2096,ID,Akamai Technologies, Inc.
-172.232.249.53,443,ID,Akamai Technologies, Inc.
-8.215.192.122,80,ID,Alibaba (US) Technology Co., Ltd.
-8.215.22.237,80,ID,Alibaba (US) Technology Co., Ltd.
-8.215.194.65,80,ID,Alibaba (US) Technology Co., Ltd.
-8.215.21.164,80,ID,Alibaba (US) Technology Co., Ltd.
-8.215.200.12,80,ID,Alibaba (US) Technology Co., Ltd.
-8.215.35.68,80,ID,Alibaba (US) Technology Co., Ltd.
-8.215.18.30,80,ID,Alibaba (US) Technology Co., Ltd.
-8.215.193.5,80,ID,Alibaba (US) Technology Co., Ltd.
-8.215.44.159,80,ID,Alibaba (US) Technology Co., Ltd.
-8.215.43.176,80,ID,Alibaba (US) Technology Co., Ltd.
-8.215.27.138,80,ID,Alibaba (US) Technology Co., Ltd.
-8.215.50.121,443,ID,Alibaba (US) Technology Co., Ltd.
-8.215.50.121,443,ID,Alibaba (US) Technology Co., Ltd.
-8.215.90.225,443,ID,Alibaba (US) Technology Co., Ltd.
+172.232.238.56,443,ID,Akamai Technologies
+172.232.232.59,443,ID,Akamai Technologies
+172.232.234.166,443,ID,Akamai Technologies
+172.232.238.52,443,ID,Akamai Technologies
+172.232.238.245,443,ID,Akamai Technologies
+172.232.235.30,443,ID,Akamai Technologies
+172.232.251.141,443,ID,Akamai Technologies
+172.232.251.105,443,ID,Akamai Technologies
+172.232.237.44,443,ID,Akamai Technologies
+172.232.248.192,443,ID,Akamai Technologies
+172.232.245.128,443,ID,Akamai Technologies
+172.232.245.129,443,ID,Akamai Technologies
+172.232.248.101,8443,ID,Akamai Technologies
+172.232.245.130,443,ID,Akamai Technologies
+172.232.245.37,443,ID,Akamai Technologies
+172.232.249.161,443,ID,Akamai Technologies
+172.232.251.39,443,ID,Akamai Technologies
+172.232.236.166,2096,ID,Akamai Technologies
+172.232.249.53,443,ID,Akamai Technologies
+8.215.192.122,80,ID,Alibaba (US) Technology Co.
+8.215.22.237,80,ID,Alibaba (US) Technology Co.
+8.215.194.65,80,ID,Alibaba (US) Technology Co.
+8.215.21.164,80,ID,Alibaba (US) Technology Co.
+8.215.200.12,80,ID,Alibaba (US) Technology Co.
+8.215.35.68,80,ID,Alibaba (US) Technology Co.
+8.215.18.30,80,ID,Alibaba (US) Technology Co.
+8.215.193.5,80,ID,Alibaba (US) Technology Co.
+8.215.44.159,80,ID,Alibaba (US) Technology Co.
+8.215.43.176,80,ID,Alibaba (US) Technology Co.
+8.215.27.138,80,ID,Alibaba (US) Technology Co.
+8.215.50.121,443,ID,Alibaba (US) Technology Co.
+8.215.90.225,443,ID,Alibaba (US) Technology Co.
 8.215.196.15,80,ID,Alibaba Cloud (Singapore) Private Limited
 147.139.191.92,80,ID,Alibaba Cloud LLC
 147.139.242.12,80,ID,Alibaba Cloud LLC
@@ -86,25 +65,16 @@
 147.139.180.68,443,ID,Alibaba Cloud LLC
 147.139.132.79,443,ID,Alibaba Cloud LLC
 147.139.137.69,443,ID,Alibaba Cloud LLC
-147.139.180.68,443,ID,Alibaba Cloud LLC
-147.139.132.79,443,ID,Alibaba Cloud LLC
-147.139.137.69,443,ID,Alibaba Cloud LLC
 147.139.196.176,443,ID,Alibaba Cloud LLC
 147.139.166.236,443,ID,Alibaba Cloud LLC
 149.129.236.0,443,ID,Alibaba.com Singapore E-Commerce Private Limited
 149.129.250.8,443,ID,Alibaba.com Singapore E-Commerce Private Limited
-149.129.236.0,443,ID,Alibaba.com Singapore E-Commerce Private Limited
-149.129.250.8,443,ID,Alibaba.com Singapore E-Commerce Private Limited
 149.129.226.82,443,ID,Alibaba.com Singapore E-Commerce Private Limited
-43.218.77.16,443,ID,Amazon.com, Inc.
-43.218.228.50,443,ID,Amazon.com, Inc.
-16.78.2.76,443,ID,Amazon.com, Inc.
-16.78.93.170,443,ID,Amazon.com, Inc.
-43.218.77.16,443,ID,Amazon.com, Inc.
-43.218.228.50,443,ID,Amazon.com, Inc.
-16.78.2.76,443,ID,Amazon.com, Inc.
-16.78.93.170,443,ID,Amazon.com, Inc.
-108.137.62.197,443,ID,Amazon.com, Inc.
+43.218.77.16,443,ID,Amazon.com
+43.218.228.50,443,ID,Amazon.com
+16.78.2.76,443,ID,Amazon.com
+16.78.93.170,443,ID,Amazon.com
+108.137.62.197,443,ID,Amazon.com
 103.127.99.92,8443,ID,BYOIP PT. Biznet Gio Nusantara
 38.9.141.180,443,ID,Cogent Communications
 38.9.147.154,443,ID,Cogent Communications
@@ -116,25 +86,9 @@
 38.9.141.32,443,ID,Cogent Communications
 38.9.146.110,443,ID,Cogent Communications
 38.9.140.90,443,ID,Cogent Communications
-38.9.141.180,443,ID,Cogent Communications
-38.9.147.154,443,ID,Cogent Communications
-38.9.136.42,443,ID,Cogent Communications
-38.9.147.180,443,ID,Cogent Communications
-38.9.137.121,443,ID,Cogent Communications
-38.9.136.49,443,ID,Cogent Communications
-38.9.141.98,443,ID,Cogent Communications
-38.9.141.32,443,ID,Cogent Communications
-38.9.146.110,443,ID,Cogent Communications
-38.9.140.90,443,ID,Cogent Communications
-35.219.102.103,443,ID,Google LLC
 35.219.102.103,443,ID,Google LLC
 103.167.35.66,8443,ID,Industri Kreatif Digital
 103.41.204.241,443,ID,Infinys Network
-103.41.204.241,443,ID,Infinys Network
-43.230.131.191,443,ID,Internet Ini Saja
-43.230.131.167,443,ID,Internet Ini Saja
-43.230.131.148,443,ID,Internet Ini Saja
-43.230.131.188,443,ID,Internet Ini Saja
 43.230.131.191,443,ID,Internet Ini Saja
 43.230.131.167,443,ID,Internet Ini Saja
 43.230.131.148,443,ID,Internet Ini Saja
@@ -142,12 +96,9 @@
 38.60.171.102,8443,ID,Kaopu Cloud HK Limited
 38.60.171.76,443,ID,Kaopu Cloud HK Limited
 38.60.191.200,443,ID,Kaopu Cloud HK Limited
-38.60.171.76,443,ID,Kaopu Cloud HK Limited
-38.60.191.200,443,ID,Kaopu Cloud HK Limited
 111.95.255.100,443,ID,Linknet-Fastnet ASN
 45.198.0.117,80,ID,Octopus Web Solution Inc
 45.198.0.48,80,ID,Octopus Web Solution Inc
-202.9.69.7,443,ID,Politeknik Negeri Sriwijaya
 202.9.69.7,443,ID,Politeknik Negeri Sriwijaya
 182.23.45.221,8443,ID,PT Aplikanusa Lintasarta
 101.50.0.114,8443,ID,PT Beon Intermedia
@@ -155,22 +106,16 @@
 103.150.93.35,8443,ID,PT Biznet Gio Nusantara
 116.206.196.110,443,ID,PT Biznet Gio Nusantara
 103.150.96.212,443,ID,PT Biznet Gio Nusantara
-116.206.196.110,443,ID,PT Biznet Gio Nusantara
-103.89.165.243,443,ID,PT Biznet Gio Nusantara
-103.150.96.212,443,ID,PT Biznet Gio Nusantara
 103.127.138.9,2096,ID,PT Biznet Gio Nusantara
 103.127.138.9,443,ID,PT Biznet Gio Nusantara
 103.133.223.50,2096,ID,PT Cloud Teknologi Nusantara
 103.133.223.51,2096,ID,PT Cloud Teknologi Nusantara
 103.133.223.52,2096,ID,PT Cloud Teknologi Nusantara
 103.178.153.154,443,ID,PT Herza Digital Indonesia
-103.178.153.154,443,ID,PT Herza Digital Indonesia
 103.227.253.169,22,ID,PT Raja Mitra Informatika
 103.227.253.169,25,ID,PT Raja Mitra Informatika
 103.227.253.169,23,ID,PT Raja Mitra Informatika
 103.167.112.139,443,ID,PT Semut Data Indonesia
-103.167.112.139,443,ID,PT Semut Data Indonesia
-103.236.190.142,443,ID,PT Victory Network Indonesia
 103.236.190.142,443,ID,PT Victory Network Indonesia
 103.119.54.24,2096,ID,PT. Eka Mas Republik
 103.119.54.24,2083,ID,PT. Eka Mas Republik
@@ -178,14 +123,7 @@
 114.7.95.245,443,ID,PT. INDOSAT Tbk
 104.106.206.213,443,ID,PT. INDOSAT Tbk
 104.106.205.77,443,ID,PT. INDOSAT Tbk
-114.7.95.245,443,ID,PT. INDOSAT Tbk
-104.106.206.213,443,ID,PT. INDOSAT Tbk
-104.106.205.77,443,ID,PT. INDOSAT Tbk
 104.106.203.207,443,ID,PT. INDOSAT Tbk
-202.155.138.201,443,ID,PT. Media Antar Nusa
-110.232.90.101,443,ID,PT. Media Antar Nusa
-202.155.138.22,443,ID,PT. Media Antar Nusa
-103.153.229.27,443,ID,PT. Media Antar Nusa
 202.155.138.201,443,ID,PT. Media Antar Nusa
 110.232.90.101,443,ID,PT. Media Antar Nusa
 202.155.138.22,443,ID,PT. Media Antar Nusa
@@ -195,14 +133,9 @@
 36.92.113.173,2083,ID,PT. Telekomunikasi Indonesia
 43.157.250.232,443,ID,Shenzhen Tencent Computer Systems Company Limited
 43.129.41.119,443,ID,Shenzhen Tencent Computer Systems Company Limited
-43.157.250.232,443,ID,Shenzhen Tencent Computer Systems Company Limited
-43.129.41.119,443,ID,Shenzhen Tencent Computer Systems Company Limited
-104.99.185.77,443,ID,Telekomunikasi Indonesia
-104.99.186.213,443,ID,Telekomunikasi Indonesia
 104.99.185.77,443,ID,Telekomunikasi Indonesia
 104.99.186.213,443,ID,Telekomunikasi Indonesia
 104.99.183.207,443,ID,Telekomunikasi Indonesia
-165.154.150.185,443,ID,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 165.154.150.185,443,ID,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 154.194.12.123,2096,SG,Great Golden Horse Co
 154.194.12.170,2096,SG,Great Golden Horse Co
