@@ -1,10 +1,10 @@
 202.155.141.235,443,HK,Arisk Communications inc
-180.131.144.14,443,HK,Asymptote Network, LLC
+180.131.144.14,443,HK,Asymptote Network
 23.47.197.213,443,ID,Akamai International B.V.
 23.47.196.77,443,ID,Akamai International B.V.
-172.232.238.56,443,ID,Akamai Technologies, Inc.
-172.232.232.59,443,ID,Akamai Technologies, Inc.
-172.232.234.166,443,ID,Akamai Technologies, Inc.
+172.232.238.56,443,ID,Akamai Technologies
+172.232.232.59,443,ID,Akamai Technologies
+172.232.234.166,443,ID,Akamai Technologies
 38.9.141.180,443,ID,Cogent Communications
 202.155.138.201,443,ID,PT. Media Antar Nusa
 104.99.185.77,443,ID,Telekomunikasi Indonesia
