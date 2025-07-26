@@ -1,183 +1,25 @@
 23.27.98.180,443,ID,Ace Data Centers II
 23.27.98.180,8443,ID,Ace Data Centers II
-103.87.70.167,11007,ID,Advertise via PT. Abhinawa
-103.87.70.130,11007,ID,Advertise via PT. Abhinawa
-103.87.70.169,11007,ID,Advertise via PT. Abhinawa
-103.87.70.166,11007,ID,Advertise via PT. Abhinawa
-103.87.70.156,11007,ID,Advertise via PT. Abhinawa
-103.87.70.188,11007,ID,Advertise via PT. Abhinawa
-103.87.70.162,11007,ID,Advertise via PT. Abhinawa
-103.87.70.137,11007,ID,Advertise via PT. Abhinawa
-103.87.70.146,11007,ID,Advertise via PT. Abhinawa
-103.87.70.152,11007,ID,Advertise via PT. Abhinawa
-103.87.70.152,11082,ID,Advertise via PT. Abhinawa
-103.87.70.166,11082,ID,Advertise via PT. Abhinawa
-103.87.70.156,11082,ID,Advertise via PT. Abhinawa
-103.87.70.130,11082,ID,Advertise via PT. Abhinawa
-103.87.70.146,11082,ID,Advertise via PT. Abhinawa
-103.87.70.167,11082,ID,Advertise via PT. Abhinawa
-103.87.70.137,11082,ID,Advertise via PT. Abhinawa
-103.87.70.162,11082,ID,Advertise via PT. Abhinawa
-103.87.70.169,11082,ID,Advertise via PT. Abhinawa
-103.87.70.188,11082,ID,Advertise via PT. Abhinawa
-103.87.70.137,11193,ID,Advertise via PT. Abhinawa
-103.87.70.137,11211,ID,Advertise via PT. Abhinawa
-103.87.70.137,11230,ID,Advertise via PT. Abhinawa
-103.87.70.137,21030,ID,Advertise via PT. Abhinawa
-103.87.70.137,21034,ID,Advertise via PT. Abhinawa
-103.87.70.137,21118,ID,Advertise via PT. Abhinawa
-103.87.70.137,21190,ID,Advertise via PT. Abhinawa
-103.87.70.137,21205,ID,Advertise via PT. Abhinawa
-103.87.70.137,21213,ID,Advertise via PT. Abhinawa
-103.87.70.137,21226,ID,Advertise via PT. Abhinawa
-103.87.70.137,31039,ID,Advertise via PT. Abhinawa
-103.87.70.137,31057,ID,Advertise via PT. Abhinawa
-103.87.70.137,31150,ID,Advertise via PT. Abhinawa
-103.87.70.137,31189,ID,Advertise via PT. Abhinawa
-103.87.70.137,31227,ID,Advertise via PT. Abhinawa
-103.87.70.137,41015,ID,Advertise via PT. Abhinawa
-103.87.70.137,41071,ID,Advertise via PT. Abhinawa
-103.87.70.137,41099,ID,Advertise via PT. Abhinawa
-103.87.70.137,41107,ID,Advertise via PT. Abhinawa
-103.87.70.137,41132,ID,Advertise via PT. Abhinawa
-103.87.70.137,51037,ID,Advertise via PT. Abhinawa
-103.87.70.137,51054,ID,Advertise via PT. Abhinawa
-103.87.70.137,51077,ID,Advertise via PT. Abhinawa
-103.87.70.137,51083,ID,Advertise via PT. Abhinawa
-103.87.70.137,51128,ID,Advertise via PT. Abhinawa
-103.87.70.137,51170,ID,Advertise via PT. Abhinawa
-103.87.70.137,51198,ID,Advertise via PT. Abhinawa
-103.87.70.137,51232,ID,Advertise via PT. Abhinawa
-206.84.101.83,8443,ID,AGIS
-206.84.101.84,443,ID,AGIS
-23.47.197.213,443,ID,Akamai International B.V.
-23.47.196.77,443,ID,Akamai International B.V.
-23.36.242.207,443,ID,Akamai International B.V.
-172.232.238.56,443,ID,Akamai Technologies
-172.232.232.59,443,ID,Akamai Technologies
-172.232.234.166,443,ID,Akamai Technologies
-172.232.238.52,443,ID,Akamai Technologies
-172.232.238.245,443,ID,Akamai Technologies
-172.232.235.30,443,ID,Akamai Technologies
-172.232.251.141,443,ID,Akamai Technologies
-172.232.251.105,443,ID,Akamai Technologies
-172.232.237.44,443,ID,Akamai Technologies
-172.232.248.192,443,ID,Akamai Technologies
-172.232.245.128,443,ID,Akamai Technologies
-172.232.245.129,443,ID,Akamai Technologies
-172.232.248.101,8443,ID,Akamai Technologies
-172.232.245.130,443,ID,Akamai Technologies
-172.232.245.37,443,ID,Akamai Technologies
-172.232.249.161,443,ID,Akamai Technologies
-172.232.251.39,443,ID,Akamai Technologies
-172.232.236.166,2096,ID,Akamai Technologies
-172.232.249.53,443,ID,Akamai Technologies
-8.215.192.122,80,ID,Alibaba (US) Technology Co.
-8.215.22.237,80,ID,Alibaba (US) Technology Co.
-8.215.194.65,80,ID,Alibaba (US) Technology Co.
-8.215.21.164,80,ID,Alibaba (US) Technology Co.
-8.215.200.12,80,ID,Alibaba (US) Technology Co.
-8.215.35.68,80,ID,Alibaba (US) Technology Co.
-8.215.18.30,80,ID,Alibaba (US) Technology Co.
-8.215.193.5,80,ID,Alibaba (US) Technology Co.
-8.215.44.159,80,ID,Alibaba (US) Technology Co.
-8.215.43.176,80,ID,Alibaba (US) Technology Co.
-8.215.27.138,80,ID,Alibaba (US) Technology Co.
-8.215.50.121,443,ID,Alibaba (US) Technology Co.
-8.215.90.225,443,ID,Alibaba (US) Technology Co.
-8.215.196.15,80,ID,Alibaba Cloud (Singapore) Private Limited
-147.139.191.92,80,ID,Alibaba Cloud LLC
-147.139.242.12,80,ID,Alibaba Cloud LLC
-147.139.246.34,80,ID,Alibaba Cloud LLC
-147.139.246.220,80,ID,Alibaba Cloud LLC
-147.139.180.68,443,ID,Alibaba Cloud LLC
-147.139.132.79,443,ID,Alibaba Cloud LLC
-147.139.137.69,443,ID,Alibaba Cloud LLC
-147.139.196.176,443,ID,Alibaba Cloud LLC
-147.139.166.236,443,ID,Alibaba Cloud LLC
-149.129.236.0,443,ID,Alibaba.com Singapore E-Commerce Private Limited
-149.129.250.8,443,ID,Alibaba.com Singapore E-Commerce Private Limited
-149.129.226.82,443,ID,Alibaba.com Singapore E-Commerce Private Limited
-43.218.77.16,443,ID,Amazon.com
-43.218.228.50,443,ID,Amazon.com
-16.78.2.76,443,ID,Amazon.com
-16.78.93.170,443,ID,Amazon.com
-108.137.62.197,443,ID,Amazon.com
-103.127.99.92,8443,ID,BYOIP PT. Biznet Gio Nusantara
 38.9.141.180,443,ID,Cogent Communications
-38.9.147.154,443,ID,Cogent Communications
-38.9.136.42,443,ID,Cogent Communications
-38.9.147.180,443,ID,Cogent Communications
-38.9.137.121,443,ID,Cogent Communications
-38.9.136.49,443,ID,Cogent Communications
-38.9.141.98,443,ID,Cogent Communications
-38.9.141.32,443,ID,Cogent Communications
-38.9.146.110,443,ID,Cogent Communications
-38.9.140.90,443,ID,Cogent Communications
 62.112.138.244,443,ID,Global Communication Network Limited
-35.219.102.103,443,ID,Google LLC
-103.167.35.66,8443,ID,Industri Kreatif Digital
-103.41.204.241,443,ID,Infinys Network
 103.41.207.211,443,ID,Infinys Network
 103.41.206.200,443,ID,Infinys Network
-43.230.131.191,443,ID,Internet Ini Saja
-43.230.131.167,443,ID,Internet Ini Saja
-43.230.131.148,443,ID,Internet Ini Saja
-43.230.131.188,443,ID,Internet Ini Saja
-38.60.171.102,8443,ID,Kaopu Cloud HK Limited
-38.60.171.76,443,ID,Kaopu Cloud HK Limited
-38.60.191.200,443,ID,Kaopu Cloud HK Limited
+103.41.207.137,443,ID,Infinys Network
 154.205.159.72,443,ID,Kaopu Cloud HK Limited
 154.205.159.72,2053,ID,Kaopu Cloud HK Limited
-111.95.255.100,443,ID,Linknet-Fastnet ASN
-45.198.0.117,80,ID,Octopus Web Solution Inc
-45.198.0.48,80,ID,Octopus Web Solution Inc
-202.9.69.7,443,ID,Politeknik Negeri Sriwijaya
-182.23.45.221,8443,ID,PT Aplikanusa Lintasarta
-101.50.0.114,8443,ID,PT Beon Intermedia
 103.89.165.243,443,ID,PT Biznet Gio Nusantara
-103.150.93.35,8443,ID,PT Biznet Gio Nusantara
-116.206.196.110,443,ID,PT Biznet Gio Nusantara
-103.150.96.212,443,ID,PT Biznet Gio Nusantara
-103.127.138.9,2096,ID,PT Biznet Gio Nusantara
-103.127.138.9,443,ID,PT Biznet Gio Nusantara
-103.133.223.50,2096,ID,PT Cloud Teknologi Nusantara
-103.133.223.51,2096,ID,PT Cloud Teknologi Nusantara
-103.133.223.52,2096,ID,PT Cloud Teknologi Nusantara
 103.126.226.13,12818,ID,PT Deneva
-103.178.153.154,443,ID,PT Herza Digital Indonesia
+103.178.153.182,30791,ID,PT Herza Digital Indonesia
 117.53.44.97,443,ID,PT Infinys System Indonesia
 117.53.45.84,443,ID,PT Infinys System Indonesia
-103.227.253.169,22,ID,PT Raja Mitra Informatika
-103.227.253.169,25,ID,PT Raja Mitra Informatika
-103.227.253.169,23,ID,PT Raja Mitra Informatika
 101.255.37.81,49376,ID,PT Remala Abadi
 101.255.37.40,49376,ID,PT Remala Abadi
 101.255.37.63,49376,ID,PT Remala Abadi
 101.255.37.96,49376,ID,PT Remala Abadi
 101.255.37.19,49376,ID,PT Remala Abadi
-103.167.112.139,443,ID,PT Semut Data Indonesia
-103.236.190.142,443,ID,PT Victory Network Indonesia
-103.119.54.24,2096,ID,PT. Eka Mas Republik
-103.119.54.24,2083,ID,PT. Eka Mas Republik
-103.119.54.24,443,ID,PT. Eka Mas Republik
-114.7.95.245,443,ID,PT. INDOSAT Tbk
-104.106.206.213,443,ID,PT. INDOSAT Tbk
-104.106.205.77,443,ID,PT. INDOSAT Tbk
-104.106.203.207,443,ID,PT. INDOSAT Tbk
 202.77.111.168,443,ID,PT. LINKNET
 202.77.111.174,443,ID,PT. LINKNET
 202.77.111.173,443,ID,PT. LINKNET
 202.155.138.201,443,ID,PT. Media Antar Nusa
 110.232.90.101,443,ID,PT. Media Antar Nusa
-202.155.138.22,443,ID,PT. Media Antar Nusa
-103.153.229.27,443,ID,PT. Media Antar Nusa
-36.66.223.47,8443,ID,PT. Telekomunikasi Indonesia
-36.92.113.172,8443,ID,PT. Telekomunikasi Indonesia
-36.92.113.173,2083,ID,PT. Telekomunikasi Indonesia
-43.157.250.232,443,ID,Shenzhen Tencent Computer Systems Company Limited
-43.129.41.119,443,ID,Shenzhen Tencent Computer Systems Company Limited
-104.99.185.77,443,ID,Telekomunikasi Indonesia
-104.99.186.213,443,ID,Telekomunikasi Indonesia
-104.99.183.207,443,ID,Telekomunikasi Indonesia
 165.154.150.185,443,ID,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
