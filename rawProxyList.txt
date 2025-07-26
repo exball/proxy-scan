@@ -1,5 +1,3 @@
-202.155.141.235,443,HK,Arisk Communications inc
-180.131.144.14,443,HK,Asymptote Network
 103.87.70.167,11007,ID,Advertise via PT. Abhinawa
 103.87.70.130,11007,ID,Advertise via PT. Abhinawa
 103.87.70.169,11007,ID,Advertise via PT. Abhinawa
