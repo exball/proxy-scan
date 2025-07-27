@@ -43,12 +43,11 @@
 103.147.134.59,8080,ID,PT.MURNI MAKMUR ABADI
 165.154.150.185,443,ID,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 103.28.148.180,2002,ID,Argon
-172.232.237.112,2053,ID,Akamai Technologies, Inc.
+172.232.237.112,2053,ID,Akamai Technologies
 147.139.241.242,37263,ID,Alibaba Cloud LLC
-43.218.79.114,2053,ID,Amazon.com, Inc.
+43.218.79.114,2053,ID,Amazon.com
 203.194.112.119,2053,ID,CV. Rumahweb Indonesia
 62.112.138.3,443,ID,Global Communication Network Limited
-62.112.138.244,443,ID,Global Communication Network Limited
 38.60.171.102,2053,ID,Kaopu Cloud HK Limited
 182.23.45.221,2053,ID,PT Aplikanusa Lintasarta
 101.50.0.114,2053,ID,PT Beon Intermedia
