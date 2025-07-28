@@ -1,42 +1,42 @@
 23.27.98.180,443,ID,Ace Data Centers II
 23.27.98.180,8443,ID,Ace Data Centers II
-172.232.234.155,74,ID,Akamai Technologies, Inc.
-172.232.234.155,443,ID,Akamai Technologies, Inc.
-172.232.234.155,20205,ID,Akamai Technologies, Inc.
-172.232.226.237,443,ID,Akamai Technologies, Inc.
-172.232.238.56,74,ID,Akamai Technologies, Inc.
-172.232.238.56,386,ID,Akamai Technologies, Inc.
-172.232.238.56,443,ID,Akamai Technologies, Inc.
-172.232.238.56,20205,ID,Akamai Technologies, Inc.
-172.232.238.56,32225,ID,Akamai Technologies, Inc.
-172.232.234.62,74,ID,Akamai Technologies, Inc.
-172.232.234.62,443,ID,Akamai Technologies, Inc.
-172.232.234.62,20205,ID,Akamai Technologies, Inc.
-172.232.234.166,74,ID,Akamai Technologies, Inc.
-172.232.234.166,443,ID,Akamai Technologies, Inc.
-172.232.234.166,20205,ID,Akamai Technologies, Inc.
-172.235.246.28,74,ID,Akamai Technologies, Inc.
-172.235.246.28,443,ID,Akamai Technologies, Inc.
-172.235.246.28,20205,ID,Akamai Technologies, Inc.
-172.232.225.238,443,ID,Akamai Technologies, Inc.
-172.232.251.141,74,ID,Akamai Technologies, Inc.
-172.232.251.141,443,ID,Akamai Technologies, Inc.
-172.232.251.141,20205,ID,Akamai Technologies, Inc.
-172.232.238.245,74,ID,Akamai Technologies, Inc.
-172.232.238.245,443,ID,Akamai Technologies, Inc.
-172.232.238.245,20205,ID,Akamai Technologies, Inc.
-172.232.232.59,74,ID,Akamai Technologies, Inc.
-172.232.232.59,443,ID,Akamai Technologies, Inc.
-172.232.232.59,20205,ID,Akamai Technologies, Inc.
-172.232.238.52,74,ID,Akamai Technologies, Inc.
-172.232.238.52,386,ID,Akamai Technologies, Inc.
-172.232.238.52,443,ID,Akamai Technologies, Inc.
-172.232.238.52,20205,ID,Akamai Technologies, Inc.
-172.232.238.52,32225,ID,Akamai Technologies, Inc.
-172.232.251.105,74,ID,Akamai Technologies, Inc.
-172.232.251.105,443,ID,Akamai Technologies, Inc.
-172.232.251.105,20205,ID,Akamai Technologies, Inc.
-108.137.61.48,22065,ID,Amazon.com, Inc.
+172.232.234.155,74,ID,Akamai Technologies
+172.232.234.155,443,ID,Akamai Technologies
+172.232.234.155,20205,ID,Akamai Technologies
+172.232.226.237,443,ID,Akamai Technologies
+172.232.238.56,74,ID,Akamai Technologies
+172.232.238.56,386,ID,Akamai Technologies
+172.232.238.56,443,ID,Akamai Technologies
+172.232.238.56,20205,ID,Akamai Technologies
+172.232.238.56,32225,ID,Akamai Technologies
+172.232.234.62,74,ID,Akamai Technologies
+172.232.234.62,443,ID,Akamai Technologies
+172.232.234.62,20205,ID,Akamai Technologies
+172.232.234.166,74,ID,Akamai Technologies
+172.232.234.166,443,ID,Akamai Technologies
+172.232.234.166,20205,ID,Akamai Technologies
+172.235.246.28,74,ID,Akamai Technologies
+172.235.246.28,443,ID,Akamai Technologies
+172.235.246.28,20205,ID,Akamai Technologies
+172.232.225.238,443,ID,Akamai Technologies
+172.232.251.141,74,ID,Akamai Technologies
+172.232.251.141,443,ID,Akamai Technologies
+172.232.251.141,20205,ID,Akamai Technologies
+172.232.238.245,74,ID,Akamai Technologies
+172.232.238.245,443,ID,Akamai Technologies
+172.232.238.245,20205,ID,Akamai Technologies
+172.232.232.59,74,ID,Akamai Technologies
+172.232.232.59,443,ID,Akamai Technologies
+172.232.232.59,20205,ID,Akamai Technologies
+172.232.238.52,74,ID,Akamai Technologies
+172.232.238.52,386,ID,Akamai Technologies
+172.232.238.52,443,ID,Akamai Technologies
+172.232.238.52,20205,ID,Akamai Technologies
+172.232.238.52,32225,ID,Akamai Technologies
+172.232.251.105,74,ID,Akamai Technologies
+172.232.251.105,443,ID,Akamai Technologies
+172.232.251.105,20205,ID,Akamai Technologies
+108.137.61.48,22065,ID,Amazon.com
 38.9.141.180,443,ID,Cogent Communications
 62.112.138.3,443,ID,Global Communication Network Limited
 62.112.138.244,443,ID,Global Communication Network Limited
