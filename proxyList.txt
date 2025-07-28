@@ -1,2 +1,2 @@
-154.205.159.72,2053,ID,Lightnode Limited
-203.194.112.119,2053,ID,CV. Rumahweb Indonesia
+103.6.207.108,19224,ID,PT Pusat Media Indonesia
+103.6.207.108,8080,ID,PT Pusat Media Indonesia

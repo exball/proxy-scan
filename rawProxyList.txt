@@ -1,6 +1,6 @@
 23.27.98.180,443,ID,Ace Data Centers II
 23.27.98.180,8443,ID,Ace Data Centers II
-108.137.61.48,22065,ID,Amazon.com, Inc.
+108.137.61.48,22065,ID,Amazon.com
 38.9.141.180,443,ID,Cogent Communications
 62.112.138.3,443,ID,Global Communication Network Limited
 62.112.138.244,443,ID,Global Communication Network Limited
