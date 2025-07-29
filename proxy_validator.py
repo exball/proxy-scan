@@ -47,6 +47,12 @@ class ProxyValidatorEnhanced:
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         print(f"[{timestamp}] {message}")
     
+    def clean_isp_name(self, isp_name: str) -> str:
+        """Clean ISP name by replacing commas with periods"""
+        if isp_name and isp_name != 'UNKNOWN':
+            return isp_name.replace(',', '.')
+        return isp_name
+    
     def scan_txt_files(self) -> List[str]:
         """Scan current directory for .txt files"""
         txt_files = glob.glob("*.txt")
@@ -145,7 +151,7 @@ class ProxyValidatorEnhanced:
                     sub_parts = remaining.split(',')
                     port = sub_parts[0].strip()
                     country = sub_parts[1].strip() if len(sub_parts) > 1 and sub_parts[1].strip() else 'UNKNOWN'
-                    isp = sub_parts[2].strip() if len(sub_parts) > 2 and sub_parts[2].strip() else 'UNKNOWN'
+                    isp = self.clean_isp_name(sub_parts[2].strip()) if len(sub_parts) > 2 and sub_parts[2].strip() else 'UNKNOWN'
                 else:
                     # IP:Port
                     port = remaining
@@ -157,7 +163,7 @@ class ProxyValidatorEnhanced:
                     ip_part = parts[0].strip()
                     port = parts[1].strip()
                     country = parts[2].strip() if len(parts) > 2 and parts[2].strip() else 'UNKNOWN'
-                    isp = parts[3].strip() if len(parts) > 3 and parts[3].strip() else 'UNKNOWN'
+                    isp = self.clean_isp_name(parts[3].strip()) if len(parts) > 3 and parts[3].strip() else 'UNKNOWN'
                 else:
                     # Only IP, no port - skip this line
                     return None
@@ -330,7 +336,7 @@ class ProxyValidatorEnhanced:
                                 'ip': result['query'],
                                 'port': original['original_port'],
                                 'country_code': result.get('countryCode', 'UNKNOWN'),
-                                'isp': result.get('isp', 'Unknown ISP'),
+                                'isp': self.clean_isp_name(result.get('isp', 'Unknown ISP')),
                                 'original_country': original['original_country'],
                                 'original_isp': original['original_isp']
                             })
@@ -341,7 +347,7 @@ class ProxyValidatorEnhanced:
                                 'ip': original['query'],
                                 'port': original['original_port'],
                                 'country_code': original['original_country'],
-                                'isp': original['original_isp'],
+                                'isp': self.clean_isp_name(original['original_isp']),
                                 'original_country': original['original_country'],
                                 'original_isp': original['original_isp']
                             })
