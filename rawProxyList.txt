@@ -109,15 +109,6 @@
 103.167.112.139,443,ID,PT Semut Data Indonesia
 103.236.190.142,443,ID,PT Victory Network Indonesia
 165.154.150.185,443,ID,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
-23.27.98.70,443,ID,Ace Data Centers II
-149.129.236.0,443,ID,Alibaba.com Singapore E-Commerce Private Limited
-108.136.229.23,80,ID,Amazon.com. Inc.
 43.218.228.50,443,ID,Amazon.com. Inc.
 108.137.132.79,443,ID,Amazon.com. Inc.
-182.253.176.110,443,ID,BIZNET
-69.5.8.79,40000,ID,Byteplus Pte. Ltd.
-38.9.147.180,443,ID,Cogent Communications
-82.153.226.158,8443,ID,ECL-E97OHX1G1WIECTHO
-62.112.138.3,443,ID,Global Communication Network Limited
-49.128.180.102,443,ID,GMEDIA
 103.41.207.211,443,ID,Infinys Network
