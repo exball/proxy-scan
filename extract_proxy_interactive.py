@@ -142,12 +142,34 @@ def extract_proxy_ports(input_file, output_file, port_filter=None, include_ssh=F
                     if port_filter is None or port in port_filter:
                         proxy_ports.append(f"{current_proxy}{separator}{port}")
         
+        # Urutkan hasil berdasarkan PORT terlebih dahulu (bukan IP)
+        def sort_key(proxy_port_str):
+            try:
+                # Split berdasarkan separator
+                if separator == ",":
+                    ip, port = proxy_port_str.split(",")
+                elif separator == ":":
+                    ip, port = proxy_port_str.split(":")
+                else:  # space
+                    ip, port = proxy_port_str.split(" ")
+                
+                # Urutkan berdasarkan PORT terlebih dahulu, kemudian IP
+                port_num = int(port)
+                ip_parts = tuple(int(part) for part in ip.split('.'))
+                
+                return (port_num, ip_parts)  # Port dulu, baru IP
+            except:
+                return (99999, tuple([999, 999, 999, 999]))  # fallback untuk error
+        
+        # Sort proxy_ports berdasarkan PORT terlebih dahulu
+        proxy_ports_sorted = sorted(proxy_ports, key=sort_key)
+        
         # Simpan hasil ke file output
         with open(output_file, 'w', encoding='utf-8') as f:
-            for proxy_port in proxy_ports:
+            for proxy_port in proxy_ports_sorted:
                 f.write(proxy_port + '\n')
         
-        return proxy_ports
+        return proxy_ports_sorted
         
     except Exception as e:
         print(f"Error saat memproses file: {e}")
