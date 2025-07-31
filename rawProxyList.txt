@@ -1,741 +1,593 @@
-43.133.57.25,80,SG,Aceville Pte.ltd
-43.134.141.186,80,SG,Aceville Pte.ltd
-43.134.142.140,80,SG,Aceville Pte.ltd
-43.134.175.15,80,SG,Aceville Pte.ltd
-43.134.225.36,80,SG,Aceville Pte.ltd
-43.160.200.214,80,SG,Aceville Pte.ltd
-101.32.244.172,80,SG,Aceville Pte.ltd
-150.109.17.145,80,SG,Aceville Pte.ltd
-150.109.20.250,80,SG,Aceville Pte.ltd
-43.133.57.20,443,SG,Aceville Pte.ltd
-43.133.57.25,443,SG,Aceville Pte.ltd
-43.133.63.133,443,SG,Aceville Pte.ltd
-43.134.129.162,443,SG,Aceville Pte.ltd
-43.134.141.186,443,SG,Aceville Pte.ltd
-43.134.142.4,443,SG,Aceville Pte.ltd
-43.134.175.15,443,SG,Aceville Pte.ltd
-43.160.192.201,443,SG,Aceville Pte.ltd
-43.160.195.164,443,SG,Aceville Pte.ltd
-43.160.197.212,443,SG,Aceville Pte.ltd
-43.160.198.73,443,SG,Aceville Pte.ltd
-43.160.200.214,443,SG,Aceville Pte.ltd
-43.160.254.187,443,SG,Aceville Pte.ltd
-101.32.141.89,443,SG,Aceville Pte.ltd
-101.32.244.172,443,SG,Aceville Pte.ltd
-101.32.249.3,443,SG,Aceville Pte.ltd
-150.109.7.219,443,SG,Aceville Pte.ltd
-150.109.17.145,443,SG,Aceville Pte.ltd
-150.109.22.254,443,SG,Aceville Pte.ltd
-43.133.57.25,888,SG,Aceville Pte.ltd
-150.109.20.250,888,SG,Aceville Pte.ltd
-43.134.225.36,1234,SG,Aceville Pte.ltd
-43.134.225.36,1235,SG,Aceville Pte.ltd
-43.133.57.25,2323,SG,Aceville Pte.ltd
-43.160.200.214,3000,SG,Aceville Pte.ltd
-43.134.225.36,3389,SG,Aceville Pte.ltd
-43.134.129.162,4321,SG,Aceville Pte.ltd
-43.133.57.25,5000,SG,Aceville Pte.ltd
-101.32.244.172,5985,SG,Aceville Pte.ltd
-43.133.42.66,8080,SG,Aceville Pte.ltd
-43.133.57.25,8080,SG,Aceville Pte.ltd
-43.133.59.174,8080,SG,Aceville Pte.ltd
-43.133.59.227,8080,SG,Aceville Pte.ltd
-43.134.134.62,8080,SG,Aceville Pte.ltd
-43.134.141.186,8080,SG,Aceville Pte.ltd
-43.134.175.15,8080,SG,Aceville Pte.ltd
-43.134.175.34,8080,SG,Aceville Pte.ltd
-43.134.182.120,8080,SG,Aceville Pte.ltd
-43.134.227.159,8080,SG,Aceville Pte.ltd
-43.134.235.167,8080,SG,Aceville Pte.ltd
-43.134.235.243,8080,SG,Aceville Pte.ltd
-101.32.114.160,8080,SG,Aceville Pte.ltd
-101.32.127.21,8080,SG,Aceville Pte.ltd
-101.32.242.183,8080,SG,Aceville Pte.ltd
-101.32.254.53,8080,SG,Aceville Pte.ltd
-150.109.6.60,8080,SG,Aceville Pte.ltd
-150.109.10.106,8080,SG,Aceville Pte.ltd
-150.109.11.29,8080,SG,Aceville Pte.ltd
-150.109.12.233,8080,SG,Aceville Pte.ltd
-150.109.14.23,8080,SG,Aceville Pte.ltd
-150.109.14.96,8080,SG,Aceville Pte.ltd
-150.109.16.56,8080,SG,Aceville Pte.ltd
-150.109.17.187,8080,SG,Aceville Pte.ltd
-150.109.19.151,8080,SG,Aceville Pte.ltd
-150.109.19.198,8080,SG,Aceville Pte.ltd
-150.109.20.88,8080,SG,Aceville Pte.ltd
-150.109.20.116,8080,SG,Aceville Pte.ltd
-150.109.22.203,8080,SG,Aceville Pte.ltd
-43.133.57.20,8443,SG,Aceville Pte.ltd
-43.133.57.25,8443,SG,Aceville Pte.ltd
-43.133.42.66,8880,SG,Aceville Pte.ltd
-43.133.59.174,8880,SG,Aceville Pte.ltd
-43.133.59.227,8880,SG,Aceville Pte.ltd
-43.134.134.62,8880,SG,Aceville Pte.ltd
-43.134.141.186,8880,SG,Aceville Pte.ltd
-43.134.175.15,8880,SG,Aceville Pte.ltd
-43.134.175.34,8880,SG,Aceville Pte.ltd
-43.134.182.120,8880,SG,Aceville Pte.ltd
-43.134.227.159,8880,SG,Aceville Pte.ltd
-43.134.235.167,8880,SG,Aceville Pte.ltd
-43.134.235.243,8880,SG,Aceville Pte.ltd
-101.32.114.160,8880,SG,Aceville Pte.ltd
-101.32.127.21,8880,SG,Aceville Pte.ltd
-101.32.242.183,8880,SG,Aceville Pte.ltd
-101.32.254.53,8880,SG,Aceville Pte.ltd
-150.109.6.60,8880,SG,Aceville Pte.ltd
-150.109.10.106,8880,SG,Aceville Pte.ltd
-150.109.11.29,8880,SG,Aceville Pte.ltd
-150.109.12.233,8880,SG,Aceville Pte.ltd
-150.109.14.23,8880,SG,Aceville Pte.ltd
-150.109.14.96,8880,SG,Aceville Pte.ltd
-150.109.16.56,8880,SG,Aceville Pte.ltd
-150.109.17.187,8880,SG,Aceville Pte.ltd
-150.109.19.151,8880,SG,Aceville Pte.ltd
-150.109.19.198,8880,SG,Aceville Pte.ltd
-150.109.20.88,8880,SG,Aceville Pte.ltd
-150.109.20.116,8880,SG,Aceville Pte.ltd
-150.109.22.203,8880,SG,Aceville Pte.ltd
-43.134.160.248,8888,SG,Aceville Pte.ltd
-101.32.141.89,10000,SG,Aceville Pte.ltd
-43.160.197.228,11007,SG,Aceville Pte.ltd
-43.160.197.228,11038,SG,Aceville Pte.ltd
-43.160.197.228,11087,SG,Aceville Pte.ltd
-43.160.197.228,11127,SG,Aceville Pte.ltd
-43.160.197.228,11191,SG,Aceville Pte.ltd
-43.160.197.228,11193,SG,Aceville Pte.ltd
-43.160.197.228,11211,SG,Aceville Pte.ltd
-101.32.244.172,11443,SG,Aceville Pte.ltd
-101.32.244.172,11444,SG,Aceville Pte.ltd
-43.160.197.228,12005,SG,Aceville Pte.ltd
-43.160.197.228,12056,SG,Aceville Pte.ltd
-43.160.194.90,12345,SG,Aceville Pte.ltd
-43.134.191.14,13032,SG,Aceville Pte.ltd
-43.160.193.107,14216,SG,Aceville Pte.ltd
-150.109.20.250,15113,SG,Aceville Pte.ltd
-43.134.142.4,17738,SG,Aceville Pte.ltd
-43.133.57.25,18080,SG,Aceville Pte.ltd
-43.160.197.228,21010,SG,Aceville Pte.ltd
-43.160.197.228,21028,SG,Aceville Pte.ltd
-43.160.197.228,21046,SG,Aceville Pte.ltd
-43.160.197.228,21079,SG,Aceville Pte.ltd
-43.160.197.228,21094,SG,Aceville Pte.ltd
-43.160.197.228,21141,SG,Aceville Pte.ltd
-43.160.197.228,21149,SG,Aceville Pte.ltd
-43.160.197.228,21180,SG,Aceville Pte.ltd
-43.160.197.228,21199,SG,Aceville Pte.ltd
-43.160.197.228,21205,SG,Aceville Pte.ltd
-43.160.197.228,21213,SG,Aceville Pte.ltd
-43.160.197.228,21226,SG,Aceville Pte.ltd
-43.133.44.14,21232,SG,Aceville Pte.ltd
-101.32.167.158,21232,SG,Aceville Pte.ltd
-43.160.197.228,22069,SG,Aceville Pte.ltd
-43.160.197.228,22112,SG,Aceville Pte.ltd
-150.109.17.145,22222,SG,Aceville Pte.ltd
-43.133.57.25,25492,SG,Aceville Pte.ltd
-43.134.160.248,26609,SG,Aceville Pte.ltd
-101.32.168.155,28443,SG,Aceville Pte.ltd
-43.160.193.107,29969,SG,Aceville Pte.ltd
-43.133.63.133,31401,SG,Aceville Pte.ltd
-150.109.7.219,31401,SG,Aceville Pte.ltd
-150.109.22.254,31401,SG,Aceville Pte.ltd
-43.134.129.162,31763,SG,Aceville Pte.ltd
-43.134.142.4,36666,SG,Aceville Pte.ltd
-43.160.254.187,38316,SG,Aceville Pte.ltd
-43.160.200.214,38438,SG,Aceville Pte.ltd
-43.160.193.107,43971,SG,Aceville Pte.ltd
-101.32.244.172,47001,SG,Aceville Pte.ltd
-43.133.42.66,52330,SG,Aceville Pte.ltd
-43.133.59.174,52330,SG,Aceville Pte.ltd
-43.133.59.227,52330,SG,Aceville Pte.ltd
-43.134.134.62,52330,SG,Aceville Pte.ltd
-43.134.141.186,52330,SG,Aceville Pte.ltd
-43.134.175.15,52330,SG,Aceville Pte.ltd
-43.134.175.34,52330,SG,Aceville Pte.ltd
-43.134.182.120,52330,SG,Aceville Pte.ltd
-43.134.227.159,52330,SG,Aceville Pte.ltd
-43.134.235.167,52330,SG,Aceville Pte.ltd
-43.134.235.243,52330,SG,Aceville Pte.ltd
-101.32.114.160,52330,SG,Aceville Pte.ltd
-101.32.127.21,52330,SG,Aceville Pte.ltd
-101.32.242.183,52330,SG,Aceville Pte.ltd
-101.32.254.53,52330,SG,Aceville Pte.ltd
-150.109.6.60,52330,SG,Aceville Pte.ltd
-150.109.10.106,52330,SG,Aceville Pte.ltd
-150.109.11.29,52330,SG,Aceville Pte.ltd
-150.109.12.233,52330,SG,Aceville Pte.ltd
-150.109.14.23,52330,SG,Aceville Pte.ltd
-150.109.14.96,52330,SG,Aceville Pte.ltd
-150.109.16.56,52330,SG,Aceville Pte.ltd
-150.109.17.187,52330,SG,Aceville Pte.ltd
-150.109.19.151,52330,SG,Aceville Pte.ltd
-150.109.19.198,52330,SG,Aceville Pte.ltd
-150.109.20.88,52330,SG,Aceville Pte.ltd
-150.109.20.116,52330,SG,Aceville Pte.ltd
-150.109.22.203,52330,SG,Aceville Pte.ltd
-150.109.20.250,60012,SG,Aceville Pte.ltd
-43.160.192.213,61047,SG,Aceville Pte.ltd
-150.109.19.198,62100,SG,Aceville Pte.ltd
-119.28.117.177,80,SG,ComsenzNet
-119.28.117.144,443,SG,ComsenzNet
-119.28.117.177,443,SG,ComsenzNet
-119.28.117.144,2035,SG,ComsenzNet
-119.28.105.45,8080,SG,ComsenzNet
-119.28.107.211,8080,SG,ComsenzNet
-119.28.108.238,8080,SG,ComsenzNet
-119.28.112.73,8080,SG,ComsenzNet
-119.28.112.228,8080,SG,ComsenzNet
-119.28.114.113,8080,SG,ComsenzNet
-119.28.119.248,8080,SG,ComsenzNet
-119.28.117.144,8090,SG,ComsenzNet
-119.28.105.45,8880,SG,ComsenzNet
-119.28.107.211,8880,SG,ComsenzNet
-119.28.108.238,8880,SG,ComsenzNet
-119.28.112.73,8880,SG,ComsenzNet
-119.28.112.228,8880,SG,ComsenzNet
-119.28.114.113,8880,SG,ComsenzNet
-119.28.119.248,8880,SG,ComsenzNet
-119.28.108.223,8899,SG,ComsenzNet
-119.28.122.36,19793,SG,ComsenzNet
-119.28.122.36,22489,SG,ComsenzNet
-119.28.108.223,22881,SG,ComsenzNet
-119.28.122.36,35142,SG,ComsenzNet
-119.28.122.36,38866,SG,ComsenzNet
-119.28.122.36,50048,SG,ComsenzNet
-119.28.122.36,51178,SG,ComsenzNet
-119.28.122.36,51623,SG,ComsenzNet
-119.28.105.45,52330,SG,ComsenzNet
-119.28.107.211,52330,SG,ComsenzNet
-119.28.108.238,52330,SG,ComsenzNet
-119.28.112.73,52330,SG,ComsenzNet
-119.28.112.228,52330,SG,ComsenzNet
-119.28.114.113,52330,SG,ComsenzNet
-119.28.117.177,52330,SG,ComsenzNet
-119.28.119.248,52330,SG,ComsenzNet
-119.28.122.36,54321,SG,ComsenzNet
-43.128.67.155,80,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.100.128,80,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.2.191,80,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.3.142,80,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.18.117,80,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.25.29,80,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.29.110,80,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.46.40,80,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.64.227,80,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.84.67,80,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.203.137,80,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.204.145,80,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.206.10,80,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.16.198,80,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.23.7,80,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.27.180,80,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.90.69,80,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.147.24,80,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.226.233,80,SG,Shenzhen Tencent Computer Systems Company Limited
-43.160.196.198,80,SG,Shenzhen Tencent Computer Systems Company Limited
-43.160.202.3,80,SG,Shenzhen Tencent Computer Systems Company Limited
-43.160.252.65,80,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.0.155,80,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.8.104,80,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.98.78,80,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.108.80,80,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.112.199,80,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.98.78,81,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.98.78,82,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.98.78,90,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.67.155,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.69.162,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.81.216,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.85.248,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.100.128,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.1.72,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.2.191,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.18.117,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.29.110,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.29.116,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.46.40,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.58.41,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.62.246,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.73.44,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.78.184,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.80.191,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.95.142,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.99.72,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.99.96,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.120.20,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.206.10,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.208.86,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.211.241,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.214.185,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.225.107,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.0.63,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.6.66,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.7.195,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.11.180,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.16.198,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.27.180,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.32.9,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.49.37,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.72.117,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.82.215,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.94.94,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.137.159,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.138.48,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.147.24,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.153.240,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.155.111,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.224.203,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.229.49,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.239.102,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.239.120,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.159.38.211,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.160.196.198,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.160.202.3,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.160.250.198,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.160.251.46,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.160.251.71,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.160.252.65,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.0.155,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.8.104,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.82.26,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.95.32,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.98.78,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.100.137,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.108.80,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.119.80,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.127.53,443,SG,Shenzhen Tencent Computer Systems Company Limited
-101.32.108.7,443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.238.248,774,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.67.155,888,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.18.117,888,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.29.110,888,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.98.78,888,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.206.10,992,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.204.145,1866,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.18.117,2053,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.18.117,2083,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.18.117,2087,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.85.248,2547,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.64.227,3000,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.147.24,3000,SG,Shenzhen Tencent Computer Systems Company Limited
-43.159.33.39,3389,SG,Shenzhen Tencent Computer Systems Company Limited
-43.160.202.3,4443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.46.40,5000,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.206.10,5000,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.23.7,5000,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.81.216,5212,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.18.117,5244,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.206.10,5555,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.67.155,6000,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.229.49,7443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.89.165,7500,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.112.199,7777,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.98.78,8008,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.67.155,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.70.121,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.72.199,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.73.51,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.105.234,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.111.106,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.113.92,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.9.206,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.13.194,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.14.223,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.29.179,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.36.141,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.38.216,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.59.230,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.60.83,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.62.33,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.71.180,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.71.249,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.77.8,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.77.185,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.89.165,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.92.103,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.95.251,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.99.205,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.104.196,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.105.32,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.107.16,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.108.232,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.111.195,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.114.243,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.116.252,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.122.53,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.123.211,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.127.42,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.195.200,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.196.134,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.212.18,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.221.12,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.7.9,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.29.140,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.41.63,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.45.78,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.106.175,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.147.24,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.217.249,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.238.156,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.240.34,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.240.132,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.159.36.156,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.159.48.79,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.159.49.80,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.160.202.3,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.0.155,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.2.212,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.4.24,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.4.223,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.5.205,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.8.104,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.108.80,8080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.203.137,8082,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.206.10,8082,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.98.78,8082,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.98.78,8085,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.147.24,8089,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.35.252,8181,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.18.117,8443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.64.227,8848,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.70.121,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.72.199,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.73.51,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.105.234,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.111.106,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.113.92,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.9.206,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.13.194,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.14.223,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.29.179,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.36.141,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.38.216,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.59.230,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.60.83,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.62.18,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.62.33,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.71.180,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.71.249,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.77.8,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.77.185,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.89.165,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.92.103,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.95.251,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.99.205,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.104.196,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.105.32,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.107.16,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.108.232,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.111.195,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.114.243,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.116.252,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.122.53,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.123.211,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.127.42,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.195.200,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.196.134,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.212.18,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.221.12,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.7.9,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.29.140,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.41.63,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.45.78,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.106.175,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.217.249,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.238.156,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.240.132,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.159.36.156,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.159.48.79,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.159.49.80,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.0.155,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.2.212,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.4.24,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.4.223,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.5.205,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.8.104,8880,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.67.155,8888,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.84.67,8888,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.213.126,8888,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.44.135,8888,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.98.78,8888,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.7.195,8899,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.203.137,8999,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.64.227,9000,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.147.24,9000,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.64.227,9001,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.29.110,9293,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.18.117,9527,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.46.40,9527,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.90.69,9988,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.225.107,9999,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.69.162,10000,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.100.128,10000,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.58.41,10000,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.99.72,10000,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.32.9,10000,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.240.34,10001,SG,Shenzhen Tencent Computer Systems Company Limited
-43.160.202.3,10001,SG,Shenzhen Tencent Computer Systems Company Limited
-43.160.202.3,10002,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.99.72,10005,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.108.80,10086,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.2.205,10738,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.239.102,11000,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.106.138,12347,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.29.110,12389,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.25.29,12398,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.23.141,14725,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.106.138,14725,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.111.154,14725,SG,Shenzhen Tencent Computer Systems Company Limited
-43.159.33.233,14725,SG,Shenzhen Tencent Computer Systems Company Limited
-43.159.42.169,14725,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.213.126,17220,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.3.142,18080,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.44.135,18341,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.192.226,18766,SG,Shenzhen Tencent Computer Systems Company Limited
-43.160.204.162,18980,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.23.7,19290,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.99.72,19858,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.240.34,20001,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.23.141,20223,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.206.10,20340,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.98.78,20357,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.90.226,21232,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.152.182,21232,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.175.206,21232,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.203.44,21232,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.218.253,21232,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.245.33,21232,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.165.188,21554,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.209.36,22330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.119.80,23154,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.67.155,26419,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.111.154,27223,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.3.142,27405,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.8.58,28443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.62.172,28443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.12.11,28443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.25.177,28443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.67.197,28443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.136.234,28443,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.192.226,28776,SG,Shenzhen Tencent Computer Systems Company Limited
-43.159.42.169,29900,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.61.221,30004,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.226.142,30007,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.6.142,30316,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.165.188,31333,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.62.246,31401,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.73.44,31401,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.78.184,31401,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.80.191,31401,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.95.142,31401,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.120.20,31401,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.214.185,31401,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.11.180,31401,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.16.198,31401,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.82.215,31401,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.94.94,31401,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.153.240,31401,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.239.120,31401,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.82.26,31401,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.95.32,31401,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.100.137,31401,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.230.118,32297,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.209.36,34660,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.61.221,35045,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.226.142,35048,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.119.209,35600,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.112.199,38000,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.199.210,38011,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.199.210,38012,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.199.210,38013,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.25.29,38442,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.90.69,39188,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.95.110,40029,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.119.209,46217,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.100.128,47216,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.226.233,47466,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.69.162,50582,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.204.145,51050,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.85.248,51547,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.70.121,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.72.199,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.73.51,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.88.135,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.105.234,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.111.106,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.128.113.92,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.9.206,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.13.194,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.14.223,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.29.179,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.36.141,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.38.216,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.59.230,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.60.83,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.62.33,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.71.180,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.71.249,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.77.8,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.77.185,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.89.165,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.92.103,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.95.251,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.99.205,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.104.196,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.105.32,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.106.78,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.107.16,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.108.232,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.111.195,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.114.243,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.116.252,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.119.165,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.122.53,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.123.211,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.127.42,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.195.200,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.196.134,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.212.18,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.153.221.12,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.7.9,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.29.140,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.41.63,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.45.78,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.106.175,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.217.249,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.238.156,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.240.132,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.159.36.156,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.159.48.79,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.159.49.80,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.0.155,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.2.47,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.2.212,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.4.10,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.4.24,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.4.223,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.5.205,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.8.104,52330,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.98.78,53673,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.46.40,54321,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.46.40,55020,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.98.78,56806,SG,Shenzhen Tencent Computer Systems Company Limited
-43.159.33.233,57256,SG,Shenzhen Tencent Computer Systems Company Limited
-43.156.217.249,58684,SG,Shenzhen Tencent Computer Systems Company Limited
-43.163.0.90,61251,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.84.67,65135,SG,Shenzhen Tencent Computer Systems Company Limited
-43.134.64.227,65149,SG,Shenzhen Tencent Computer Systems Company Limited
-124.156.194.38,80,SG,Tencent Cloud Computing (Beijing) Co
-124.156.204.144,80,SG,Tencent Cloud Computing (Beijing) Co
-124.156.206.61,80,SG,Tencent Cloud Computing (Beijing) Co
-124.156.207.186,80,SG,Tencent Cloud Computing (Beijing) Co
-129.226.153.235,80,SG,Tencent Cloud Computing (Beijing) Co
-129.226.155.16,80,SG,Tencent Cloud Computing (Beijing) Co
-129.226.211.173,80,SG,Tencent Cloud Computing (Beijing) Co
-129.226.217.81,80,SG,Tencent Cloud Computing (Beijing) Co
-129.226.155.16,88,SG,Tencent Cloud Computing (Beijing) Co
-124.156.200.112,443,SG,Tencent Cloud Computing (Beijing) Co
-124.156.204.144,443,SG,Tencent Cloud Computing (Beijing) Co
-124.156.205.49,443,SG,Tencent Cloud Computing (Beijing) Co
-124.156.206.61,443,SG,Tencent Cloud Computing (Beijing) Co
-124.156.207.186,443,SG,Tencent Cloud Computing (Beijing) Co
-129.226.93.183,443,SG,Tencent Cloud Computing (Beijing) Co
-129.226.94.232,443,SG,Tencent Cloud Computing (Beijing) Co
-129.226.153.235,443,SG,Tencent Cloud Computing (Beijing) Co
-129.226.155.16,443,SG,Tencent Cloud Computing (Beijing) Co
-129.226.196.165,443,SG,Tencent Cloud Computing (Beijing) Co
-129.226.198.146,443,SG,Tencent Cloud Computing (Beijing) Co
-129.226.211.173,443,SG,Tencent Cloud Computing (Beijing) Co
-129.226.217.81,443,SG,Tencent Cloud Computing (Beijing) Co
-124.156.204.144,888,SG,Tencent Cloud Computing (Beijing) Co
-129.226.155.16,888,SG,Tencent Cloud Computing (Beijing) Co
-129.226.93.183,2087,SG,Tencent Cloud Computing (Beijing) Co
-129.226.219.53,4444,SG,Tencent Cloud Computing (Beijing) Co
-129.226.219.53,4445,SG,Tencent Cloud Computing (Beijing) Co
-129.226.219.53,4448,SG,Tencent Cloud Computing (Beijing) Co
-124.156.194.38,5003,SG,Tencent Cloud Computing (Beijing) Co
-124.156.194.38,5600,SG,Tencent Cloud Computing (Beijing) Co
-124.156.204.144,5891,SG,Tencent Cloud Computing (Beijing) Co
-124.156.206.61,6443,SG,Tencent Cloud Computing (Beijing) Co
-124.156.206.61,6644,SG,Tencent Cloud Computing (Beijing) Co
-129.226.155.16,7500,SG,Tencent Cloud Computing (Beijing) Co
-124.156.194.38,8000,SG,Tencent Cloud Computing (Beijing) Co
-124.156.194.250,8080,SG,Tencent Cloud Computing (Beijing) Co
-124.156.195.248,8080,SG,Tencent Cloud Computing (Beijing) Co
-124.156.197.227,8080,SG,Tencent Cloud Computing (Beijing) Co
-124.156.200.248,8080,SG,Tencent Cloud Computing (Beijing) Co
-124.156.203.13,8080,SG,Tencent Cloud Computing (Beijing) Co
-124.156.204.59,8080,SG,Tencent Cloud Computing (Beijing) Co
-124.156.205.120,8080,SG,Tencent Cloud Computing (Beijing) Co
-124.156.207.79,8080,SG,Tencent Cloud Computing (Beijing) Co
-129.226.91.2,8080,SG,Tencent Cloud Computing (Beijing) Co
-129.226.91.248,8080,SG,Tencent Cloud Computing (Beijing) Co
-129.226.148.87,8080,SG,Tencent Cloud Computing (Beijing) Co
-129.226.153.235,8080,SG,Tencent Cloud Computing (Beijing) Co
-129.226.192.14,8080,SG,Tencent Cloud Computing (Beijing) Co
-129.226.192.206,8080,SG,Tencent Cloud Computing (Beijing) Co
-129.226.196.68,8080,SG,Tencent Cloud Computing (Beijing) Co
-129.226.221.68,8080,SG,Tencent Cloud Computing (Beijing) Co
-124.156.207.186,8082,SG,Tencent Cloud Computing (Beijing) Co
-129.226.217.81,8085,SG,Tencent Cloud Computing (Beijing) Co
-129.226.211.173,8443,SG,Tencent Cloud Computing (Beijing) Co
-124.156.194.250,8880,SG,Tencent Cloud Computing (Beijing) Co
-124.156.195.248,8880,SG,Tencent Cloud Computing (Beijing) Co
-124.156.197.227,8880,SG,Tencent Cloud Computing (Beijing) Co
-124.156.200.248,8880,SG,Tencent Cloud Computing (Beijing) Co
-124.156.203.13,8880,SG,Tencent Cloud Computing (Beijing) Co
-124.156.204.59,8880,SG,Tencent Cloud Computing (Beijing) Co
-124.156.205.120,8880,SG,Tencent Cloud Computing (Beijing) Co
-124.156.206.61,8880,SG,Tencent Cloud Computing (Beijing) Co
-124.156.207.79,8880,SG,Tencent Cloud Computing (Beijing) Co
-129.226.91.2,8880,SG,Tencent Cloud Computing (Beijing) Co
-129.226.91.248,8880,SG,Tencent Cloud Computing (Beijing) Co
-129.226.148.87,8880,SG,Tencent Cloud Computing (Beijing) Co
-129.226.192.14,8880,SG,Tencent Cloud Computing (Beijing) Co
-129.226.192.206,8880,SG,Tencent Cloud Computing (Beijing) Co
-129.226.196.68,8880,SG,Tencent Cloud Computing (Beijing) Co
-129.226.221.68,8880,SG,Tencent Cloud Computing (Beijing) Co
-124.156.206.61,8888,SG,Tencent Cloud Computing (Beijing) Co
-129.226.93.183,8888,SG,Tencent Cloud Computing (Beijing) Co
-129.226.155.16,8888,SG,Tencent Cloud Computing (Beijing) Co
-129.226.196.206,9198,SG,Tencent Cloud Computing (Beijing) Co
-124.156.206.61,9665,SG,Tencent Cloud Computing (Beijing) Co
-124.156.200.112,10001,SG,Tencent Cloud Computing (Beijing) Co
-124.156.206.61,10343,SG,Tencent Cloud Computing (Beijing) Co
-129.226.155.16,11443,SG,Tencent Cloud Computing (Beijing) Co
-124.156.206.61,15110,SG,Tencent Cloud Computing (Beijing) Co
-129.226.155.16,15443,SG,Tencent Cloud Computing (Beijing) Co
-129.226.219.53,21232,SG,Tencent Cloud Computing (Beijing) Co
-124.156.204.144,22613,SG,Tencent Cloud Computing (Beijing) Co
-129.226.155.16,25433,SG,Tencent Cloud Computing (Beijing) Co
-124.156.206.61,25500,SG,Tencent Cloud Computing (Beijing) Co
-129.226.93.16,28443,SG,Tencent Cloud Computing (Beijing) Co
-129.226.153.235,28580,SG,Tencent Cloud Computing (Beijing) Co
-124.156.194.38,29395,SG,Tencent Cloud Computing (Beijing) Co
-124.156.205.49,31401,SG,Tencent Cloud Computing (Beijing) Co
-129.226.94.232,31401,SG,Tencent Cloud Computing (Beijing) Co
-129.226.196.165,31401,SG,Tencent Cloud Computing (Beijing) Co
-129.226.154.23,35600,SG,Tencent Cloud Computing (Beijing) Co
-129.226.155.92,35600,SG,Tencent Cloud Computing (Beijing) Co
-124.156.204.144,39400,SG,Tencent Cloud Computing (Beijing) Co
-129.226.214.80,40030,SG,Tencent Cloud Computing (Beijing) Co
-129.226.154.23,46217,SG,Tencent Cloud Computing (Beijing) Co
-129.226.155.92,46217,SG,Tencent Cloud Computing (Beijing) Co
-129.226.196.206,50654,SG,Tencent Cloud Computing (Beijing) Co
-129.226.146.183,51220,SG,Tencent Cloud Computing (Beijing) Co
-124.156.194.120,52330,SG,Tencent Cloud Computing (Beijing) Co
-124.156.194.250,52330,SG,Tencent Cloud Computing (Beijing) Co
-124.156.195.248,52330,SG,Tencent Cloud Computing (Beijing) Co
-124.156.197.227,52330,SG,Tencent Cloud Computing (Beijing) Co
-124.156.200.248,52330,SG,Tencent Cloud Computing (Beijing) Co
-124.156.203.13,52330,SG,Tencent Cloud Computing (Beijing) Co
-124.156.204.59,52330,SG,Tencent Cloud Computing (Beijing) Co
-124.156.205.120,52330,SG,Tencent Cloud Computing (Beijing) Co
-124.156.207.79,52330,SG,Tencent Cloud Computing (Beijing) Co
-129.226.91.2,52330,SG,Tencent Cloud Computing (Beijing) Co
-129.226.91.248,52330,SG,Tencent Cloud Computing (Beijing) Co
-129.226.92.145,52330,SG,Tencent Cloud Computing (Beijing) Co
-129.226.148.87,52330,SG,Tencent Cloud Computing (Beijing) Co
-129.226.192.14,52330,SG,Tencent Cloud Computing (Beijing) Co
-129.226.192.206,52330,SG,Tencent Cloud Computing (Beijing) Co
-129.226.196.68,52330,SG,Tencent Cloud Computing (Beijing) Co
-129.226.221.68,52330,SG,Tencent Cloud Computing (Beijing) Co
+47.129.181.132,1,SG,Amazon Technologies Inc
+47.129.45.111,80,SG,Amazon Technologies Inc
+47.129.61.157,80,SG,Amazon Technologies Inc
+47.129.115.187,80,SG,Amazon Technologies Inc
+47.129.181.132,80,SG,Amazon Technologies Inc
+47.129.222.155,80,SG,Amazon Technologies Inc
+47.129.247.41,80,SG,Amazon Technologies Inc
+47.129.181.132,82,SG,Amazon Technologies Inc
+47.129.181.132,103,SG,Amazon Technologies Inc
+47.129.45.111,443,SG,Amazon Technologies Inc
+47.129.61.157,443,SG,Amazon Technologies Inc
+47.129.115.187,443,SG,Amazon Technologies Inc
+47.129.181.132,443,SG,Amazon Technologies Inc
+47.129.189.188,443,SG,Amazon Technologies Inc
+47.129.222.155,443,SG,Amazon Technologies Inc
+47.129.247.41,443,SG,Amazon Technologies Inc
+47.129.181.132,503,SG,Amazon Technologies Inc
+47.129.181.132,554,SG,Amazon Technologies Inc
+47.129.181.132,587,SG,Amazon Technologies Inc
+47.129.181.132,591,SG,Amazon Technologies Inc
+47.129.181.132,789,SG,Amazon Technologies Inc
+47.129.181.132,833,SG,Amazon Technologies Inc
+47.129.115.187,888,SG,Amazon Technologies Inc
+47.129.181.132,888,SG,Amazon Technologies Inc
+47.129.181.132,993,SG,Amazon Technologies Inc
+47.129.181.132,1804,SG,Amazon Technologies Inc
+47.129.181.132,1962,SG,Amazon Technologies Inc
+47.129.181.132,1963,SG,Amazon Technologies Inc
+47.129.181.132,2078,SG,Amazon Technologies Inc
+47.129.181.132,2080,SG,Amazon Technologies Inc
+47.129.181.132,2086,SG,Amazon Technologies Inc
+47.129.181.132,2096,SG,Amazon Technologies Inc
+47.129.181.132,2443,SG,Amazon Technologies Inc
+47.129.181.132,2762,SG,Amazon Technologies Inc
+47.129.181.132,3000,SG,Amazon Technologies Inc
+47.129.181.132,3088,SG,Amazon Technologies Inc
+47.129.181.132,3098,SG,Amazon Technologies Inc
+47.129.181.132,3099,SG,Amazon Technologies Inc
+47.129.181.132,3111,SG,Amazon Technologies Inc
+47.129.181.132,3112,SG,Amazon Technologies Inc
+47.129.181.132,3117,SG,Amazon Technologies Inc
+47.129.181.132,3118,SG,Amazon Technologies Inc
+47.129.181.132,3128,SG,Amazon Technologies Inc
+47.129.181.132,3306,SG,Amazon Technologies Inc
+47.129.181.132,3311,SG,Amazon Technologies Inc
+47.129.181.132,3312,SG,Amazon Technologies Inc
+47.129.181.132,3331,SG,Amazon Technologies Inc
+47.129.181.132,3333,SG,Amazon Technologies Inc
+47.129.181.132,3411,SG,Amazon Technologies Inc
+47.129.181.132,3500,SG,Amazon Technologies Inc
+47.129.181.132,4000,SG,Amazon Technologies Inc
+47.129.181.132,4099,SG,Amazon Technologies Inc
+47.129.181.132,4100,SG,Amazon Technologies Inc
+47.129.181.132,4200,SG,Amazon Technologies Inc
+47.129.181.132,4300,SG,Amazon Technologies Inc
+47.129.181.132,4301,SG,Amazon Technologies Inc
+47.129.181.132,4400,SG,Amazon Technologies Inc
+47.129.181.132,4839,SG,Amazon Technologies Inc
+47.129.181.132,4840,SG,Amazon Technologies Inc
+47.129.181.132,5866,SG,Amazon Technologies Inc
+47.129.181.132,5938,SG,Amazon Technologies Inc
+47.129.181.132,6009,SG,Amazon Technologies Inc
+47.129.181.132,7001,SG,Amazon Technologies Inc
+47.129.181.132,8000,SG,Amazon Technologies Inc
+47.129.181.132,8013,SG,Amazon Technologies Inc
+47.129.115.187,8060,SG,Amazon Technologies Inc
+47.129.115.187,8080,SG,Amazon Technologies Inc
+47.129.181.132,8080,SG,Amazon Technologies Inc
+47.129.115.187,8081,SG,Amazon Technologies Inc
+47.129.115.187,8082,SG,Amazon Technologies Inc
+47.129.181.132,8082,SG,Amazon Technologies Inc
+47.129.181.132,8088,SG,Amazon Technologies Inc
+47.129.181.132,8089,SG,Amazon Technologies Inc
+47.129.181.132,8090,SG,Amazon Technologies Inc
+47.129.181.132,8091,SG,Amazon Technologies Inc
+47.129.181.132,8092,SG,Amazon Technologies Inc
+47.129.181.132,8159,SG,Amazon Technologies Inc
+47.129.115.187,8443,SG,Amazon Technologies Inc
+47.129.181.132,8443,SG,Amazon Technologies Inc
+47.129.115.187,8618,SG,Amazon Technologies Inc
+47.129.181.132,8724,SG,Amazon Technologies Inc
+47.129.115.187,8888,SG,Amazon Technologies Inc
+47.129.115.187,9100,SG,Amazon Technologies Inc
+47.129.181.132,10001,SG,Amazon Technologies Inc
+47.129.181.132,10002,SG,Amazon Technologies Inc
+47.129.181.132,10003,SG,Amazon Technologies Inc
+47.129.181.132,10004,SG,Amazon Technologies Inc
+47.129.181.132,10005,SG,Amazon Technologies Inc
+47.129.181.132,10010,SG,Amazon Technologies Inc
+47.129.181.132,10261,SG,Amazon Technologies Inc
+47.129.181.132,10998,SG,Amazon Technologies Inc
+47.129.115.187,15672,SG,Amazon Technologies Inc
+47.129.181.132,18620,SG,Amazon Technologies Inc
+47.129.181.132,19999,SG,Amazon Technologies Inc
+47.129.181.132,34814,SG,Amazon Technologies Inc
+47.129.247.41,48223,SG,Amazon Technologies Inc
+47.129.181.132,50001,SG,Amazon Technologies Inc
+3.0.200.241,80,SG,Amazon Technologies Inc.
+3.0.220.167,80,SG,Amazon Technologies Inc.
+3.1.85.51,80,SG,Amazon Technologies Inc.
+3.1.202.244,80,SG,Amazon Technologies Inc.
+13.212.19.14,80,SG,Amazon Technologies Inc.
+13.212.37.42,80,SG,Amazon Technologies Inc.
+13.212.169.139,80,SG,Amazon Technologies Inc.
+13.212.214.234,80,SG,Amazon Technologies Inc.
+13.212.247.79,80,SG,Amazon Technologies Inc.
+13.213.17.4,80,SG,Amazon Technologies Inc.
+13.213.62.113,80,SG,Amazon Technologies Inc.
+13.213.64.117,80,SG,Amazon Technologies Inc.
+13.214.19.73,80,SG,Amazon Technologies Inc.
+13.214.131.124,80,SG,Amazon Technologies Inc.
+13.215.71.222,80,SG,Amazon Technologies Inc.
+13.229.50.50,80,SG,Amazon Technologies Inc.
+13.229.66.180,80,SG,Amazon Technologies Inc.
+13.229.83.182,80,SG,Amazon Technologies Inc.
+13.229.104.95,80,SG,Amazon Technologies Inc.
+18.138.233.3,80,SG,Amazon Technologies Inc.
+18.139.116.147,80,SG,Amazon Technologies Inc.
+18.139.254.105,80,SG,Amazon Technologies Inc.
+18.142.116.49,80,SG,Amazon Technologies Inc.
+18.143.67.25,80,SG,Amazon Technologies Inc.
+18.143.149.99,80,SG,Amazon Technologies Inc.
+18.143.238.92,80,SG,Amazon Technologies Inc.
+54.254.243.128,80,SG,Amazon Technologies Inc.
+54.255.123.61,80,SG,Amazon Technologies Inc.
+54.255.192.239,80,SG,Amazon Technologies Inc.
+54.255.233.134,80,SG,Amazon Technologies Inc.
+54.255.238.171,80,SG,Amazon Technologies Inc.
+13.229.83.182,82,SG,Amazon Technologies Inc.
+13.229.83.182,103,SG,Amazon Technologies Inc.
+3.0.92.229,443,SG,Amazon Technologies Inc.
+3.0.220.167,443,SG,Amazon Technologies Inc.
+3.1.85.51,443,SG,Amazon Technologies Inc.
+3.1.202.244,443,SG,Amazon Technologies Inc.
+13.212.19.14,443,SG,Amazon Technologies Inc.
+13.212.37.42,443,SG,Amazon Technologies Inc.
+13.212.169.139,443,SG,Amazon Technologies Inc.
+13.212.214.234,443,SG,Amazon Technologies Inc.
+13.212.247.79,443,SG,Amazon Technologies Inc.
+13.213.17.4,443,SG,Amazon Technologies Inc.
+13.213.62.113,443,SG,Amazon Technologies Inc.
+13.213.64.117,443,SG,Amazon Technologies Inc.
+13.214.19.73,443,SG,Amazon Technologies Inc.
+13.214.131.124,443,SG,Amazon Technologies Inc.
+13.215.71.222,443,SG,Amazon Technologies Inc.
+13.215.251.238,443,SG,Amazon Technologies Inc.
+13.229.50.50,443,SG,Amazon Technologies Inc.
+13.229.66.180,443,SG,Amazon Technologies Inc.
+13.229.83.182,443,SG,Amazon Technologies Inc.
+13.229.104.95,443,SG,Amazon Technologies Inc.
+18.136.25.202,443,SG,Amazon Technologies Inc.
+18.138.233.3,443,SG,Amazon Technologies Inc.
+18.139.116.147,443,SG,Amazon Technologies Inc.
+18.139.254.105,443,SG,Amazon Technologies Inc.
+18.142.116.49,443,SG,Amazon Technologies Inc.
+18.143.67.25,443,SG,Amazon Technologies Inc.
+18.143.92.18,443,SG,Amazon Technologies Inc.
+18.143.238.92,443,SG,Amazon Technologies Inc.
+54.254.243.128,443,SG,Amazon Technologies Inc.
+54.255.123.61,443,SG,Amazon Technologies Inc.
+54.255.192.239,443,SG,Amazon Technologies Inc.
+54.255.233.134,443,SG,Amazon Technologies Inc.
+54.255.238.171,443,SG,Amazon Technologies Inc.
+13.229.83.182,465,SG,Amazon Technologies Inc.
+13.229.83.182,503,SG,Amazon Technologies Inc.
+13.229.83.182,563,SG,Amazon Technologies Inc.
+13.229.83.182,587,SG,Amazon Technologies Inc.
+13.229.83.182,591,SG,Amazon Technologies Inc.
+3.0.220.167,888,SG,Amazon Technologies Inc.
+3.1.85.51,888,SG,Amazon Technologies Inc.
+13.229.50.50,888,SG,Amazon Technologies Inc.
+13.229.83.182,888,SG,Amazon Technologies Inc.
+18.139.116.147,888,SG,Amazon Technologies Inc.
+18.139.254.105,888,SG,Amazon Technologies Inc.
+18.142.116.49,888,SG,Amazon Technologies Inc.
+54.255.123.61,888,SG,Amazon Technologies Inc.
+13.229.83.182,993,SG,Amazon Technologies Inc.
+13.229.83.182,1804,SG,Amazon Technologies Inc.
+13.229.83.182,1962,SG,Amazon Technologies Inc.
+13.229.83.182,1963,SG,Amazon Technologies Inc.
+13.229.50.50,2053,SG,Amazon Technologies Inc.
+18.143.238.92,2053,SG,Amazon Technologies Inc.
+13.229.83.182,2078,SG,Amazon Technologies Inc.
+13.229.83.182,2080,SG,Amazon Technologies Inc.
+13.229.83.182,2086,SG,Amazon Technologies Inc.
+13.229.83.182,2096,SG,Amazon Technologies Inc.
+13.212.169.139,3000,SG,Amazon Technologies Inc.
+13.214.131.124,3000,SG,Amazon Technologies Inc.
+13.229.50.50,3000,SG,Amazon Technologies Inc.
+13.229.83.182,3000,SG,Amazon Technologies Inc.
+13.229.83.182,3128,SG,Amazon Technologies Inc.
+13.212.169.139,5000,SG,Amazon Technologies Inc.
+13.214.131.124,5000,SG,Amazon Technologies Inc.
+13.229.50.50,5000,SG,Amazon Technologies Inc.
+13.229.83.182,5001,SG,Amazon Technologies Inc.
+13.229.83.182,5866,SG,Amazon Technologies Inc.
+13.229.83.182,6009,SG,Amazon Technologies Inc.
+3.0.220.167,7800,SG,Amazon Technologies Inc.
+3.1.85.51,7800,SG,Amazon Technologies Inc.
+13.229.83.182,7800,SG,Amazon Technologies Inc.
+18.139.254.105,7800,SG,Amazon Technologies Inc.
+54.255.123.61,7800,SG,Amazon Technologies Inc.
+13.213.17.4,8000,SG,Amazon Technologies Inc.
+13.229.83.182,8000,SG,Amazon Technologies Inc.
+13.212.169.139,8001,SG,Amazon Technologies Inc.
+13.213.17.4,8001,SG,Amazon Technologies Inc.
+13.214.131.124,8001,SG,Amazon Technologies Inc.
+13.229.50.50,8001,SG,Amazon Technologies Inc.
+13.229.83.182,8001,SG,Amazon Technologies Inc.
+13.212.169.139,8008,SG,Amazon Technologies Inc.
+13.214.131.124,8008,SG,Amazon Technologies Inc.
+13.229.50.50,8008,SG,Amazon Technologies Inc.
+13.229.50.50,8060,SG,Amazon Technologies Inc.
+13.229.83.182,8060,SG,Amazon Technologies Inc.
+54.255.123.61,8060,SG,Amazon Technologies Inc.
+3.0.220.167,8080,SG,Amazon Technologies Inc.
+13.212.169.139,8080,SG,Amazon Technologies Inc.
+13.213.17.4,8080,SG,Amazon Technologies Inc.
+13.214.131.124,8080,SG,Amazon Technologies Inc.
+13.229.50.50,8080,SG,Amazon Technologies Inc.
+13.229.83.182,8080,SG,Amazon Technologies Inc.
+18.139.116.147,8080,SG,Amazon Technologies Inc.
+18.139.254.105,8080,SG,Amazon Technologies Inc.
+18.142.116.49,8080,SG,Amazon Technologies Inc.
+18.143.67.25,8080,SG,Amazon Technologies Inc.
+18.143.238.92,8080,SG,Amazon Technologies Inc.
+54.255.123.61,8080,SG,Amazon Technologies Inc.
+13.212.169.139,8081,SG,Amazon Technologies Inc.
+13.214.131.124,8081,SG,Amazon Technologies Inc.
+13.229.50.50,8081,SG,Amazon Technologies Inc.
+13.229.83.182,8081,SG,Amazon Technologies Inc.
+54.255.123.61,8081,SG,Amazon Technologies Inc.
+3.0.220.167,8082,SG,Amazon Technologies Inc.
+13.229.50.50,8082,SG,Amazon Technologies Inc.
+13.229.83.182,8082,SG,Amazon Technologies Inc.
+18.139.116.147,8082,SG,Amazon Technologies Inc.
+18.143.67.25,8082,SG,Amazon Technologies Inc.
+54.255.123.61,8082,SG,Amazon Technologies Inc.
+13.212.37.42,8083,SG,Amazon Technologies Inc.
+13.212.37.42,8085,SG,Amazon Technologies Inc.
+13.229.83.182,8088,SG,Amazon Technologies Inc.
+13.229.83.182,8089,SG,Amazon Technologies Inc.
+13.212.169.139,8090,SG,Amazon Technologies Inc.
+13.214.131.124,8090,SG,Amazon Technologies Inc.
+13.229.50.50,8090,SG,Amazon Technologies Inc.
+13.229.83.182,8090,SG,Amazon Technologies Inc.
+13.229.83.182,8091,SG,Amazon Technologies Inc.
+13.229.83.182,8092,SG,Amazon Technologies Inc.
+13.212.169.139,8181,SG,Amazon Technologies Inc.
+13.214.131.124,8181,SG,Amazon Technologies Inc.
+13.229.50.50,8181,SG,Amazon Technologies Inc.
+13.212.169.139,8300,SG,Amazon Technologies Inc.
+13.214.131.124,8300,SG,Amazon Technologies Inc.
+13.229.50.50,8300,SG,Amazon Technologies Inc.
+13.212.169.139,8400,SG,Amazon Technologies Inc.
+13.214.131.124,8400,SG,Amazon Technologies Inc.
+13.229.50.50,8400,SG,Amazon Technologies Inc.
+13.213.62.113,8443,SG,Amazon Technologies Inc.
+13.229.50.50,8443,SG,Amazon Technologies Inc.
+13.229.83.182,8443,SG,Amazon Technologies Inc.
+18.139.116.147,8443,SG,Amazon Technologies Inc.
+18.143.238.92,8443,SG,Amazon Technologies Inc.
+54.255.123.61,8443,SG,Amazon Technologies Inc.
+13.212.169.139,8500,SG,Amazon Technologies Inc.
+13.214.131.124,8500,SG,Amazon Technologies Inc.
+13.229.50.50,8500,SG,Amazon Technologies Inc.
+13.212.169.139,8600,SG,Amazon Technologies Inc.
+13.214.131.124,8600,SG,Amazon Technologies Inc.
+13.229.50.50,8600,SG,Amazon Technologies Inc.
+13.229.50.50,8618,SG,Amazon Technologies Inc.
+13.229.83.182,8618,SG,Amazon Technologies Inc.
+54.255.123.61,8618,SG,Amazon Technologies Inc.
+13.229.83.182,8724,SG,Amazon Technologies Inc.
+13.212.169.139,8800,SG,Amazon Technologies Inc.
+13.214.131.124,8800,SG,Amazon Technologies Inc.
+13.229.50.50,8800,SG,Amazon Technologies Inc.
+54.255.123.61,8880,SG,Amazon Technologies Inc.
+3.0.220.167,8888,SG,Amazon Technologies Inc.
+3.1.202.244,8888,SG,Amazon Technologies Inc.
+13.213.17.4,8888,SG,Amazon Technologies Inc.
+13.229.50.50,8888,SG,Amazon Technologies Inc.
+13.229.83.182,8888,SG,Amazon Technologies Inc.
+18.139.116.147,8888,SG,Amazon Technologies Inc.
+54.255.123.61,8888,SG,Amazon Technologies Inc.
+13.212.169.139,9000,SG,Amazon Technologies Inc.
+13.214.131.124,9000,SG,Amazon Technologies Inc.
+13.229.50.50,9000,SG,Amazon Technologies Inc.
+3.1.202.244,9001,SG,Amazon Technologies Inc.
+13.212.37.42,9001,SG,Amazon Technologies Inc.
+13.213.17.4,9001,SG,Amazon Technologies Inc.
+13.212.37.42,9002,SG,Amazon Technologies Inc.
+13.212.37.42,9003,SG,Amazon Technologies Inc.
+13.212.37.42,9004,SG,Amazon Technologies Inc.
+13.212.37.42,9005,SG,Amazon Technologies Inc.
+13.212.37.42,9006,SG,Amazon Technologies Inc.
+13.212.37.42,9007,SG,Amazon Technologies Inc.
+13.214.19.73,9100,SG,Amazon Technologies Inc.
+13.229.104.95,9100,SG,Amazon Technologies Inc.
+13.212.169.139,9300,SG,Amazon Technologies Inc.
+13.214.131.124,9300,SG,Amazon Technologies Inc.
+13.229.50.50,9300,SG,Amazon Technologies Inc.
+3.1.202.244,9888,SG,Amazon Technologies Inc.
+13.213.17.4,9888,SG,Amazon Technologies Inc.
+13.212.169.139,9999,SG,Amazon Technologies Inc.
+13.214.131.124,9999,SG,Amazon Technologies Inc.
+13.229.50.50,9999,SG,Amazon Technologies Inc.
+13.212.214.234,10001,SG,Amazon Technologies Inc.
+13.229.83.182,10001,SG,Amazon Technologies Inc.
+13.229.83.182,10002,SG,Amazon Technologies Inc.
+13.212.214.234,10003,SG,Amazon Technologies Inc.
+13.212.214.234,10004,SG,Amazon Technologies Inc.
+13.229.83.182,10005,SG,Amazon Technologies Inc.
+13.229.83.182,10010,SG,Amazon Technologies Inc.
+13.229.83.182,10261,SG,Amazon Technologies Inc.
+18.143.67.25,10998,SG,Amazon Technologies Inc.
+3.0.220.167,15672,SG,Amazon Technologies Inc.
+13.229.50.50,15672,SG,Amazon Technologies Inc.
+13.229.83.182,15672,SG,Amazon Technologies Inc.
+54.255.123.61,15672,SG,Amazon Technologies Inc.
+3.0.220.167,15674,SG,Amazon Technologies Inc.
+54.255.123.61,15674,SG,Amazon Technologies Inc.
+13.214.131.124,17142,SG,Amazon Technologies Inc.
+13.229.83.182,18620,SG,Amazon Technologies Inc.
+13.229.83.182,19999,SG,Amazon Technologies Inc.
+13.229.83.182,34814,SG,Amazon Technologies Inc.
+54.255.192.239,40000,SG,Amazon Technologies Inc.
+54.255.192.239,50000,SG,Amazon Technologies Inc.
+13.229.83.182,50001,SG,Amazon Technologies Inc.
+13.229.83.182,51001,SG,Amazon Technologies Inc.
+13.229.83.182,61112,SG,Amazon Technologies Inc.
+52.221.212.61,21,SG,Amazon.com. Inc.
+13.250.3.231,80,SG,Amazon.com. Inc.
+13.250.13.79,80,SG,Amazon.com. Inc.
+13.251.155.175,80,SG,Amazon.com. Inc.
+18.141.3.62,80,SG,Amazon.com. Inc.
+18.141.9.158,80,SG,Amazon.com. Inc.
+52.77.34.58,80,SG,Amazon.com. Inc.
+52.77.224.130,80,SG,Amazon.com. Inc.
+52.221.212.61,80,SG,Amazon.com. Inc.
+54.169.97.5,80,SG,Amazon.com. Inc.
+54.169.141.180,80,SG,Amazon.com. Inc.
+54.169.244.194,80,SG,Amazon.com. Inc.
+54.179.93.68,80,SG,Amazon.com. Inc.
+54.179.145.33,80,SG,Amazon.com. Inc.
+54.251.4.65,80,SG,Amazon.com. Inc.
+54.251.66.241,80,SG,Amazon.com. Inc.
+54.251.221.11,80,SG,Amazon.com. Inc.
+175.41.164.133,80,SG,Amazon.com. Inc.
+175.41.186.209,80,SG,Amazon.com. Inc.
+175.41.189.188,80,SG,Amazon.com. Inc.
+52.221.212.61,82,SG,Amazon.com. Inc.
+52.221.212.61,101,SG,Amazon.com. Inc.
+52.221.212.61,103,SG,Amazon.com. Inc.
+52.221.212.61,135,SG,Amazon.com. Inc.
+13.250.3.231,443,SG,Amazon.com. Inc.
+13.250.13.79,443,SG,Amazon.com. Inc.
+13.251.155.175,443,SG,Amazon.com. Inc.
+18.141.3.62,443,SG,Amazon.com. Inc.
+18.141.9.158,443,SG,Amazon.com. Inc.
+52.77.34.58,443,SG,Amazon.com. Inc.
+52.77.224.130,443,SG,Amazon.com. Inc.
+52.221.183.148,443,SG,Amazon.com. Inc.
+52.221.212.61,443,SG,Amazon.com. Inc.
+54.169.97.5,443,SG,Amazon.com. Inc.
+54.169.141.180,443,SG,Amazon.com. Inc.
+54.169.244.194,443,SG,Amazon.com. Inc.
+54.179.93.68,443,SG,Amazon.com. Inc.
+54.179.145.33,443,SG,Amazon.com. Inc.
+54.251.4.65,443,SG,Amazon.com. Inc.
+54.251.66.241,443,SG,Amazon.com. Inc.
+54.251.187.101,443,SG,Amazon.com. Inc.
+54.251.221.11,443,SG,Amazon.com. Inc.
+175.41.164.133,443,SG,Amazon.com. Inc.
+175.41.186.209,443,SG,Amazon.com. Inc.
+175.41.189.188,443,SG,Amazon.com. Inc.
+18.141.9.158,465,SG,Amazon.com. Inc.
+52.221.212.61,465,SG,Amazon.com. Inc.
+52.221.212.61,502,SG,Amazon.com. Inc.
+52.221.212.61,503,SG,Amazon.com. Inc.
+18.141.9.158,563,SG,Amazon.com. Inc.
+52.221.212.61,587,SG,Amazon.com. Inc.
+52.221.212.61,591,SG,Amazon.com. Inc.
+18.141.9.158,888,SG,Amazon.com. Inc.
+52.221.212.61,888,SG,Amazon.com. Inc.
+54.169.244.194,888,SG,Amazon.com. Inc.
+54.179.93.68,888,SG,Amazon.com. Inc.
+54.251.4.65,888,SG,Amazon.com. Inc.
+54.251.66.241,888,SG,Amazon.com. Inc.
+175.41.164.133,888,SG,Amazon.com. Inc.
+52.221.212.61,993,SG,Amazon.com. Inc.
+52.221.212.61,1000,SG,Amazon.com. Inc.
+52.221.212.61,1804,SG,Amazon.com. Inc.
+52.221.212.61,1962,SG,Amazon.com. Inc.
+52.221.212.61,1963,SG,Amazon.com. Inc.
+52.221.212.61,2000,SG,Amazon.com. Inc.
+54.169.141.180,2053,SG,Amazon.com. Inc.
+54.169.244.194,2053,SG,Amazon.com. Inc.
+52.221.212.61,2078,SG,Amazon.com. Inc.
+52.221.212.61,2080,SG,Amazon.com. Inc.
+52.221.212.61,2086,SG,Amazon.com. Inc.
+52.77.34.58,2095,SG,Amazon.com. Inc.
+54.169.244.194,2095,SG,Amazon.com. Inc.
+52.77.34.58,2096,SG,Amazon.com. Inc.
+52.221.212.61,2096,SG,Amazon.com. Inc.
+54.169.244.194,2096,SG,Amazon.com. Inc.
+52.221.212.61,3000,SG,Amazon.com. Inc.
+54.169.141.180,3000,SG,Amazon.com. Inc.
+54.179.93.68,3000,SG,Amazon.com. Inc.
+52.221.212.61,3001,SG,Amazon.com. Inc.
+54.169.244.194,3001,SG,Amazon.com. Inc.
+52.221.212.61,3088,SG,Amazon.com. Inc.
+52.221.212.61,3098,SG,Amazon.com. Inc.
+52.221.212.61,3099,SG,Amazon.com. Inc.
+52.221.212.61,3111,SG,Amazon.com. Inc.
+52.221.212.61,3112,SG,Amazon.com. Inc.
+52.221.212.61,3117,SG,Amazon.com. Inc.
+52.221.212.61,3118,SG,Amazon.com. Inc.
+13.250.3.231,3128,SG,Amazon.com. Inc.
+52.221.212.61,3128,SG,Amazon.com. Inc.
+54.251.66.241,3128,SG,Amazon.com. Inc.
+52.221.212.61,3311,SG,Amazon.com. Inc.
+52.221.212.61,3312,SG,Amazon.com. Inc.
+52.221.212.61,3331,SG,Amazon.com. Inc.
+52.221.212.61,3333,SG,Amazon.com. Inc.
+52.221.212.61,3411,SG,Amazon.com. Inc.
+52.221.212.61,3500,SG,Amazon.com. Inc.
+52.221.212.61,4000,SG,Amazon.com. Inc.
+52.221.212.61,4099,SG,Amazon.com. Inc.
+52.221.212.61,4100,SG,Amazon.com. Inc.
+52.221.212.61,4200,SG,Amazon.com. Inc.
+52.221.212.61,4300,SG,Amazon.com. Inc.
+52.221.212.61,4301,SG,Amazon.com. Inc.
+52.221.212.61,4400,SG,Amazon.com. Inc.
+52.221.212.61,5000,SG,Amazon.com. Inc.
+52.221.212.61,5001,SG,Amazon.com. Inc.
+52.221.212.61,5672,SG,Amazon.com. Inc.
+52.221.212.61,5866,SG,Amazon.com. Inc.
+52.221.212.61,6001,SG,Amazon.com. Inc.
+52.221.212.61,6004,SG,Amazon.com. Inc.
+52.221.212.61,6009,SG,Amazon.com. Inc.
+52.221.212.61,6242,SG,Amazon.com. Inc.
+52.221.212.61,6768,SG,Amazon.com. Inc.
+54.179.93.68,6768,SG,Amazon.com. Inc.
+52.221.212.61,7170,SG,Amazon.com. Inc.
+52.221.212.61,7443,SG,Amazon.com. Inc.
+18.141.9.158,7800,SG,Amazon.com. Inc.
+52.221.212.61,7800,SG,Amazon.com. Inc.
+54.251.4.65,7800,SG,Amazon.com. Inc.
+52.221.212.61,8000,SG,Amazon.com. Inc.
+54.169.141.180,8000,SG,Amazon.com. Inc.
+54.179.93.68,8000,SG,Amazon.com. Inc.
+54.251.66.241,8000,SG,Amazon.com. Inc.
+52.221.212.61,8001,SG,Amazon.com. Inc.
+54.169.141.180,8001,SG,Amazon.com. Inc.
+54.179.93.68,8001,SG,Amazon.com. Inc.
+54.251.66.241,8001,SG,Amazon.com. Inc.
+52.221.212.61,8008,SG,Amazon.com. Inc.
+18.141.9.158,8042,SG,Amazon.com. Inc.
+52.221.212.61,8060,SG,Amazon.com. Inc.
+54.169.244.194,8060,SG,Amazon.com. Inc.
+175.41.164.133,8060,SG,Amazon.com. Inc.
+13.250.3.231,8080,SG,Amazon.com. Inc.
+13.251.155.175,8080,SG,Amazon.com. Inc.
+52.221.212.61,8080,SG,Amazon.com. Inc.
+54.169.97.5,8080,SG,Amazon.com. Inc.
+54.169.141.180,8080,SG,Amazon.com. Inc.
+54.169.244.194,8080,SG,Amazon.com. Inc.
+54.179.93.68,8080,SG,Amazon.com. Inc.
+54.251.66.241,8080,SG,Amazon.com. Inc.
+175.41.164.133,8080,SG,Amazon.com. Inc.
+52.221.212.61,8081,SG,Amazon.com. Inc.
+54.169.244.194,8081,SG,Amazon.com. Inc.
+175.41.164.133,8081,SG,Amazon.com. Inc.
+13.251.155.175,8082,SG,Amazon.com. Inc.
+54.169.97.5,8082,SG,Amazon.com. Inc.
+54.251.66.241,8082,SG,Amazon.com. Inc.
+175.41.164.133,8082,SG,Amazon.com. Inc.
+52.221.212.61,8083,SG,Amazon.com. Inc.
+52.221.212.61,8085,SG,Amazon.com. Inc.
+54.169.141.180,8088,SG,Amazon.com. Inc.
+54.251.66.241,8088,SG,Amazon.com. Inc.
+54.251.66.241,8089,SG,Amazon.com. Inc.
+52.221.212.61,8090,SG,Amazon.com. Inc.
+54.251.66.241,8090,SG,Amazon.com. Inc.
+54.251.66.241,8091,SG,Amazon.com. Inc.
+54.251.66.241,8092,SG,Amazon.com. Inc.
+52.221.212.61,8181,SG,Amazon.com. Inc.
+52.221.212.61,8300,SG,Amazon.com. Inc.
+52.221.212.61,8400,SG,Amazon.com. Inc.
+13.250.3.231,8443,SG,Amazon.com. Inc.
+13.250.13.79,8443,SG,Amazon.com. Inc.
+13.251.155.175,8443,SG,Amazon.com. Inc.
+52.77.34.58,8443,SG,Amazon.com. Inc.
+52.221.212.61,8443,SG,Amazon.com. Inc.
+54.169.141.180,8443,SG,Amazon.com. Inc.
+54.169.244.194,8443,SG,Amazon.com. Inc.
+54.179.93.68,8443,SG,Amazon.com. Inc.
+54.251.4.65,8443,SG,Amazon.com. Inc.
+54.251.66.241,8443,SG,Amazon.com. Inc.
+175.41.164.133,8443,SG,Amazon.com. Inc.
+52.221.212.61,8500,SG,Amazon.com. Inc.
+52.221.212.61,8600,SG,Amazon.com. Inc.
+52.221.212.61,8618,SG,Amazon.com. Inc.
+54.169.244.194,8618,SG,Amazon.com. Inc.
+175.41.164.133,8618,SG,Amazon.com. Inc.
+52.221.212.61,8636,SG,Amazon.com. Inc.
+52.221.212.61,8724,SG,Amazon.com. Inc.
+52.221.212.61,8800,SG,Amazon.com. Inc.
+54.169.97.5,8880,SG,Amazon.com. Inc.
+52.221.212.61,8888,SG,Amazon.com. Inc.
+54.169.244.194,8888,SG,Amazon.com. Inc.
+175.41.164.133,8888,SG,Amazon.com. Inc.
+52.221.212.61,9000,SG,Amazon.com. Inc.
+54.251.66.241,9000,SG,Amazon.com. Inc.
+54.251.221.11,9000,SG,Amazon.com. Inc.
+52.221.212.61,9001,SG,Amazon.com. Inc.
+52.221.212.61,9002,SG,Amazon.com. Inc.
+52.221.212.61,9003,SG,Amazon.com. Inc.
+52.221.212.61,9004,SG,Amazon.com. Inc.
+52.221.212.61,9005,SG,Amazon.com. Inc.
+52.221.212.61,9006,SG,Amazon.com. Inc.
+52.221.212.61,9007,SG,Amazon.com. Inc.
+13.251.155.175,9100,SG,Amazon.com. Inc.
+52.221.212.61,9300,SG,Amazon.com. Inc.
+52.221.212.61,9600,SG,Amazon.com. Inc.
+175.41.186.209,9876,SG,Amazon.com. Inc.
+52.220.49.82,9999,SG,Amazon.com. Inc.
+52.221.212.61,9999,SG,Amazon.com. Inc.
+54.169.141.180,9999,SG,Amazon.com. Inc.
+54.251.66.241,9999,SG,Amazon.com. Inc.
+52.221.212.61,10000,SG,Amazon.com. Inc.
+54.169.97.5,10000,SG,Amazon.com. Inc.
+54.251.221.11,10000,SG,Amazon.com. Inc.
+52.221.212.61,10001,SG,Amazon.com. Inc.
+52.221.212.61,10002,SG,Amazon.com. Inc.
+54.169.97.5,10002,SG,Amazon.com. Inc.
+54.169.141.180,10002,SG,Amazon.com. Inc.
+52.221.212.61,10005,SG,Amazon.com. Inc.
+54.169.141.180,10005,SG,Amazon.com. Inc.
+52.221.212.61,10010,SG,Amazon.com. Inc.
+54.169.141.180,10010,SG,Amazon.com. Inc.
+52.221.212.61,10100,SG,Amazon.com. Inc.
+52.221.212.61,10101,SG,Amazon.com. Inc.
+52.221.212.61,10261,SG,Amazon.com. Inc.
+52.221.212.61,11011,SG,Amazon.com. Inc.
+54.169.159.59,11585,SG,Amazon.com. Inc.
+54.169.159.59,11586,SG,Amazon.com. Inc.
+54.169.159.59,11587,SG,Amazon.com. Inc.
+54.169.159.59,11588,SG,Amazon.com. Inc.
+54.169.159.59,11590,SG,Amazon.com. Inc.
+54.169.159.59,11591,SG,Amazon.com. Inc.
+54.169.159.59,11593,SG,Amazon.com. Inc.
+54.169.159.59,11594,SG,Amazon.com. Inc.
+52.221.212.61,15672,SG,Amazon.com. Inc.
+54.169.244.194,15672,SG,Amazon.com. Inc.
+54.251.66.241,15672,SG,Amazon.com. Inc.
+175.41.164.133,15672,SG,Amazon.com. Inc.
+54.251.66.241,15674,SG,Amazon.com. Inc.
+52.221.212.61,18620,SG,Amazon.com. Inc.
+54.169.141.180,18620,SG,Amazon.com. Inc.
+54.251.66.241,19671,SG,Amazon.com. Inc.
+54.251.66.241,19999,SG,Amazon.com. Inc.
+54.251.221.11,20000,SG,Amazon.com. Inc.
+13.250.3.231,21331,SG,Amazon.com. Inc.
+13.250.3.231,25946,SG,Amazon.com. Inc.
+13.251.155.175,28138,SG,Amazon.com. Inc.
+13.251.155.175,30612,SG,Amazon.com. Inc.
+13.250.3.231,30745,SG,Amazon.com. Inc.
+52.221.212.61,34814,SG,Amazon.com. Inc.
+54.169.141.180,34814,SG,Amazon.com. Inc.
+13.250.3.231,35590,SG,Amazon.com. Inc.
+54.169.97.5,37500,SG,Amazon.com. Inc.
+52.221.212.61,44880,SG,Amazon.com. Inc.
+54.169.244.194,45833,SG,Amazon.com. Inc.
+54.169.141.180,47876,SG,Amazon.com. Inc.
+13.250.3.231,47994,SG,Amazon.com. Inc.
+52.221.212.61,50001,SG,Amazon.com. Inc.
+54.169.141.180,50001,SG,Amazon.com. Inc.
+52.77.224.130,50151,SG,Amazon.com. Inc.
+13.250.3.231,50514,SG,Amazon.com. Inc.
+18.141.9.158,51001,SG,Amazon.com. Inc.
+18.141.9.158,54321,SG,Amazon.com. Inc.
+13.251.155.175,56138,SG,Amazon.com. Inc.
+13.250.3.231,57525,SG,Amazon.com. Inc.
+52.220.49.82,58455,SG,Amazon.com. Inc.
+54.169.141.180,60001,SG,Amazon.com. Inc.
+54.169.141.180,60101,SG,Amazon.com. Inc.
+54.169.141.180,60102,SG,Amazon.com. Inc.
+54.169.141.180,60103,SG,Amazon.com. Inc.
+54.169.141.180,60110,SG,Amazon.com. Inc.
+54.169.141.180,60115,SG,Amazon.com. Inc.
+54.169.141.180,60274,SG,Amazon.com. Inc.
+18.141.9.158,61112,SG,Amazon.com. Inc.
