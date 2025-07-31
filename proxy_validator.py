@@ -23,7 +23,7 @@ import random
 class ProxyValidatorEnhanced:
     def __init__(self):
         self.API_URL = "http://ip-api.com/batch"
-        self.BATCH_SIZE = 80  # Optimized balance between speed and stability
+        self.BATCH_SIZE = 90  # Optimized balance between speed and stability
         self.RATE_LIMIT = 15  # requests per minute
         self.REQUEST_DELAY = 60 / self.RATE_LIMIT + 1  # ~5 seconds with buffer
         self.input_file = None  # Will be selected by user

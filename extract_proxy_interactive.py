@@ -76,6 +76,9 @@ def preview_file(file_path, lines=10):
 def extract_proxy_ports(input_file, output_file, port_filter=None, include_ssh=False, format_type="comma"):
     """
     Mengekstrak proxy dan port dari file input
+    Mendukung dua format:
+    1. Format proxy-sg.txt: IP diawali spasi, port format "443/HTTP"
+    2. Format Untitled-1.txt: IP tanpa spasi, port format "443 / HTTP"
     """
     
     if not Path(input_file).exists():
@@ -106,7 +109,13 @@ def extract_proxy_ports(input_file, output_file, port_filter=None, include_ssh=F
                 continue
             
             # Cek apakah line ini adalah IP address (proxy)
+            # Format 1: IP diawali dengan spasi (proxy-sg.txt)
             if original_line.startswith(' ') and is_valid_ip(line):
+                current_proxy = line
+                continue
+            
+            # Format 2: IP tanpa spasi di awal (Untitled-1.txt)
+            elif is_valid_ip(line) and not original_line.startswith(' '):
                 current_proxy = line
                 continue
             
@@ -114,13 +123,17 @@ def extract_proxy_ports(input_file, output_file, port_filter=None, include_ssh=F
             if current_proxy:
                 port_match = None
                 
-                # Cek port HTTP
-                if '/HTTP' in line:
+                # Format 1: "443/HTTP" atau "22/SSH" (proxy-sg.txt)
+                if '/HTTP' in line and ' / ' not in line:
                     port_match = re.search(r'(\d+)/HTTP', line)
-                
-                # Cek port SSH jika diminta
-                elif include_ssh and '/SSH' in line:
+                elif include_ssh and '/SSH' in line and ' / ' not in line:
                     port_match = re.search(r'(\d+)/SSH', line)
+                
+                # Format 2: "443 / HTTP" atau "22 / SSH" (Untitled-1.txt)
+                elif ' / HTTP' in line:
+                    port_match = re.search(r'(\d+) / HTTP', line)
+                elif include_ssh and ' / SSH' in line:
+                    port_match = re.search(r'(\d+) / SSH', line)
                 
                 if port_match:
                     port = port_match.group(1)
