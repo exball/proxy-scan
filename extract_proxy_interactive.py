@@ -7,8 +7,11 @@ dengan pilihan file yang fleksibel
 import re
 import sys
 import os
+import time
+import requests
 from pathlib import Path
 from datetime import datetime
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 def is_valid_ip(ip_string):
     """Memeriksa apakah string adalah IP address yang valid"""
@@ -91,6 +94,177 @@ def preview_file(file_path, lines=10):
         
     except Exception as e:
         print(f"Error previewing file: {e}")
+
+def test_single_proxy(proxy_port, separator, timeout=10):
+    """Test single proxy and return result"""
+    try:
+        if separator == ",":
+            ip, port = proxy_port.split(",")
+        elif separator == ":":
+            ip, port = proxy_port.split(":")
+        else:  # space
+            ip, port = proxy_port.split(" ")
+        
+        # Test URL - using HTTP to trigger the specific responses you need
+        test_url = "http://httpbin.org/ip"
+        
+        proxies = {
+            'http': f'http://{ip}:{port}',
+            'https': f'http://{ip}:{port}'
+        }
+        
+        start_time = time.time()
+        response = requests.get(test_url, proxies=proxies, timeout=timeout)
+        response_time = time.time() - start_time
+        
+        # Check response content
+        response_text = response.text.lower()
+        response_headers = str(response.headers).lower()
+        
+        # Check for your specific working conditions
+        is_working = False
+        status_reason = ""
+        
+        if response.status_code == 403 and 'cloudflare' in (response_text + response_headers):
+            is_working = True
+            status_reason = "403 Forbidden cloudflare"
+        elif response.status_code == 400 and 'https port' in response_text and 'cloudflare' in (response_text + response_headers):
+            is_working = True
+            status_reason = "400 Bad Request HTTPS port cloudflare"
+        else:
+            status_reason = f"{response.status_code} - Other response"
+        
+        return {
+            'proxy': proxy_port,
+            'working': is_working,
+            'status_code': response.status_code,
+            'response_time': response_time,
+            'reason': status_reason,
+            'error': None
+        }
+        
+    except requests.exceptions.ProxyError:
+        return {
+            'proxy': proxy_port,
+            'working': False,
+            'status_code': None,
+            'response_time': None,
+            'reason': "Proxy connection failed",
+            'error': "ProxyError"
+        }
+    except requests.exceptions.Timeout:
+        return {
+            'proxy': proxy_port,
+            'working': False,
+            'status_code': None,
+            'response_time': None,
+            'reason': "Request timeout",
+            'error': "Timeout"
+        }
+    except requests.exceptions.ConnectionError:
+        return {
+            'proxy': proxy_port,
+            'working': False,
+            'status_code': None,
+            'response_time': None,
+            'reason': "Connection error",
+            'error': "ConnectionError"
+        }
+    except Exception as e:
+        return {
+            'proxy': proxy_port,
+            'working': False,
+            'status_code': None,
+            'response_time': None,
+            'reason': f"Unexpected error: {str(e)[:50]}",
+            'error': "Exception"
+        }
+
+def test_proxy_list(proxy_ports, separator, max_workers=10, timeout=10):
+    """Test list of proxies with threading"""
+    print(f"\n🔍 Testing {len(proxy_ports)} proxies...")
+    print(f"⚙️  Settings: {max_workers} threads, {timeout}s timeout")
+    print(f"📡 Target: http://httpbin.org/ip")
+    print("=" * 60)
+    
+    working_proxies = []
+    not_working_proxies = []
+    
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        # Submit all tasks
+        future_to_proxy = {
+            executor.submit(test_single_proxy, proxy, separator, timeout): proxy 
+            for proxy in proxy_ports
+        }
+        
+        completed = 0
+        total = len(proxy_ports)
+        
+        # Process completed tasks
+        for future in as_completed(future_to_proxy):
+            completed += 1
+            result = future.result()
+            
+            # Progress indicator
+            progress = (completed / total) * 100
+            
+            if result['working']:
+                working_proxies.append(result)
+                print(f"✅ {result['proxy']} - {result['reason']} ({result['response_time']:.2f}s)")
+            else:
+                not_working_proxies.append(result)
+                print(f"❌ {result['proxy']} - {result['reason']}")
+    
+    print(f"\n📊 Testing Summary:")
+    print(f"   ✅ Working: {len(working_proxies)}")
+    print(f"   ❌ Not Working: {len(not_working_proxies)}")
+    print(f"   📈 Success Rate: {(len(working_proxies)/total)*100:.1f}%")
+    
+    return working_proxies, not_working_proxies
+
+def save_proxy_results(output_file, working_proxies, not_working_proxies):
+    """Save proxy results with grouping"""
+    try:
+        with open(output_file, 'w', encoding='utf-8') as f:
+            # Header and working proxies
+            f.write("# Working Proxy:Port\n")
+            f.write("# These proxies respond with 403 Forbidden cloudflare or 400 Bad Request HTTPS port cloudflare\n")
+            f.write(f"# Total: {len(working_proxies)} proxies\n")
+            f.write("\n")
+            
+            if working_proxies:
+                # Sort working proxies by response time (fastest first)
+                working_sorted = sorted(working_proxies, key=lambda x: x['response_time'] if x['response_time'] else 999)
+                
+                for result in working_sorted:
+                    f.write(f"{result['proxy']}\n")
+            else:
+                f.write("# No working proxies found\n")
+            
+            f.write("\n")
+            f.write("# " + "="*60 + "\n")
+            f.write("\n")
+            
+            # Header and not working proxies
+            f.write("# Not Working Proxy:Port\n")
+            f.write("# These proxies did not respond with the required cloudflare responses\n")
+            f.write(f"# Total: {len(not_working_proxies)} proxies\n")
+            f.write("\n")
+            
+            if not_working_proxies:
+                # Sort not working proxies by proxy string
+                not_working_sorted = sorted(not_working_proxies, key=lambda x: x['proxy'])
+                
+                for result in not_working_sorted:
+                    f.write(f"{result['proxy']}\n")
+            else:
+                f.write("# All proxies are working\n")
+        
+        return True
+        
+    except Exception as e:
+        print(f"Error saving results: {e}")
+        return False
 
 def extract_proxy_ports(input_file, output_file, port_filter=None, format_type="comma"):
     """
@@ -185,12 +359,25 @@ def extract_proxy_ports(input_file, output_file, port_filter=None, format_type="
         # Sort proxy_ports berdasarkan PORT terlebih dahulu
         proxy_ports_sorted = sorted(proxy_ports, key=sort_key)
         
-        # Simpan hasil ke file output
-        with open(output_file, 'w', encoding='utf-8') as f:
-            for proxy_port in proxy_ports_sorted:
-                f.write(proxy_port + '\n')
+        # Remove duplicates while preserving order
+        proxy_ports_unique = []
+        seen = set()
         
-        return proxy_ports_sorted
+        for proxy_port in proxy_ports_sorted:
+            if proxy_port not in seen:
+                proxy_ports_unique.append(proxy_port)
+                seen.add(proxy_port)
+        
+        # Show deduplication statistics
+        total_combinations = len(proxy_ports_sorted)
+        unique_combinations = len(proxy_ports_unique)
+        duplicates_removed = total_combinations - unique_combinations
+        
+        if duplicates_removed > 0:
+            print(f"🗑️  Duplikat dihapus: {duplicates_removed} dari {total_combinations} kombinasi")
+            print(f"🎯 Unique kombinasi: {unique_combinations}")
+        
+        return proxy_ports_unique
         
     except Exception as e:
         print(f"Error saat memproses file: {e}")
@@ -300,11 +487,33 @@ def show_extraction_options():
     if port_input:
         port_filter = [p.strip() for p in port_input.split(',')]
     
+    # Test proxy option
+    print("\n3. Test Proxy Connectivity:")
+    print("   Test setiap proxy untuk respon '403 Forbidden cloudflare' atau")
+    print("   '400 Bad Request HTTPS port cloudflare' menggunakan http://httpbin.org/ip")
+    print("   ⚠️  Warning: Testing akan memakan waktu lebih lama!")
+    
+    test_choice = input("\nTest proxy connectivity? (y/n, default: n): ").strip().lower()
+    test_proxies = test_choice in ['y', 'yes']
+    
+    # Test settings if enabled
+    max_workers = 10
+    timeout = 10
+    if test_proxies:
+        print("\n   📊 Test Settings:")
+        workers_input = input("   Max concurrent threads (default: 10): ").strip()
+        if workers_input.isdigit():
+            max_workers = int(workers_input)
+        
+        timeout_input = input("   Timeout per proxy in seconds (default: 10): ").strip()
+        if timeout_input.isdigit():
+            timeout = int(timeout_input)
+    
     # Output file
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     default_output = f"/home/exball/Tunnel/proxy-scan/extracted_proxy_{timestamp}.txt"
     
-    print(f"\n3. Output file:")
+    print(f"\n4. Output file:")
     print(f"   Default: extracted_proxy_{timestamp}.txt")
     output_file = input("\nNama file output (kosong untuk default): ").strip()
     
@@ -317,6 +526,9 @@ def show_extraction_options():
     return {
         'format': output_format,
         'port_filter': port_filter,
+        'test_proxies': test_proxies,
+        'max_workers': max_workers,
+        'timeout': timeout,
         'output_file': output_file
     }
 
@@ -347,6 +559,10 @@ def main():
         print(f"Output file: {Path(options['output_file']).name}")
         print(f"Format: {options['format']}")
         print(f"Port filter: {options['port_filter'] if options['port_filter'] else 'Semua HTTP port'}")
+        print(f"Test proxies: {'Ya' if options['test_proxies'] else 'Tidak'}")
+        if options['test_proxies']:
+            print(f"  - Max threads: {options['max_workers']}")
+            print(f"  - Timeout: {options['timeout']}s")
         
         confirm = input(f"\n🚀 Lanjutkan ekstraksi? (y/n): ").strip().lower()
         if confirm not in ['y', 'yes']:
@@ -354,11 +570,11 @@ def main():
             return
         
         # Jalankan ekstraksi
-        print("\n⏳ Sedang memproses...")
+        print("\n⏳ Sedang memproses ekstraksi...")
         
         proxy_ports = extract_proxy_ports(
             input_file,
-            options['output_file'],
+            None,  # Don't save to file yet
             options['port_filter'],
             options['format']
         )
@@ -367,21 +583,54 @@ def main():
             print("\n" + "="*50)
             print("✅ EKSTRAKSI BERHASIL!")
             print("="*50)
-            print(f"📊 Total kombinasi proxy:port: {len(proxy_ports)}")
+            print(f"📊 Final kombinasi proxy:port: {len(proxy_ports)}")
             
             # Hitung proxy unik
             separator = {"comma": ",", "colon": ":", "space": " "}[options['format']]
             unique_proxies = len(set(pp.split(separator)[0] for pp in proxy_ports))
-            print(f"🌐 Proxy unik: {unique_proxies}")
-            print(f"💾 File output: {options['output_file']}")
+            print(f"🌐 Unique IP addresses: {unique_proxies}")
+            print(f"🎯 Ready untuk testing: {len(proxy_ports)} kombinasi")
             
-            # Tampilkan contoh hasil
-            print(f"\n📝 Contoh hasil (5 baris pertama):")
-            for i, proxy_port in enumerate(proxy_ports[:5]):
-                print(f"   {proxy_port}")
-            
-            if len(proxy_ports) > 5:
-                print(f"   ... dan {len(proxy_ports) - 5} lainnya")
+            # Test proxies if requested
+            if options['test_proxies']:
+                working_proxies, not_working_proxies = test_proxy_list(
+                    proxy_ports, 
+                    separator, 
+                    options['max_workers'], 
+                    options['timeout']
+                )
+                
+                # Save results with grouping
+                if save_proxy_results(options['output_file'], working_proxies, not_working_proxies):
+                    print(f"\n💾 Results saved with grouping to: {Path(options['output_file']).name}")
+                    
+                    # Show working proxy examples
+                    if working_proxies:
+                        print(f"\n🎯 Working Proxies (first 5):")
+                        for result in working_proxies[:5]:
+                            response_time = f" ({result['response_time']:.2f}s)" if result['response_time'] else ""
+                            print(f"   ✅ {result['proxy']} - {result['reason']}{response_time}")
+                        
+                        if len(working_proxies) > 5:
+                            print(f"   ... and {len(working_proxies) - 5} more working proxies")
+                    else:
+                        print(f"\n❌ No working proxies found!")
+                        
+            else:
+                # Save without testing (simple format)
+                with open(options['output_file'], 'w', encoding='utf-8') as f:
+                    for proxy_port in proxy_ports:
+                        f.write(proxy_port + '\n')
+                
+                print(f"💾 File output: {options['output_file']}")
+                
+                # Tampilkan contoh hasil
+                print(f"\n📝 Contoh hasil (5 baris pertama):")
+                for i, proxy_port in enumerate(proxy_ports[:5]):
+                    print(f"   {proxy_port}")
+                
+                if len(proxy_ports) > 5:
+                    print(f"   ... dan {len(proxy_ports) - 5} lainnya")
             
             print(f"\n🎉 Selesai! File tersimpan di: {Path(options['output_file']).name}")
             
