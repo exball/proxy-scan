@@ -92,7 +92,7 @@ def preview_file(file_path, lines=10):
     except Exception as e:
         print(f"Error previewing file: {e}")
 
-def extract_proxy_ports(input_file, output_file, port_filter=None, include_ssh=False, format_type="comma"):
+def extract_proxy_ports(input_file, output_file, port_filter=None, format_type="comma"):
     """
     Mengekstrak proxy dan port dari file input
     Mendukung dua format:
@@ -148,17 +148,13 @@ def extract_proxy_ports(input_file, output_file, port_filter=None, include_ssh=F
             if current_proxy:
                 port_match = None
                 
-                # Format 1: "443/HTTP" atau "22/SSH" (proxy-sg.txt)
+                # Format 1: "443/HTTP" (proxy-sg.txt)
                 if '/HTTP' in line and ' / ' not in line:
                     port_match = re.search(r'(\d+)/HTTP', line)
-                elif include_ssh and '/SSH' in line and ' / ' not in line:
-                    port_match = re.search(r'(\d+)/SSH', line)
                 
-                # Format 2: "443 / HTTP" atau "22 / SSH" (Untitled-1.txt)
+                # Format 2: "443 / HTTP" (Untitled-1.txt)
                 elif ' / HTTP' in line:
                     port_match = re.search(r'(\d+) / HTTP', line)
-                elif include_ssh and ' / SSH' in line:
-                    port_match = re.search(r'(\d+) / SSH', line)
                 
                 if port_match:
                     port = port_match.group(1)
@@ -304,15 +300,11 @@ def show_extraction_options():
     if port_input:
         port_filter = [p.strip() for p in port_input.split(',')]
     
-    # Include SSH
-    ssh_choice = input("\n3. Include SSH port? (y/n, default: n): ").strip().lower()
-    include_ssh = ssh_choice in ['y', 'yes']
-    
     # Output file
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     default_output = f"/home/exball/Tunnel/proxy-scan/extracted_proxy_{timestamp}.txt"
     
-    print(f"\n4. Output file:")
+    print(f"\n3. Output file:")
     print(f"   Default: extracted_proxy_{timestamp}.txt")
     output_file = input("\nNama file output (kosong untuk default): ").strip()
     
@@ -325,7 +317,6 @@ def show_extraction_options():
     return {
         'format': output_format,
         'port_filter': port_filter,
-        'include_ssh': include_ssh,
         'output_file': output_file
     }
 
@@ -356,7 +347,6 @@ def main():
         print(f"Output file: {Path(options['output_file']).name}")
         print(f"Format: {options['format']}")
         print(f"Port filter: {options['port_filter'] if options['port_filter'] else 'Semua HTTP port'}")
-        print(f"Include SSH: {'Ya' if options['include_ssh'] else 'Tidak'}")
         
         confirm = input(f"\n🚀 Lanjutkan ekstraksi? (y/n): ").strip().lower()
         if confirm not in ['y', 'yes']:
@@ -370,7 +360,6 @@ def main():
             input_file,
             options['output_file'],
             options['port_filter'],
-            options['include_ssh'],
             options['format']
         )
         
