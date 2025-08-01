@@ -1,548 +1,558 @@
-47.129.181.132,1,SG,Amazon Technologies Inc
+47.128.217.107,80,SG,Amazon Technologies Inc
+47.129.27.86,80,SG,Amazon Technologies Inc
 47.129.45.111,80,SG,Amazon Technologies Inc
 47.129.61.157,80,SG,Amazon Technologies Inc
-47.129.115.187,80,SG,Amazon Technologies Inc
-47.129.181.132,80,SG,Amazon Technologies Inc
+47.129.187.187,80,SG,Amazon Technologies Inc
+47.129.187.254,80,SG,Amazon Technologies Inc
+47.129.216.108,80,SG,Amazon Technologies Inc
 47.129.222.155,80,SG,Amazon Technologies Inc
 47.129.247.41,80,SG,Amazon Technologies Inc
-47.129.181.132,82,SG,Amazon Technologies Inc
-47.129.181.132,103,SG,Amazon Technologies Inc
+47.130.35.116,80,SG,Amazon Technologies Inc
+47.129.35.169,443,SG,Amazon Technologies Inc
+47.129.37.127,443,SG,Amazon Technologies Inc
+47.129.40.81,443,SG,Amazon Technologies Inc
+47.129.41.79,443,SG,Amazon Technologies Inc
 47.129.45.111,443,SG,Amazon Technologies Inc
 47.129.61.157,443,SG,Amazon Technologies Inc
 47.129.115.187,443,SG,Amazon Technologies Inc
-47.129.181.132,443,SG,Amazon Technologies Inc
+47.129.170.236,443,SG,Amazon Technologies Inc
+47.129.187.187,443,SG,Amazon Technologies Inc
+47.129.187.254,443,SG,Amazon Technologies Inc
 47.129.189.188,443,SG,Amazon Technologies Inc
 47.129.222.155,443,SG,Amazon Technologies Inc
-47.129.247.41,443,SG,Amazon Technologies Inc
-47.129.181.132,503,SG,Amazon Technologies Inc
 47.129.181.132,554,SG,Amazon Technologies Inc
 47.129.181.132,587,SG,Amazon Technologies Inc
-47.129.181.132,591,SG,Amazon Technologies Inc
 47.129.181.132,789,SG,Amazon Technologies Inc
 47.129.181.132,833,SG,Amazon Technologies Inc
-47.129.115.187,888,SG,Amazon Technologies Inc
-47.129.181.132,888,SG,Amazon Technologies Inc
-47.129.181.132,993,SG,Amazon Technologies Inc
-47.129.181.132,1804,SG,Amazon Technologies Inc
-47.129.181.132,1962,SG,Amazon Technologies Inc
-47.129.181.132,1963,SG,Amazon Technologies Inc
-47.129.181.132,2078,SG,Amazon Technologies Inc
-47.129.181.132,2080,SG,Amazon Technologies Inc
-47.129.181.132,2086,SG,Amazon Technologies Inc
-47.129.181.132,2096,SG,Amazon Technologies Inc
 47.129.181.132,2443,SG,Amazon Technologies Inc
 47.129.181.132,2762,SG,Amazon Technologies Inc
-47.129.181.132,3000,SG,Amazon Technologies Inc
-47.129.181.132,3088,SG,Amazon Technologies Inc
-47.129.181.132,3098,SG,Amazon Technologies Inc
-47.129.181.132,3099,SG,Amazon Technologies Inc
-47.129.181.132,3111,SG,Amazon Technologies Inc
-47.129.181.132,3112,SG,Amazon Technologies Inc
-47.129.181.132,3117,SG,Amazon Technologies Inc
-47.129.181.132,3118,SG,Amazon Technologies Inc
-47.129.181.132,3128,SG,Amazon Technologies Inc
 47.129.181.132,3306,SG,Amazon Technologies Inc
-47.129.181.132,3311,SG,Amazon Technologies Inc
-47.129.181.132,3312,SG,Amazon Technologies Inc
-47.129.181.132,3331,SG,Amazon Technologies Inc
-47.129.181.132,3333,SG,Amazon Technologies Inc
-47.129.181.132,3411,SG,Amazon Technologies Inc
-47.129.181.132,3500,SG,Amazon Technologies Inc
-47.129.181.132,4000,SG,Amazon Technologies Inc
-47.129.181.132,4099,SG,Amazon Technologies Inc
-47.129.181.132,4100,SG,Amazon Technologies Inc
-47.129.181.132,4200,SG,Amazon Technologies Inc
-47.129.181.132,4300,SG,Amazon Technologies Inc
-47.129.181.132,4301,SG,Amazon Technologies Inc
-47.129.181.132,4400,SG,Amazon Technologies Inc
 47.129.181.132,4839,SG,Amazon Technologies Inc
 47.129.181.132,4840,SG,Amazon Technologies Inc
-47.129.181.132,5866,SG,Amazon Technologies Inc
 47.129.181.132,5938,SG,Amazon Technologies Inc
-47.129.181.132,6009,SG,Amazon Technologies Inc
 47.129.181.132,7001,SG,Amazon Technologies Inc
-47.129.181.132,8000,SG,Amazon Technologies Inc
+47.130.26.76,8001,SG,Amazon Technologies Inc
 47.129.181.132,8013,SG,Amazon Technologies Inc
-47.129.115.187,8060,SG,Amazon Technologies Inc
-47.129.115.187,8080,SG,Amazon Technologies Inc
-47.129.181.132,8080,SG,Amazon Technologies Inc
-47.129.115.187,8081,SG,Amazon Technologies Inc
-47.129.115.187,8082,SG,Amazon Technologies Inc
-47.129.181.132,8082,SG,Amazon Technologies Inc
-47.129.181.132,8088,SG,Amazon Technologies Inc
-47.129.181.132,8089,SG,Amazon Technologies Inc
-47.129.181.132,8090,SG,Amazon Technologies Inc
-47.129.181.132,8091,SG,Amazon Technologies Inc
-47.129.181.132,8092,SG,Amazon Technologies Inc
+47.129.37.127,8080,SG,Amazon Technologies Inc
+47.129.40.81,8080,SG,Amazon Technologies Inc
+47.129.170.236,8080,SG,Amazon Technologies Inc
+47.130.26.76,8080,SG,Amazon Technologies Inc
+47.129.216.108,8081,SG,Amazon Technologies Inc
+47.129.37.127,8082,SG,Amazon Technologies Inc
+47.129.170.236,8082,SG,Amazon Technologies Inc
+47.130.35.116,8082,SG,Amazon Technologies Inc
 47.129.181.132,8159,SG,Amazon Technologies Inc
-47.129.115.187,8443,SG,Amazon Technologies Inc
-47.129.181.132,8443,SG,Amazon Technologies Inc
-47.129.115.187,8618,SG,Amazon Technologies Inc
-47.129.181.132,8724,SG,Amazon Technologies Inc
-47.129.115.187,8888,SG,Amazon Technologies Inc
-47.129.115.187,9100,SG,Amazon Technologies Inc
-47.129.181.132,10001,SG,Amazon Technologies Inc
-47.129.181.132,10002,SG,Amazon Technologies Inc
-47.129.181.132,10003,SG,Amazon Technologies Inc
-47.129.181.132,10004,SG,Amazon Technologies Inc
-47.129.181.132,10005,SG,Amazon Technologies Inc
-47.129.181.132,10010,SG,Amazon Technologies Inc
-47.129.181.132,10261,SG,Amazon Technologies Inc
-47.129.181.132,10998,SG,Amazon Technologies Inc
-47.129.115.187,15672,SG,Amazon Technologies Inc
-47.129.181.132,18620,SG,Amazon Technologies Inc
-47.129.181.132,19999,SG,Amazon Technologies Inc
-47.129.181.132,34814,SG,Amazon Technologies Inc
-47.129.247.41,48223,SG,Amazon Technologies Inc
-47.129.181.132,50001,SG,Amazon Technologies Inc
+47.130.26.76,8443,SG,Amazon Technologies Inc
+47.130.35.116,8888,SG,Amazon Technologies Inc
+47.129.40.81,9000,SG,Amazon Technologies Inc
+47.130.26.76,9999,SG,Amazon Technologies Inc
+47.129.38.89,17142,SG,Amazon Technologies Inc
+3.0.147.155,80,SG,Amazon Technologies Inc.
+3.0.161.0,80,SG,Amazon Technologies Inc.
 3.0.200.241,80,SG,Amazon Technologies Inc.
-3.0.220.167,80,SG,Amazon Technologies Inc.
 3.1.85.51,80,SG,Amazon Technologies Inc.
 3.1.202.244,80,SG,Amazon Technologies Inc.
 13.212.19.14,80,SG,Amazon Technologies Inc.
+13.212.35.62,80,SG,Amazon Technologies Inc.
 13.212.37.42,80,SG,Amazon Technologies Inc.
+13.212.61.174,80,SG,Amazon Technologies Inc.
 13.212.169.139,80,SG,Amazon Technologies Inc.
+13.212.184.42,80,SG,Amazon Technologies Inc.
+13.212.189.10,80,SG,Amazon Technologies Inc.
 13.212.214.234,80,SG,Amazon Technologies Inc.
 13.212.247.79,80,SG,Amazon Technologies Inc.
 13.213.17.4,80,SG,Amazon Technologies Inc.
+13.213.50.148,80,SG,Amazon Technologies Inc.
 13.213.62.113,80,SG,Amazon Technologies Inc.
 13.213.64.117,80,SG,Amazon Technologies Inc.
 13.214.19.73,80,SG,Amazon Technologies Inc.
+13.214.111.245,80,SG,Amazon Technologies Inc.
 13.214.131.124,80,SG,Amazon Technologies Inc.
+13.214.235.165,80,SG,Amazon Technologies Inc.
 13.215.71.222,80,SG,Amazon Technologies Inc.
+13.215.153.200,80,SG,Amazon Technologies Inc.
+13.215.184.4,80,SG,Amazon Technologies Inc.
+13.215.207.15,80,SG,Amazon Technologies Inc.
+13.228.128.90,80,SG,Amazon Technologies Inc.
+13.228.132.172,80,SG,Amazon Technologies Inc.
 13.229.50.50,80,SG,Amazon Technologies Inc.
-13.229.66.180,80,SG,Amazon Technologies Inc.
-13.229.83.182,80,SG,Amazon Technologies Inc.
+13.229.66.64,80,SG,Amazon Technologies Inc.
 13.229.104.95,80,SG,Amazon Technologies Inc.
+13.229.152.222,80,SG,Amazon Technologies Inc.
+13.229.200.199,80,SG,Amazon Technologies Inc.
+18.136.126.36,80,SG,Amazon Technologies Inc.
+18.136.183.103,80,SG,Amazon Technologies Inc.
+18.136.222.219,80,SG,Amazon Technologies Inc.
+18.138.20.213,80,SG,Amazon Technologies Inc.
+18.138.34.221,80,SG,Amazon Technologies Inc.
 18.138.233.3,80,SG,Amazon Technologies Inc.
-18.139.116.147,80,SG,Amazon Technologies Inc.
+18.139.181.88,80,SG,Amazon Technologies Inc.
+18.139.226.228,80,SG,Amazon Technologies Inc.
 18.139.254.105,80,SG,Amazon Technologies Inc.
 18.142.116.49,80,SG,Amazon Technologies Inc.
+18.142.122.1,80,SG,Amazon Technologies Inc.
 18.143.67.25,80,SG,Amazon Technologies Inc.
+18.143.77.224,80,SG,Amazon Technologies Inc.
 18.143.149.99,80,SG,Amazon Technologies Inc.
+18.143.176.78,80,SG,Amazon Technologies Inc.
+18.143.176.84,80,SG,Amazon Technologies Inc.
 18.143.238.92,80,SG,Amazon Technologies Inc.
+54.254.53.6,80,SG,Amazon Technologies Inc.
+54.254.63.54,80,SG,Amazon Technologies Inc.
+54.254.137.7,80,SG,Amazon Technologies Inc.
+54.254.143.80,80,SG,Amazon Technologies Inc.
+54.254.144.212,80,SG,Amazon Technologies Inc.
+54.254.145.25,80,SG,Amazon Technologies Inc.
 54.254.243.128,80,SG,Amazon Technologies Inc.
+54.255.7.33,80,SG,Amazon Technologies Inc.
 54.255.123.61,80,SG,Amazon Technologies Inc.
+54.255.164.114,80,SG,Amazon Technologies Inc.
+54.255.191.149,80,SG,Amazon Technologies Inc.
 54.255.192.239,80,SG,Amazon Technologies Inc.
+54.255.213.134,80,SG,Amazon Technologies Inc.
+54.255.217.24,80,SG,Amazon Technologies Inc.
 54.255.233.134,80,SG,Amazon Technologies Inc.
 54.255.238.171,80,SG,Amazon Technologies Inc.
-13.229.83.182,82,SG,Amazon Technologies Inc.
-13.229.83.182,103,SG,Amazon Technologies Inc.
+3.0.92.71,443,SG,Amazon Technologies Inc.
 3.0.92.229,443,SG,Amazon Technologies Inc.
+3.0.96.52,443,SG,Amazon Technologies Inc.
+3.0.147.13,443,SG,Amazon Technologies Inc.
+3.0.161.0,443,SG,Amazon Technologies Inc.
 3.0.220.167,443,SG,Amazon Technologies Inc.
+3.1.83.16,443,SG,Amazon Technologies Inc.
 3.1.85.51,443,SG,Amazon Technologies Inc.
+3.1.103.136,443,SG,Amazon Technologies Inc.
 3.1.202.244,443,SG,Amazon Technologies Inc.
+3.1.206.77,443,SG,Amazon Technologies Inc.
 13.212.19.14,443,SG,Amazon Technologies Inc.
+13.212.24.191,443,SG,Amazon Technologies Inc.
+13.212.35.62,443,SG,Amazon Technologies Inc.
 13.212.37.42,443,SG,Amazon Technologies Inc.
+13.212.44.247,443,SG,Amazon Technologies Inc.
+13.212.45.253,443,SG,Amazon Technologies Inc.
+13.212.61.174,443,SG,Amazon Technologies Inc.
+13.212.89.11,443,SG,Amazon Technologies Inc.
+13.212.96.176,443,SG,Amazon Technologies Inc.
+13.212.114.161,443,SG,Amazon Technologies Inc.
+13.212.118.214,443,SG,Amazon Technologies Inc.
+13.212.146.69,443,SG,Amazon Technologies Inc.
 13.212.169.139,443,SG,Amazon Technologies Inc.
+13.212.184.42,443,SG,Amazon Technologies Inc.
+13.212.189.10,443,SG,Amazon Technologies Inc.
 13.212.214.234,443,SG,Amazon Technologies Inc.
+13.212.217.48,443,SG,Amazon Technologies Inc.
 13.212.247.79,443,SG,Amazon Technologies Inc.
-13.213.17.4,443,SG,Amazon Technologies Inc.
 13.213.62.113,443,SG,Amazon Technologies Inc.
 13.213.64.117,443,SG,Amazon Technologies Inc.
+13.213.248.243,443,SG,Amazon Technologies Inc.
 13.214.19.73,443,SG,Amazon Technologies Inc.
 13.214.131.124,443,SG,Amazon Technologies Inc.
+13.214.209.57,443,SG,Amazon Technologies Inc.
+13.214.235.165,443,SG,Amazon Technologies Inc.
+13.215.49.188,443,SG,Amazon Technologies Inc.
 13.215.71.222,443,SG,Amazon Technologies Inc.
+13.215.99.251,443,SG,Amazon Technologies Inc.
+13.215.153.200,443,SG,Amazon Technologies Inc.
+13.215.184.4,443,SG,Amazon Technologies Inc.
+13.215.207.15,443,SG,Amazon Technologies Inc.
 13.215.251.238,443,SG,Amazon Technologies Inc.
+13.215.254.149,443,SG,Amazon Technologies Inc.
+13.228.128.90,443,SG,Amazon Technologies Inc.
+13.228.236.157,443,SG,Amazon Technologies Inc.
 13.229.50.50,443,SG,Amazon Technologies Inc.
 13.229.66.180,443,SG,Amazon Technologies Inc.
+13.229.74.30,443,SG,Amazon Technologies Inc.
 13.229.83.182,443,SG,Amazon Technologies Inc.
 13.229.104.95,443,SG,Amazon Technologies Inc.
+13.229.152.222,443,SG,Amazon Technologies Inc.
+13.229.200.199,443,SG,Amazon Technologies Inc.
+13.229.205.78,443,SG,Amazon Technologies Inc.
 18.136.25.202,443,SG,Amazon Technologies Inc.
+18.136.126.36,443,SG,Amazon Technologies Inc.
+18.136.205.162,443,SG,Amazon Technologies Inc.
+18.136.209.87,443,SG,Amazon Technologies Inc.
+18.138.20.213,443,SG,Amazon Technologies Inc.
+18.138.34.221,443,SG,Amazon Technologies Inc.
 18.138.233.3,443,SG,Amazon Technologies Inc.
-18.139.116.147,443,SG,Amazon Technologies Inc.
+18.139.51.61,443,SG,Amazon Technologies Inc.
+18.139.84.119,443,SG,Amazon Technologies Inc.
+18.139.132.180,443,SG,Amazon Technologies Inc.
+18.139.181.88,443,SG,Amazon Technologies Inc.
+18.139.223.115,443,SG,Amazon Technologies Inc.
+18.139.223.125,443,SG,Amazon Technologies Inc.
+18.139.226.228,443,SG,Amazon Technologies Inc.
 18.139.254.105,443,SG,Amazon Technologies Inc.
+18.142.48.188,443,SG,Amazon Technologies Inc.
+18.142.51.189,443,SG,Amazon Technologies Inc.
 18.142.116.49,443,SG,Amazon Technologies Inc.
+18.142.131.247,443,SG,Amazon Technologies Inc.
+18.142.237.36,443,SG,Amazon Technologies Inc.
 18.143.67.25,443,SG,Amazon Technologies Inc.
+18.143.76.49,443,SG,Amazon Technologies Inc.
+18.143.77.224,443,SG,Amazon Technologies Inc.
 18.143.92.18,443,SG,Amazon Technologies Inc.
+18.143.176.78,443,SG,Amazon Technologies Inc.
+18.143.176.84,443,SG,Amazon Technologies Inc.
+18.143.182.172,443,SG,Amazon Technologies Inc.
 18.143.238.92,443,SG,Amazon Technologies Inc.
+54.151.241.159,443,SG,Amazon Technologies Inc.
+54.254.53.6,443,SG,Amazon Technologies Inc.
+54.254.63.54,443,SG,Amazon Technologies Inc.
+54.254.91.133,443,SG,Amazon Technologies Inc.
+54.254.137.7,443,SG,Amazon Technologies Inc.
+54.254.143.80,443,SG,Amazon Technologies Inc.
+54.254.145.25,443,SG,Amazon Technologies Inc.
+54.254.242.222,443,SG,Amazon Technologies Inc.
 54.254.243.128,443,SG,Amazon Technologies Inc.
+54.255.7.33,443,SG,Amazon Technologies Inc.
 54.255.123.61,443,SG,Amazon Technologies Inc.
+54.255.164.114,443,SG,Amazon Technologies Inc.
+54.255.187.72,443,SG,Amazon Technologies Inc.
+54.255.191.149,443,SG,Amazon Technologies Inc.
 54.255.192.239,443,SG,Amazon Technologies Inc.
+54.255.202.159,443,SG,Amazon Technologies Inc.
+54.255.213.134,443,SG,Amazon Technologies Inc.
+54.255.217.24,443,SG,Amazon Technologies Inc.
 54.255.233.134,443,SG,Amazon Technologies Inc.
 54.255.238.171,443,SG,Amazon Technologies Inc.
-13.229.83.182,465,SG,Amazon Technologies Inc.
-13.229.83.182,503,SG,Amazon Technologies Inc.
-13.229.83.182,563,SG,Amazon Technologies Inc.
-13.229.83.182,587,SG,Amazon Technologies Inc.
-13.229.83.182,591,SG,Amazon Technologies Inc.
-3.0.220.167,888,SG,Amazon Technologies Inc.
-3.1.85.51,888,SG,Amazon Technologies Inc.
-13.229.50.50,888,SG,Amazon Technologies Inc.
-13.229.83.182,888,SG,Amazon Technologies Inc.
-18.139.116.147,888,SG,Amazon Technologies Inc.
-18.139.254.105,888,SG,Amazon Technologies Inc.
-18.142.116.49,888,SG,Amazon Technologies Inc.
-54.255.123.61,888,SG,Amazon Technologies Inc.
-13.229.83.182,993,SG,Amazon Technologies Inc.
-13.229.83.182,1804,SG,Amazon Technologies Inc.
-13.229.83.182,1962,SG,Amazon Technologies Inc.
-13.229.83.182,1963,SG,Amazon Technologies Inc.
-13.229.50.50,2053,SG,Amazon Technologies Inc.
+13.228.236.157,465,SG,Amazon Technologies Inc.
+13.228.236.157,563,SG,Amazon Technologies Inc.
+13.215.153.200,888,SG,Amazon Technologies Inc.
+13.215.184.4,888,SG,Amazon Technologies Inc.
+13.228.128.90,888,SG,Amazon Technologies Inc.
+13.229.152.222,888,SG,Amazon Technologies Inc.
+18.136.126.36,888,SG,Amazon Technologies Inc.
+18.139.226.228,888,SG,Amazon Technologies Inc.
+54.254.91.133,888,SG,Amazon Technologies Inc.
+3.1.116.161,2053,SG,Amazon Technologies Inc.
 18.143.238.92,2053,SG,Amazon Technologies Inc.
-13.229.83.182,2078,SG,Amazon Technologies Inc.
-13.229.83.182,2080,SG,Amazon Technologies Inc.
-13.229.83.182,2086,SG,Amazon Technologies Inc.
-13.229.83.182,2096,SG,Amazon Technologies Inc.
-13.212.169.139,3000,SG,Amazon Technologies Inc.
-13.214.131.124,3000,SG,Amazon Technologies Inc.
-13.229.50.50,3000,SG,Amazon Technologies Inc.
-13.229.83.182,3000,SG,Amazon Technologies Inc.
-13.229.83.182,3128,SG,Amazon Technologies Inc.
-13.212.169.139,5000,SG,Amazon Technologies Inc.
-13.214.131.124,5000,SG,Amazon Technologies Inc.
-13.229.50.50,5000,SG,Amazon Technologies Inc.
-13.229.83.182,5001,SG,Amazon Technologies Inc.
-13.229.83.182,5866,SG,Amazon Technologies Inc.
-13.229.83.182,6009,SG,Amazon Technologies Inc.
-3.0.220.167,7800,SG,Amazon Technologies Inc.
-3.1.85.51,7800,SG,Amazon Technologies Inc.
-13.229.83.182,7800,SG,Amazon Technologies Inc.
-18.139.254.105,7800,SG,Amazon Technologies Inc.
-54.255.123.61,7800,SG,Amazon Technologies Inc.
-13.213.17.4,8000,SG,Amazon Technologies Inc.
-13.229.83.182,8000,SG,Amazon Technologies Inc.
-13.212.169.139,8001,SG,Amazon Technologies Inc.
-13.213.17.4,8001,SG,Amazon Technologies Inc.
-13.214.131.124,8001,SG,Amazon Technologies Inc.
-13.229.50.50,8001,SG,Amazon Technologies Inc.
-13.229.83.182,8001,SG,Amazon Technologies Inc.
-13.212.169.139,8008,SG,Amazon Technologies Inc.
-13.214.131.124,8008,SG,Amazon Technologies Inc.
-13.229.50.50,8008,SG,Amazon Technologies Inc.
-13.229.50.50,8060,SG,Amazon Technologies Inc.
-13.229.83.182,8060,SG,Amazon Technologies Inc.
-54.255.123.61,8060,SG,Amazon Technologies Inc.
-3.0.220.167,8080,SG,Amazon Technologies Inc.
-13.212.169.139,8080,SG,Amazon Technologies Inc.
-13.213.17.4,8080,SG,Amazon Technologies Inc.
-13.214.131.124,8080,SG,Amazon Technologies Inc.
-13.229.50.50,8080,SG,Amazon Technologies Inc.
-13.229.83.182,8080,SG,Amazon Technologies Inc.
-18.139.116.147,8080,SG,Amazon Technologies Inc.
-18.139.254.105,8080,SG,Amazon Technologies Inc.
-18.142.116.49,8080,SG,Amazon Technologies Inc.
-18.143.67.25,8080,SG,Amazon Technologies Inc.
-18.143.238.92,8080,SG,Amazon Technologies Inc.
-54.255.123.61,8080,SG,Amazon Technologies Inc.
-13.212.169.139,8081,SG,Amazon Technologies Inc.
-13.214.131.124,8081,SG,Amazon Technologies Inc.
-13.229.50.50,8081,SG,Amazon Technologies Inc.
-13.229.83.182,8081,SG,Amazon Technologies Inc.
-54.255.123.61,8081,SG,Amazon Technologies Inc.
-3.0.220.167,8082,SG,Amazon Technologies Inc.
-13.229.50.50,8082,SG,Amazon Technologies Inc.
-13.229.83.182,8082,SG,Amazon Technologies Inc.
-18.139.116.147,8082,SG,Amazon Technologies Inc.
-18.143.67.25,8082,SG,Amazon Technologies Inc.
-54.255.123.61,8082,SG,Amazon Technologies Inc.
-13.212.37.42,8083,SG,Amazon Technologies Inc.
-13.212.37.42,8085,SG,Amazon Technologies Inc.
-13.229.83.182,8088,SG,Amazon Technologies Inc.
-13.229.83.182,8089,SG,Amazon Technologies Inc.
-13.212.169.139,8090,SG,Amazon Technologies Inc.
-13.214.131.124,8090,SG,Amazon Technologies Inc.
-13.229.50.50,8090,SG,Amazon Technologies Inc.
-13.229.83.182,8090,SG,Amazon Technologies Inc.
-13.229.83.182,8091,SG,Amazon Technologies Inc.
-13.229.83.182,8092,SG,Amazon Technologies Inc.
-13.212.169.139,8181,SG,Amazon Technologies Inc.
-13.214.131.124,8181,SG,Amazon Technologies Inc.
-13.229.50.50,8181,SG,Amazon Technologies Inc.
-13.212.169.139,8300,SG,Amazon Technologies Inc.
-13.214.131.124,8300,SG,Amazon Technologies Inc.
-13.229.50.50,8300,SG,Amazon Technologies Inc.
-13.212.169.139,8400,SG,Amazon Technologies Inc.
-13.214.131.124,8400,SG,Amazon Technologies Inc.
-13.229.50.50,8400,SG,Amazon Technologies Inc.
-13.213.62.113,8443,SG,Amazon Technologies Inc.
-13.229.50.50,8443,SG,Amazon Technologies Inc.
-13.229.83.182,8443,SG,Amazon Technologies Inc.
+54.255.174.120,2053,SG,Amazon Technologies Inc.
+18.139.132.180,2095,SG,Amazon Technologies Inc.
+18.139.132.180,2096,SG,Amazon Technologies Inc.
+13.213.50.148,3000,SG,Amazon Technologies Inc.
+54.254.143.80,3000,SG,Amazon Technologies Inc.
+54.254.145.25,3000,SG,Amazon Technologies Inc.
+54.254.137.7,3088,SG,Amazon Technologies Inc.
+54.254.137.7,3098,SG,Amazon Technologies Inc.
+54.254.137.7,3099,SG,Amazon Technologies Inc.
+54.254.137.7,3111,SG,Amazon Technologies Inc.
+54.254.137.7,3112,SG,Amazon Technologies Inc.
+54.254.137.7,3117,SG,Amazon Technologies Inc.
+54.254.137.7,3118,SG,Amazon Technologies Inc.
+13.212.114.161,3128,SG,Amazon Technologies Inc.
+13.214.209.57,3128,SG,Amazon Technologies Inc.
+18.142.51.189,3128,SG,Amazon Technologies Inc.
+54.254.137.7,3311,SG,Amazon Technologies Inc.
+54.254.137.7,3312,SG,Amazon Technologies Inc.
+54.254.137.7,3331,SG,Amazon Technologies Inc.
+54.254.137.7,3333,SG,Amazon Technologies Inc.
+54.254.137.7,3411,SG,Amazon Technologies Inc.
+54.254.137.7,3500,SG,Amazon Technologies Inc.
+54.254.137.7,4000,SG,Amazon Technologies Inc.
+54.254.137.7,4099,SG,Amazon Technologies Inc.
+54.254.137.7,4100,SG,Amazon Technologies Inc.
+54.254.137.7,4200,SG,Amazon Technologies Inc.
+54.254.137.7,4300,SG,Amazon Technologies Inc.
+54.254.137.7,4301,SG,Amazon Technologies Inc.
+54.254.137.7,4400,SG,Amazon Technologies Inc.
+54.254.143.80,5000,SG,Amazon Technologies Inc.
+54.254.145.25,6768,SG,Amazon Technologies Inc.
+13.215.153.200,7800,SG,Amazon Technologies Inc.
+13.215.184.4,7800,SG,Amazon Technologies Inc.
+18.136.126.36,7800,SG,Amazon Technologies Inc.
+18.139.226.228,7800,SG,Amazon Technologies Inc.
+13.213.50.148,8000,SG,Amazon Technologies Inc.
+18.136.205.162,8000,SG,Amazon Technologies Inc.
+18.139.84.119,8000,SG,Amazon Technologies Inc.
+18.139.84.119,8001,SG,Amazon Technologies Inc.
+54.254.143.80,8001,SG,Amazon Technologies Inc.
+54.254.143.80,8008,SG,Amazon Technologies Inc.
+18.138.20.213,8042,SG,Amazon Technologies Inc.
+3.0.147.13,8080,SG,Amazon Technologies Inc.
+3.1.116.161,8080,SG,Amazon Technologies Inc.
+3.1.211.253,8080,SG,Amazon Technologies Inc.
+13.212.96.176,8080,SG,Amazon Technologies Inc.
+13.212.118.214,8080,SG,Amazon Technologies Inc.
+13.228.128.90,8080,SG,Amazon Technologies Inc.
+18.136.205.162,8080,SG,Amazon Technologies Inc.
+18.136.209.87,8080,SG,Amazon Technologies Inc.
+18.138.34.221,8080,SG,Amazon Technologies Inc.
+18.142.122.1,8080,SG,Amazon Technologies Inc.
+54.151.241.159,8080,SG,Amazon Technologies Inc.
+54.254.143.80,8080,SG,Amazon Technologies Inc.
+54.255.217.24,8080,SG,Amazon Technologies Inc.
+3.0.147.13,8082,SG,Amazon Technologies Inc.
+13.212.96.176,8082,SG,Amazon Technologies Inc.
+13.229.205.78,8082,SG,Amazon Technologies Inc.
+18.136.205.162,8082,SG,Amazon Technologies Inc.
+18.136.209.87,8082,SG,Amazon Technologies Inc.
+54.151.241.159,8082,SG,Amazon Technologies Inc.
+18.136.222.219,8083,SG,Amazon Technologies Inc.
+18.136.222.219,8085,SG,Amazon Technologies Inc.
+54.254.143.80,8090,SG,Amazon Technologies Inc.
+54.254.143.80,8181,SG,Amazon Technologies Inc.
+54.254.143.80,8300,SG,Amazon Technologies Inc.
+54.254.143.80,8400,SG,Amazon Technologies Inc.
+3.0.58.86,8443,SG,Amazon Technologies Inc.
+3.1.116.161,8443,SG,Amazon Technologies Inc.
+3.1.211.253,8443,SG,Amazon Technologies Inc.
+13.212.184.42,8443,SG,Amazon Technologies Inc.
+13.213.50.148,8443,SG,Amazon Technologies Inc.
+13.228.128.90,8443,SG,Amazon Technologies Inc.
 18.139.116.147,8443,SG,Amazon Technologies Inc.
-18.143.238.92,8443,SG,Amazon Technologies Inc.
-54.255.123.61,8443,SG,Amazon Technologies Inc.
-13.212.169.139,8500,SG,Amazon Technologies Inc.
-13.214.131.124,8500,SG,Amazon Technologies Inc.
-13.229.50.50,8500,SG,Amazon Technologies Inc.
-13.212.169.139,8600,SG,Amazon Technologies Inc.
-13.214.131.124,8600,SG,Amazon Technologies Inc.
-13.229.50.50,8600,SG,Amazon Technologies Inc.
-13.229.50.50,8618,SG,Amazon Technologies Inc.
-13.229.83.182,8618,SG,Amazon Technologies Inc.
-54.255.123.61,8618,SG,Amazon Technologies Inc.
-13.229.83.182,8724,SG,Amazon Technologies Inc.
-13.212.169.139,8800,SG,Amazon Technologies Inc.
-13.214.131.124,8800,SG,Amazon Technologies Inc.
-13.229.50.50,8800,SG,Amazon Technologies Inc.
+18.139.132.180,8443,SG,Amazon Technologies Inc.
+18.142.131.247,8443,SG,Amazon Technologies Inc.
+54.254.53.6,8443,SG,Amazon Technologies Inc.
+54.255.174.120,8443,SG,Amazon Technologies Inc.
+54.254.143.80,8500,SG,Amazon Technologies Inc.
+54.254.143.80,8600,SG,Amazon Technologies Inc.
+54.254.143.80,8800,SG,Amazon Technologies Inc.
+13.213.8.146,8880,SG,Amazon Technologies Inc.
+18.136.195.163,8880,SG,Amazon Technologies Inc.
+54.255.109.170,8880,SG,Amazon Technologies Inc.
 54.255.123.61,8880,SG,Amazon Technologies Inc.
-3.0.220.167,8888,SG,Amazon Technologies Inc.
-3.1.202.244,8888,SG,Amazon Technologies Inc.
-13.213.17.4,8888,SG,Amazon Technologies Inc.
-13.229.50.50,8888,SG,Amazon Technologies Inc.
-13.229.83.182,8888,SG,Amazon Technologies Inc.
-18.139.116.147,8888,SG,Amazon Technologies Inc.
+13.229.105.93,8888,SG,Amazon Technologies Inc.
+18.143.76.49,8888,SG,Amazon Technologies Inc.
 54.255.123.61,8888,SG,Amazon Technologies Inc.
-13.212.169.139,9000,SG,Amazon Technologies Inc.
-13.214.131.124,9000,SG,Amazon Technologies Inc.
-13.229.50.50,9000,SG,Amazon Technologies Inc.
-3.1.202.244,9001,SG,Amazon Technologies Inc.
-13.212.37.42,9001,SG,Amazon Technologies Inc.
-13.213.17.4,9001,SG,Amazon Technologies Inc.
-13.212.37.42,9002,SG,Amazon Technologies Inc.
-13.212.37.42,9003,SG,Amazon Technologies Inc.
-13.212.37.42,9004,SG,Amazon Technologies Inc.
-13.212.37.42,9005,SG,Amazon Technologies Inc.
-13.212.37.42,9006,SG,Amazon Technologies Inc.
-13.212.37.42,9007,SG,Amazon Technologies Inc.
+54.254.143.80,9000,SG,Amazon Technologies Inc.
+18.136.222.219,9001,SG,Amazon Technologies Inc.
+18.136.222.219,9002,SG,Amazon Technologies Inc.
+18.136.222.219,9003,SG,Amazon Technologies Inc.
+18.136.222.219,9004,SG,Amazon Technologies Inc.
+18.136.222.219,9005,SG,Amazon Technologies Inc.
+18.136.222.219,9006,SG,Amazon Technologies Inc.
+18.136.222.219,9007,SG,Amazon Technologies Inc.
 13.214.19.73,9100,SG,Amazon Technologies Inc.
-13.229.104.95,9100,SG,Amazon Technologies Inc.
-13.212.169.139,9300,SG,Amazon Technologies Inc.
-13.214.131.124,9300,SG,Amazon Technologies Inc.
-13.229.50.50,9300,SG,Amazon Technologies Inc.
-3.1.202.244,9888,SG,Amazon Technologies Inc.
-13.213.17.4,9888,SG,Amazon Technologies Inc.
-13.212.169.139,9999,SG,Amazon Technologies Inc.
-13.214.131.124,9999,SG,Amazon Technologies Inc.
-13.229.50.50,9999,SG,Amazon Technologies Inc.
-13.212.214.234,10001,SG,Amazon Technologies Inc.
-13.229.83.182,10001,SG,Amazon Technologies Inc.
-13.229.83.182,10002,SG,Amazon Technologies Inc.
-13.212.214.234,10003,SG,Amazon Technologies Inc.
-13.212.214.234,10004,SG,Amazon Technologies Inc.
-13.229.83.182,10005,SG,Amazon Technologies Inc.
-13.229.83.182,10010,SG,Amazon Technologies Inc.
-13.229.83.182,10261,SG,Amazon Technologies Inc.
-18.143.67.25,10998,SG,Amazon Technologies Inc.
-3.0.220.167,15672,SG,Amazon Technologies Inc.
-13.229.50.50,15672,SG,Amazon Technologies Inc.
-13.229.83.182,15672,SG,Amazon Technologies Inc.
-54.255.123.61,15672,SG,Amazon Technologies Inc.
-3.0.220.167,15674,SG,Amazon Technologies Inc.
-54.255.123.61,15674,SG,Amazon Technologies Inc.
-13.214.131.124,17142,SG,Amazon Technologies Inc.
-13.229.83.182,18620,SG,Amazon Technologies Inc.
-13.229.83.182,19999,SG,Amazon Technologies Inc.
-13.229.83.182,34814,SG,Amazon Technologies Inc.
-54.255.192.239,40000,SG,Amazon Technologies Inc.
-54.255.192.239,50000,SG,Amazon Technologies Inc.
-13.229.83.182,50001,SG,Amazon Technologies Inc.
-13.229.83.182,51001,SG,Amazon Technologies Inc.
-13.229.83.182,61112,SG,Amazon Technologies Inc.
+54.254.143.80,9300,SG,Amazon Technologies Inc.
+3.1.157.83,9876,SG,Amazon Technologies Inc.
+54.254.143.80,9999,SG,Amazon Technologies Inc.
+18.139.51.61,10000,SG,Amazon Technologies Inc.
+18.139.181.88,10001,SG,Amazon Technologies Inc.
+54.254.197.89,10001,SG,Amazon Technologies Inc.
+13.213.50.148,10002,SG,Amazon Technologies Inc.
+18.139.181.88,10003,SG,Amazon Technologies Inc.
+18.139.181.88,10004,SG,Amazon Technologies Inc.
+13.213.50.148,10005,SG,Amazon Technologies Inc.
+13.213.50.148,10010,SG,Amazon Technologies Inc.
+18.142.122.1,15672,SG,Amazon Technologies Inc.
+18.142.122.1,15674,SG,Amazon Technologies Inc.
+13.213.50.148,18620,SG,Amazon Technologies Inc.
+13.229.57.45,21331,SG,Amazon Technologies Inc.
+13.229.57.45,25946,SG,Amazon Technologies Inc.
+13.212.19.68,28138,SG,Amazon Technologies Inc.
+13.214.32.9,30612,SG,Amazon Technologies Inc.
+13.229.57.45,30745,SG,Amazon Technologies Inc.
+13.213.50.148,34814,SG,Amazon Technologies Inc.
+13.229.57.45,35590,SG,Amazon Technologies Inc.
+54.255.187.17,37500,SG,Amazon Technologies Inc.
+3.0.147.155,40000,SG,Amazon Technologies Inc.
+54.254.197.89,44880,SG,Amazon Technologies Inc.
+18.139.132.180,45833,SG,Amazon Technologies Inc.
+13.229.57.45,47994,SG,Amazon Technologies Inc.
+3.0.147.155,50000,SG,Amazon Technologies Inc.
+13.213.50.148,50001,SG,Amazon Technologies Inc.
+54.255.164.114,50151,SG,Amazon Technologies Inc.
+13.229.57.45,50514,SG,Amazon Technologies Inc.
+13.228.236.157,51001,SG,Amazon Technologies Inc.
+18.138.20.213,54321,SG,Amazon Technologies Inc.
+13.212.19.68,56138,SG,Amazon Technologies Inc.
+13.229.57.45,57525,SG,Amazon Technologies Inc.
+13.228.236.157,61112,SG,Amazon Technologies Inc.
+122.248.224.158,80,SG,AMAZON-EC2
+122.248.219.156,443,SG,AMAZON-EC2
+122.248.224.158,443,SG,AMAZON-EC2
+122.248.219.156,10000,SG,AMAZON-EC2
+122.248.224.158,60001,SG,AMAZON-EC2
+122.248.224.158,60101,SG,AMAZON-EC2
+122.248.224.158,60102,SG,AMAZON-EC2
+122.248.224.158,60103,SG,AMAZON-EC2
+122.248.224.158,60110,SG,AMAZON-EC2
+122.248.224.158,60115,SG,AMAZON-EC2
+122.248.224.158,60274,SG,AMAZON-EC2
+54.169.246.125,1,SG,Amazon.com. Inc.
 52.221.212.61,21,SG,Amazon.com. Inc.
 13.250.3.231,80,SG,Amazon.com. Inc.
 13.250.13.79,80,SG,Amazon.com. Inc.
-13.251.155.175,80,SG,Amazon.com. Inc.
+13.250.13.232,80,SG,Amazon.com. Inc.
+13.250.109.252,80,SG,Amazon.com. Inc.
+13.251.143.132,80,SG,Amazon.com. Inc.
 18.141.3.62,80,SG,Amazon.com. Inc.
 18.141.9.158,80,SG,Amazon.com. Inc.
-52.77.34.58,80,SG,Amazon.com. Inc.
+18.141.166.29,80,SG,Amazon.com. Inc.
+52.74.52.71,80,SG,Amazon.com. Inc.
+52.76.137.188,80,SG,Amazon.com. Inc.
+52.77.69.185,80,SG,Amazon.com. Inc.
+52.77.223.167,80,SG,Amazon.com. Inc.
 52.77.224.130,80,SG,Amazon.com. Inc.
-52.221.212.61,80,SG,Amazon.com. Inc.
+52.221.184.62,80,SG,Amazon.com. Inc.
+52.221.235.43,80,SG,Amazon.com. Inc.
+54.169.26.231,80,SG,Amazon.com. Inc.
 54.169.97.5,80,SG,Amazon.com. Inc.
-54.169.141.180,80,SG,Amazon.com. Inc.
-54.169.244.194,80,SG,Amazon.com. Inc.
+54.169.152.223,80,SG,Amazon.com. Inc.
+54.169.254.130,80,SG,Amazon.com. Inc.
 54.179.93.68,80,SG,Amazon.com. Inc.
+54.179.114.38,80,SG,Amazon.com. Inc.
 54.179.145.33,80,SG,Amazon.com. Inc.
 54.251.4.65,80,SG,Amazon.com. Inc.
-54.251.66.241,80,SG,Amazon.com. Inc.
-54.251.221.11,80,SG,Amazon.com. Inc.
+54.251.6.115,80,SG,Amazon.com. Inc.
+54.251.84.189,80,SG,Amazon.com. Inc.
 175.41.164.133,80,SG,Amazon.com. Inc.
+175.41.167.160,80,SG,Amazon.com. Inc.
 175.41.186.209,80,SG,Amazon.com. Inc.
 175.41.189.188,80,SG,Amazon.com. Inc.
-52.221.212.61,82,SG,Amazon.com. Inc.
+54.169.51.64,82,SG,Amazon.com. Inc.
 52.221.212.61,101,SG,Amazon.com. Inc.
-52.221.212.61,103,SG,Amazon.com. Inc.
+54.169.51.64,103,SG,Amazon.com. Inc.
 52.221.212.61,135,SG,Amazon.com. Inc.
 13.250.3.231,443,SG,Amazon.com. Inc.
 13.250.13.79,443,SG,Amazon.com. Inc.
-13.251.155.175,443,SG,Amazon.com. Inc.
+13.250.13.232,443,SG,Amazon.com. Inc.
+13.250.27.92,443,SG,Amazon.com. Inc.
+13.250.36.141,443,SG,Amazon.com. Inc.
+13.250.40.109,443,SG,Amazon.com. Inc.
+13.250.109.252,443,SG,Amazon.com. Inc.
+13.251.143.132,443,SG,Amazon.com. Inc.
+18.140.68.224,443,SG,Amazon.com. Inc.
 18.141.3.62,443,SG,Amazon.com. Inc.
 18.141.9.158,443,SG,Amazon.com. Inc.
+18.141.24.93,443,SG,Amazon.com. Inc.
+46.137.227.3,443,SG,Amazon.com. Inc.
+46.137.243.158,443,SG,Amazon.com. Inc.
+52.74.52.71,443,SG,Amazon.com. Inc.
+52.76.60.175,443,SG,Amazon.com. Inc.
+52.76.137.188,443,SG,Amazon.com. Inc.
+52.76.151.136,443,SG,Amazon.com. Inc.
 52.77.34.58,443,SG,Amazon.com. Inc.
+52.77.69.185,443,SG,Amazon.com. Inc.
+52.77.100.224,443,SG,Amazon.com. Inc.
+52.77.224.71,443,SG,Amazon.com. Inc.
 52.77.224.130,443,SG,Amazon.com. Inc.
+52.220.62.198,443,SG,Amazon.com. Inc.
+52.220.241.119,443,SG,Amazon.com. Inc.
+52.221.26.228,443,SG,Amazon.com. Inc.
 52.221.183.148,443,SG,Amazon.com. Inc.
-52.221.212.61,443,SG,Amazon.com. Inc.
+52.221.184.62,443,SG,Amazon.com. Inc.
+52.221.235.43,443,SG,Amazon.com. Inc.
+52.221.236.248,443,SG,Amazon.com. Inc.
+54.169.26.231,443,SG,Amazon.com. Inc.
+54.169.56.145,443,SG,Amazon.com. Inc.
 54.169.97.5,443,SG,Amazon.com. Inc.
-54.169.141.180,443,SG,Amazon.com. Inc.
-54.169.244.194,443,SG,Amazon.com. Inc.
+54.169.152.223,443,SG,Amazon.com. Inc.
+54.169.160.215,443,SG,Amazon.com. Inc.
+54.169.200.102,443,SG,Amazon.com. Inc.
+54.169.254.130,443,SG,Amazon.com. Inc.
 54.179.93.68,443,SG,Amazon.com. Inc.
+54.179.114.38,443,SG,Amazon.com. Inc.
 54.179.145.33,443,SG,Amazon.com. Inc.
 54.251.4.65,443,SG,Amazon.com. Inc.
+54.251.6.115,443,SG,Amazon.com. Inc.
 54.251.66.241,443,SG,Amazon.com. Inc.
+54.251.84.189,443,SG,Amazon.com. Inc.
+54.251.148.77,443,SG,Amazon.com. Inc.
 54.251.187.101,443,SG,Amazon.com. Inc.
+54.251.207.254,443,SG,Amazon.com. Inc.
 54.251.221.11,443,SG,Amazon.com. Inc.
 175.41.164.133,443,SG,Amazon.com. Inc.
+175.41.167.160,443,SG,Amazon.com. Inc.
 175.41.186.209,443,SG,Amazon.com. Inc.
 175.41.189.188,443,SG,Amazon.com. Inc.
-18.141.9.158,465,SG,Amazon.com. Inc.
 52.221.212.61,465,SG,Amazon.com. Inc.
 52.221.212.61,502,SG,Amazon.com. Inc.
-52.221.212.61,503,SG,Amazon.com. Inc.
-18.141.9.158,563,SG,Amazon.com. Inc.
+54.169.51.64,503,SG,Amazon.com. Inc.
 52.221.212.61,587,SG,Amazon.com. Inc.
-52.221.212.61,591,SG,Amazon.com. Inc.
-18.141.9.158,888,SG,Amazon.com. Inc.
+54.169.51.64,587,SG,Amazon.com. Inc.
+54.169.51.64,591,SG,Amazon.com. Inc.
+13.250.109.252,888,SG,Amazon.com. Inc.
 52.221.212.61,888,SG,Amazon.com. Inc.
-54.169.244.194,888,SG,Amazon.com. Inc.
-54.179.93.68,888,SG,Amazon.com. Inc.
-54.251.4.65,888,SG,Amazon.com. Inc.
-54.251.66.241,888,SG,Amazon.com. Inc.
-175.41.164.133,888,SG,Amazon.com. Inc.
-52.221.212.61,993,SG,Amazon.com. Inc.
-52.221.212.61,1000,SG,Amazon.com. Inc.
-52.221.212.61,1804,SG,Amazon.com. Inc.
-52.221.212.61,1962,SG,Amazon.com. Inc.
-52.221.212.61,1963,SG,Amazon.com. Inc.
+54.169.26.231,888,SG,Amazon.com. Inc.
+175.41.167.160,888,SG,Amazon.com. Inc.
+54.169.51.64,993,SG,Amazon.com. Inc.
+175.41.167.160,1000,SG,Amazon.com. Inc.
+54.169.51.64,1804,SG,Amazon.com. Inc.
+54.169.51.64,1962,SG,Amazon.com. Inc.
+54.169.51.64,1963,SG,Amazon.com. Inc.
 52.221.212.61,2000,SG,Amazon.com. Inc.
-54.169.141.180,2053,SG,Amazon.com. Inc.
-54.169.244.194,2053,SG,Amazon.com. Inc.
-52.221.212.61,2078,SG,Amazon.com. Inc.
-52.221.212.61,2080,SG,Amazon.com. Inc.
-52.221.212.61,2086,SG,Amazon.com. Inc.
+54.169.51.64,2078,SG,Amazon.com. Inc.
+54.169.51.64,2080,SG,Amazon.com. Inc.
+54.169.51.64,2086,SG,Amazon.com. Inc.
 52.77.34.58,2095,SG,Amazon.com. Inc.
-54.169.244.194,2095,SG,Amazon.com. Inc.
 52.77.34.58,2096,SG,Amazon.com. Inc.
-52.221.212.61,2096,SG,Amazon.com. Inc.
-54.169.244.194,2096,SG,Amazon.com. Inc.
-52.221.212.61,3000,SG,Amazon.com. Inc.
-54.169.141.180,3000,SG,Amazon.com. Inc.
-54.179.93.68,3000,SG,Amazon.com. Inc.
-52.221.212.61,3001,SG,Amazon.com. Inc.
+54.169.51.64,2096,SG,Amazon.com. Inc.
+54.169.128.166,3000,SG,Amazon.com. Inc.
+54.169.128.166,3001,SG,Amazon.com. Inc.
 54.169.244.194,3001,SG,Amazon.com. Inc.
-52.221.212.61,3088,SG,Amazon.com. Inc.
-52.221.212.61,3098,SG,Amazon.com. Inc.
-52.221.212.61,3099,SG,Amazon.com. Inc.
-52.221.212.61,3111,SG,Amazon.com. Inc.
-52.221.212.61,3112,SG,Amazon.com. Inc.
-52.221.212.61,3117,SG,Amazon.com. Inc.
-52.221.212.61,3118,SG,Amazon.com. Inc.
-13.250.3.231,3128,SG,Amazon.com. Inc.
-52.221.212.61,3128,SG,Amazon.com. Inc.
-54.251.66.241,3128,SG,Amazon.com. Inc.
-52.221.212.61,3311,SG,Amazon.com. Inc.
-52.221.212.61,3312,SG,Amazon.com. Inc.
-52.221.212.61,3331,SG,Amazon.com. Inc.
-52.221.212.61,3333,SG,Amazon.com. Inc.
-52.221.212.61,3411,SG,Amazon.com. Inc.
-52.221.212.61,3500,SG,Amazon.com. Inc.
-52.221.212.61,4000,SG,Amazon.com. Inc.
-52.221.212.61,4099,SG,Amazon.com. Inc.
-52.221.212.61,4100,SG,Amazon.com. Inc.
-52.221.212.61,4200,SG,Amazon.com. Inc.
-52.221.212.61,4300,SG,Amazon.com. Inc.
-52.221.212.61,4301,SG,Amazon.com. Inc.
-52.221.212.61,4400,SG,Amazon.com. Inc.
-52.221.212.61,5000,SG,Amazon.com. Inc.
-52.221.212.61,5001,SG,Amazon.com. Inc.
+52.76.151.136,3128,SG,Amazon.com. Inc.
+54.169.51.64,3128,SG,Amazon.com. Inc.
+54.169.229.233,5001,SG,Amazon.com. Inc.
 52.221.212.61,5672,SG,Amazon.com. Inc.
-52.221.212.61,5866,SG,Amazon.com. Inc.
+54.169.51.64,5866,SG,Amazon.com. Inc.
 52.221.212.61,6001,SG,Amazon.com. Inc.
 52.221.212.61,6004,SG,Amazon.com. Inc.
-52.221.212.61,6009,SG,Amazon.com. Inc.
+54.169.51.64,6009,SG,Amazon.com. Inc.
 52.221.212.61,6242,SG,Amazon.com. Inc.
-52.221.212.61,6768,SG,Amazon.com. Inc.
-54.179.93.68,6768,SG,Amazon.com. Inc.
 52.221.212.61,7170,SG,Amazon.com. Inc.
 52.221.212.61,7443,SG,Amazon.com. Inc.
-18.141.9.158,7800,SG,Amazon.com. Inc.
-52.221.212.61,7800,SG,Amazon.com. Inc.
-54.251.4.65,7800,SG,Amazon.com. Inc.
-52.221.212.61,8000,SG,Amazon.com. Inc.
-54.169.141.180,8000,SG,Amazon.com. Inc.
-54.179.93.68,8000,SG,Amazon.com. Inc.
-54.251.66.241,8000,SG,Amazon.com. Inc.
+13.250.109.252,7800,SG,Amazon.com. Inc.
+54.169.51.64,8000,SG,Amazon.com. Inc.
+54.169.229.233,8000,SG,Amazon.com. Inc.
 52.221.212.61,8001,SG,Amazon.com. Inc.
-54.169.141.180,8001,SG,Amazon.com. Inc.
-54.179.93.68,8001,SG,Amazon.com. Inc.
-54.251.66.241,8001,SG,Amazon.com. Inc.
-52.221.212.61,8008,SG,Amazon.com. Inc.
-18.141.9.158,8042,SG,Amazon.com. Inc.
-52.221.212.61,8060,SG,Amazon.com. Inc.
-54.169.244.194,8060,SG,Amazon.com. Inc.
-175.41.164.133,8060,SG,Amazon.com. Inc.
-13.250.3.231,8080,SG,Amazon.com. Inc.
+54.169.229.233,8001,SG,Amazon.com. Inc.
+54.169.26.231,8060,SG,Amazon.com. Inc.
+13.250.36.141,8080,SG,Amazon.com. Inc.
 13.251.155.175,8080,SG,Amazon.com. Inc.
-52.221.212.61,8080,SG,Amazon.com. Inc.
-54.169.97.5,8080,SG,Amazon.com. Inc.
-54.169.141.180,8080,SG,Amazon.com. Inc.
-54.169.244.194,8080,SG,Amazon.com. Inc.
-54.179.93.68,8080,SG,Amazon.com. Inc.
+18.141.198.188,8080,SG,Amazon.com. Inc.
+52.76.151.136,8080,SG,Amazon.com. Inc.
+54.169.26.231,8080,SG,Amazon.com. Inc.
+54.169.56.145,8080,SG,Amazon.com. Inc.
+54.169.200.102,8080,SG,Amazon.com. Inc.
+54.179.114.38,8080,SG,Amazon.com. Inc.
 54.251.66.241,8080,SG,Amazon.com. Inc.
-175.41.164.133,8080,SG,Amazon.com. Inc.
-52.221.212.61,8081,SG,Amazon.com. Inc.
-54.169.244.194,8081,SG,Amazon.com. Inc.
-175.41.164.133,8081,SG,Amazon.com. Inc.
-13.251.155.175,8082,SG,Amazon.com. Inc.
-54.169.97.5,8082,SG,Amazon.com. Inc.
-54.251.66.241,8082,SG,Amazon.com. Inc.
-175.41.164.133,8082,SG,Amazon.com. Inc.
-52.221.212.61,8083,SG,Amazon.com. Inc.
-52.221.212.61,8085,SG,Amazon.com. Inc.
-54.169.141.180,8088,SG,Amazon.com. Inc.
-54.251.66.241,8088,SG,Amazon.com. Inc.
-54.251.66.241,8089,SG,Amazon.com. Inc.
-52.221.212.61,8090,SG,Amazon.com. Inc.
-54.251.66.241,8090,SG,Amazon.com. Inc.
-54.251.66.241,8091,SG,Amazon.com. Inc.
-54.251.66.241,8092,SG,Amazon.com. Inc.
-52.221.212.61,8181,SG,Amazon.com. Inc.
-52.221.212.61,8300,SG,Amazon.com. Inc.
-52.221.212.61,8400,SG,Amazon.com. Inc.
+54.169.26.231,8081,SG,Amazon.com. Inc.
+13.250.36.141,8082,SG,Amazon.com. Inc.
+54.169.56.145,8082,SG,Amazon.com. Inc.
+54.169.200.102,8082,SG,Amazon.com. Inc.
+54.169.246.125,8082,SG,Amazon.com. Inc.
+52.76.151.136,8088,SG,Amazon.com. Inc.
+54.169.254.130,8088,SG,Amazon.com. Inc.
+52.76.151.136,8089,SG,Amazon.com. Inc.
+52.76.151.136,8090,SG,Amazon.com. Inc.
+52.76.151.136,8091,SG,Amazon.com. Inc.
+52.76.151.136,8092,SG,Amazon.com. Inc.
 13.250.3.231,8443,SG,Amazon.com. Inc.
-13.250.13.79,8443,SG,Amazon.com. Inc.
-13.251.155.175,8443,SG,Amazon.com. Inc.
+13.250.27.92,8443,SG,Amazon.com. Inc.
 52.77.34.58,8443,SG,Amazon.com. Inc.
-52.221.212.61,8443,SG,Amazon.com. Inc.
+52.221.49.186,8443,SG,Amazon.com. Inc.
+54.169.26.231,8443,SG,Amazon.com. Inc.
 54.169.141.180,8443,SG,Amazon.com. Inc.
+54.169.197.111,8443,SG,Amazon.com. Inc.
 54.169.244.194,8443,SG,Amazon.com. Inc.
-54.179.93.68,8443,SG,Amazon.com. Inc.
-54.251.4.65,8443,SG,Amazon.com. Inc.
-54.251.66.241,8443,SG,Amazon.com. Inc.
-175.41.164.133,8443,SG,Amazon.com. Inc.
-52.221.212.61,8500,SG,Amazon.com. Inc.
-52.221.212.61,8600,SG,Amazon.com. Inc.
-52.221.212.61,8618,SG,Amazon.com. Inc.
-54.169.244.194,8618,SG,Amazon.com. Inc.
-175.41.164.133,8618,SG,Amazon.com. Inc.
+54.169.254.130,8443,SG,Amazon.com. Inc.
+54.179.114.38,8443,SG,Amazon.com. Inc.
+54.169.26.231,8618,SG,Amazon.com. Inc.
 52.221.212.61,8636,SG,Amazon.com. Inc.
-52.221.212.61,8724,SG,Amazon.com. Inc.
-52.221.212.61,8800,SG,Amazon.com. Inc.
-54.169.97.5,8880,SG,Amazon.com. Inc.
-52.221.212.61,8888,SG,Amazon.com. Inc.
-54.169.244.194,8888,SG,Amazon.com. Inc.
-175.41.164.133,8888,SG,Amazon.com. Inc.
-52.221.212.61,9000,SG,Amazon.com. Inc.
-54.251.66.241,9000,SG,Amazon.com. Inc.
-54.251.221.11,9000,SG,Amazon.com. Inc.
-52.221.212.61,9001,SG,Amazon.com. Inc.
-52.221.212.61,9002,SG,Amazon.com. Inc.
-52.221.212.61,9003,SG,Amazon.com. Inc.
-52.221.212.61,9004,SG,Amazon.com. Inc.
-52.221.212.61,9005,SG,Amazon.com. Inc.
-52.221.212.61,9006,SG,Amazon.com. Inc.
-52.221.212.61,9007,SG,Amazon.com. Inc.
-13.251.155.175,9100,SG,Amazon.com. Inc.
-52.221.212.61,9300,SG,Amazon.com. Inc.
+54.169.51.64,8724,SG,Amazon.com. Inc.
+52.221.195.233,8888,SG,Amazon.com. Inc.
+54.169.26.231,8888,SG,Amazon.com. Inc.
+46.137.243.158,9000,SG,Amazon.com. Inc.
+54.251.84.189,9001,SG,Amazon.com. Inc.
+52.76.137.188,9100,SG,Amazon.com. Inc.
 52.221.212.61,9600,SG,Amazon.com. Inc.
-175.41.186.209,9876,SG,Amazon.com. Inc.
+54.251.84.189,9888,SG,Amazon.com. Inc.
 52.220.49.82,9999,SG,Amazon.com. Inc.
-52.221.212.61,9999,SG,Amazon.com. Inc.
-54.169.141.180,9999,SG,Amazon.com. Inc.
-54.251.66.241,9999,SG,Amazon.com. Inc.
-52.221.212.61,10000,SG,Amazon.com. Inc.
-54.169.97.5,10000,SG,Amazon.com. Inc.
+13.250.40.109,10000,SG,Amazon.com. Inc.
+46.137.227.3,10000,SG,Amazon.com. Inc.
+46.137.243.158,10000,SG,Amazon.com. Inc.
+52.220.241.119,10000,SG,Amazon.com. Inc.
+52.221.202.96,10000,SG,Amazon.com. Inc.
 54.251.221.11,10000,SG,Amazon.com. Inc.
 52.221.212.61,10001,SG,Amazon.com. Inc.
-52.221.212.61,10002,SG,Amazon.com. Inc.
-54.169.97.5,10002,SG,Amazon.com. Inc.
-54.169.141.180,10002,SG,Amazon.com. Inc.
-52.221.212.61,10005,SG,Amazon.com. Inc.
-54.169.141.180,10005,SG,Amazon.com. Inc.
-52.221.212.61,10010,SG,Amazon.com. Inc.
-54.169.141.180,10010,SG,Amazon.com. Inc.
-52.221.212.61,10100,SG,Amazon.com. Inc.
-52.221.212.61,10101,SG,Amazon.com. Inc.
-52.221.212.61,10261,SG,Amazon.com. Inc.
-52.221.212.61,11011,SG,Amazon.com. Inc.
+54.169.51.64,10001,SG,Amazon.com. Inc.
+52.221.202.96,10002,SG,Amazon.com. Inc.
+175.41.167.160,10100,SG,Amazon.com. Inc.
+175.41.167.160,10101,SG,Amazon.com. Inc.
+54.169.51.64,10261,SG,Amazon.com. Inc.
+13.251.143.132,10998,SG,Amazon.com. Inc.
+175.41.167.160,11011,SG,Amazon.com. Inc.
 54.169.159.59,11585,SG,Amazon.com. Inc.
 54.169.159.59,11586,SG,Amazon.com. Inc.
 54.169.159.59,11587,SG,Amazon.com. Inc.
@@ -551,43 +561,10 @@
 54.169.159.59,11591,SG,Amazon.com. Inc.
 54.169.159.59,11593,SG,Amazon.com. Inc.
 54.169.159.59,11594,SG,Amazon.com. Inc.
-52.221.212.61,15672,SG,Amazon.com. Inc.
-54.169.244.194,15672,SG,Amazon.com. Inc.
-54.251.66.241,15672,SG,Amazon.com. Inc.
-175.41.164.133,15672,SG,Amazon.com. Inc.
-54.251.66.241,15674,SG,Amazon.com. Inc.
-52.221.212.61,18620,SG,Amazon.com. Inc.
-54.169.141.180,18620,SG,Amazon.com. Inc.
+54.169.26.231,15672,SG,Amazon.com. Inc.
 54.251.66.241,19671,SG,Amazon.com. Inc.
-54.251.66.241,19999,SG,Amazon.com. Inc.
-54.251.221.11,20000,SG,Amazon.com. Inc.
-13.250.3.231,21331,SG,Amazon.com. Inc.
-13.250.3.231,25946,SG,Amazon.com. Inc.
-13.251.155.175,28138,SG,Amazon.com. Inc.
-13.251.155.175,30612,SG,Amazon.com. Inc.
-13.250.3.231,30745,SG,Amazon.com. Inc.
-52.221.212.61,34814,SG,Amazon.com. Inc.
-54.169.141.180,34814,SG,Amazon.com. Inc.
-13.250.3.231,35590,SG,Amazon.com. Inc.
-54.169.97.5,37500,SG,Amazon.com. Inc.
-52.221.212.61,44880,SG,Amazon.com. Inc.
-54.169.244.194,45833,SG,Amazon.com. Inc.
-54.169.141.180,47876,SG,Amazon.com. Inc.
-13.250.3.231,47994,SG,Amazon.com. Inc.
-52.221.212.61,50001,SG,Amazon.com. Inc.
-54.169.141.180,50001,SG,Amazon.com. Inc.
-52.77.224.130,50151,SG,Amazon.com. Inc.
-13.250.3.231,50514,SG,Amazon.com. Inc.
-18.141.9.158,51001,SG,Amazon.com. Inc.
-18.141.9.158,54321,SG,Amazon.com. Inc.
-13.251.155.175,56138,SG,Amazon.com. Inc.
-13.250.3.231,57525,SG,Amazon.com. Inc.
+52.76.151.136,19999,SG,Amazon.com. Inc.
+46.137.243.158,20000,SG,Amazon.com. Inc.
+52.221.49.186,47876,SG,Amazon.com. Inc.
+13.250.135.82,48223,SG,Amazon.com. Inc.
 52.220.49.82,58455,SG,Amazon.com. Inc.
-54.169.141.180,60001,SG,Amazon.com. Inc.
-54.169.141.180,60101,SG,Amazon.com. Inc.
-54.169.141.180,60102,SG,Amazon.com. Inc.
-54.169.141.180,60103,SG,Amazon.com. Inc.
-54.169.141.180,60110,SG,Amazon.com. Inc.
-54.169.141.180,60115,SG,Amazon.com. Inc.
-54.169.141.180,60274,SG,Amazon.com. Inc.
-18.141.9.158,61112,SG,Amazon.com. Inc.

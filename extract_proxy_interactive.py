@@ -15,6 +15,25 @@ def is_valid_ip(ip_string):
     ip_pattern = r'^(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$'
     return re.match(ip_pattern, ip_string.strip()) is not None
 
+def extract_ip_from_line(line):
+    """
+    Mengekstrak IP address dari baris yang mungkin memiliki teks tambahan
+    Menggunakan deteksi pola 3 titik tanpa spasi
+    """
+    line = line.strip()
+    
+    # Pola untuk mendeteksi IP address di awal baris
+    ip_pattern = r'^(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})'
+    match = re.match(ip_pattern, line)
+    
+    if match:
+        potential_ip = match.group(1)
+        # Validasi apakah IP address benar-benar valid
+        if is_valid_ip(potential_ip):
+            return potential_ip
+    
+    return None
+
 def scan_proxy_files(directory="/home/exball/Tunnel/proxy-scan"):
     """Scan directory untuk mencari file-file yang berpotensi sebagai proxy file"""
     
@@ -109,15 +128,21 @@ def extract_proxy_ports(input_file, output_file, port_filter=None, include_ssh=F
                 continue
             
             # Cek apakah line ini adalah IP address (proxy)
-            # Format 1: IP diawali dengan spasi (proxy-sg.txt)
-            if original_line.startswith(' ') and is_valid_ip(line):
-                current_proxy = line
-                continue
+            # Menggunakan extract_ip_from_line untuk menangani IP dengan teks tambahan
             
-            # Format 2: IP tanpa spasi di awal (Untitled-1.txt)
-            elif is_valid_ip(line) and not original_line.startswith(' '):
-                current_proxy = line
-                continue
+            # Format 1: IP diawali dengan spasi (proxy-sg.txt)
+            if original_line.startswith(' '):
+                extracted_ip = extract_ip_from_line(line)
+                if extracted_ip:
+                    current_proxy = extracted_ip
+                    continue
+            
+            # Format 2: IP tanpa spasi di awal (Untitled-1.txt dan format baru dengan teks tambahan)
+            else:
+                extracted_ip = extract_ip_from_line(line)
+                if extracted_ip:
+                    current_proxy = extracted_ip
+                    continue
             
             # Cek apakah line ini adalah port
             if current_proxy:
