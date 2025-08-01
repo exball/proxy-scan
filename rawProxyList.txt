@@ -1,570 +1,702 @@
-47.128.217.107,80,SG,Amazon Technologies Inc
-47.129.27.86,80,SG,Amazon Technologies Inc
-47.129.45.111,80,SG,Amazon Technologies Inc
-47.129.61.157,80,SG,Amazon Technologies Inc
-47.129.187.187,80,SG,Amazon Technologies Inc
-47.129.187.254,80,SG,Amazon Technologies Inc
-47.129.216.108,80,SG,Amazon Technologies Inc
-47.129.222.155,80,SG,Amazon Technologies Inc
-47.129.247.41,80,SG,Amazon Technologies Inc
-47.130.35.116,80,SG,Amazon Technologies Inc
-47.129.35.169,443,SG,Amazon Technologies Inc
-47.129.37.127,443,SG,Amazon Technologies Inc
-47.129.40.81,443,SG,Amazon Technologies Inc
-47.129.41.79,443,SG,Amazon Technologies Inc
-47.129.45.111,443,SG,Amazon Technologies Inc
-47.129.61.157,443,SG,Amazon Technologies Inc
-47.129.115.187,443,SG,Amazon Technologies Inc
-47.129.170.236,443,SG,Amazon Technologies Inc
-47.129.187.187,443,SG,Amazon Technologies Inc
-47.129.187.254,443,SG,Amazon Technologies Inc
-47.129.189.188,443,SG,Amazon Technologies Inc
-47.129.222.155,443,SG,Amazon Technologies Inc
-47.129.181.132,554,SG,Amazon Technologies Inc
-47.129.181.132,587,SG,Amazon Technologies Inc
-47.129.181.132,789,SG,Amazon Technologies Inc
-47.129.181.132,833,SG,Amazon Technologies Inc
-47.129.181.132,2443,SG,Amazon Technologies Inc
-47.129.181.132,2762,SG,Amazon Technologies Inc
-47.129.181.132,3306,SG,Amazon Technologies Inc
-47.129.181.132,4839,SG,Amazon Technologies Inc
-47.129.181.132,4840,SG,Amazon Technologies Inc
-47.129.181.132,5938,SG,Amazon Technologies Inc
-47.129.181.132,7001,SG,Amazon Technologies Inc
-47.130.26.76,8001,SG,Amazon Technologies Inc
-47.129.181.132,8013,SG,Amazon Technologies Inc
-47.129.37.127,8080,SG,Amazon Technologies Inc
-47.129.40.81,8080,SG,Amazon Technologies Inc
-47.129.170.236,8080,SG,Amazon Technologies Inc
-47.130.26.76,8080,SG,Amazon Technologies Inc
-47.129.216.108,8081,SG,Amazon Technologies Inc
-47.129.37.127,8082,SG,Amazon Technologies Inc
-47.129.170.236,8082,SG,Amazon Technologies Inc
-47.130.35.116,8082,SG,Amazon Technologies Inc
-47.129.181.132,8159,SG,Amazon Technologies Inc
-47.130.26.76,8443,SG,Amazon Technologies Inc
-47.130.35.116,8888,SG,Amazon Technologies Inc
-47.129.40.81,9000,SG,Amazon Technologies Inc
-47.130.26.76,9999,SG,Amazon Technologies Inc
-47.129.38.89,17142,SG,Amazon Technologies Inc
-3.0.147.155,80,SG,Amazon Technologies Inc.
-3.0.161.0,80,SG,Amazon Technologies Inc.
-3.0.200.241,80,SG,Amazon Technologies Inc.
-3.1.85.51,80,SG,Amazon Technologies Inc.
-3.1.202.244,80,SG,Amazon Technologies Inc.
-13.212.19.14,80,SG,Amazon Technologies Inc.
-13.212.35.62,80,SG,Amazon Technologies Inc.
-13.212.37.42,80,SG,Amazon Technologies Inc.
-13.212.61.174,80,SG,Amazon Technologies Inc.
-13.212.169.139,80,SG,Amazon Technologies Inc.
-13.212.184.42,80,SG,Amazon Technologies Inc.
-13.212.189.10,80,SG,Amazon Technologies Inc.
-13.212.214.234,80,SG,Amazon Technologies Inc.
-13.212.247.79,80,SG,Amazon Technologies Inc.
-13.213.17.4,80,SG,Amazon Technologies Inc.
-13.213.50.148,80,SG,Amazon Technologies Inc.
-13.213.62.113,80,SG,Amazon Technologies Inc.
-13.213.64.117,80,SG,Amazon Technologies Inc.
-13.214.19.73,80,SG,Amazon Technologies Inc.
-13.214.111.245,80,SG,Amazon Technologies Inc.
-13.214.131.124,80,SG,Amazon Technologies Inc.
-13.214.235.165,80,SG,Amazon Technologies Inc.
-13.215.71.222,80,SG,Amazon Technologies Inc.
-13.215.153.200,80,SG,Amazon Technologies Inc.
-13.215.184.4,80,SG,Amazon Technologies Inc.
-13.215.207.15,80,SG,Amazon Technologies Inc.
-13.228.128.90,80,SG,Amazon Technologies Inc.
-13.228.132.172,80,SG,Amazon Technologies Inc.
-13.229.50.50,80,SG,Amazon Technologies Inc.
-13.229.66.64,80,SG,Amazon Technologies Inc.
-13.229.104.95,80,SG,Amazon Technologies Inc.
-13.229.152.222,80,SG,Amazon Technologies Inc.
-13.229.200.199,80,SG,Amazon Technologies Inc.
-18.136.126.36,80,SG,Amazon Technologies Inc.
-18.136.183.103,80,SG,Amazon Technologies Inc.
-18.136.222.219,80,SG,Amazon Technologies Inc.
-18.138.20.213,80,SG,Amazon Technologies Inc.
-18.138.34.221,80,SG,Amazon Technologies Inc.
-18.138.233.3,80,SG,Amazon Technologies Inc.
-18.139.181.88,80,SG,Amazon Technologies Inc.
-18.139.226.228,80,SG,Amazon Technologies Inc.
-18.139.254.105,80,SG,Amazon Technologies Inc.
-18.142.116.49,80,SG,Amazon Technologies Inc.
-18.142.122.1,80,SG,Amazon Technologies Inc.
-18.143.67.25,80,SG,Amazon Technologies Inc.
-18.143.77.224,80,SG,Amazon Technologies Inc.
-18.143.149.99,80,SG,Amazon Technologies Inc.
-18.143.176.78,80,SG,Amazon Technologies Inc.
-18.143.176.84,80,SG,Amazon Technologies Inc.
-18.143.238.92,80,SG,Amazon Technologies Inc.
-54.254.53.6,80,SG,Amazon Technologies Inc.
-54.254.63.54,80,SG,Amazon Technologies Inc.
-54.254.137.7,80,SG,Amazon Technologies Inc.
-54.254.143.80,80,SG,Amazon Technologies Inc.
-54.254.144.212,80,SG,Amazon Technologies Inc.
-54.254.145.25,80,SG,Amazon Technologies Inc.
-54.254.243.128,80,SG,Amazon Technologies Inc.
-54.255.7.33,80,SG,Amazon Technologies Inc.
-54.255.123.61,80,SG,Amazon Technologies Inc.
-54.255.164.114,80,SG,Amazon Technologies Inc.
-54.255.191.149,80,SG,Amazon Technologies Inc.
-54.255.192.239,80,SG,Amazon Technologies Inc.
-54.255.213.134,80,SG,Amazon Technologies Inc.
-54.255.217.24,80,SG,Amazon Technologies Inc.
-54.255.233.134,80,SG,Amazon Technologies Inc.
-54.255.238.171,80,SG,Amazon Technologies Inc.
-3.0.92.71,443,SG,Amazon Technologies Inc.
-3.0.92.229,443,SG,Amazon Technologies Inc.
-3.0.96.52,443,SG,Amazon Technologies Inc.
-3.0.147.13,443,SG,Amazon Technologies Inc.
-3.0.161.0,443,SG,Amazon Technologies Inc.
-3.0.220.167,443,SG,Amazon Technologies Inc.
-3.1.83.16,443,SG,Amazon Technologies Inc.
-3.1.85.51,443,SG,Amazon Technologies Inc.
-3.1.103.136,443,SG,Amazon Technologies Inc.
-3.1.202.244,443,SG,Amazon Technologies Inc.
-3.1.206.77,443,SG,Amazon Technologies Inc.
-13.212.19.14,443,SG,Amazon Technologies Inc.
-13.212.24.191,443,SG,Amazon Technologies Inc.
-13.212.35.62,443,SG,Amazon Technologies Inc.
-13.212.37.42,443,SG,Amazon Technologies Inc.
-13.212.44.247,443,SG,Amazon Technologies Inc.
-13.212.45.253,443,SG,Amazon Technologies Inc.
-13.212.61.174,443,SG,Amazon Technologies Inc.
-13.212.89.11,443,SG,Amazon Technologies Inc.
-13.212.96.176,443,SG,Amazon Technologies Inc.
-13.212.114.161,443,SG,Amazon Technologies Inc.
-13.212.118.214,443,SG,Amazon Technologies Inc.
-13.212.146.69,443,SG,Amazon Technologies Inc.
-13.212.169.139,443,SG,Amazon Technologies Inc.
-13.212.184.42,443,SG,Amazon Technologies Inc.
-13.212.189.10,443,SG,Amazon Technologies Inc.
-13.212.214.234,443,SG,Amazon Technologies Inc.
-13.212.217.48,443,SG,Amazon Technologies Inc.
-13.212.247.79,443,SG,Amazon Technologies Inc.
-13.213.62.113,443,SG,Amazon Technologies Inc.
-13.213.64.117,443,SG,Amazon Technologies Inc.
-13.213.248.243,443,SG,Amazon Technologies Inc.
-13.214.19.73,443,SG,Amazon Technologies Inc.
-13.214.131.124,443,SG,Amazon Technologies Inc.
-13.214.209.57,443,SG,Amazon Technologies Inc.
-13.214.235.165,443,SG,Amazon Technologies Inc.
-13.215.49.188,443,SG,Amazon Technologies Inc.
-13.215.71.222,443,SG,Amazon Technologies Inc.
-13.215.99.251,443,SG,Amazon Technologies Inc.
-13.215.153.200,443,SG,Amazon Technologies Inc.
-13.215.184.4,443,SG,Amazon Technologies Inc.
-13.215.207.15,443,SG,Amazon Technologies Inc.
-13.215.251.238,443,SG,Amazon Technologies Inc.
-13.215.254.149,443,SG,Amazon Technologies Inc.
-13.228.128.90,443,SG,Amazon Technologies Inc.
-13.228.236.157,443,SG,Amazon Technologies Inc.
-13.229.50.50,443,SG,Amazon Technologies Inc.
-13.229.66.180,443,SG,Amazon Technologies Inc.
-13.229.74.30,443,SG,Amazon Technologies Inc.
-13.229.83.182,443,SG,Amazon Technologies Inc.
-13.229.104.95,443,SG,Amazon Technologies Inc.
-13.229.152.222,443,SG,Amazon Technologies Inc.
-13.229.200.199,443,SG,Amazon Technologies Inc.
-13.229.205.78,443,SG,Amazon Technologies Inc.
-18.136.25.202,443,SG,Amazon Technologies Inc.
-18.136.126.36,443,SG,Amazon Technologies Inc.
-18.136.205.162,443,SG,Amazon Technologies Inc.
-18.136.209.87,443,SG,Amazon Technologies Inc.
-18.138.20.213,443,SG,Amazon Technologies Inc.
-18.138.34.221,443,SG,Amazon Technologies Inc.
-18.138.233.3,443,SG,Amazon Technologies Inc.
-18.139.51.61,443,SG,Amazon Technologies Inc.
-18.139.84.119,443,SG,Amazon Technologies Inc.
-18.139.132.180,443,SG,Amazon Technologies Inc.
-18.139.181.88,443,SG,Amazon Technologies Inc.
-18.139.223.115,443,SG,Amazon Technologies Inc.
-18.139.223.125,443,SG,Amazon Technologies Inc.
-18.139.226.228,443,SG,Amazon Technologies Inc.
-18.139.254.105,443,SG,Amazon Technologies Inc.
-18.142.48.188,443,SG,Amazon Technologies Inc.
-18.142.51.189,443,SG,Amazon Technologies Inc.
-18.142.116.49,443,SG,Amazon Technologies Inc.
-18.142.131.247,443,SG,Amazon Technologies Inc.
-18.142.237.36,443,SG,Amazon Technologies Inc.
-18.143.67.25,443,SG,Amazon Technologies Inc.
-18.143.76.49,443,SG,Amazon Technologies Inc.
-18.143.77.224,443,SG,Amazon Technologies Inc.
-18.143.92.18,443,SG,Amazon Technologies Inc.
-18.143.176.78,443,SG,Amazon Technologies Inc.
-18.143.176.84,443,SG,Amazon Technologies Inc.
-18.143.182.172,443,SG,Amazon Technologies Inc.
-18.143.238.92,443,SG,Amazon Technologies Inc.
-54.151.241.159,443,SG,Amazon Technologies Inc.
-54.254.53.6,443,SG,Amazon Technologies Inc.
-54.254.63.54,443,SG,Amazon Technologies Inc.
-54.254.91.133,443,SG,Amazon Technologies Inc.
-54.254.137.7,443,SG,Amazon Technologies Inc.
-54.254.143.80,443,SG,Amazon Technologies Inc.
-54.254.145.25,443,SG,Amazon Technologies Inc.
-54.254.242.222,443,SG,Amazon Technologies Inc.
-54.254.243.128,443,SG,Amazon Technologies Inc.
-54.255.7.33,443,SG,Amazon Technologies Inc.
-54.255.123.61,443,SG,Amazon Technologies Inc.
-54.255.164.114,443,SG,Amazon Technologies Inc.
-54.255.187.72,443,SG,Amazon Technologies Inc.
-54.255.191.149,443,SG,Amazon Technologies Inc.
-54.255.192.239,443,SG,Amazon Technologies Inc.
-54.255.202.159,443,SG,Amazon Technologies Inc.
-54.255.213.134,443,SG,Amazon Technologies Inc.
-54.255.217.24,443,SG,Amazon Technologies Inc.
-54.255.233.134,443,SG,Amazon Technologies Inc.
-54.255.238.171,443,SG,Amazon Technologies Inc.
-13.228.236.157,465,SG,Amazon Technologies Inc.
-13.228.236.157,563,SG,Amazon Technologies Inc.
-13.215.153.200,888,SG,Amazon Technologies Inc.
-13.215.184.4,888,SG,Amazon Technologies Inc.
-13.228.128.90,888,SG,Amazon Technologies Inc.
-13.229.152.222,888,SG,Amazon Technologies Inc.
-18.136.126.36,888,SG,Amazon Technologies Inc.
-18.139.226.228,888,SG,Amazon Technologies Inc.
-54.254.91.133,888,SG,Amazon Technologies Inc.
-3.1.116.161,2053,SG,Amazon Technologies Inc.
-18.143.238.92,2053,SG,Amazon Technologies Inc.
-54.255.174.120,2053,SG,Amazon Technologies Inc.
-18.139.132.180,2095,SG,Amazon Technologies Inc.
-18.139.132.180,2096,SG,Amazon Technologies Inc.
-13.213.50.148,3000,SG,Amazon Technologies Inc.
-54.254.143.80,3000,SG,Amazon Technologies Inc.
-54.254.145.25,3000,SG,Amazon Technologies Inc.
-54.254.137.7,3088,SG,Amazon Technologies Inc.
-54.254.137.7,3098,SG,Amazon Technologies Inc.
-54.254.137.7,3099,SG,Amazon Technologies Inc.
-54.254.137.7,3111,SG,Amazon Technologies Inc.
-54.254.137.7,3112,SG,Amazon Technologies Inc.
-54.254.137.7,3117,SG,Amazon Technologies Inc.
-54.254.137.7,3118,SG,Amazon Technologies Inc.
-13.212.114.161,3128,SG,Amazon Technologies Inc.
-13.214.209.57,3128,SG,Amazon Technologies Inc.
-18.142.51.189,3128,SG,Amazon Technologies Inc.
-54.254.137.7,3311,SG,Amazon Technologies Inc.
-54.254.137.7,3312,SG,Amazon Technologies Inc.
-54.254.137.7,3331,SG,Amazon Technologies Inc.
-54.254.137.7,3333,SG,Amazon Technologies Inc.
-54.254.137.7,3411,SG,Amazon Technologies Inc.
-54.254.137.7,3500,SG,Amazon Technologies Inc.
-54.254.137.7,4000,SG,Amazon Technologies Inc.
-54.254.137.7,4099,SG,Amazon Technologies Inc.
-54.254.137.7,4100,SG,Amazon Technologies Inc.
-54.254.137.7,4200,SG,Amazon Technologies Inc.
-54.254.137.7,4300,SG,Amazon Technologies Inc.
-54.254.137.7,4301,SG,Amazon Technologies Inc.
-54.254.137.7,4400,SG,Amazon Technologies Inc.
-54.254.143.80,5000,SG,Amazon Technologies Inc.
-54.254.145.25,6768,SG,Amazon Technologies Inc.
-13.215.153.200,7800,SG,Amazon Technologies Inc.
-13.215.184.4,7800,SG,Amazon Technologies Inc.
-18.136.126.36,7800,SG,Amazon Technologies Inc.
-18.139.226.228,7800,SG,Amazon Technologies Inc.
-13.213.50.148,8000,SG,Amazon Technologies Inc.
-18.136.205.162,8000,SG,Amazon Technologies Inc.
-18.139.84.119,8000,SG,Amazon Technologies Inc.
-18.139.84.119,8001,SG,Amazon Technologies Inc.
-54.254.143.80,8001,SG,Amazon Technologies Inc.
-54.254.143.80,8008,SG,Amazon Technologies Inc.
-18.138.20.213,8042,SG,Amazon Technologies Inc.
-3.0.147.13,8080,SG,Amazon Technologies Inc.
-3.1.116.161,8080,SG,Amazon Technologies Inc.
-3.1.211.253,8080,SG,Amazon Technologies Inc.
-13.212.96.176,8080,SG,Amazon Technologies Inc.
-13.212.118.214,8080,SG,Amazon Technologies Inc.
-13.228.128.90,8080,SG,Amazon Technologies Inc.
-18.136.205.162,8080,SG,Amazon Technologies Inc.
-18.136.209.87,8080,SG,Amazon Technologies Inc.
-18.138.34.221,8080,SG,Amazon Technologies Inc.
-18.142.122.1,8080,SG,Amazon Technologies Inc.
-54.151.241.159,8080,SG,Amazon Technologies Inc.
-54.254.143.80,8080,SG,Amazon Technologies Inc.
-54.255.217.24,8080,SG,Amazon Technologies Inc.
-3.0.147.13,8082,SG,Amazon Technologies Inc.
-13.212.96.176,8082,SG,Amazon Technologies Inc.
-13.229.205.78,8082,SG,Amazon Technologies Inc.
-18.136.205.162,8082,SG,Amazon Technologies Inc.
-18.136.209.87,8082,SG,Amazon Technologies Inc.
-54.151.241.159,8082,SG,Amazon Technologies Inc.
-18.136.222.219,8083,SG,Amazon Technologies Inc.
-18.136.222.219,8085,SG,Amazon Technologies Inc.
-54.254.143.80,8090,SG,Amazon Technologies Inc.
-54.254.143.80,8181,SG,Amazon Technologies Inc.
-54.254.143.80,8300,SG,Amazon Technologies Inc.
-54.254.143.80,8400,SG,Amazon Technologies Inc.
-3.0.58.86,8443,SG,Amazon Technologies Inc.
-3.1.116.161,8443,SG,Amazon Technologies Inc.
-3.1.211.253,8443,SG,Amazon Technologies Inc.
-13.212.184.42,8443,SG,Amazon Technologies Inc.
-13.213.50.148,8443,SG,Amazon Technologies Inc.
-13.228.128.90,8443,SG,Amazon Technologies Inc.
-18.139.116.147,8443,SG,Amazon Technologies Inc.
-18.139.132.180,8443,SG,Amazon Technologies Inc.
-18.142.131.247,8443,SG,Amazon Technologies Inc.
-54.254.53.6,8443,SG,Amazon Technologies Inc.
-54.255.174.120,8443,SG,Amazon Technologies Inc.
-54.254.143.80,8500,SG,Amazon Technologies Inc.
-54.254.143.80,8600,SG,Amazon Technologies Inc.
-54.254.143.80,8800,SG,Amazon Technologies Inc.
-13.213.8.146,8880,SG,Amazon Technologies Inc.
-18.136.195.163,8880,SG,Amazon Technologies Inc.
-54.255.109.170,8880,SG,Amazon Technologies Inc.
-54.255.123.61,8880,SG,Amazon Technologies Inc.
-13.229.105.93,8888,SG,Amazon Technologies Inc.
-18.143.76.49,8888,SG,Amazon Technologies Inc.
-54.255.123.61,8888,SG,Amazon Technologies Inc.
-54.254.143.80,9000,SG,Amazon Technologies Inc.
-18.136.222.219,9001,SG,Amazon Technologies Inc.
-18.136.222.219,9002,SG,Amazon Technologies Inc.
-18.136.222.219,9003,SG,Amazon Technologies Inc.
-18.136.222.219,9004,SG,Amazon Technologies Inc.
-18.136.222.219,9005,SG,Amazon Technologies Inc.
-18.136.222.219,9006,SG,Amazon Technologies Inc.
-18.136.222.219,9007,SG,Amazon Technologies Inc.
-13.214.19.73,9100,SG,Amazon Technologies Inc.
-54.254.143.80,9300,SG,Amazon Technologies Inc.
-3.1.157.83,9876,SG,Amazon Technologies Inc.
-54.254.143.80,9999,SG,Amazon Technologies Inc.
-18.139.51.61,10000,SG,Amazon Technologies Inc.
-18.139.181.88,10001,SG,Amazon Technologies Inc.
-54.254.197.89,10001,SG,Amazon Technologies Inc.
-13.213.50.148,10002,SG,Amazon Technologies Inc.
-18.139.181.88,10003,SG,Amazon Technologies Inc.
-18.139.181.88,10004,SG,Amazon Technologies Inc.
-13.213.50.148,10005,SG,Amazon Technologies Inc.
-13.213.50.148,10010,SG,Amazon Technologies Inc.
-18.142.122.1,15672,SG,Amazon Technologies Inc.
-18.142.122.1,15674,SG,Amazon Technologies Inc.
-13.213.50.148,18620,SG,Amazon Technologies Inc.
-13.229.57.45,21331,SG,Amazon Technologies Inc.
-13.229.57.45,25946,SG,Amazon Technologies Inc.
-13.212.19.68,28138,SG,Amazon Technologies Inc.
-13.214.32.9,30612,SG,Amazon Technologies Inc.
-13.229.57.45,30745,SG,Amazon Technologies Inc.
-13.213.50.148,34814,SG,Amazon Technologies Inc.
-13.229.57.45,35590,SG,Amazon Technologies Inc.
-54.255.187.17,37500,SG,Amazon Technologies Inc.
-3.0.147.155,40000,SG,Amazon Technologies Inc.
-54.254.197.89,44880,SG,Amazon Technologies Inc.
-18.139.132.180,45833,SG,Amazon Technologies Inc.
-13.229.57.45,47994,SG,Amazon Technologies Inc.
-3.0.147.155,50000,SG,Amazon Technologies Inc.
-13.213.50.148,50001,SG,Amazon Technologies Inc.
-54.255.164.114,50151,SG,Amazon Technologies Inc.
-13.229.57.45,50514,SG,Amazon Technologies Inc.
-13.228.236.157,51001,SG,Amazon Technologies Inc.
-18.138.20.213,54321,SG,Amazon Technologies Inc.
-13.212.19.68,56138,SG,Amazon Technologies Inc.
-13.229.57.45,57525,SG,Amazon Technologies Inc.
-13.228.236.157,61112,SG,Amazon Technologies Inc.
-122.248.224.158,80,SG,AMAZON-EC2
-122.248.219.156,443,SG,AMAZON-EC2
-122.248.224.158,443,SG,AMAZON-EC2
-122.248.219.156,10000,SG,AMAZON-EC2
-122.248.224.158,60001,SG,AMAZON-EC2
-122.248.224.158,60101,SG,AMAZON-EC2
-122.248.224.158,60102,SG,AMAZON-EC2
-122.248.224.158,60103,SG,AMAZON-EC2
-122.248.224.158,60110,SG,AMAZON-EC2
-122.248.224.158,60115,SG,AMAZON-EC2
-122.248.224.158,60274,SG,AMAZON-EC2
-54.169.246.125,1,SG,Amazon.com. Inc.
-52.221.212.61,21,SG,Amazon.com. Inc.
-13.250.3.231,80,SG,Amazon.com. Inc.
-13.250.13.79,80,SG,Amazon.com. Inc.
-13.250.13.232,80,SG,Amazon.com. Inc.
-13.250.109.252,80,SG,Amazon.com. Inc.
-13.251.143.132,80,SG,Amazon.com. Inc.
-18.141.3.62,80,SG,Amazon.com. Inc.
-18.141.9.158,80,SG,Amazon.com. Inc.
-18.141.166.29,80,SG,Amazon.com. Inc.
-52.74.52.71,80,SG,Amazon.com. Inc.
-52.76.137.188,80,SG,Amazon.com. Inc.
-52.77.69.185,80,SG,Amazon.com. Inc.
-52.77.223.167,80,SG,Amazon.com. Inc.
-52.77.224.130,80,SG,Amazon.com. Inc.
-52.221.184.62,80,SG,Amazon.com. Inc.
-52.221.235.43,80,SG,Amazon.com. Inc.
-54.169.26.231,80,SG,Amazon.com. Inc.
-54.169.97.5,80,SG,Amazon.com. Inc.
-54.169.152.223,80,SG,Amazon.com. Inc.
-54.169.254.130,80,SG,Amazon.com. Inc.
-54.179.93.68,80,SG,Amazon.com. Inc.
-54.179.114.38,80,SG,Amazon.com. Inc.
-54.179.145.33,80,SG,Amazon.com. Inc.
-54.251.4.65,80,SG,Amazon.com. Inc.
-54.251.6.115,80,SG,Amazon.com. Inc.
-54.251.84.189,80,SG,Amazon.com. Inc.
-175.41.164.133,80,SG,Amazon.com. Inc.
-175.41.167.160,80,SG,Amazon.com. Inc.
-175.41.186.209,80,SG,Amazon.com. Inc.
-175.41.189.188,80,SG,Amazon.com. Inc.
-54.169.51.64,82,SG,Amazon.com. Inc.
-52.221.212.61,101,SG,Amazon.com. Inc.
-54.169.51.64,103,SG,Amazon.com. Inc.
-52.221.212.61,135,SG,Amazon.com. Inc.
-13.250.3.231,443,SG,Amazon.com. Inc.
-13.250.13.79,443,SG,Amazon.com. Inc.
-13.250.13.232,443,SG,Amazon.com. Inc.
-13.250.27.92,443,SG,Amazon.com. Inc.
-13.250.36.141,443,SG,Amazon.com. Inc.
-13.250.40.109,443,SG,Amazon.com. Inc.
-13.250.109.252,443,SG,Amazon.com. Inc.
-13.251.143.132,443,SG,Amazon.com. Inc.
-18.140.68.224,443,SG,Amazon.com. Inc.
-18.141.3.62,443,SG,Amazon.com. Inc.
-18.141.9.158,443,SG,Amazon.com. Inc.
-18.141.24.93,443,SG,Amazon.com. Inc.
-46.137.227.3,443,SG,Amazon.com. Inc.
-46.137.243.158,443,SG,Amazon.com. Inc.
-52.74.52.71,443,SG,Amazon.com. Inc.
-52.76.60.175,443,SG,Amazon.com. Inc.
-52.76.137.188,443,SG,Amazon.com. Inc.
-52.76.151.136,443,SG,Amazon.com. Inc.
-52.77.34.58,443,SG,Amazon.com. Inc.
-52.77.69.185,443,SG,Amazon.com. Inc.
-52.77.100.224,443,SG,Amazon.com. Inc.
-52.77.224.71,443,SG,Amazon.com. Inc.
-52.77.224.130,443,SG,Amazon.com. Inc.
-52.220.62.198,443,SG,Amazon.com. Inc.
-52.220.241.119,443,SG,Amazon.com. Inc.
-52.221.26.228,443,SG,Amazon.com. Inc.
-52.221.183.148,443,SG,Amazon.com. Inc.
-52.221.184.62,443,SG,Amazon.com. Inc.
-52.221.235.43,443,SG,Amazon.com. Inc.
-52.221.236.248,443,SG,Amazon.com. Inc.
-54.169.26.231,443,SG,Amazon.com. Inc.
-54.169.56.145,443,SG,Amazon.com. Inc.
-54.169.97.5,443,SG,Amazon.com. Inc.
-54.169.152.223,443,SG,Amazon.com. Inc.
-54.169.160.215,443,SG,Amazon.com. Inc.
-54.169.200.102,443,SG,Amazon.com. Inc.
-54.169.254.130,443,SG,Amazon.com. Inc.
-54.179.93.68,443,SG,Amazon.com. Inc.
-54.179.114.38,443,SG,Amazon.com. Inc.
-54.179.145.33,443,SG,Amazon.com. Inc.
-54.251.4.65,443,SG,Amazon.com. Inc.
-54.251.6.115,443,SG,Amazon.com. Inc.
-54.251.66.241,443,SG,Amazon.com. Inc.
-54.251.84.189,443,SG,Amazon.com. Inc.
-54.251.148.77,443,SG,Amazon.com. Inc.
-54.251.187.101,443,SG,Amazon.com. Inc.
-54.251.207.254,443,SG,Amazon.com. Inc.
-54.251.221.11,443,SG,Amazon.com. Inc.
-175.41.164.133,443,SG,Amazon.com. Inc.
-175.41.167.160,443,SG,Amazon.com. Inc.
-175.41.186.209,443,SG,Amazon.com. Inc.
-175.41.189.188,443,SG,Amazon.com. Inc.
-52.221.212.61,465,SG,Amazon.com. Inc.
-52.221.212.61,502,SG,Amazon.com. Inc.
-54.169.51.64,503,SG,Amazon.com. Inc.
-52.221.212.61,587,SG,Amazon.com. Inc.
-54.169.51.64,587,SG,Amazon.com. Inc.
-54.169.51.64,591,SG,Amazon.com. Inc.
-13.250.109.252,888,SG,Amazon.com. Inc.
-52.221.212.61,888,SG,Amazon.com. Inc.
-54.169.26.231,888,SG,Amazon.com. Inc.
-175.41.167.160,888,SG,Amazon.com. Inc.
-54.169.51.64,993,SG,Amazon.com. Inc.
-175.41.167.160,1000,SG,Amazon.com. Inc.
-54.169.51.64,1804,SG,Amazon.com. Inc.
-54.169.51.64,1962,SG,Amazon.com. Inc.
-54.169.51.64,1963,SG,Amazon.com. Inc.
-52.221.212.61,2000,SG,Amazon.com. Inc.
-54.169.51.64,2078,SG,Amazon.com. Inc.
-54.169.51.64,2080,SG,Amazon.com. Inc.
-54.169.51.64,2086,SG,Amazon.com. Inc.
-52.77.34.58,2095,SG,Amazon.com. Inc.
-52.77.34.58,2096,SG,Amazon.com. Inc.
-54.169.51.64,2096,SG,Amazon.com. Inc.
-54.169.128.166,3000,SG,Amazon.com. Inc.
-54.169.128.166,3001,SG,Amazon.com. Inc.
-54.169.244.194,3001,SG,Amazon.com. Inc.
-52.76.151.136,3128,SG,Amazon.com. Inc.
-54.169.51.64,3128,SG,Amazon.com. Inc.
-54.169.229.233,5001,SG,Amazon.com. Inc.
-52.221.212.61,5672,SG,Amazon.com. Inc.
-54.169.51.64,5866,SG,Amazon.com. Inc.
-52.221.212.61,6001,SG,Amazon.com. Inc.
-52.221.212.61,6004,SG,Amazon.com. Inc.
-54.169.51.64,6009,SG,Amazon.com. Inc.
-52.221.212.61,6242,SG,Amazon.com. Inc.
-52.221.212.61,7170,SG,Amazon.com. Inc.
-52.221.212.61,7443,SG,Amazon.com. Inc.
-13.250.109.252,7800,SG,Amazon.com. Inc.
-54.169.51.64,8000,SG,Amazon.com. Inc.
-54.169.229.233,8000,SG,Amazon.com. Inc.
-52.221.212.61,8001,SG,Amazon.com. Inc.
-54.169.229.233,8001,SG,Amazon.com. Inc.
-54.169.26.231,8060,SG,Amazon.com. Inc.
-13.250.36.141,8080,SG,Amazon.com. Inc.
-13.251.155.175,8080,SG,Amazon.com. Inc.
-18.141.198.188,8080,SG,Amazon.com. Inc.
-52.76.151.136,8080,SG,Amazon.com. Inc.
-54.169.26.231,8080,SG,Amazon.com. Inc.
-54.169.56.145,8080,SG,Amazon.com. Inc.
-54.169.200.102,8080,SG,Amazon.com. Inc.
-54.179.114.38,8080,SG,Amazon.com. Inc.
-54.251.66.241,8080,SG,Amazon.com. Inc.
-54.169.26.231,8081,SG,Amazon.com. Inc.
-13.250.36.141,8082,SG,Amazon.com. Inc.
-54.169.56.145,8082,SG,Amazon.com. Inc.
-54.169.200.102,8082,SG,Amazon.com. Inc.
-54.169.246.125,8082,SG,Amazon.com. Inc.
-52.76.151.136,8088,SG,Amazon.com. Inc.
-54.169.254.130,8088,SG,Amazon.com. Inc.
-52.76.151.136,8089,SG,Amazon.com. Inc.
-52.76.151.136,8090,SG,Amazon.com. Inc.
-52.76.151.136,8091,SG,Amazon.com. Inc.
-52.76.151.136,8092,SG,Amazon.com. Inc.
-13.250.3.231,8443,SG,Amazon.com. Inc.
-13.250.27.92,8443,SG,Amazon.com. Inc.
-52.77.34.58,8443,SG,Amazon.com. Inc.
-52.221.49.186,8443,SG,Amazon.com. Inc.
-54.169.26.231,8443,SG,Amazon.com. Inc.
-54.169.141.180,8443,SG,Amazon.com. Inc.
-54.169.197.111,8443,SG,Amazon.com. Inc.
-54.169.244.194,8443,SG,Amazon.com. Inc.
-54.169.254.130,8443,SG,Amazon.com. Inc.
-54.179.114.38,8443,SG,Amazon.com. Inc.
-54.169.26.231,8618,SG,Amazon.com. Inc.
-52.221.212.61,8636,SG,Amazon.com. Inc.
-54.169.51.64,8724,SG,Amazon.com. Inc.
-52.221.195.233,8888,SG,Amazon.com. Inc.
-54.169.26.231,8888,SG,Amazon.com. Inc.
-46.137.243.158,9000,SG,Amazon.com. Inc.
-54.251.84.189,9001,SG,Amazon.com. Inc.
-52.76.137.188,9100,SG,Amazon.com. Inc.
-52.221.212.61,9600,SG,Amazon.com. Inc.
-54.251.84.189,9888,SG,Amazon.com. Inc.
-52.220.49.82,9999,SG,Amazon.com. Inc.
-13.250.40.109,10000,SG,Amazon.com. Inc.
-46.137.227.3,10000,SG,Amazon.com. Inc.
-46.137.243.158,10000,SG,Amazon.com. Inc.
-52.220.241.119,10000,SG,Amazon.com. Inc.
-52.221.202.96,10000,SG,Amazon.com. Inc.
-54.251.221.11,10000,SG,Amazon.com. Inc.
-52.221.212.61,10001,SG,Amazon.com. Inc.
-54.169.51.64,10001,SG,Amazon.com. Inc.
-52.221.202.96,10002,SG,Amazon.com. Inc.
-175.41.167.160,10100,SG,Amazon.com. Inc.
-175.41.167.160,10101,SG,Amazon.com. Inc.
-54.169.51.64,10261,SG,Amazon.com. Inc.
-13.251.143.132,10998,SG,Amazon.com. Inc.
-175.41.167.160,11011,SG,Amazon.com. Inc.
-54.169.159.59,11585,SG,Amazon.com. Inc.
-54.169.159.59,11586,SG,Amazon.com. Inc.
-54.169.159.59,11587,SG,Amazon.com. Inc.
-54.169.159.59,11588,SG,Amazon.com. Inc.
-54.169.159.59,11590,SG,Amazon.com. Inc.
-54.169.159.59,11591,SG,Amazon.com. Inc.
-54.169.159.59,11593,SG,Amazon.com. Inc.
-54.169.159.59,11594,SG,Amazon.com. Inc.
-54.169.26.231,15672,SG,Amazon.com. Inc.
-54.251.66.241,19671,SG,Amazon.com. Inc.
-52.76.151.136,19999,SG,Amazon.com. Inc.
-46.137.243.158,20000,SG,Amazon.com. Inc.
-52.221.49.186,47876,SG,Amazon.com. Inc.
-13.250.135.82,48223,SG,Amazon.com. Inc.
-52.220.49.82,58455,SG,Amazon.com. Inc.
+8.214.36.215,80,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.93.3,80,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.1.57,80,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.12.39,80,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.77.222,80,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.89.124,80,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.167.217,80,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.148.52,80,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.152.224,80,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.176.91,80,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.181.52,80,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.192.179,80,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.203.222,80,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.220.81,80,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.237.171,80,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.251.116,80,SG,Alibaba (US) Technology Co.. Ltd.
+47.79.4.21,80,SG,Alibaba (US) Technology Co.. Ltd.
+47.79.224.103,80,SG,Alibaba (US) Technology Co.. Ltd.
+47.79.227.142,80,SG,Alibaba (US) Technology Co.. Ltd.
+47.79.241.117,80,SG,Alibaba (US) Technology Co.. Ltd.
+47.84.51.205,80,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.71.6,80,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.81.248,80,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.93.233,80,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.100.228,80,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.118.241,80,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.173.196,80,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.192.11,80,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.75.209,80,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.100.173,80,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.111.245,80,SG,Alibaba (US) Technology Co.. Ltd.
+149.129.63.121,80,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.36.215,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.93.3,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.1.57,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.9.31,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.12.39,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.64.241,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.77.222,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.84.109,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.87.49,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.89.124,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.91.89,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.110.64,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.113.50,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.115.104,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.116.37,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.123.230,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.130.107,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.137.235,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.143.30,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.144.104,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.145.236,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.167.217,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.175.223,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.181.146,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.203.116,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.207.215,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.220.111,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.222.84,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.229.162,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.243.249,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.251.96,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.130.58,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.130.81,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.143.38,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.148.52,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.152.224,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.156.68,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.156.135,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.176.91,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.181.52,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.181.127,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.192.143,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.192.179,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.203.222,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.208.243,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.220.81,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.237.100,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.237.171,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.239.154,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.243.235,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.249.10,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.251.116,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.252.66,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.79.2.144,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.79.6.26,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.79.7.188,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.82.0.107,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.84.51.205,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.84.68.244,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.1.187,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.6.198,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.11.207,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.20.68,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.21.246,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.69.31,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.71.6,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.72.213,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.73.248,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.78.164,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.81.248,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.85.126,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.87.175,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.93.233,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.96.48,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.102.28,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.103.88,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.106.126,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.112.5,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.116.231,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.140.74,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.153.112,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.161.40,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.170.62,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.171.133,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.172.228,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.173.196,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.175.6,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.179.37,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.184.50,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.186.194,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.192.11,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.75.209,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.85.33,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.92.85,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.102.200,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.126.29,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.130.246,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.132.194,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.137.5,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.83.192,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.86.57,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.95.11,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.100.173,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.109.188,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.113.158,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.117.9,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.118.174,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.124.218,443,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.125.175,443,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.203.222,888,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.173.196,888,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.93.3,1000,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.220.81,1234,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.93.3,2000,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.130.107,2000,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.220.111,2000,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.87.49,2053,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.148.52,2053,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.93.3,2100,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.118.241,3000,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.118.241,3001,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.118.241,3002,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.118.241,3003,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.220.222,3011,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.93.3,3100,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.220.222,3333,SG,Alibaba (US) Technology Co.. Ltd.
+47.79.2.144,3333,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.220.222,3334,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.100.228,3389,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.59.132,4455,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.31.198,4455,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.36.215,4998,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.181.52,4998,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.220.111,4999,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.36.215,5000,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.181.52,5000,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.140.74,5000,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.184.50,5000,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.36.215,5011,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.181.52,5011,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.36.215,5014,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.181.52,5014,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.36.215,5024,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.181.52,5024,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.36.215,5025,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.181.52,5025,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.181.52,5039,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.113.50,5459,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.222.84,5555,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.36.215,6001,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.181.52,6001,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.36.215,6004,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.181.52,6004,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.36.215,6005,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.181.52,6005,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.36.215,6010,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.181.52,6010,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.36.215,6030,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.181.52,6030,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.36.215,6031,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.181.52,6031,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.203.222,6099,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.203.222,6185,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.203.222,6199,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.59.132,6443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.113.50,6468,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.150.112,6666,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.70.180,6865,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.185.184,7000,SG,Alibaba (US) Technology Co.. Ltd.
+161.117.59.90,7001,SG,Alibaba (US) Technology Co.. Ltd.
+161.117.59.90,7002,SG,Alibaba (US) Technology Co.. Ltd.
+161.117.59.90,7010,SG,Alibaba (US) Technology Co.. Ltd.
+161.117.59.90,7011,SG,Alibaba (US) Technology Co.. Ltd.
+161.117.59.90,7040,SG,Alibaba (US) Technology Co.. Ltd.
+161.117.59.90,7041,SG,Alibaba (US) Technology Co.. Ltd.
+161.117.59.90,7042,SG,Alibaba (US) Technology Co.. Ltd.
+161.117.59.90,7043,SG,Alibaba (US) Technology Co.. Ltd.
+161.117.59.90,7045,SG,Alibaba (US) Technology Co.. Ltd.
+161.117.59.90,7046,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.92.133,7500,SG,Alibaba (US) Technology Co.. Ltd.
+161.117.59.90,7654,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.145.236,7788,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.181.127,7788,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.229.194,7912,SG,Alibaba (US) Technology Co.. Ltd.
+161.117.59.90,7986,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.220.111,8000,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.93.233,8000,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.220.111,8002,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.192.179,8002,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.192.179,8012,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.91.25,8080,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.148.52,8080,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.220.81,8080,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.80.63,8080,SG,Alibaba (US) Technology Co.. Ltd.
+149.129.63.121,8080,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.36.215,8081,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.9.31,8081,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.64.241,8081,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.77.222,8081,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.110.64,8081,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.115.104,8081,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.116.37,8081,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.123.230,8081,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.144.104,8081,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.175.223,8081,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.229.162,8081,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.143.38,8081,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.156.68,8081,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.181.52,8081,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.192.143,8081,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.239.154,8081,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.243.235,8081,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.251.116,8081,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.252.66,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.1.187,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.6.198,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.11.207,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.20.68,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.21.246,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.69.31,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.73.248,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.78.164,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.87.175,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.96.48,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.102.28,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.103.88,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.106.126,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.112.5,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.153.112,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.161.40,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.170.62,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.172.228,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.175.6,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.186.194,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.192.11,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.92.85,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.137.5,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.83.192,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.95.11,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.109.188,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.113.158,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.118.174,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.124.218,8081,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.125.175,8081,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.36.215,8082,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.181.52,8082,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.36.215,8084,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.181.52,8084,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.36.215,8085,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.181.52,8085,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.36.215,8086,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.181.52,8086,SG,Alibaba (US) Technology Co.. Ltd.
+161.117.59.90,8090,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.93.3,8200,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.76.51,8443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.89.124,8443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.161.182,8443,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.220.111,8443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.80.63,8443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.82.145,8443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.180.90,8443,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.95.65,8443,SG,Alibaba (US) Technology Co.. Ltd.
+47.84.68.244,8801,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.111.245,8881,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.93.3,8888,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.85.33,8888,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.92.85,8888,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.203.222,9000,SG,Alibaba (US) Technology Co.. Ltd.
+47.79.4.21,9000,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.203.222,9001,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.36.215,9090,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.181.52,9090,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.36.215,9091,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.181.52,9091,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.173.196,9222,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.173.196,9370,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.173.196,9371,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.173.196,9372,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.173.196,9373,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.173.196,9661,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.173.196,9669,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.173.196,9670,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.148.52,9993,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.130.81,9999,SG,Alibaba (US) Technology Co.. Ltd.
+47.84.68.83,9999,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.81.248,9999,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.243.249,10000,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.181.127,10000,SG,Alibaba (US) Technology Co.. Ltd.
+47.82.0.107,10000,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.93.233,10000,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.92.85,10000,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.111.245,10000,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.113.50,10001,SG,Alibaba (US) Technology Co.. Ltd.
+47.79.7.188,10086,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.140.74,10306,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.220.111,10449,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.59.132,10542,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.118.241,10862,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.36.215,11000,SG,Alibaba (US) Technology Co.. Ltd.
+8.214.36.215,11001,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.173.196,11011,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.98.91,11333,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.192.179,11434,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.176.91,11988,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.203.222,12073,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.246.213,12306,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.2.97,12345,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.220.222,12345,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.220.222,12346,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.126.29,12369,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.159.134,12483,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.181.127,13566,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.184.50,14053,SG,Alibaba (US) Technology Co.. Ltd.
+47.84.51.205,14141,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.111.245,15230,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.113.50,16921,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.173.242,18292,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.243.83,18377,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.76.51,18562,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.161.182,18610,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.66.47,18880,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.251.116,19100,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.173.196,19154,SG,Alibaba (US) Technology Co.. Ltd.
+47.84.51.205,19756,SG,Alibaba (US) Technology Co.. Ltd.
+47.79.7.188,20000,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.56.26,20100,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.56.26,20101,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.56.26,20103,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.56.26,20104,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.100.228,20443,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.173.242,21056,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.119.190,21146,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.50.219,22123,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.182.127,22718,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.31.198,22783,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.85.33,23450,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.228.196,23694,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.237.171,24638,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.220.81,25435,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.2.97,25519,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.74.70,28430,SG,Alibaba (US) Technology Co.. Ltd.
+47.84.68.83,29047,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.173.242,29887,SG,Alibaba (US) Technology Co.. Ltd.
+47.79.7.188,30000,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.98.91,30000,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.119.190,30000,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.150.59,30000,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.173.242,30000,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.175.164,30000,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.228.196,30000,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.74.70,30000,SG,Alibaba (US) Technology Co.. Ltd.
+47.79.224.103,30323,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.31.198,31263,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.76.51,31401,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.113.50,31401,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.161.182,31401,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.82.145,31401,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.92.133,31401,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.95.65,31401,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.175.164,31674,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.150.59,31940,SG,Alibaba (US) Technology Co.. Ltd.
+47.79.241.117,32058,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.111.245,32212,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.31.198,32222,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.150.59,32288,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.59.132,32304,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.228.196,32797,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.222.84,33099,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.50.219,33911,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.113.50,34238,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.126.29,34958,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.148.52,36080,SG,Alibaba (US) Technology Co.. Ltd.
+47.79.4.21,36722,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.220.81,38437,SG,Alibaba (US) Technology Co.. Ltd.
+47.84.68.83,38822,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.59.132,38910,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.59.132,39267,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.59.132,39672,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.175.164,39823,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.119.244,40000,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.224.151,40000,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.83.88,40000,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.56.26,40010,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.56.26,40011,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.246.213,40389,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.178.143,40916,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.2.97,41157,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.59.132,41244,SG,Alibaba (US) Technology Co.. Ltd.
+47.84.68.83,42604,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.59.132,42769,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.95.65,43609,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.9.31,44322,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.64.241,44322,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.77.222,44322,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.110.64,44322,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.115.104,44322,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.116.37,44322,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.123.230,44322,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.137.235,44322,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.144.104,44322,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.175.223,44322,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.207.215,44322,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.229.162,44322,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.251.96,44322,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.143.38,44322,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.156.68,44322,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.192.143,44322,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.229.194,44322,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.237.100,44322,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.239.154,44322,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.243.235,44322,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.251.116,44322,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.252.66,44322,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.1.187,44322,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.6.198,44322,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.20.68,44322,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.21.246,44322,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.69.31,44322,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.73.248,44322,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.78.164,44322,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.85.126,44322,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.87.175,44322,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.96.48,44322,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.102.28,44322,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.103.88,44322,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.106.126,44322,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.112.5,44322,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.116.231,44322,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.153.112,44322,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.170.62,44322,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.172.228,44322,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.175.6,44322,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.186.194,44322,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.192.11,44322,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.246.213,44322,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.137.5,44322,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.83.192,44322,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.95.11,44322,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.109.188,44322,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.113.158,44322,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.124.218,44322,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.9.31,44323,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.64.241,44323,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.77.222,44323,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.110.64,44323,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.115.104,44323,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.116.37,44323,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.123.230,44323,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.137.235,44323,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.144.104,44323,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.175.223,44323,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.207.215,44323,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.229.162,44323,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.251.96,44323,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.143.38,44323,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.156.68,44323,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.192.143,44323,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.229.194,44323,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.237.100,44323,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.239.154,44323,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.243.235,44323,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.251.116,44323,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.252.66,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.1.187,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.6.198,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.11.207,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.20.68,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.21.246,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.69.31,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.73.248,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.78.164,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.85.126,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.87.175,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.96.48,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.102.28,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.103.88,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.106.126,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.112.5,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.116.231,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.153.112,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.161.40,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.170.62,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.172.228,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.175.6,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.186.194,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.192.11,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.246.213,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.137.5,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.83.192,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.95.11,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.109.188,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.113.158,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.117.9,44323,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.124.218,44323,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.152.224,45620,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.31.198,46222,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.181.146,46644,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.173.242,46985,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.113.50,47895,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.59.132,48130,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.92.133,48755,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.178.143,48900,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.59.132,48964,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.126.29,49811,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.181.146,50580,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.126.29,50597,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.119.190,51342,SG,Alibaba (US) Technology Co.. Ltd.
+47.79.5.252,51919,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.92.85,52727,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.31.198,52741,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.126.29,54240,SG,Alibaba (US) Technology Co.. Ltd.
+149.129.63.121,54321,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.228.196,55366,SG,Alibaba (US) Technology Co.. Ltd.
+47.237.126.29,56880,SG,Alibaba (US) Technology Co.. Ltd.
+47.245.111.245,58620,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.143.30,60024,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.143.30,60025,SG,Alibaba (US) Technology Co.. Ltd.
+47.236.238.5,62386,SG,Alibaba (US) Technology Co.. Ltd.
+8.222.203.222,65017,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.152.209,65141,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.220.111,65235,SG,Alibaba (US) Technology Co.. Ltd.
+8.219.108.149,80,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.170.1,80,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.195.24,80,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.233.185,80,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.170.1,81,SG,Alibaba Cloud (Singapore) Private Limited
+8.216.129.166,443,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.67.180,443,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.94.223,443,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.97.86,443,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.108.149,443,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.205.213,443,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.211.86,443,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.216.63,443,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.164.229,443,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.190.131,443,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.195.24,443,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.202.239,443,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.222.74,443,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.233.185,443,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.216.63,992,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.170.1,1100,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.211.86,3000,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.170.1,4322,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.108.149,5000,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.108.149,5011,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.108.149,5014,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.108.149,5024,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.108.149,5025,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.108.149,5039,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.211.40,5432,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.216.63,5555,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.164.229,5555,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.108.149,6001,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.108.149,6004,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.108.149,6005,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.108.149,6010,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.108.149,6030,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.108.149,6031,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.170.1,6474,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.216.63,7500,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.67.180,8081,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.94.223,8081,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.97.86,8081,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.108.149,8081,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.205.213,8081,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.190.131,8081,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.202.239,8081,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.108.149,8082,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.108.149,8084,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.108.149,8085,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.108.149,8086,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.211.86,8443,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.216.63,8443,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.200.54,8880,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.75.62,8888,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.184.130,8888,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.108.149,9090,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.170.1,9090,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.108.149,9091,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.184.130,9443,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.200.54,9443,SG,Alibaba Cloud (Singapore) Private Limited
+8.216.129.166,9999,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.108.149,11000,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.108.149,11001,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.195.24,12345,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.195.24,14706,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.184.130,18080,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.211.86,19998,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.75.62,21146,SG,Alibaba Cloud (Singapore) Private Limited
+8.216.129.166,22073,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.184.130,29351,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.184.111,30000,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.88.178,30001,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.216.63,31401,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.164.229,31401,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.211.40,34932,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.75.62,42633,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.184.111,42768,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.67.180,44322,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.94.223,44322,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.97.86,44322,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.205.213,44322,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.190.131,44322,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.202.239,44322,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.67.180,44323,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.94.223,44323,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.97.86,44323,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.205.213,44323,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.190.131,44323,SG,Alibaba Cloud (Singapore) Private Limited
+8.216.129.166,44444,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.75.62,44669,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.75.62,44810,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.216.63,45303,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.88.178,51898,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.211.40,54273,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.164.229,59283,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.233.185,61122,SG,Alibaba Cloud (Singapore) Private Limited
+47.74.254.191,80,SG,Alibaba Cloud LLC
+47.241.171.105,80,SG,Alibaba Cloud LLC
+47.241.179.122,80,SG,Alibaba Cloud LLC
+47.74.254.191,443,SG,Alibaba Cloud LLC
+47.241.179.122,443,SG,Alibaba Cloud LLC
+47.74.254.191,1899,SG,Alibaba Cloud LLC
+47.241.179.122,8001,SG,Alibaba Cloud LLC
+47.241.179.122,8002,SG,Alibaba Cloud LLC
+47.241.179.122,8080,SG,Alibaba Cloud LLC
+47.241.179.122,8301,SG,Alibaba Cloud LLC
+47.241.179.122,8303,SG,Alibaba Cloud LLC
+47.74.254.191,8900,SG,Alibaba Cloud LLC
+47.241.171.105,9000,SG,Alibaba Cloud LLC
+47.74.254.191,9100,SG,Alibaba Cloud LLC
+47.74.254.191,9104,SG,Alibaba Cloud LLC
+47.241.171.105,12231,SG,Alibaba Cloud LLC
+47.79.98.1,80,SG,Alibaba.com LLC
+47.79.122.159,80,SG,Alibaba.com LLC
+47.79.123.18,80,SG,Alibaba.com LLC
+47.84.40.215,80,SG,Alibaba.com LLC
+47.84.40.229,80,SG,Alibaba.com LLC
+47.79.98.152,443,SG,Alibaba.com LLC
+47.79.118.63,443,SG,Alibaba.com LLC
+47.79.120.51,443,SG,Alibaba.com LLC
+47.79.121.114,443,SG,Alibaba.com LLC
+47.79.122.159,443,SG,Alibaba.com LLC
+47.84.40.215,443,SG,Alibaba.com LLC
+47.84.40.229,443,SG,Alibaba.com LLC
+47.84.64.7,443,SG,Alibaba.com LLC
+47.79.121.114,2095,SG,Alibaba.com LLC
+47.84.40.229,5230,SG,Alibaba.com LLC
+47.79.98.152,8080,SG,Alibaba.com LLC
+47.84.40.229,8181,SG,Alibaba.com LLC
+47.79.120.158,8342,SG,Alibaba.com LLC
+47.79.98.152,8443,SG,Alibaba.com LLC
+47.84.64.208,8443,SG,Alibaba.com LLC
+47.79.118.63,10086,SG,Alibaba.com LLC
+47.84.64.7,10626,SG,Alibaba.com LLC
+47.79.120.51,16923,SG,Alibaba.com LLC
+47.79.118.63,20000,SG,Alibaba.com LLC
+47.84.40.215,23456,SG,Alibaba.com LLC
+47.79.120.51,29151,SG,Alibaba.com LLC
+47.79.118.63,30000,SG,Alibaba.com LLC
+47.79.98.1,30323,SG,Alibaba.com LLC
+47.79.123.18,30736,SG,Alibaba.com LLC
+47.79.121.114,42408,SG,Alibaba.com LLC
+47.79.120.51,43834,SG,Alibaba.com LLC
+47.84.64.7,53853,SG,Alibaba.com LLC
+161.117.253.115,443,SG,Alibaba.com Singapore E-Commerce Private Limited
+161.117.249.114,2024,SG,Alibaba.com Singapore E-Commerce Private Limited
+161.117.249.114,2025,SG,Alibaba.com Singapore E-Commerce Private Limited
+161.117.249.114,8866,SG,Alibaba.com Singapore E-Commerce Private Limited
