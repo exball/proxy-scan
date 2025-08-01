@@ -1,6 +1,33 @@
-47.130.35.116,8888,SG,Amazon Data Services Singapore
-3.1.116.161,2053,SG,Amazon Data Services Singapore
-3.1.116.161,8443,SG,Amazon Data Services Singapore
-13.229.57.45,21331,SG,Amazon Data Services Singapore
-3.0.147.155,50000,SG,Amazon Data Services Singapore
-13.212.19.68,56138,SG,Amazon Data Services Singapore
+8.222.237.100,443,SG,Alibaba Cloud (Singapore) Private Limited
+47.236.71.6,443,SG,Alibaba Cloud LLC
+8.219.251.96,443,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.64.241,443,SG,Alibaba Cloud (Singapore) Private Limited
+47.236.73.248,443,SG,Alibaba Cloud (Singapore) Private Limited
+47.236.112.5,443,SG,Alibaba Cloud (Singapore) Private Limited
+47.236.170.62,443,SG,Alibaba Cloud LLC
+47.245.109.188,443,SG,Alibaba Cloud LLC
+47.245.118.174,443,SG,Alibaba Cloud (Singapore) Private Limited
+47.245.117.9,443,SG,Alibaba Cloud LLC
+47.245.125.175,443,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.229.162,443,SG,Alibaba Cloud (Singapore) Private Limited
+47.236.185.184,7000,SG,Alibaba Cloud LLC
+8.222.159.134,12483,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.243.83,18377,SG,Alibaba Cloud (Singapore) Private Limited
+47.236.100.228,20443,SG,Alibaba Cloud LLC
+8.222.220.81,25435,SG,Alibaba Cloud (Singapore) Private Limited
+47.236.173.242,29887,SG,Alibaba Cloud LLC
+47.237.31.198,32222,SG,Alibaba Cloud LLC
+8.219.56.26,40011,SG,Alibaba Cloud (Singapore) Private Limited
+47.236.246.213,40389,SG,Alibaba Cloud LLC
+8.219.59.132,48130,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.59.132,48964,SG,Alibaba Cloud (Singapore) Private Limited
+47.236.119.190,51342,SG,Alibaba Cloud LLC
+47.245.111.245,58620,SG,Alibaba Cloud LLC
+8.219.67.180,443,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.190.131,443,SG,Alibaba Cloud LLC
+8.222.195.24,14706,SG,Alibaba Cloud (Singapore) Private Limited
+8.222.184.130,29351,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.75.62,44810,SG,Alibaba Cloud (Singapore) Private Limited
+8.219.88.178,51898,SG,Alibaba Cloud (Singapore) Private Limited
+47.74.254.191,8900,SG,Alibaba Cloud - SG
+161.117.249.114,2025,SG,1 Raffles Place, # 59-00 One Raffles Place
