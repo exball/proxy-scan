@@ -229,6 +229,30 @@ class ProxyValidatorEnhanced:
             
         return proxies
     
+    def remove_duplicates(self, proxies: List[Tuple[str, str, str, str]]) -> List[Tuple[str, str, str, str]]:
+        """Remove duplicate proxies based on IP:Port combination before API validation"""
+        self.log("Removing duplicate proxies before validation...")
+        
+        original_count = len(proxies)
+        seen_proxies = set()
+        unique_proxies = []
+        
+        for proxy in proxies:
+            ip, port, country, isp = proxy
+            proxy_key = (ip, port)
+            
+            if proxy_key not in seen_proxies:
+                seen_proxies.add(proxy_key)
+                unique_proxies.append(proxy)
+            else:
+                self.stats['duplicates_removed'] += 1
+        
+        removed_count = original_count - len(unique_proxies)
+        self.log(f"Removed {removed_count:,} duplicate proxies")
+        self.log(f"Unique proxies to validate: {len(unique_proxies):,}")
+        
+        return unique_proxies
+    
     def create_batch_files(self, proxies: List[Tuple[str, str, str, str]]) -> int:
         """Split proxies into smaller JSON batch files"""
         if not os.path.exists(self.temp_dir):
@@ -455,24 +479,6 @@ class ProxyValidatorEnhanced:
             elif original_isp != 'UNKNOWN' and original_isp != new_isp:
                 self.stats['corrected_isp'] += 1
         
-        # Remove duplicates based on IP and port combination
-        self.log("Removing duplicate proxies...")
-        original_count = len(validated_proxies)
-        seen_proxies = set()
-        unique_proxies = []
-        
-        for proxy in validated_proxies:
-            proxy_key = (proxy['ip'], proxy['port'])
-            if proxy_key not in seen_proxies:
-                seen_proxies.add(proxy_key)
-                unique_proxies.append(proxy)
-            else:
-                self.stats['duplicates_removed'] += 1
-        
-        validated_proxies = unique_proxies
-        self.log(f"Removed {self.stats['duplicates_removed']} duplicate proxies")
-        self.log(f"Unique proxies remaining: {len(validated_proxies)}")
-        
         # Sort by country code (primary) and ISP (secondary)
         validated_proxies.sort(key=lambda x: (x['country_code'].upper(), x['isp'].upper()))
         
@@ -546,20 +552,23 @@ class ProxyValidatorEnhanced:
             # Step 1: Load and parse proxies
             proxies = self.load_proxies()
             
-            # Step 2: Create batch files
+            # Step 2: Remove duplicates before validation
+            proxies = self.remove_duplicates(proxies)
+            
+            # Step 3: Create batch files
             total_batches = self.create_batch_files(proxies)
             
-            # Step 3: Validate all batches
+            # Step 4: Validate all batches
             self.log(f"Starting validation of {total_batches} batches...")
             estimated_time = (total_batches * self.REQUEST_DELAY) / 60
             self.log(f"Estimated completion time: {estimated_time:.1f} minutes")
             
             validated_proxies = self.validate_all_batches(total_batches)
             
-            # Step 4: Sort and save results
+            # Step 5: Sort and save results
             self.sort_and_save_results(validated_proxies)
             
-            # Step 5: Cleanup
+            # Step 6: Cleanup
             self.cleanup_temp_files()
             
             # Final summary
