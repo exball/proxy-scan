@@ -5,7 +5,8 @@ Features:
 - File selection menu for .txt files
 - Flexible input format parsing (IP:Port, IP,Port, etc.)
 - Only processes IPs with ports (skips IPs without ports)
-- Validates and corrects Country/ISP data via API
+- Validates and corrects Country/Organization data via API
+- Uses 'org' field as primary, 'asname' field as backup for organization info
 - Better error handling and progress tracking
 """
 
@@ -35,9 +36,9 @@ class ProxyValidatorEnhanced:
             'skipped_no_port': 0,
             'processed_ips': 0,
             'enriched_country': 0,
-            'enriched_isp': 0,
+            'enriched_org': 0,
             'corrected_country': 0,
-            'corrected_isp': 0,
+            'corrected_org': 0,
             'invalid_ips': 0,
             'duplicates_removed': 0
         }
@@ -47,11 +48,28 @@ class ProxyValidatorEnhanced:
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         print(f"[{timestamp}] {message}")
     
-    def clean_isp_name(self, isp_name: str) -> str:
-        """Clean ISP name by replacing commas with periods"""
-        if isp_name and isp_name != 'UNKNOWN':
-            return isp_name.replace(',', '.')
-        return isp_name
+    def clean_org_name(self, org_name: str) -> str:
+        """Clean organization name by replacing commas with periods"""
+        if org_name and org_name != 'UNKNOWN':
+            return org_name.replace(',', '.')
+        return org_name
+    
+    def get_organization_info(self, api_result: Dict) -> str:
+        """
+        Get organization info with priority: org -> asname -> Unknown Organization
+        """
+        # First priority: org field
+        org = api_result.get('org', '').strip()
+        if org and org != '':
+            return self.clean_org_name(org)
+        
+        # Second priority: asname field (direct ASName without AS number)
+        asname = api_result.get('asname', '').strip()
+        if asname and asname != '':
+            return self.clean_org_name(asname)
+        
+        # Fallback
+        return 'Unknown Organization'
     
     def scan_txt_files(self) -> List[str]:
         """Scan current directory for .txt files"""
@@ -127,7 +145,7 @@ class ProxyValidatorEnhanced:
     
     def parse_proxy_line(self, line: str) -> Optional[Tuple[str, str, str, str]]:
         """
-        Parse line and extract IP, Port, Country, ISP
+        Parse line and extract IP, Port, Country, Organization
         Returns None if no port is found (IP will be skipped)
         """
         line = line.strip()
@@ -137,33 +155,33 @@ class ProxyValidatorEnhanced:
         ip_part = None
         port = None
         country = 'UNKNOWN'
-        isp = 'UNKNOWN'
+        org = 'UNKNOWN'
         
         try:
             if ':' in line:
-                # Format: IP:Port or IP:Port,Country,ISP
+                # Format: IP:Port or IP:Port,Country,Organization
                 parts = line.split(':', 1)
                 ip_part = parts[0].strip()
                 remaining = parts[1].strip()
                 
                 if ',' in remaining:
-                    # IP:Port,Country,ISP
+                    # IP:Port,Country,Organization
                     sub_parts = remaining.split(',')
                     port = sub_parts[0].strip()
                     country = sub_parts[1].strip() if len(sub_parts) > 1 and sub_parts[1].strip() else 'UNKNOWN'
-                    isp = self.clean_isp_name(sub_parts[2].strip()) if len(sub_parts) > 2 and sub_parts[2].strip() else 'UNKNOWN'
+                    org = self.clean_org_name(sub_parts[2].strip()) if len(sub_parts) > 2 and sub_parts[2].strip() else 'UNKNOWN'
                 else:
                     # IP:Port
                     port = remaining
                     
             elif ',' in line:
-                # Format: IP,Port,Country,ISP
+                # Format: IP,Port,Country,Organization
                 parts = line.split(',')
                 if len(parts) >= 2:
                     ip_part = parts[0].strip()
                     port = parts[1].strip()
                     country = parts[2].strip() if len(parts) > 2 and parts[2].strip() else 'UNKNOWN'
-                    isp = self.clean_isp_name(parts[3].strip()) if len(parts) > 3 and parts[3].strip() else 'UNKNOWN'
+                    org = self.clean_org_name(parts[3].strip()) if len(parts) > 3 and parts[3].strip() else 'UNKNOWN'
                 else:
                     # Only IP, no port - skip this line
                     return None
@@ -182,7 +200,7 @@ class ProxyValidatorEnhanced:
             if not self.is_valid_port(port):
                 return None
             
-            return (ip_part, port, country, isp)
+            return (ip_part, port, country, org)
             
         except Exception as e:
             self.log(f"Error parsing line '{line}': {e}")
@@ -205,8 +223,8 @@ class ProxyValidatorEnhanced:
                         self.stats['skipped_no_port'] += 1
                         continue
                     
-                    ip, port, country, isp = parsed
-                    proxies.append((ip, port, country, isp))
+                    ip, port, country, org = parsed
+                    proxies.append((ip, port, country, org))
                     self.stats['processed_ips'] += 1
                         
         except FileNotFoundError:
@@ -238,7 +256,7 @@ class ProxyValidatorEnhanced:
         unique_proxies = []
         
         for proxy in proxies:
-            ip, port, country, isp = proxy
+            ip, port, country, org = proxy
             proxy_key = (ip, port)
             
             if proxy_key not in seen_proxies:
@@ -264,13 +282,13 @@ class ProxyValidatorEnhanced:
             batch_ips = []
             
             for proxy in batch:
-                ip, port, old_country, old_isp = proxy
+                ip, port, old_country, old_org = proxy
                 batch_ips.append({
                     "query": ip,
-                    "fields": "status,country,countryCode,isp,query",
+                    "fields": "status,country,countryCode,org,asname,query",
                     "original_port": port,
                     "original_country": old_country,
-                    "original_isp": old_isp
+                    "original_org": old_org
                 })
             
             batch_file = f"{self.temp_dir}/batch_{batch_count:03d}.json"
@@ -279,7 +297,7 @@ class ProxyValidatorEnhanced:
                 for item in batch_ips:
                     api_queries.append({
                         "query": item["query"],
-                        "fields": "status,country,countryCode,isp,query"
+                        "fields": "status,country,countryCode,org,asname,query"
                     })
                 json.dump(api_queries, f, indent=2)
                 
@@ -360,9 +378,9 @@ class ProxyValidatorEnhanced:
                                 'ip': result['query'],
                                 'port': original['original_port'],
                                 'country_code': result.get('countryCode', 'UNKNOWN'),
-                                'isp': self.clean_isp_name(result.get('isp', 'Unknown ISP')),
+                                'org': self.get_organization_info(result),
                                 'original_country': original['original_country'],
-                                'original_isp': original['original_isp']
+                                'original_org': original['original_org']
                             })
                         else:
                             # Keep original data if validation failed
@@ -371,9 +389,9 @@ class ProxyValidatorEnhanced:
                                 'ip': original['query'],
                                 'port': original['original_port'],
                                 'country_code': original['original_country'],
-                                'isp': self.clean_isp_name(original['original_isp']),
+                                'org': self.clean_org_name(original['original_org']),
                                 'original_country': original['original_country'],
-                                'original_isp': original['original_isp']
+                                'original_org': original['original_org']
                             })
                 
                 return validated_proxies
@@ -463,9 +481,9 @@ class ProxyValidatorEnhanced:
         # Track data changes and enrichments
         for proxy in validated_proxies:
             original_country = proxy.get('original_country', 'UNKNOWN')
-            original_isp = proxy.get('original_isp', 'UNKNOWN')
+            original_org = proxy.get('original_org', 'UNKNOWN')
             new_country = proxy['country_code']
-            new_isp = proxy['isp']
+            new_org = proxy['org']
             
             # Track country changes/enrichments
             if original_country == 'UNKNOWN' and new_country != 'UNKNOWN':
@@ -473,19 +491,19 @@ class ProxyValidatorEnhanced:
             elif original_country != 'UNKNOWN' and original_country != new_country:
                 self.stats['corrected_country'] += 1
             
-            # Track ISP changes/enrichments
-            if original_isp == 'UNKNOWN' and new_isp != 'UNKNOWN':
-                self.stats['enriched_isp'] += 1
-            elif original_isp != 'UNKNOWN' and original_isp != new_isp:
-                self.stats['corrected_isp'] += 1
+            # Track Organization changes/enrichments
+            if original_org == 'UNKNOWN' and new_org != 'Unknown Organization':
+                self.stats['enriched_org'] += 1
+            elif original_org != 'UNKNOWN' and original_org != new_org:
+                self.stats['corrected_org'] += 1
         
-        # Sort by country code (primary) and ISP (secondary)
-        validated_proxies.sort(key=lambda x: (x['country_code'].upper(), x['isp'].upper()))
+        # Sort by country code (primary) and Organization (secondary)
+        validated_proxies.sort(key=lambda x: (x['country_code'].upper(), x['org'].upper()))
         
         # Save to output file
         with open(self.output_file, 'w', encoding='utf-8') as f:
             for proxy in validated_proxies:
-                line = f"{proxy['ip']},{proxy['port']},{proxy['country_code']},{proxy['isp']}\n"
+                line = f"{proxy['ip']},{proxy['port']},{proxy['country_code']},{proxy['org']}\n"
                 f.write(line)
         
         self.log(f"Saved {len(validated_proxies)} validated proxies to {self.output_file}")
@@ -511,8 +529,8 @@ class ProxyValidatorEnhanced:
         self.log("DATA CHANGES:")
         self.log(f"  - Country data enriched: {self.stats['enriched_country']:,}")
         self.log(f"  - Country data corrected: {self.stats['corrected_country']:,}")
-        self.log(f"  - ISP data enriched: {self.stats['enriched_isp']:,}")
-        self.log(f"  - ISP data corrected: {self.stats['corrected_isp']:,}")
+        self.log(f"  - Organization data enriched: {self.stats['enriched_org']:,}")
+        self.log(f"  - Organization data corrected: {self.stats['corrected_org']:,}")
         self.log("")
         self.log("COUNTRIES DISTRIBUTION:")
         for country, count in sorted(country_stats.items()):

@@ -69,3 +69,13 @@ Proxy-SG-Alibaba-Dirty.txt
 extracted_proxy_20250801_180140.txt
 url.txt
 __pycache__/proxy_validator.cpython-312.pyc
+proxy_check_results_20250802_024931.txt
+proxy_check_results_20250803_000848.txt
+Proxy-SG-NoTest.txt
+.gitignore
+proxy-validated-extracted_proxy_20250805_013735-20250805_013826.txt
+Proxy-SG-NoTest2.txt
+extracted_proxy_20250805_013735.txt
+id.txt
+indo1.txt
+extract_proxy_interactive1.py.bak

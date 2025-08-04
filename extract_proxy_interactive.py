@@ -37,6 +37,79 @@ def extract_ip_from_line(line):
     
     return None
 
+def extract_censys_format(input_file, port_filter=None, format_type="comma"):
+    """
+    Mengekstrak proxy:port dari format Censys (id.txt)
+    Format: IP address di awal, kemudian segmen HTTP dengan URL https://IP:PORT/
+    """
+    proxy_ports = []
+    
+    # Tentukan separator berdasarkan format
+    separators = {
+        "comma": ",",
+        "colon": ":",
+        "space": " "
+    }
+    separator = separators.get(format_type, ",")
+    
+    try:
+        with open(input_file, 'r', encoding='utf-8', errors='ignore') as f:
+            content = f.read()
+        
+        # Pattern untuk mencari URL dengan format https://IP:PORT/
+        url_pattern = r'https://(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}):(\d+)/'
+        matches = re.findall(url_pattern, content)
+        
+        print(f"🔍 Found {len(matches)} URL matches...")
+        
+        for ip, port in matches:
+           # Validasi IP address
+            if is_valid_ip(ip):
+                 # Filter port jika ada filter
+                if port_filter is None or port in port_filter:
+                    proxy_port = f"{ip}{separator}{port}"
+                    if proxy_port not in proxy_ports:  # Avoid duplicates
+                        proxy_ports.append(proxy_port)
+                        print(f"✅ Added: {proxy_port}")
+        
+        print(f"🎯 Total extracted: {len(proxy_ports)} proxy:port combinations")
+        return proxy_ports
+        
+    except Exception as e:
+        print(f"Error saat memproses file Censys: {e}")
+        return []
+
+def detect_file_format(input_file):
+    """
+    Mendeteksi format file berdasarkan konten
+    Returns: 'censys', 'proxy-sg', 'untitled', atau 'unknown'
+    """
+    try:
+        with open(input_file, 'r', encoding='utf-8', errors='ignore') as f:
+            content = f.read(2000)  # Baca 2000 karakter pertama
+        
+        # Deteksi format Censys
+        if 'Censys' in content and 'https://' in content and '/TCP' in content:
+            return 'censys'
+        
+        # Deteksi format proxy-sg (IP diawali spasi, port format "443/HTTP")
+        if re.search(r'^ +\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}', content, re.MULTILINE):
+            return 'proxy-sg'
+        
+        # Deteksi format untitled (port format "443 / HTTP")
+        if ' / HTTP' in content:
+            return 'untitled'
+        
+        # Default ke proxy-sg jika ada pola IP dan port
+        if re.search(r'\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}', content) and '/HTTP' in content:
+            return 'proxy-sg'
+        
+        return 'unknown'
+        
+    except Exception as e:
+        print(f"Error detecting file format: {e}")
+        return 'unknown'
+
 def scan_proxy_files(directory="/home/exball/Tunnel/proxy-scan"):
     """Scan directory untuk mencari file-file yang berpotensi sebagai proxy file"""
     
@@ -269,15 +342,70 @@ def save_proxy_results(output_file, working_proxies, not_working_proxies):
 def extract_proxy_ports(input_file, output_file, port_filter=None, format_type="comma"):
     """
     Mengekstrak proxy dan port dari file input
-    Mendukung dua format:
+    Mendukung tiga format:
     1. Format proxy-sg.txt: IP diawali spasi, port format "443/HTTP"
     2. Format Untitled-1.txt: IP tanpa spasi, port format "443 / HTTP"
+    3. Format Censys (id.txt): IP address dan URL format "https://IP:PORT/"
     """
     
     if not Path(input_file).exists():
         print(f"Error: File {input_file} tidak ditemukan!")
         return False
     
+    # Deteksi format file
+    file_format = detect_file_format(input_file)
+    print(f"🔍 Format file terdeteksi: {file_format}")
+    
+    # Jika format Censys, gunakan fungsi khusus
+    if file_format == 'censys':
+        proxy_ports = extract_censys_format(input_file, port_filter, format_type)
+        
+        # Urutkan hasil berdasarkan PORT terlebih dahulu (bukan IP)
+        def sort_key(proxy_port_str):
+            try:
+                # Split berdasarkan separator
+                separators = {"comma": ",", "colon": ":", "space": " "}
+                separator = separators.get(format_type, ",")
+                
+                if separator == ",":
+                    ip, port = proxy_port_str.split(",")
+                elif separator == ":":
+                    ip, port = proxy_port_str.split(":")
+                else:  # space
+                    ip, port = proxy_port_str.split(" ")
+                
+                # Urutkan berdasarkan PORT terlebih dahulu, kemudian IP
+                port_num = int(port)
+                ip_parts = tuple(int(part) for part in ip.split('.'))
+                
+                return (port_num, ip_parts)  # Port dulu, baru IP
+            except:
+                return (99999, tuple([999, 999, 999, 999]))  # fallback untuk error
+        
+        # Sort proxy_ports berdasarkan PORT terlebih dahulu
+        proxy_ports_sorted = sorted(proxy_ports, key=sort_key)
+        
+        # Remove duplicates while preserving order
+        proxy_ports_unique = []
+        seen = set()
+        
+        for proxy_port in proxy_ports_sorted:
+            if proxy_port not in seen:
+                proxy_ports_unique.append(proxy_port)
+                seen.add(proxy_port)
+        
+        # Show deduplication statistics
+        total_combinations = len(proxy_ports_sorted)
+        unique_combinations = len(proxy_ports_unique)
+        duplicates_removed = total_combinations - unique_combinations
+        
+        if duplicates_removed > 0:
+            print(f"🗑️  Duplikat dihapus: {duplicates_removed} dari {total_combinations} kombinasi")
+            print(f"🎯 Unique kombinasi: {unique_combinations}")
+        
+        return proxy_ports_unique
+    
+    # Untuk format lainnya, gunakan logika lama
     proxy_ports = []
     current_proxy = None
     
