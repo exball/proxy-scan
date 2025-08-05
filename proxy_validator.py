@@ -31,6 +31,8 @@ class ProxyValidatorEnhanced:
         self.output_file = None  # Will be generated based on input file
         self.temp_dir = "temp_batches"
         self.progress_file = "validation_progress.json"
+        self.proxy_data_dir = "proxy_data"  # Directory for country-based proxy data
+        self.save_proxy_data = False  # Option to save proxy data by country
         self.stats = {
             'total_lines': 0,
             'skipped_no_port': 0,
@@ -78,6 +80,46 @@ class ProxyValidatorEnhanced:
         txt_files = [f for f in txt_files if not f.startswith('proxy-validated-')]
         return sorted(txt_files)
     
+    def ask_save_proxy_data_option(self):
+        """Ask user if they want to save proxy data by country"""
+        print("\n" + "="*60)
+        print("OPSI PENYIMPANAN DATA PROXY")
+        print("="*60)
+        print("Apakah Anda ingin menyimpan data proxy berdasarkan negara?")
+        print("Data akan disimpan dalam format JSON di direktori 'proxy_data/'")
+        print("dengan file terpisah untuk setiap negara.")
+        print()
+        print("Contoh format data yang akan disimpan:")
+        print('''{
+    "query": "129.151.128.105",
+    "country": "United Arab Emirates", 
+    "countryCode": "AE",
+    "isp": "Oracle Corporation",
+    "org": "Oracle Corporation",
+    "as": "AS31898 Oracle Corporation",
+    "asname": "ORACLE-BMC-31898"
+}''')
+        print("="*60)
+        
+        while True:
+            try:
+                choice = input("\nSimpan data proxy berdasarkan negara? (y/n): ").strip().lower()
+                
+                if choice in ['y', 'yes', 'ya']:
+                    self.save_proxy_data = True
+                    self.log("Opsi penyimpanan data proxy berdasarkan negara: AKTIF")
+                    break
+                elif choice in ['n', 'no', 'tidak']:
+                    self.save_proxy_data = False
+                    self.log("Opsi penyimpanan data proxy berdasarkan negara: TIDAK AKTIF")
+                    break
+                else:
+                    print("Silakan masukkan 'y' untuk ya atau 'n' untuk tidak")
+                    
+            except KeyboardInterrupt:
+                self.log("\nValidation cancelled by user")
+                sys.exit(0)
+
     def display_file_menu(self) -> str:
         """Display file selection menu and return selected file"""
         txt_files = self.scan_txt_files()
@@ -285,7 +327,7 @@ class ProxyValidatorEnhanced:
                 ip, port, old_country, old_org = proxy
                 batch_ips.append({
                     "query": ip,
-                    "fields": "status,country,countryCode,org,asname,query",
+                    "fields": "status,country,countryCode,isp,org,as,asname,query",
                     "original_port": port,
                     "original_country": old_country,
                     "original_org": old_org
@@ -297,7 +339,7 @@ class ProxyValidatorEnhanced:
                 for item in batch_ips:
                     api_queries.append({
                         "query": item["query"],
-                        "fields": "status,country,countryCode,org,asname,query"
+                        "fields": "status,country,countryCode,isp,org,as,asname,query"
                     })
                 json.dump(api_queries, f, indent=2)
                 
@@ -374,25 +416,53 @@ class ProxyValidatorEnhanced:
                         original = metadata[i]
                         
                         if result.get('status') == 'success':
-                            validated_proxies.append({
+                            proxy_data = {
                                 'ip': result['query'],
                                 'port': original['original_port'],
                                 'country_code': result.get('countryCode', 'UNKNOWN'),
                                 'org': self.get_organization_info(result),
                                 'original_country': original['original_country'],
                                 'original_org': original['original_org']
-                            })
+                            }
+                            
+                            # Add full API data for proxy data saving
+                            if self.save_proxy_data:
+                                proxy_data['api_data'] = {
+                                    'query': result['query'],
+                                    'country': result.get('country', 'Unknown'),
+                                    'countryCode': result.get('countryCode', 'UNKNOWN'),
+                                    'isp': result.get('isp', 'Unknown ISP'),
+                                    'org': result.get('org', 'Unknown Organization'),
+                                    'as': result.get('as', 'Unknown AS'),
+                                    'asname': result.get('asname', 'Unknown ASName')
+                                }
+                            
+                            validated_proxies.append(proxy_data)
                         else:
                             # Keep original data if validation failed
                             self.log(f"Warning: Validation failed for IP {original['query']}: {result.get('message', 'Unknown error')}")
-                            validated_proxies.append({
+                            proxy_data = {
                                 'ip': original['query'],
                                 'port': original['original_port'],
                                 'country_code': original['original_country'],
                                 'org': self.clean_org_name(original['original_org']),
                                 'original_country': original['original_country'],
                                 'original_org': original['original_org']
-                            })
+                            }
+                            
+                            # Add minimal API data for failed validations
+                            if self.save_proxy_data:
+                                proxy_data['api_data'] = {
+                                    'query': original['query'],
+                                    'country': 'Unknown',
+                                    'countryCode': original['original_country'],
+                                    'isp': 'Unknown ISP',
+                                    'org': original['original_org'],
+                                    'as': 'Unknown AS',
+                                    'asname': 'Unknown ASName'
+                                }
+                            
+                            validated_proxies.append(proxy_data)
                 
                 return validated_proxies
                 
@@ -473,6 +543,83 @@ class ProxyValidatorEnhanced:
             self.log(f"Warning: {len(progress['failed_batches'])} batches failed: {progress['failed_batches']}")
         
         return all_validated
+    
+    def save_proxy_data_by_country(self, validated_proxies: List[Dict]):
+        """Save proxy data by country in JSON format"""
+        if not self.save_proxy_data:
+            return
+            
+        self.log("Menyimpan data proxy berdasarkan negara...")
+        
+        # Create proxy_data directory if it doesn't exist
+        if not os.path.exists(self.proxy_data_dir):
+            os.makedirs(self.proxy_data_dir)
+            self.log(f"Direktori {self.proxy_data_dir}/ dibuat")
+        
+        # Group proxies by country
+        country_data = {}
+        for proxy in validated_proxies:
+            if 'api_data' in proxy:
+                country_code = proxy['country_code']
+                if country_code not in country_data:
+                    country_data[country_code] = []
+                
+                # Add the API data to country group
+                country_data[country_code].append(proxy['api_data'])
+        
+        # Save each country's data to separate JSON files
+        saved_countries = 0
+        total_proxies_saved = 0
+        
+        for country_code, proxies_data in country_data.items():
+            if country_code == 'UNKNOWN':
+                filename = f"{self.proxy_data_dir}/UNKNOWN.json"
+            else:
+                filename = f"{self.proxy_data_dir}/{country_code}.json"
+            
+            try:
+                # Load existing data if file exists
+                existing_data = []
+                if os.path.exists(filename):
+                    try:
+                        with open(filename, 'r', encoding='utf-8') as f:
+                            existing_data = json.load(f)
+                    except:
+                        existing_data = []
+                
+                # Merge new data with existing data (avoid duplicates by IP)
+                existing_ips = {item.get('query') for item in existing_data if isinstance(item, dict)}
+                new_data = []
+                current_batch_ips = set()
+                
+                for proxy_data in proxies_data:
+                    ip = proxy_data.get('query')
+                    # Skip if IP already exists in file or already processed in current batch
+                    if ip not in existing_ips and ip not in current_batch_ips:
+                        new_data.append(proxy_data)
+                        current_batch_ips.add(ip)
+                
+                # Combine and save
+                combined_data = existing_data + new_data
+                
+                with open(filename, 'w', encoding='utf-8') as f:
+                    json.dump(combined_data, f, indent=2, ensure_ascii=False)
+                
+                saved_countries += 1
+                total_proxies_saved += len(new_data)
+                
+                if new_data:
+                    self.log(f"  - {country_code}: {len(new_data)} proxy baru disimpan ke {filename}")
+                else:
+                    self.log(f"  - {country_code}: Tidak ada data baru (semua sudah ada)")
+                    
+            except Exception as e:
+                self.log(f"Error menyimpan data untuk negara {country_code}: {e}")
+        
+        self.log(f"Data proxy berhasil disimpan:")
+        self.log(f"  - {saved_countries} file negara")
+        self.log(f"  - {total_proxies_saved} proxy baru ditambahkan")
+        self.log(f"  - Lokasi: {self.proxy_data_dir}/")
     
     def sort_and_save_results(self, validated_proxies: List[Dict]):
         """Sort by country code, then ISP, and save to output file with detailed tracking"""
@@ -560,12 +707,17 @@ class ProxyValidatorEnhanced:
             # Step 0: File selection
             self.input_file = self.display_file_menu()
             
+            # Step 0.5: Ask for proxy data saving option
+            self.ask_save_proxy_data_option()
+            
             # Generate output filename based on input
             base_name = os.path.splitext(self.input_file)[0]
             timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
             self.output_file = f"proxy-validated-{base_name}-{timestamp}.txt"
             
             self.log(f"Output will be saved to: {self.output_file}")
+            if self.save_proxy_data:
+                self.log(f"Proxy data by country will be saved to: {self.proxy_data_dir}/")
             
             # Step 1: Load and parse proxies
             proxies = self.load_proxies()
@@ -583,10 +735,13 @@ class ProxyValidatorEnhanced:
             
             validated_proxies = self.validate_all_batches(total_batches)
             
-            # Step 5: Sort and save results
+            # Step 5: Save proxy data by country (if enabled)
+            self.save_proxy_data_by_country(validated_proxies)
+            
+            # Step 6: Sort and save results
             self.sort_and_save_results(validated_proxies)
             
-            # Step 6: Cleanup
+            # Step 7: Cleanup
             self.cleanup_temp_files()
             
             # Final summary
