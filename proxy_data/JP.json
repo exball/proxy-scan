@@ -2473,5 +2473,14 @@
     "org": "ZTV Co., ltd",
     "as": "AS9351 ZTV CO.,LTD",
     "asname": "ZLAN"
+  },
+  {
+    "query": "211.101.244.174",
+    "country": "Japan",
+    "countryCode": "JP",
+    "isp": "Asia Pacific Network Information Center",
+    "org": "Asia Pacific Network Information Center, Pty. Ltd",
+    "as": "AS58519 Cloud Computing Corporation",
+    "asname": "CHINATELECOM-Ctcloud"
   }
 ]

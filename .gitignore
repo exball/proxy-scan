@@ -38,7 +38,6 @@ abhinawa.txt
 proxy-validated-proxy-list-20250730_042316.txt
 proxy-sg.txt
 extracted_proxy_20250731_035319.txt
-.gitignore
 proxy-validated-extracted_proxy_20250731_035319-20250731_035437.txt
 proxy-id-fix.txt
 extracted_proxy_20250731_210428.txt
@@ -72,7 +71,6 @@ __pycache__/proxy_validator.cpython-312.pyc
 proxy_check_results_20250802_024931.txt
 proxy_check_results_20250803_000848.txt
 Proxy-SG-NoTest.txt
-.gitignore
 proxy-validated-extracted_proxy_20250805_013735-20250805_013826.txt
 Proxy-SG-NoTest2.txt
 extracted_proxy_20250805_013735.txt
@@ -81,3 +79,7 @@ indo1.txt
 extract_proxy_interactive1.py.bak
 extracted_proxy_20250805_014156.txt
 proxy-validated-extracted_proxy_20250805_014156-20250805_014213.txt
+proxy-ID-dirty.txt
+extracted_proxy_20250807_043336.txt
+cn.txt
+proxy-validated-extracted_proxy_20250807_043336-20250807_043631.txt
