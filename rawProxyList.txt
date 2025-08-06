@@ -657,3 +657,6 @@
 43.133.145.156,53136,ID,Tencent Cloud Computing
 165.154.150.185,80,ID,Ucloud Information Technology (hk) Limited
 165.154.150.185,443,ID,Ucloud Information Technology (hk) Limited
+139.195.120.233,80,ID,FASTNET-AS-ID
+139.192.173.246,80,ID,FASTNET-AS-ID
+139.192.173.246,443,ID,FASTNET-AS-ID
