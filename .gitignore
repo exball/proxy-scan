@@ -83,3 +83,8 @@ proxy-ID-dirty.txt
 extracted_proxy_20250807_043336.txt
 cn.txt
 proxy-validated-extracted_proxy_20250807_043336-20250807_043631.txt
+proxy-JP-dirty.txt
+proxy-CN-dirty.txt
+proxy-validated-extracted_proxy_20250807_175912-20250807_175935.txt
+.gitignore
+extracted_proxy_20250807_175912.txt
