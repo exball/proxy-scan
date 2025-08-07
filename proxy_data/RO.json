@@ -376,5 +376,14 @@
     "org": "Zergrush SRL",
     "as": "AS39622 ZERGRUSH SRL",
     "asname": "ZERGRUSH"
+  },
+  {
+    "query": "188.208.110.75",
+    "country": "Romania",
+    "countryCode": "RO",
+    "isp": "BFB ONE FZ-LLC",
+    "org": "Conect Intercom SRL",
+    "as": "AS59878 BFB ONE FZ-LLC",
+    "asname": "ASBFB"
   }
 ]
