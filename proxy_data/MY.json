@@ -79,5 +79,14 @@
     "org": "",
     "as": "AS136510 Streamline Servers Pty Ltd",
     "asname": "STREAMLINESERVERS-AS-AP"
+  },
+  {
+    "query": "23.202.180.248",
+    "country": "Malaysia",
+    "countryCode": "MY",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS16625 Akamai Technologies, Inc.",
+    "asname": "AKAMAI-AS"
   }
 ]

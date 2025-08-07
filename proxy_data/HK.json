@@ -19987,5 +19987,50 @@
     "org": "AT&T Enterprises, LLC",
     "as": "AS51847 Nearoute Limited",
     "asname": "NEAROUTE"
+  },
+  {
+    "query": "202.155.141.30",
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "isp": "Arisk Communications inc",
+    "org": "Arisk Communications inc.",
+    "as": "AS134677 Dromatics Systems Pte Ltd",
+    "asname": "IDC-AS-AP"
+  },
+  {
+    "query": "202.155.141.223",
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "isp": "Arisk Communications inc",
+    "org": "Arisk Communications inc.",
+    "as": "AS134677 Dromatics Systems Pte Ltd",
+    "asname": "IDC-AS-AP"
+  },
+  {
+    "query": "202.155.141.45",
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "isp": "Arisk Communications inc",
+    "org": "Arisk Communications inc.",
+    "as": "AS134677 Dromatics Systems Pte Ltd",
+    "asname": "IDC-AS-AP"
+  },
+  {
+    "query": "202.155.141.235",
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "isp": "Arisk Communications inc",
+    "org": "Arisk Communications inc.",
+    "as": "AS134677 Dromatics Systems Pte Ltd",
+    "asname": "IDC-AS-AP"
+  },
+  {
+    "query": "180.131.144.14",
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "isp": "Asymptote Network, LLC",
+    "org": "Colocation America Corporation",
+    "as": "AS53616 ASYMPTOTE NETWORK, LLC",
+    "asname": "ASYMPTOTE"
   }
 ]

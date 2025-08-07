@@ -21958,5 +21958,14 @@
     "org": "IT7-SG",
     "as": "AS25820 IT7 Networks Inc",
     "asname": "IT7NET"
+  },
+  {
+    "query": "165.154.205.11",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Scloud Pte Ltd",
+    "org": "Scloud Pte Ltd",
+    "as": "AS142002 Scloud Pte Ltd",
+    "asname": "SCLOUDPTELTD-AS"
   }
 ]
