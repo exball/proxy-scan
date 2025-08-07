@@ -21130,5 +21130,824 @@
     "org": "Alibaba Cloud LLC",
     "as": "AS24429 Zhejiang Taobao Network Co.,Ltd",
     "asname": "Taobao"
+  },
+  {
+    "query": "149.104.1.219",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Xnnet LLC",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS932 XNNET LLC",
+    "asname": "XNNET"
+  },
+  {
+    "query": "149.104.22.3",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Xnnet LLC",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS932 XNNET LLC",
+    "asname": "XNNET"
+  },
+  {
+    "query": "149.104.23.111",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Xnnet LLC",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS932 XNNET LLC",
+    "asname": "XNNET"
+  },
+  {
+    "query": "149.104.25.27",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Lucidacloud Limited",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS139659 LUCIDACLOUD LIMITED",
+    "asname": "LUCID-AS-AP"
+  },
+  {
+    "query": "149.104.25.224",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Lucidacloud Limited",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS139659 LUCIDACLOUD LIMITED",
+    "asname": "LUCID-AS-AP"
+  },
+  {
+    "query": "149.104.27.11",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Lucidacloud Limited",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS139659 LUCIDACLOUD LIMITED",
+    "asname": "LUCID-AS-AP"
+  },
+  {
+    "query": "149.104.28.234",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Lucidacloud Limited",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS139659 LUCIDACLOUD LIMITED",
+    "asname": "LUCID-AS-AP"
+  },
+  {
+    "query": "149.104.28.235",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Lucidacloud Limited",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS139659 LUCIDACLOUD LIMITED",
+    "asname": "LUCID-AS-AP"
+  },
+  {
+    "query": "149.104.28.236",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Lucidacloud Limited",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS139659 LUCIDACLOUD LIMITED",
+    "asname": "LUCID-AS-AP"
+  },
+  {
+    "query": "149.104.31.210",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Lucidacloud Limited",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS139659 LUCIDACLOUD LIMITED",
+    "asname": "LUCID-AS-AP"
+  },
+  {
+    "query": "149.104.34.10",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Cnservers LLC",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS40065 CNSERVERS LLC",
+    "asname": "CNSERVERS"
+  },
+  {
+    "query": "149.104.34.11",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Cnservers LLC",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS40065 CNSERVERS LLC",
+    "asname": "CNSERVERS"
+  },
+  {
+    "query": "149.104.34.28",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Cnservers LLC",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS40065 CNSERVERS LLC",
+    "asname": "CNSERVERS"
+  },
+  {
+    "query": "149.104.34.29",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Cnservers LLC",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS40065 CNSERVERS LLC",
+    "asname": "CNSERVERS"
+  },
+  {
+    "query": "149.104.34.30",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Cnservers LLC",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS40065 CNSERVERS LLC",
+    "asname": "CNSERVERS"
+  },
+  {
+    "query": "149.104.34.114",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Cnservers LLC",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS40065 CNSERVERS LLC",
+    "asname": "CNSERVERS"
+  },
+  {
+    "query": "149.104.34.115",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Cnservers LLC",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS40065 CNSERVERS LLC",
+    "asname": "CNSERVERS"
+  },
+  {
+    "query": "149.104.34.116",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Cnservers LLC",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS40065 CNSERVERS LLC",
+    "asname": "CNSERVERS"
+  },
+  {
+    "query": "149.104.34.117",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Cnservers LLC",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS40065 CNSERVERS LLC",
+    "asname": "CNSERVERS"
+  },
+  {
+    "query": "149.104.34.118",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Cnservers LLC",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS40065 CNSERVERS LLC",
+    "asname": "CNSERVERS"
+  },
+  {
+    "query": "149.104.34.122",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Cnservers LLC",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS40065 CNSERVERS LLC",
+    "asname": "CNSERVERS"
+  },
+  {
+    "query": "149.104.34.124",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Cnservers LLC",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS40065 CNSERVERS LLC",
+    "asname": "CNSERVERS"
+  },
+  {
+    "query": "149.104.34.125",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Cnservers LLC",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS40065 CNSERVERS LLC",
+    "asname": "CNSERVERS"
+  },
+  {
+    "query": "149.104.34.126",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Cnservers LLC",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS40065 CNSERVERS LLC",
+    "asname": "CNSERVERS"
+  },
+  {
+    "query": "149.104.34.186",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Cnservers LLC",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS40065 CNSERVERS LLC",
+    "asname": "CNSERVERS"
+  },
+  {
+    "query": "149.104.34.187",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Cnservers LLC",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS40065 CNSERVERS LLC",
+    "asname": "CNSERVERS"
+  },
+  {
+    "query": "149.104.34.188",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Cnservers LLC",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS40065 CNSERVERS LLC",
+    "asname": "CNSERVERS"
+  },
+  {
+    "query": "149.104.34.189",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Cnservers LLC",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS40065 CNSERVERS LLC",
+    "asname": "CNSERVERS"
+  },
+  {
+    "query": "154.38.69.7",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.38.69.8",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.38.69.9",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.38.69.10",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.38.69.11",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.38.69.37",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.38.69.38",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.38.69.39",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.38.69.40",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.38.69.41",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.38.69.72",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.38.69.73",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.38.69.74",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.38.69.75",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.38.69.76",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.38.70.7",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.38.70.8",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.38.70.9",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.38.70.10",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.38.70.11",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.38.70.37",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.38.70.38",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.38.70.39",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.38.70.40",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.38.70.41",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.38.70.72",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.38.70.73",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.38.70.74",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.38.70.75",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.38.70.76",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "STARCLOUD GLOBAL PTE., LTD.",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS140224 Nebula Global LLC",
+    "asname": "NEBULA"
+  },
+  {
+    "query": "154.91.82.58",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Tcloudnet",
+    "org": "Cloud Innovation Ltd",
+    "as": "AS399077 Tcloudnet",
+    "asname": "TERAEXCH"
+  },
+  {
+    "query": "149.104.23.58",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Xnnet LLC",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS932 XNNET LLC",
+    "asname": "XNNET"
+  },
+  {
+    "query": "149.104.24.18",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Lucidacloud Limited",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS139659 LUCIDACLOUD LIMITED",
+    "asname": "LUCID-AS-AP"
+  },
+  {
+    "query": "149.104.25.84",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Lucidacloud Limited",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS139659 LUCIDACLOUD LIMITED",
+    "asname": "LUCID-AS-AP"
+  },
+  {
+    "query": "149.104.28.100",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Lucidacloud Limited",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS139659 LUCIDACLOUD LIMITED",
+    "asname": "LUCID-AS-AP"
+  },
+  {
+    "query": "149.104.28.216",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Lucidacloud Limited",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS139659 LUCIDACLOUD LIMITED",
+    "asname": "LUCID-AS-AP"
+  },
+  {
+    "query": "149.104.25.127",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Lucidacloud Limited",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS139659 LUCIDACLOUD LIMITED",
+    "asname": "LUCID-AS-AP"
+  },
+  {
+    "query": "182.255.34.81",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "JINX CO., LIMITED",
+    "org": "Singapore Changi CENTURION LOUNGE",
+    "as": "AS140096 JINX CO., LIMITED",
+    "asname": "JINX-AS-AP"
+  },
+  {
+    "query": "182.255.34.8",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "JINX CO., LIMITED",
+    "org": "Singapore Changi CENTURION LOUNGE",
+    "as": "AS140096 JINX CO., LIMITED",
+    "asname": "JINX-AS-AP"
+  },
+  {
+    "query": "182.255.34.18",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "JINX CO., LIMITED",
+    "org": "Singapore Changi CENTURION LOUNGE",
+    "as": "AS140096 JINX CO., LIMITED",
+    "asname": "JINX-AS-AP"
+  },
+  {
+    "query": "182.255.34.39",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "JINX CO., LIMITED",
+    "org": "Singapore Changi CENTURION LOUNGE",
+    "as": "AS140096 JINX CO., LIMITED",
+    "asname": "JINX-AS-AP"
+  },
+  {
+    "query": "182.255.34.41",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "JINX CO., LIMITED",
+    "org": "Singapore Changi CENTURION LOUNGE",
+    "as": "AS140096 JINX CO., LIMITED",
+    "asname": "JINX-AS-AP"
+  },
+  {
+    "query": "182.255.34.43",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "JINX CO., LIMITED",
+    "org": "Singapore Changi CENTURION LOUNGE",
+    "as": "AS140096 JINX CO., LIMITED",
+    "asname": "JINX-AS-AP"
+  },
+  {
+    "query": "182.255.34.46",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "JINX CO., LIMITED",
+    "org": "Singapore Changi CENTURION LOUNGE",
+    "as": "AS140096 JINX CO., LIMITED",
+    "asname": "JINX-AS-AP"
+  },
+  {
+    "query": "182.255.34.47",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "JINX CO., LIMITED",
+    "org": "Singapore Changi CENTURION LOUNGE",
+    "as": "AS140096 JINX CO., LIMITED",
+    "asname": "JINX-AS-AP"
+  },
+  {
+    "query": "182.255.34.49",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "JINX CO., LIMITED",
+    "org": "Singapore Changi CENTURION LOUNGE",
+    "as": "AS140096 JINX CO., LIMITED",
+    "asname": "JINX-AS-AP"
+  },
+  {
+    "query": "182.255.34.54",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "JINX CO., LIMITED",
+    "org": "Singapore Changi CENTURION LOUNGE",
+    "as": "AS140096 JINX CO., LIMITED",
+    "asname": "JINX-AS-AP"
+  },
+  {
+    "query": "182.255.34.57",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "JINX CO., LIMITED",
+    "org": "Singapore Changi CENTURION LOUNGE",
+    "as": "AS140096 JINX CO., LIMITED",
+    "asname": "JINX-AS-AP"
+  },
+  {
+    "query": "182.255.34.98",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "JINX CO., LIMITED",
+    "org": "Singapore Changi CENTURION LOUNGE",
+    "as": "AS140096 JINX CO., LIMITED",
+    "asname": "JINX-AS-AP"
+  },
+  {
+    "query": "182.255.34.108",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "JINX CO., LIMITED",
+    "org": "Singapore Changi CENTURION LOUNGE",
+    "as": "AS140096 JINX CO., LIMITED",
+    "asname": "JINX-AS-AP"
+  },
+  {
+    "query": "182.255.34.122",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "JINX CO., LIMITED",
+    "org": "Singapore Changi CENTURION LOUNGE",
+    "as": "AS140096 JINX CO., LIMITED",
+    "asname": "JINX-AS-AP"
+  },
+  {
+    "query": "182.255.34.123",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "JINX CO., LIMITED",
+    "org": "Singapore Changi CENTURION LOUNGE",
+    "as": "AS140096 JINX CO., LIMITED",
+    "asname": "JINX-AS-AP"
+  },
+  {
+    "query": "182.255.34.127",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "JINX CO., LIMITED",
+    "org": "Singapore Changi CENTURION LOUNGE",
+    "as": "AS140096 JINX CO., LIMITED",
+    "asname": "JINX-AS-AP"
+  },
+  {
+    "query": "182.255.34.134",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "JINX CO., LIMITED",
+    "org": "Singapore Changi CENTURION LOUNGE",
+    "as": "AS140096 JINX CO., LIMITED",
+    "asname": "JINX-AS-AP"
+  },
+  {
+    "query": "182.255.34.140",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "JINX CO., LIMITED",
+    "org": "Singapore Changi CENTURION LOUNGE",
+    "as": "AS140096 JINX CO., LIMITED",
+    "asname": "JINX-AS-AP"
+  },
+  {
+    "query": "182.255.34.167",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "JINX CO., LIMITED",
+    "org": "Singapore Changi CENTURION LOUNGE",
+    "as": "AS140096 JINX CO., LIMITED",
+    "asname": "JINX-AS-AP"
+  },
+  {
+    "query": "149.104.0.174",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Xnnet LLC",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS932 XNNET LLC",
+    "asname": "XNNET"
+  },
+  {
+    "query": "149.104.25.252",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Lucidacloud Limited",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS139659 LUCIDACLOUD LIMITED",
+    "asname": "LUCID-AS-AP"
+  },
+  {
+    "query": "149.104.22.80",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "Xnnet LLC",
+    "org": "Starcloud Global Pte. LTD",
+    "as": "AS932 XNNET LLC",
+    "asname": "XNNET"
+  },
+  {
+    "query": "210.16.123.100",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "HostUS Networks Ltd",
+    "org": "",
+    "as": "AS152918 Liberally Network LLC",
+    "asname": "LNL-AS-AP"
+  },
+  {
+    "query": "210.16.123.125",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "HostUS Networks Ltd",
+    "org": "",
+    "as": "AS152918 Liberally Network LLC",
+    "asname": "LNL-AS-AP"
+  },
+  {
+    "query": "210.16.123.129",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "HostUS Networks Ltd",
+    "org": "",
+    "as": "AS152918 Liberally Network LLC",
+    "asname": "LNL-AS-AP"
+  },
+  {
+    "query": "210.16.123.138",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "isp": "HostUS Networks Ltd",
+    "org": "",
+    "as": "AS152918 Liberally Network LLC",
+    "asname": "LNL-AS-AP"
   }
 ]

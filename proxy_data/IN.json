@@ -385,5 +385,23 @@
     "org": "The Constant Company, LLC",
     "as": "AS20473 The Constant Company, LLC",
     "asname": "AS-VULTR"
+  },
+  {
+    "query": "103.247.29.34",
+    "country": "India",
+    "countryCode": "IN",
+    "isp": "Anjnay Information Technology India (P) Ltd",
+    "org": "Anjnay Information Technology India (P) Ltd",
+    "as": "AS967 VMISS Inc.",
+    "asname": "VMISS-CA"
+  },
+  {
+    "query": "103.247.29.102",
+    "country": "India",
+    "countryCode": "IN",
+    "isp": "Anjnay Information Technology India (P) Ltd",
+    "org": "Anjnay Information Technology India (P) Ltd",
+    "as": "AS967 VMISS Inc.",
+    "asname": "VMISS-CA"
   }
 ]

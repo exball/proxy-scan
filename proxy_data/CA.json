@@ -1168,5 +1168,41 @@
     "org": "ASSERTIVENET",
     "as": "",
     "asname": ""
+  },
+  {
+    "query": "38.207.185.61",
+    "country": "Canada",
+    "countryCode": "CA",
+    "isp": "VMISS Inc.",
+    "org": "VMISS Inc",
+    "as": "AS967 VMISS Inc.",
+    "asname": "VMISS-CA"
+  },
+  {
+    "query": "38.207.185.201",
+    "country": "Canada",
+    "countryCode": "CA",
+    "isp": "VMISS Inc.",
+    "org": "VMISS Inc",
+    "as": "AS967 VMISS Inc.",
+    "asname": "VMISS-CA"
+  },
+  {
+    "query": "38.207.185.224",
+    "country": "Canada",
+    "countryCode": "CA",
+    "isp": "VMISS Inc.",
+    "org": "VMISS Inc",
+    "as": "AS967 VMISS Inc.",
+    "asname": "VMISS-CA"
+  },
+  {
+    "query": "38.207.185.155",
+    "country": "Canada",
+    "countryCode": "CA",
+    "isp": "VMISS Inc.",
+    "org": "VMISS Inc",
+    "as": "AS967 VMISS Inc.",
+    "asname": "VMISS-CA"
   }
 ]

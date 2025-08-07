@@ -7333,5 +7333,50 @@
     "org": "Readyserver",
     "as": "AS38001 NewMedia Express Pte Ltd",
     "asname": "NEWMEDIAEXPRESS-AS-AP"
+  },
+  {
+    "query": "103.37.1.66",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "isp": "Yancy Limited",
+    "org": "MOACK.Co.LTD",
+    "as": "AS138415 Yancy Limited",
+    "asname": "YANCYLIMITED-AS-HK"
+  },
+  {
+    "query": "103.37.1.67",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "isp": "Yancy Limited",
+    "org": "MOACK.Co.LTD",
+    "as": "AS138415 Yancy Limited",
+    "asname": "YANCYLIMITED-AS-HK"
+  },
+  {
+    "query": "103.37.1.70",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "isp": "Yancy Limited",
+    "org": "MOACK.Co.LTD",
+    "as": "AS138415 Yancy Limited",
+    "asname": "YANCYLIMITED-AS-HK"
+  },
+  {
+    "query": "103.54.60.37",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "isp": "Yancy Limited",
+    "org": "MOACK.Co.LTD",
+    "as": "AS138415 Yancy Limited",
+    "asname": "YANCYLIMITED-AS-HK"
+  },
+  {
+    "query": "154.84.8.166",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "isp": "CenturyNetworks LTD",
+    "org": "Cloud Innovation Ltd",
+    "as": "AS40065 CNSERVERS LLC",
+    "asname": "CNSERVERS"
   }
 ]

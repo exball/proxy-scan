@@ -3148,5 +3148,59 @@
     "org": "China Enterprise ICT Solutions Limited",
     "as": "AS10212 China Enterprise ICT Solutions Limited",
     "asname": "CHINAENTERCOM"
+  },
+  {
+    "query": "103.224.80.7",
+    "country": "China",
+    "countryCode": "CN",
+    "isp": "Xnnet LLC",
+    "org": "Hangzhou Jiweixia Network Technology Co., Ltd",
+    "as": "AS932 XNNET LLC",
+    "asname": "XNNET"
+  },
+  {
+    "query": "103.224.80.20",
+    "country": "China",
+    "countryCode": "CN",
+    "isp": "Xnnet LLC",
+    "org": "Hangzhou Jiweixia Network Technology Co., Ltd",
+    "as": "AS932 XNNET LLC",
+    "asname": "XNNET"
+  },
+  {
+    "query": "103.224.80.121",
+    "country": "China",
+    "countryCode": "CN",
+    "isp": "Xnnet LLC",
+    "org": "Hangzhou Jiweixia Network Technology Co., Ltd",
+    "as": "AS932 XNNET LLC",
+    "asname": "XNNET"
+  },
+  {
+    "query": "74.119.193.226",
+    "country": "China",
+    "countryCode": "CN",
+    "isp": "PQ HOSTING PLUS S.R.L.",
+    "org": "WorkTitans B.V",
+    "as": "AS44477 PQ HOSTING PLUS S.R.L.",
+    "asname": "THE-HOSTING"
+  },
+  {
+    "query": "103.224.80.2",
+    "country": "China",
+    "countryCode": "CN",
+    "isp": "Xnnet LLC",
+    "org": "Hangzhou Jiweixia Network Technology Co., Ltd",
+    "as": "AS932 XNNET LLC",
+    "asname": "XNNET"
+  },
+  {
+    "query": "45.125.18.77",
+    "country": "China",
+    "countryCode": "CN",
+    "isp": "Cloudie Limited",
+    "org": "Hebei Jiateng Electronics and Technology Co., Ltd",
+    "as": "AS55933 Cloudie Limited",
+    "asname": "CLOUDIE-AS-AP"
   }
 ]

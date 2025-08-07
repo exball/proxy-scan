@@ -2482,5 +2482,14 @@
     "org": "Asia Pacific Network Information Center, Pty. Ltd",
     "as": "AS58519 Cloud Computing Corporation",
     "asname": "CHINATELECOM-Ctcloud"
+  },
+  {
+    "query": "46.232.54.110",
+    "country": "Japan",
+    "countryCode": "JP",
+    "isp": "Sakura Link Limited",
+    "org": "Dom Tehniki Ltd",
+    "as": "AS49304 SAKURA LINK LIMITED",
+    "asname": "SAKURA-AS"
   }
 ]

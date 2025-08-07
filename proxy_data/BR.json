@@ -169,5 +169,14 @@
     "org": "V tal",
     "as": "AS8167 V tal",
     "asname": "V tal"
+  },
+  {
+    "query": "31.56.48.31",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "isp": "CGI GLOBAL LIMITED",
+    "org": "CGI GLOBAL LIMITED",
+    "as": "AS56971 AS56971 Cloud",
+    "asname": "AS56971"
   }
 ]
