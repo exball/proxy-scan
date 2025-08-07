@@ -28,7 +28,7 @@ const RAW_PROXY_LIST_FILE = "./rawProxyList.txt";
 const PROXY_LIST_FILE = "./proxyList.txt";
 const IP_RESOLVER_DOMAIN = "resolver.xtunnel.my.id";
 const IP_RESOLVER_PATH = "/";
-const CONCURRENCY = 250;
+const CONCURRENCY = 80;
 
 const CHECK_QUEUE: string[] = [];
 
