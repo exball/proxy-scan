@@ -1,417 +1,664 @@
-38.180.27.182,80,AE,3NT SOLUTIONS LLP
-38.180.27.199,80,AE,3NT SOLUTIONS LLP
-38.180.11.201,443,AE,3NT SOLUTIONS LLP
-38.180.27.193,443,AE,3NT SOLUTIONS LLP
-38.180.27.199,443,AE,3NT SOLUTIONS LLP
-38.180.27.193,444,AE,3NT SOLUTIONS LLP
-38.180.27.199,2082,AE,3NT SOLUTIONS LLP
-38.180.27.199,2086,AE,3NT SOLUTIONS LLP
-38.180.27.199,4891,AE,3NT SOLUTIONS LLP
-38.180.27.199,4892,AE,3NT SOLUTIONS LLP
-38.180.27.199,4893,AE,3NT SOLUTIONS LLP
-38.180.27.199,4894,AE,3NT SOLUTIONS LLP
-38.180.27.199,8080,AE,3NT SOLUTIONS LLP
-38.180.27.199,8440,AE,3NT SOLUTIONS LLP
-38.180.27.199,8441,AE,3NT SOLUTIONS LLP
-38.180.27.199,8442,AE,3NT SOLUTIONS LLP
-38.180.27.199,8443,AE,3NT SOLUTIONS LLP
-38.180.27.182,9966,AE,3NT SOLUTIONS LLP
-40.172.88.142,88,AE,Amazon Data Services UAE
-3.29.76.68,443,AE,Amazon Data Services UAE
-40.172.88.142,1024,AE,Amazon Data Services UAE
-40.172.88.142,1433,AE,Amazon Data Services UAE
-40.172.88.142,2003,AE,Amazon Data Services UAE
-40.172.88.142,2376,AE,Amazon Data Services UAE
-40.172.88.142,2701,AE,Amazon Data Services UAE
-40.172.88.142,3306,AE,Amazon Data Services UAE
-40.172.88.142,5672,AE,Amazon Data Services UAE
-40.172.88.142,5986,AE,Amazon Data Services UAE
-40.172.88.142,7001,AE,Amazon Data Services UAE
-3.28.18.132,8090,AE,Amazon Data Services UAE
-40.172.88.142,8443,AE,Amazon Data Services UAE
-40.172.88.142,9600,AE,Amazon Data Services UAE
-40.172.88.142,10261,AE,Amazon Data Services UAE
-3.29.76.68,10768,AE,Amazon Data Services UAE
-3.28.49.212,48090,AE,Amazon Data Services UAE
-3.28.240.153,2053,AE,Amazon Data Services UAE
-51.112.178.6,135,AE,Amazon Technologies Inc
-51.112.51.88,954,AE,Amazon Technologies Inc
-51.112.51.88,1201,AE,Amazon Technologies Inc
-51.112.51.88,2079,AE,Amazon Technologies Inc
-51.112.51.88,2083,AE,Amazon Technologies Inc
-51.112.51.88,3110,AE,Amazon Technologies Inc
-51.112.51.88,3230,AE,Amazon Technologies Inc
-51.112.178.6,5903,AE,Amazon Technologies Inc
-51.112.178.6,6009,AE,Amazon Technologies Inc
-51.112.178.6,8082,AE,Amazon Technologies Inc
-159.100.198.106,443,AE,Aryaka Networks Inc
-188.241.84.26,30977,AE,Buzinessware FZCO
-188.241.84.26,52100,AE,Buzinessware FZCO
-188.241.84.26,59948,AE,Buzinessware FZCO
-45.86.228.104,443,AE,BV Na25
-45.86.228.104,2096,AE,BV Na25
-45.86.228.104,11053,AE,BV Na25
-91.132.93.103,443,AE,EDIS GmbH
-91.132.93.103,9397,AE,EDIS GmbH
-91.132.93.103,51821,AE,EDIS GmbH
-89.31.120.79,56531,AE,EDIS GmbH
-89.31.120.36,41358,AE,EDIS GmbH
-162.213.25.32,443,AE,Fiber Logic Inc
-162.213.25.107,443,AE,Fiber Logic Inc
-162.213.25.179,443,AE,Fiber Logic Inc
-162.213.25.206,443,AE,Fiber Logic Inc
-162.213.25.107,10000,AE,Fiber Logic Inc
-162.213.25.107,25586,AE,Fiber Logic Inc
-162.213.25.179,29909,AE,Fiber Logic Inc
-217.195.200.138,205,AE,GCL
-109.61.42.105,443,AE,GCL
-217.195.200.52,443,AE,GCL
-217.195.200.138,443,AE,GCL
-217.195.200.138,447,AE,GCL
-217.195.200.138,1019,AE,GCL
-217.195.200.138,1801,AE,GCL
-217.195.200.138,2052,AE,GCL
-109.61.42.105,2053,AE,GCL
-109.61.42.105,2082,AE,GCL
-109.61.42.105,2083,AE,GCL
-109.61.42.155,2096,AE,GCL
-109.61.42.155,3081,AE,GCL
-217.195.200.138,8543,AE,GCL
-109.61.42.105,10512,AE,GCL
-109.61.42.167,6633,AE,GCL
-217.195.200.153,1,AE,GCL
-217.195.200.52,80,AE,GCL
-38.182.115.91,443,AE,Global Communication Network Limited
-38.182.115.91,8888,AE,Global Communication Network Limited
-38.182.115.230,12345,AE,Global Communication Network Limited
-38.182.115.230,20846,AE,Global Communication Network Limited
-5.44.42.166,2053,AE,Global Connectivity Solutions LLP
-5.44.42.108,2053,AE,Global Connectivity Solutions LLP
-5.44.42.108,8443,AE,Global Connectivity Solutions LLP
-5.44.42.21,2053,AE,Global Connectivity Solutions LLP
-5.44.42.95,2053,AE,Global Connectivity Solutions LLP
-176.97.78.80,2053,AE,IROKO Networks Corporation
-176.97.78.80,2083,AE,IROKO Networks Corporation
-176.97.78.80,8000,AE,IROKO Networks Corporation
-176.97.78.80,8080,AE,IROKO Networks Corporation
-176.97.78.80,9342,AE,IROKO Networks Corporation
-176.97.78.80,55160,AE,IROKO Networks Corporation
-185.209.49.17,2083,AE,Itglobal COM Dmcc
-185.209.49.17,8443,AE,Itglobal COM Dmcc
-185.209.49.17,2053,AE,Itglobal COM Dmcc
-38.54.8.184,80,AE,Kaopu Cloud
-38.54.8.210,80,AE,Kaopu Cloud
-38.54.9.241,80,AE,Kaopu Cloud
-38.54.8.110,443,AE,Kaopu Cloud
-38.54.8.184,443,AE,Kaopu Cloud
-38.54.9.241,443,AE,Kaopu Cloud
-38.54.9.241,2083,AE,Kaopu Cloud
-38.54.9.241,2087,AE,Kaopu Cloud
-38.54.8.210,8443,AE,Kaopu Cloud
-38.54.8.110,20000,AE,Kaopu Cloud
-38.54.8.184,54321,AE,Kaopu Cloud
-38.54.9.186,8443,AE,Kaopu Cloud
-38.54.9.186,2053,AE,Kaopu Cloud
-103.152.14.113,73,AE,Kaopu Cloud Inc
-103.152.14.113,74,AE,Kaopu Cloud Inc
-103.152.14.113,88,AE,Kaopu Cloud Inc
-103.152.14.113,386,AE,Kaopu Cloud Inc
-103.152.14.113,443,AE,Kaopu Cloud Inc
-103.152.14.113,888,AE,Kaopu Cloud Inc
-103.152.14.113,20205,AE,Kaopu Cloud Inc
-103.152.14.113,20208,AE,Kaopu Cloud Inc
-103.152.14.113,32225,AE,Kaopu Cloud Inc
-154.90.53.197,80,AE,Lightnode Limited
-154.90.55.35,80,AE,Lightnode Limited
-154.90.53.197,443,AE,Lightnode Limited
-154.90.54.139,443,AE,Lightnode Limited
-154.90.54.148,443,AE,Lightnode Limited
-154.90.55.35,443,AE,Lightnode Limited
-154.90.55.35,2083,AE,Lightnode Limited
-154.90.55.35,2087,AE,Lightnode Limited
-154.90.55.35,2096,AE,Lightnode Limited
-154.90.55.35,8443,AE,Lightnode Limited
-154.90.55.35,9999,AE,Lightnode Limited
-154.90.54.139,10001,AE,Lightnode Limited
-38.54.76.106,443,AE,Lightnode-UAE
-38.54.76.117,10073,AE,Lightnode-UAE
-38.54.76.117,26866,AE,Lightnode-UAE
-38.54.75.67,8443,AE,Lightnode-UAE
-38.54.75.67,2053,AE,Lightnode-UAE
-176.97.67.42,443,AE,M247
-176.97.66.175,443,AE,M247
-176.97.67.38,443,AE,M247
-146.70.131.99,73,AE,M247 Europe
-146.70.131.100,73,AE,M247 Europe
-146.70.131.102,73,AE,M247 Europe
-146.70.131.103,73,AE,M247 Europe
-146.70.131.105,73,AE,M247 Europe
-146.70.131.106,73,AE,M247 Europe
-146.70.131.107,73,AE,M247 Europe
-146.70.131.110,73,AE,M247 Europe
-146.70.131.111,73,AE,M247 Europe
-146.70.131.112,73,AE,M247 Europe
-146.70.131.121,73,AE,M247 Europe
-146.70.131.99,74,AE,M247 Europe
-146.70.131.100,74,AE,M247 Europe
-146.70.131.102,74,AE,M247 Europe
-146.70.131.103,74,AE,M247 Europe
-146.70.131.105,74,AE,M247 Europe
-146.70.131.106,74,AE,M247 Europe
-146.70.131.107,74,AE,M247 Europe
-146.70.131.110,74,AE,M247 Europe
-146.70.131.121,74,AE,M247 Europe
-146.70.131.99,88,AE,M247 Europe
-146.70.131.100,88,AE,M247 Europe
-146.70.131.102,88,AE,M247 Europe
-146.70.131.103,88,AE,M247 Europe
-146.70.131.105,88,AE,M247 Europe
-146.70.131.106,88,AE,M247 Europe
-146.70.131.107,88,AE,M247 Europe
-146.70.131.110,88,AE,M247 Europe
-146.70.131.111,88,AE,M247 Europe
-146.70.131.112,88,AE,M247 Europe
-146.70.131.121,88,AE,M247 Europe
-146.70.131.99,386,AE,M247 Europe
-146.70.131.100,386,AE,M247 Europe
-146.70.131.102,386,AE,M247 Europe
-146.70.131.112,386,AE,M247 Europe
-146.70.131.99,443,AE,M247 Europe
-146.70.131.100,443,AE,M247 Europe
-146.70.131.102,443,AE,M247 Europe
-146.70.131.103,443,AE,M247 Europe
-146.70.131.105,443,AE,M247 Europe
-146.70.131.106,443,AE,M247 Europe
-146.70.131.107,443,AE,M247 Europe
-146.70.131.110,443,AE,M247 Europe
-146.70.131.121,443,AE,M247 Europe
-146.70.131.99,888,AE,M247 Europe
-146.70.131.100,888,AE,M247 Europe
-146.70.131.102,888,AE,M247 Europe
-146.70.131.103,888,AE,M247 Europe
-146.70.131.105,888,AE,M247 Europe
-146.70.131.106,888,AE,M247 Europe
-146.70.131.107,888,AE,M247 Europe
-146.70.131.110,888,AE,M247 Europe
-146.70.131.111,888,AE,M247 Europe
-146.70.131.112,888,AE,M247 Europe
-146.70.131.121,888,AE,M247 Europe
-146.70.131.99,20205,AE,M247 Europe
-146.70.131.100,20205,AE,M247 Europe
-146.70.131.102,20205,AE,M247 Europe
-146.70.131.103,20205,AE,M247 Europe
-146.70.131.105,20205,AE,M247 Europe
-146.70.131.106,20205,AE,M247 Europe
-146.70.131.107,20205,AE,M247 Europe
-146.70.131.110,20205,AE,M247 Europe
-146.70.131.111,20205,AE,M247 Europe
-146.70.131.121,20205,AE,M247 Europe
-146.70.131.99,20208,AE,M247 Europe
-146.70.131.100,20208,AE,M247 Europe
-146.70.131.102,20208,AE,M247 Europe
-146.70.131.103,20208,AE,M247 Europe
-146.70.131.105,20208,AE,M247 Europe
-146.70.131.106,20208,AE,M247 Europe
-146.70.131.107,20208,AE,M247 Europe
-146.70.131.110,20208,AE,M247 Europe
-146.70.131.111,20208,AE,M247 Europe
-146.70.131.112,20208,AE,M247 Europe
-146.70.131.121,20208,AE,M247 Europe
-146.70.131.99,32225,AE,M247 Europe
-146.70.131.100,32225,AE,M247 Europe
-146.70.131.102,32225,AE,M247 Europe
-176.125.231.110,443,AE,M247 Europe
-95.174.68.118,8080,AE,Melbicom
-89.36.162.130,443,AE,Melbikomas UAB
-40.120.90.23,7865,AE,Microsoft Azure Cloud (uaenorth)
-20.233.68.69,2053,AE,Microsoft Azure Cloud (uaenorth)
-20.74.223.241,443,AE,Microsoft Azure Cloud (uaenorth)
-147.78.0.181,80,AE,Oneprovider.com
-147.78.0.36,443,AE,Oneprovider.com
-147.78.0.181,443,AE,Oneprovider.com
-147.78.0.181,444,AE,Oneprovider.com
-147.78.0.181,8080,AE,Oneprovider.com
-147.78.0.181,9090,AE,Oneprovider.com
-84.235.245.18,80,AE,Oracle Cloud Infrastructure (me-dubai-1)
-84.235.245.65,80,AE,Oracle Cloud Infrastructure (me-dubai-1)
-84.235.248.49,80,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.34.23,80,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.39.220,80,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.41.85,80,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.55.17,80,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.66.14,80,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.74.174,80,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.75.215,80,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.90.82,80,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.94.143,80,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.94.170,80,AE,Oracle Cloud Infrastructure (me-dubai-1)
-84.235.245.18,443,AE,Oracle Cloud Infrastructure (me-dubai-1)
-84.235.245.65,443,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.32.194,443,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.39.220,443,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.41.85,443,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.55.17,443,AE,Oracle Cloud Infrastructure (me-dubai-1)
-141.145.151.219,443,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.66.14,443,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.74.174,443,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.75.215,443,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.80.133,443,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.81.105,443,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.85.188,443,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.90.82,443,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.94.143,443,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.94.170,443,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.39.220,888,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.41.85,888,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.94.143,888,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.80.133,1111,AE,Oracle Cloud Infrastructure (me-dubai-1)
-141.145.151.219,2053,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.81.105,2053,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.80.133,2091,AE,Oracle Cloud Infrastructure (me-dubai-1)
-84.235.245.65,2096,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.81.105,2096,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.94.170,2345,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.94.170,2346,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.94.170,2347,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.33.224,4277,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.33.224,4377,AE,Oracle Cloud Infrastructure (me-dubai-1)
-84.235.245.18,5212,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.94.143,5212,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.94.170,5233,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.55.17,5244,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.75.215,5244,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.94.143,5244,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.94.170,5244,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.94.170,5678,AE,Oracle Cloud Infrastructure (me-dubai-1)
-84.235.248.49,6099,AE,Oracle Cloud Infrastructure (me-dubai-1)
-84.235.245.65,6443,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.94.143,6800,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.94.170,7080,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.94.170,7500,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.94.143,7800,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.39.220,8008,AE,Oracle Cloud Infrastructure (me-dubai-1)
-84.235.245.65,8080,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.32.194,8080,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.94.170,8080,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.34.23,8081,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.94.170,8081,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.67.133,8088,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.75.215,8096,AE,Oracle Cloud Infrastructure (me-dubai-1)
-84.235.245.65,8443,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.74.174,8443,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.34.23,8543,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.94.143,8632,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.33.224,8888,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.39.220,8888,AE,Oracle Cloud Infrastructure (me-dubai-1)
-84.235.248.49,8999,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.34.23,9000,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.55.17,9000,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.67.133,9000,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.94.170,9000,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.81.105,9999,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.85.188,10000,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.34.23,10280,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.75.215,11181,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.75.215,12244,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.90.82,12648,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.50.5,14594,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.90.82,15303,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.41.85,16000,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.55.17,17254,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.34.23,19800,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.82.198,20998,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.47.183,21626,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.50.5,22665,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.67.133,24827,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.47.183,25994,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.94.170,28080,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.90.82,31299,AE,Oracle Cloud Infrastructure (me-dubai-1)
-84.235.245.18,34501,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.66.187,34501,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.66.187,34511,AE,Oracle Cloud Infrastructure (me-dubai-1)
-84.235.245.18,34531,AE,Oracle Cloud Infrastructure (me-dubai-1)
-84.235.245.18,34540,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.91.207,35665,AE,Oracle Cloud Infrastructure (me-dubai-1)
-84.235.245.65,39003,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.64.232,39876,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.81.105,40775,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.47.183,42126,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.32.194,43631,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.39.220,44312,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.64.232,44499,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.75.215,45678,AE,Oracle Cloud Infrastructure (me-dubai-1)
-84.235.241.216,46347,AE,Oracle Cloud Infrastructure (me-dubai-1)
-84.235.242.179,48090,AE,Oracle Cloud Infrastructure (me-dubai-1)
-84.235.248.49,48090,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.87.146,48090,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.64.232,51087,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.82.198,52592,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.50.5,54321,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.67.133,54321,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.75.215,54321,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.94.170,54321,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.75.215,56315,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.94.170,59053,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.46.148,31135,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.39.237,48008,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.39.214,11759,AE,Oracle Cloud Infrastructure (me-dubai-1)
-139.185.34.131,443,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.84.1,51132,AE,Oracle Cloud Infrastructure (me-dubai-1)
-193.123.69.77,443,AE,Oracle Cloud Infrastructure (me-dubai-1)
-129.151.133.199,80,AE,Oracle Corporation
-129.151.133.199,443,AE,Oracle Corporation
-129.151.146.97,5000,AE,Oracle Corporation
-129.151.146.97,13906,AE,Oracle Corporation
-129.151.128.105,16731,AE,Oracle Corporation
-129.151.133.199,30502,AE,Oracle Corporation
-129.151.128.114,32956,AE,Oracle Corporation
-129.151.128.114,34834,AE,Oracle Corporation
-129.151.128.105,35878,AE,Oracle Corporation
-129.151.146.97,50002,AE,Oracle Corporation
-129.151.128.105,54321,AE,Oracle Corporation
-129.151.128.114,54321,AE,Oracle Corporation
-129.151.146.97,55569,AE,Oracle Corporation
-129.151.149.168,25061,AE,Oracle Corporation
-181.215.205.141,8081,AE,Private Customer
-93.127.180.43,80,AE,Qbic
-93.127.181.175,80,AE,Qbic
-93.127.180.34,101,AE,Qbic
-93.127.180.34,111,AE,Qbic
-93.127.180.34,121,AE,Qbic
-93.127.180.34,122,AE,Qbic
-93.127.180.83,443,AE,Qbic
-93.127.181.175,443,AE,Qbic
-93.127.180.43,700,AE,Qbic
-93.127.180.43,1103,AE,Qbic
-93.127.180.43,1915,AE,Qbic
-93.127.180.43,2053,AE,Qbic
-93.127.180.196,2053,AE,Qbic
-93.127.181.14,2053,AE,Qbic
-93.127.183.242,2053,AE,Qbic
-93.127.180.234,2061,AE,Qbic
-93.127.180.234,2065,AE,Qbic
-93.127.180.196,2083,AE,Qbic
-93.127.180.196,2087,AE,Qbic
-93.127.181.14,2095,AE,Qbic
-93.127.180.43,2096,AE,Qbic
-93.127.181.14,2096,AE,Qbic
-93.127.180.196,2526,AE,Qbic
-93.127.180.234,4433,AE,Qbic
-93.127.181.14,5000,AE,Qbic
-93.127.180.43,7500,AE,Qbic
-93.127.181.175,8082,AE,Qbic
-93.127.181.175,8083,AE,Qbic
-93.127.181.175,8084,AE,Qbic
-93.127.180.43,8085,AE,Qbic
-93.127.180.196,8088,AE,Qbic
-93.127.180.43,8112,AE,Qbic
-93.127.181.14,8443,AE,Qbic
-93.127.183.242,28157,AE,Qbic
-93.127.181.253,2053,AE,Qbic
-93.127.181.253,8443,AE,Qbic
-152.32.181.246,9010,AE,Ucloud Information Technology
-152.32.181.246,44070,AE,Ucloud Information Technology
-37.202.222.182,8443,AE,ZEN-ECN
-37.202.222.182,2053,AE,ZEN-ECN
-98.98.236.58,15608,AE,Zenlayer Inc
-195.74.93.162,995,AE,ZetServers
+38.244.147.68,443,ID,3NT SOLUTIONS LLP
+38.244.147.68,2053,ID,3NT SOLUTIONS LLP
+38.244.147.68,2083,ID,3NT SOLUTIONS LLP
+38.244.147.68,8080,ID,3NT SOLUTIONS LLP
+172.232.232.59,73,ID,Akamai Technologies. Inc.
+172.232.234.20,73,ID,Akamai Technologies. Inc.
+172.232.234.62,73,ID,Akamai Technologies. Inc.
+172.232.234.166,73,ID,Akamai Technologies. Inc.
+172.232.238.52,73,ID,Akamai Technologies. Inc.
+172.232.238.56,73,ID,Akamai Technologies. Inc.
+172.232.238.245,73,ID,Akamai Technologies. Inc.
+172.232.251.105,73,ID,Akamai Technologies. Inc.
+172.232.251.141,73,ID,Akamai Technologies. Inc.
+172.235.246.28,73,ID,Akamai Technologies. Inc.
+172.232.232.59,74,ID,Akamai Technologies. Inc.
+172.232.234.20,74,ID,Akamai Technologies. Inc.
+172.232.234.62,74,ID,Akamai Technologies. Inc.
+172.232.234.166,74,ID,Akamai Technologies. Inc.
+172.232.238.52,74,ID,Akamai Technologies. Inc.
+172.232.238.56,74,ID,Akamai Technologies. Inc.
+172.232.238.245,74,ID,Akamai Technologies. Inc.
+172.232.251.105,74,ID,Akamai Technologies. Inc.
+172.232.251.141,74,ID,Akamai Technologies. Inc.
+172.235.246.28,74,ID,Akamai Technologies. Inc.
+172.232.232.59,88,ID,Akamai Technologies. Inc.
+172.232.234.20,88,ID,Akamai Technologies. Inc.
+172.232.234.62,88,ID,Akamai Technologies. Inc.
+172.232.234.166,88,ID,Akamai Technologies. Inc.
+172.232.238.52,88,ID,Akamai Technologies. Inc.
+172.232.238.56,88,ID,Akamai Technologies. Inc.
+172.232.238.245,88,ID,Akamai Technologies. Inc.
+172.232.251.105,88,ID,Akamai Technologies. Inc.
+172.232.251.141,88,ID,Akamai Technologies. Inc.
+172.235.246.28,88,ID,Akamai Technologies. Inc.
+172.232.234.20,386,ID,Akamai Technologies. Inc.
+172.232.234.62,386,ID,Akamai Technologies. Inc.
+172.232.234.166,386,ID,Akamai Technologies. Inc.
+172.232.238.52,386,ID,Akamai Technologies. Inc.
+172.232.238.56,386,ID,Akamai Technologies. Inc.
+172.232.232.59,443,ID,Akamai Technologies. Inc.
+172.232.234.20,443,ID,Akamai Technologies. Inc.
+172.232.234.62,443,ID,Akamai Technologies. Inc.
+172.232.234.166,443,ID,Akamai Technologies. Inc.
+172.232.238.52,443,ID,Akamai Technologies. Inc.
+172.232.238.56,443,ID,Akamai Technologies. Inc.
+172.232.238.245,443,ID,Akamai Technologies. Inc.
+172.232.251.105,443,ID,Akamai Technologies. Inc.
+172.232.251.141,443,ID,Akamai Technologies. Inc.
+172.235.246.28,443,ID,Akamai Technologies. Inc.
+172.232.232.59,888,ID,Akamai Technologies. Inc.
+172.232.234.20,888,ID,Akamai Technologies. Inc.
+172.232.234.62,888,ID,Akamai Technologies. Inc.
+172.232.234.166,888,ID,Akamai Technologies. Inc.
+172.232.238.52,888,ID,Akamai Technologies. Inc.
+172.232.238.56,888,ID,Akamai Technologies. Inc.
+172.232.238.245,888,ID,Akamai Technologies. Inc.
+172.232.251.105,888,ID,Akamai Technologies. Inc.
+172.232.251.141,888,ID,Akamai Technologies. Inc.
+172.235.246.28,888,ID,Akamai Technologies. Inc.
+172.232.237.31,8888,ID,Akamai Technologies. Inc.
+172.232.234.62,12306,ID,Akamai Technologies. Inc.
+172.232.232.59,20205,ID,Akamai Technologies. Inc.
+172.232.234.20,20205,ID,Akamai Technologies. Inc.
+172.232.234.62,20205,ID,Akamai Technologies. Inc.
+172.232.234.166,20205,ID,Akamai Technologies. Inc.
+172.232.238.52,20205,ID,Akamai Technologies. Inc.
+172.232.238.56,20205,ID,Akamai Technologies. Inc.
+172.232.238.245,20205,ID,Akamai Technologies. Inc.
+172.232.251.105,20205,ID,Akamai Technologies. Inc.
+172.232.251.141,20205,ID,Akamai Technologies. Inc.
+172.235.246.28,20205,ID,Akamai Technologies. Inc.
+172.232.232.59,20208,ID,Akamai Technologies. Inc.
+172.232.234.20,20208,ID,Akamai Technologies. Inc.
+172.232.234.62,20208,ID,Akamai Technologies. Inc.
+172.232.234.166,20208,ID,Akamai Technologies. Inc.
+172.232.238.52,20208,ID,Akamai Technologies. Inc.
+172.232.238.56,20208,ID,Akamai Technologies. Inc.
+172.232.238.245,20208,ID,Akamai Technologies. Inc.
+172.232.251.105,20208,ID,Akamai Technologies. Inc.
+172.232.251.141,20208,ID,Akamai Technologies. Inc.
+172.235.246.28,20208,ID,Akamai Technologies. Inc.
+172.232.234.20,32225,ID,Akamai Technologies. Inc.
+172.232.234.62,32225,ID,Akamai Technologies. Inc.
+172.232.234.166,32225,ID,Akamai Technologies. Inc.
+172.232.238.52,32225,ID,Akamai Technologies. Inc.
+172.232.238.56,32225,ID,Akamai Technologies. Inc.
+172.232.237.31,59510,ID,Akamai Technologies. Inc.
+172.232.239.151,587,ID,Akamai Technologies. Inc.
+172.232.239.147,587,ID,Akamai Technologies. Inc.
+172.232.231.24,587,ID,Akamai Technologies. Inc.
+172.232.239.249,587,ID,Akamai Technologies. Inc.
+172.235.251.7,587,ID,Akamai Technologies. Inc.
+172.232.237.112,2053,ID,Akamai Technologies. Inc.
+172.232.237.31,587,ID,Akamai Technologies. Inc.
+172.232.239.134,443,ID,Akamai Technologies. Inc.
+172.232.249.53,443,ID,Akamai Technologies. Inc.
+172.232.234.155,74,ID,Akamai Technologies. Inc.
+172.232.234.155,443,ID,Akamai Technologies. Inc.
+172.232.234.155,20205,ID,Akamai Technologies. Inc.
+172.232.226.237,443,ID,Akamai Technologies. Inc.
+172.232.225.238,443,ID,Akamai Technologies. Inc.
+147.139.169.51,80,ID,Alibaba Cloud - ID
+147.139.244.51,80,ID,Alibaba Cloud - ID
+147.139.169.51,443,ID,Alibaba Cloud - ID
+147.139.180.68,443,ID,Alibaba Cloud - ID
+147.139.244.51,443,ID,Alibaba Cloud - ID
+147.139.180.68,2053,ID,Alibaba Cloud - ID
+147.139.169.51,8001,ID,Alibaba Cloud - ID
+147.139.169.51,9100,ID,Alibaba Cloud - ID
+147.139.205.221,11715,ID,Alibaba Cloud - ID
+147.139.205.221,11716,ID,Alibaba Cloud - ID
+147.139.132.176,17804,ID,Alibaba Cloud - ID
+147.139.179.6,17804,ID,Alibaba Cloud - ID
+147.139.215.123,17804,ID,Alibaba Cloud - ID
+147.139.215.144,17804,ID,Alibaba Cloud - ID
+147.139.241.242,17804,ID,Alibaba Cloud - ID
+147.139.242.145,17804,ID,Alibaba Cloud - ID
+147.139.243.26,17804,ID,Alibaba Cloud - ID
+147.139.245.178,17804,ID,Alibaba Cloud - ID
+147.139.132.176,20001,ID,Alibaba Cloud - ID
+147.139.179.6,20001,ID,Alibaba Cloud - ID
+147.139.215.123,20001,ID,Alibaba Cloud - ID
+147.139.215.144,20001,ID,Alibaba Cloud - ID
+147.139.241.242,20001,ID,Alibaba Cloud - ID
+147.139.242.145,20001,ID,Alibaba Cloud - ID
+147.139.243.26,20001,ID,Alibaba Cloud - ID
+147.139.245.178,20001,ID,Alibaba Cloud - ID
+147.139.132.176,24666,ID,Alibaba Cloud - ID
+147.139.179.6,24666,ID,Alibaba Cloud - ID
+147.139.215.123,24666,ID,Alibaba Cloud - ID
+147.139.215.144,24666,ID,Alibaba Cloud - ID
+147.139.241.242,24666,ID,Alibaba Cloud - ID
+147.139.242.145,24666,ID,Alibaba Cloud - ID
+147.139.243.26,24666,ID,Alibaba Cloud - ID
+147.139.245.178,24666,ID,Alibaba Cloud - ID
+147.139.132.176,37263,ID,Alibaba Cloud - ID
+147.139.179.6,37263,ID,Alibaba Cloud - ID
+147.139.215.123,37263,ID,Alibaba Cloud - ID
+147.139.215.144,37263,ID,Alibaba Cloud - ID
+147.139.241.242,37263,ID,Alibaba Cloud - ID
+147.139.242.145,37263,ID,Alibaba Cloud - ID
+147.139.243.26,37263,ID,Alibaba Cloud - ID
+147.139.245.178,37263,ID,Alibaba Cloud - ID
+149.129.242.127,80,ID,ALIBABA-CN-NET
+149.129.236.0,443,ID,ALIBABA-CN-NET
+149.129.242.127,443,ID,ALIBABA-CN-NET
+149.129.250.8,443,ID,ALIBABA-CN-NET
+8.215.22.237,80,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.192.122,80,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.22.237,443,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.50.121,443,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.90.225,443,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.192.122,443,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.20.111,17804,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.26.84,17804,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.33.18,17804,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.33.42,17804,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.35.75,17804,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.37.22,17804,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.39.170,17804,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.41.186,17804,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.46.51,17804,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.194.65,17804,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.20.111,20001,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.26.84,20001,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.33.18,20001,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.33.42,20001,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.35.75,20001,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.37.22,20001,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.39.170,20001,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.41.186,20001,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.46.51,20001,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.194.65,20001,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.20.111,24666,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.26.84,24666,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.33.18,24666,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.33.42,24666,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.35.75,24666,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.37.22,24666,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.39.170,24666,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.41.186,24666,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.46.51,24666,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.194.65,24666,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.20.111,37263,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.26.84,37263,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.33.18,37263,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.33.42,37263,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.35.75,37263,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.37.22,37263,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.39.170,37263,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.41.186,37263,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.46.51,37263,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.194.65,37263,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.77.247,49640,ID,Alibaba.com Singapore E-Commerce Private Limited
+8.215.196.18,587,ID,Alibaba.com Singapore E-Commerce Private Limited
+16.78.6.21,80,ID,AWS EC2 (ap-southeast-3)
+43.218.228.50,80,ID,AWS EC2 (ap-southeast-3)
+108.137.132.79,80,ID,AWS EC2 (ap-southeast-3)
+108.136.160.173,81,ID,AWS EC2 (ap-southeast-3)
+108.136.160.173,102,ID,AWS EC2 (ap-southeast-3)
+108.136.160.173,104,ID,AWS EC2 (ap-southeast-3)
+108.136.160.173,113,ID,AWS EC2 (ap-southeast-3)
+16.78.6.21,443,ID,AWS EC2 (ap-southeast-3)
+43.218.77.16,443,ID,AWS EC2 (ap-southeast-3)
+43.218.228.50,443,ID,AWS EC2 (ap-southeast-3)
+108.137.132.79,443,ID,AWS EC2 (ap-southeast-3)
+108.136.160.173,587,ID,AWS EC2 (ap-southeast-3)
+16.78.6.21,888,ID,AWS EC2 (ap-southeast-3)
+108.137.132.79,888,ID,AWS EC2 (ap-southeast-3)
+108.136.160.173,1098,ID,AWS EC2 (ap-southeast-3)
+108.136.160.173,1194,ID,AWS EC2 (ap-southeast-3)
+108.136.160.173,2181,ID,AWS EC2 (ap-southeast-3)
+108.136.160.173,2375,ID,AWS EC2 (ap-southeast-3)
+108.136.160.173,4730,ID,AWS EC2 (ap-southeast-3)
+108.136.160.173,4840,ID,AWS EC2 (ap-southeast-3)
+108.136.160.173,5000,ID,AWS EC2 (ap-southeast-3)
+43.218.228.50,14389,ID,AWS EC2 (ap-southeast-3)
+108.137.61.48,22065,ID,AWS EC2 (ap-southeast-3)
+43.218.77.16,1443,ID,AWS EC2 (ap-southeast-3)
+103.148.45.82,8088,ID,BVSNET-AS-ID
+103.174.36.143,12126,ID,CEPATNET-AS-ID
+103.54.217.92,10909,ID,CEPATNET-AS-ID
+202.150.138.45,443,ID,COMNET-AS-ID
+202.150.138.45,1001,ID,COMNET-AS-ID
+202.150.138.45,1005,ID,COMNET-AS-ID
+202.150.138.45,2020,ID,COMNET-AS-ID
+202.150.138.45,2080,ID,COMNET-AS-ID
+202.150.138.45,8080,ID,COMNET-AS-ID
+202.150.138.45,8443,ID,COMNET-AS-ID
+103.186.1.209,2053,ID,CV Ansa Project
+103.127.138.9,8443,ID,CV. PRISAI SIAGATAMA SEJAHTERA
+103.127.138.9,443,ID,CV. PRISAI SIAGATAMA SEJAHTERA
+103.127.138.9,2083,ID,CV. PRISAI SIAGATAMA SEJAHTERA
+23.27.98.180,443,ID,Evoxt
+23.27.98.180,8443,ID,Evoxt
+139.0.233.71,80,ID,Fastnet-AS-ID
+139.0.233.71,443,ID,Fastnet-AS-ID
+62.112.138.3,443,ID,Global Communication Network Limited
+62.112.138.244,443,ID,Global Communication Network Limited
+35.219.50.99,443,ID,Google Cloud (asia-southeast2)
+35.219.15.90,443,ID,Google Cloud (asia-southeast2)
+34.101.247.19,53681,ID,Google Cloud (asia-southeast2)
+82.153.226.158,80,ID,Hanatour Europe Ltd
+82.153.226.158,443,ID,Hanatour Europe Ltd
+82.153.226.158,8443,ID,Hanatour Europe Ltd
+103.168.146.169,20132,ID,Herza.ID
+103.87.70.156,11012,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,11038,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,11043,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,11066,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,11093,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,11105,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,11133,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,11139,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,11197,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,11211,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,11215,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,11222,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,12022,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,12025,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,12207,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,12219,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,12250,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,21021,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,21030,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,21056,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,21084,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,21130,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,21152,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,21188,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,21196,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,21205,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,21242,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,22023,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,22058,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,22071,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,22129,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,22151,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,22230,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,31011,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,31039,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,31101,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,31112,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,31123,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,31150,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,31165,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,32006,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,32036,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,32065,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,32087,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,32139,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,32145,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,32170,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,32175,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,32180,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,32182,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,32223,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,32224,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,32243,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,32245,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,41078,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,41086,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,41088,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,41099,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,41107,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,41146,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,41166,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,41181,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,41244,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,42009,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,42029,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,42063,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,42119,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,42159,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,42184,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,42214,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,42220,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,42226,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,51047,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,51055,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,51083,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,51170,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,51198,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,51202,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,51209,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,52002,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,52011,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,52019,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,52055,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,52110,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,52120,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,52158,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,52183,ID,IDNIC-ABHINAWA-AS-ID
+103.87.70.156,59921,ID,IDNIC-ABHINAWA-AS-ID
+103.126.226.23,10011,ID,IDNIC-DENEVA-AS-ID
+103.151.140.220,80,ID,IDNIC-INDOTECHNO-AS-ID
+103.151.140.220,443,ID,IDNIC-INDOTECHNO-AS-ID
+103.151.140.220,2053,ID,IDNIC-INDOTECHNO-AS-ID
+103.151.140.220,8015,ID,IDNIC-INDOTECHNO-AS-ID
+103.151.140.220,8443,ID,IDNIC-INDOTECHNO-AS-ID
+103.151.140.220,14331,ID,IDNIC-INDOTECHNO-AS-ID
+103.151.140.220,57185,ID,IDNIC-INDOTECHNO-AS-ID
+103.41.206.200,80,ID,INFINYS-AS-ID
+103.41.207.137,80,ID,INFINYS-AS-ID
+103.41.207.211,80,ID,INFINYS-AS-ID
+103.41.206.200,443,ID,INFINYS-AS-ID
+103.41.207.137,443,ID,INFINYS-AS-ID
+103.41.207.211,443,ID,INFINYS-AS-ID
+103.41.207.137,8002,ID,INFINYS-AS-ID
+154.205.159.72,443,ID,Lightnode Limited
+154.205.159.72,2053,ID,Lightnode Limited
+154.205.159.72,2083,ID,Lightnode Limited
+154.205.159.72,8080,ID,Lightnode Limited
+38.60.191.100,6716,ID,Lightnode-ID
+202.77.111.166,80,ID,LINKNET-ID-AP
+202.77.111.168,80,ID,LINKNET-ID-AP
+202.77.111.173,80,ID,LINKNET-ID-AP
+202.77.111.174,80,ID,LINKNET-ID-AP
+202.77.111.166,443,ID,LINKNET-ID-AP
+202.77.111.168,443,ID,LINKNET-ID-AP
+202.77.111.173,443,ID,LINKNET-ID-AP
+202.77.111.174,443,ID,LINKNET-ID-AP
+202.77.111.168,8000,ID,LINKNET-ID-AP
+202.77.111.168,8443,ID,LINKNET-ID-AP
+202.77.111.168,10777,ID,LINKNET-ID-AP
+202.77.111.174,10777,ID,LINKNET-ID-AP
+202.152.24.158,80,ID,LINTASARTA-AS-AP
+202.152.24.158,443,ID,LINTASARTA-AS-AP
+202.152.24.158,3000,ID,LINTASARTA-AS-AP
+202.152.24.158,8008,ID,LINTASARTA-AS-AP
+202.152.24.158,8080,ID,LINTASARTA-AS-AP
+202.152.24.158,9000,ID,LINTASARTA-AS-AP
+202.152.24.158,57080,ID,LINTASARTA-AS-AP
+70.153.17.167,80,ID,Microsoft Corporation
+70.153.17.167,2096,ID,Microsoft Corporation
+70.153.17.167,8081,ID,Microsoft Corporation
+103.78.36.116,80,ID,Moratelindo
+103.78.36.116,211,ID,Moratelindo
+103.78.36.116,8080,ID,Moratelindo
+103.78.36.116,8281,ID,Moratelindo
+103.78.36.116,8282,ID,Moratelindo
+103.194.175.134,80,ID,MYNET-AS-ID
+103.194.175.140,80,ID,MYNET-AS-ID
+103.194.175.134,212,ID,MYNET-AS-ID
+103.194.175.140,1212,ID,MYNET-AS-ID
+103.194.175.140,2801,ID,MYNET-AS-ID
+103.194.175.140,2802,ID,MYNET-AS-ID
+110.232.90.101,443,ID,Nusanet
+103.63.101.10,443,ID,PT Berkah Maju Interasional
+103.150.196.148,443,ID,PT Biznet Gio Nusantara
+103.150.196.148,3100,ID,PT Biznet Gio Nusantara
+103.150.196.148,4000,ID,PT Biznet Gio Nusantara
+103.150.196.148,7000,ID,PT Biznet Gio Nusantara
+103.150.196.148,8085,ID,PT Biznet Gio Nusantara
+103.150.196.148,9000,ID,PT Biznet Gio Nusantara
+103.150.196.148,9100,ID,PT Biznet Gio Nusantara
+103.150.196.148,9273,ID,PT Biznet Gio Nusantara
+103.133.223.51,2096,ID,PT Cloud Teknologi Nusantara
+103.133.223.52,2096,ID,PT Cloud Teknologi Nusantara
+103.133.223.50,2096,ID,PT Cloud Teknologi Nusantara
+103.89.165.243,80,ID,PT Qeon Interactive
+103.89.165.243,443,ID,PT Qeon Interactive
+103.89.165.243,9090,ID,PT Qeon Interactive
+117.53.44.97,80,ID,PT Trias Kemas Utama
+117.53.45.84,80,ID,PT Trias Kemas Utama
+117.53.47.27,80,ID,PT Trias Kemas Utama
+117.53.44.97,443,ID,PT Trias Kemas Utama
+117.53.45.84,443,ID,PT Trias Kemas Utama
+117.53.47.27,443,ID,PT Trias Kemas Utama
+117.53.47.27,10000,ID,PT Trias Kemas Utama
+103.28.23.190,80,ID,PT Wheehost Data Cloud
+103.28.23.190,8001,ID,PT Wheehost Data Cloud
+103.28.23.190,8003,ID,PT Wheehost Data Cloud
+103.28.23.190,8007,ID,PT Wheehost Data Cloud
+103.28.23.190,8008,ID,PT Wheehost Data Cloud
+103.28.23.190,8009,ID,PT Wheehost Data Cloud
+103.28.23.190,8010,ID,PT Wheehost Data Cloud
+103.28.23.190,8011,ID,PT Wheehost Data Cloud
+103.28.23.190,9001,ID,PT Wheehost Data Cloud
+103.28.23.190,9002,ID,PT Wheehost Data Cloud
+103.28.23.190,13906,ID,PT Wheehost Data Cloud
+49.50.8.17,80,ID,PT. EXABYTES NETWORK INDONESIA
+49.50.8.17,443,ID,PT. EXABYTES NETWORK INDONESIA
+202.155.138.111,80,ID,PT. Media Antar Nusa
+38.9.141.180,443,ID,PT. Media Antar Nusa
+202.155.138.201,443,ID,PT. Media Antar Nusa
+202.155.138.201,9403,ID,PT. Media Antar Nusa
+38.9.141.180,54321,ID,PT. Media Antar Nusa
+206.84.101.84,443,ID,PT. MITRA VISIONER PRATAMA
+206.84.101.83,8443,ID,PT. MITRA VISIONER PRATAMA
+103.6.207.74,80,ID,PUSATMEDIA-AS-ID
+103.6.207.108,80,ID,PUSATMEDIA-AS-ID
+103.6.207.108,82,ID,PUSATMEDIA-AS-ID
+103.6.207.74,443,ID,PUSATMEDIA-AS-ID
+103.6.207.108,8080,ID,PUSATMEDIA-AS-ID
+103.6.207.74,9983,ID,PUSATMEDIA-AS-ID
+103.6.207.108,19224,ID,PUSATMEDIA-AS-ID
+103.6.207.74,23000,ID,PUSATMEDIA-AS-ID
+203.194.112.119,80,ID,Rumahweb
+203.194.112.119,443,ID,Rumahweb
+203.194.112.119,2053,ID,Rumahweb
+203.194.112.119,2083,ID,Rumahweb
+203.194.112.119,8080,ID,Rumahweb
+203.194.112.119,8443,ID,Rumahweb
+203.194.112.119,55008,ID,Rumahweb
+101.255.37.2,40003,ID,TACHYON-AS-ID
+101.255.37.4,40003,ID,TACHYON-AS-ID
+101.255.37.5,40003,ID,TACHYON-AS-ID
+101.255.37.6,40003,ID,TACHYON-AS-ID
+101.255.37.7,40003,ID,TACHYON-AS-ID
+101.255.37.8,40003,ID,TACHYON-AS-ID
+101.255.37.9,40003,ID,TACHYON-AS-ID
+101.255.37.10,40003,ID,TACHYON-AS-ID
+101.255.37.11,40003,ID,TACHYON-AS-ID
+101.255.37.12,40003,ID,TACHYON-AS-ID
+101.255.37.13,40003,ID,TACHYON-AS-ID
+101.255.37.14,40003,ID,TACHYON-AS-ID
+101.255.37.15,40003,ID,TACHYON-AS-ID
+101.255.37.16,40003,ID,TACHYON-AS-ID
+101.255.37.18,40003,ID,TACHYON-AS-ID
+101.255.37.19,40003,ID,TACHYON-AS-ID
+101.255.37.20,40003,ID,TACHYON-AS-ID
+101.255.37.22,40003,ID,TACHYON-AS-ID
+101.255.37.23,40003,ID,TACHYON-AS-ID
+101.255.37.25,40003,ID,TACHYON-AS-ID
+101.255.37.26,40003,ID,TACHYON-AS-ID
+101.255.37.27,40003,ID,TACHYON-AS-ID
+101.255.37.28,40003,ID,TACHYON-AS-ID
+101.255.37.30,40003,ID,TACHYON-AS-ID
+101.255.37.31,40003,ID,TACHYON-AS-ID
+101.255.37.32,40003,ID,TACHYON-AS-ID
+101.255.37.33,40003,ID,TACHYON-AS-ID
+101.255.37.34,40003,ID,TACHYON-AS-ID
+101.255.37.35,40003,ID,TACHYON-AS-ID
+101.255.37.36,40003,ID,TACHYON-AS-ID
+101.255.37.38,40003,ID,TACHYON-AS-ID
+101.255.37.40,40003,ID,TACHYON-AS-ID
+101.255.37.41,40003,ID,TACHYON-AS-ID
+101.255.37.42,40003,ID,TACHYON-AS-ID
+101.255.37.43,40003,ID,TACHYON-AS-ID
+101.255.37.45,40003,ID,TACHYON-AS-ID
+101.255.37.47,40003,ID,TACHYON-AS-ID
+101.255.37.48,40003,ID,TACHYON-AS-ID
+101.255.37.49,40003,ID,TACHYON-AS-ID
+101.255.37.51,40003,ID,TACHYON-AS-ID
+101.255.37.52,40003,ID,TACHYON-AS-ID
+101.255.37.53,40003,ID,TACHYON-AS-ID
+101.255.37.54,40003,ID,TACHYON-AS-ID
+101.255.37.55,40003,ID,TACHYON-AS-ID
+101.255.37.56,40003,ID,TACHYON-AS-ID
+101.255.37.57,40003,ID,TACHYON-AS-ID
+101.255.37.59,40003,ID,TACHYON-AS-ID
+101.255.37.60,40003,ID,TACHYON-AS-ID
+101.255.37.62,40003,ID,TACHYON-AS-ID
+101.255.37.63,40003,ID,TACHYON-AS-ID
+101.255.37.64,40003,ID,TACHYON-AS-ID
+101.255.37.67,40003,ID,TACHYON-AS-ID
+101.255.37.68,40003,ID,TACHYON-AS-ID
+101.255.37.69,40003,ID,TACHYON-AS-ID
+101.255.37.70,40003,ID,TACHYON-AS-ID
+101.255.37.71,40003,ID,TACHYON-AS-ID
+101.255.37.72,40003,ID,TACHYON-AS-ID
+101.255.37.73,40003,ID,TACHYON-AS-ID
+101.255.37.75,40003,ID,TACHYON-AS-ID
+101.255.37.76,40003,ID,TACHYON-AS-ID
+101.255.37.78,40003,ID,TACHYON-AS-ID
+101.255.37.79,40003,ID,TACHYON-AS-ID
+101.255.37.81,40003,ID,TACHYON-AS-ID
+101.255.37.82,40003,ID,TACHYON-AS-ID
+101.255.37.83,40003,ID,TACHYON-AS-ID
+101.255.37.84,40003,ID,TACHYON-AS-ID
+101.255.37.85,40003,ID,TACHYON-AS-ID
+101.255.37.86,40003,ID,TACHYON-AS-ID
+101.255.37.87,40003,ID,TACHYON-AS-ID
+101.255.37.89,40003,ID,TACHYON-AS-ID
+101.255.37.91,40003,ID,TACHYON-AS-ID
+101.255.37.93,40003,ID,TACHYON-AS-ID
+101.255.37.94,40003,ID,TACHYON-AS-ID
+101.255.37.95,40003,ID,TACHYON-AS-ID
+101.255.37.96,40003,ID,TACHYON-AS-ID
+101.255.37.97,40003,ID,TACHYON-AS-ID
+101.255.37.100,40003,ID,TACHYON-AS-ID
+101.255.37.101,40003,ID,TACHYON-AS-ID
+101.255.37.103,40003,ID,TACHYON-AS-ID
+101.255.37.104,40003,ID,TACHYON-AS-ID
+101.255.37.105,40003,ID,TACHYON-AS-ID
+101.255.37.106,40003,ID,TACHYON-AS-ID
+101.255.37.107,40003,ID,TACHYON-AS-ID
+101.255.37.109,40003,ID,TACHYON-AS-ID
+101.255.37.110,40003,ID,TACHYON-AS-ID
+101.255.37.111,40003,ID,TACHYON-AS-ID
+101.255.37.113,40003,ID,TACHYON-AS-ID
+101.255.37.114,40003,ID,TACHYON-AS-ID
+101.255.37.115,40003,ID,TACHYON-AS-ID
+101.255.37.116,40003,ID,TACHYON-AS-ID
+101.255.37.118,40003,ID,TACHYON-AS-ID
+101.255.37.119,40003,ID,TACHYON-AS-ID
+101.255.37.121,40003,ID,TACHYON-AS-ID
+101.255.37.123,40003,ID,TACHYON-AS-ID
+101.255.37.125,40003,ID,TACHYON-AS-ID
+101.255.37.126,40003,ID,TACHYON-AS-ID
+101.255.37.127,40003,ID,TACHYON-AS-ID
+101.255.37.2,49376,ID,TACHYON-AS-ID
+101.255.37.4,49376,ID,TACHYON-AS-ID
+101.255.37.5,49376,ID,TACHYON-AS-ID
+101.255.37.6,49376,ID,TACHYON-AS-ID
+101.255.37.7,49376,ID,TACHYON-AS-ID
+101.255.37.8,49376,ID,TACHYON-AS-ID
+101.255.37.9,49376,ID,TACHYON-AS-ID
+101.255.37.10,49376,ID,TACHYON-AS-ID
+101.255.37.11,49376,ID,TACHYON-AS-ID
+101.255.37.12,49376,ID,TACHYON-AS-ID
+101.255.37.13,49376,ID,TACHYON-AS-ID
+101.255.37.14,49376,ID,TACHYON-AS-ID
+101.255.37.15,49376,ID,TACHYON-AS-ID
+101.255.37.16,49376,ID,TACHYON-AS-ID
+101.255.37.18,49376,ID,TACHYON-AS-ID
+101.255.37.19,49376,ID,TACHYON-AS-ID
+101.255.37.20,49376,ID,TACHYON-AS-ID
+101.255.37.22,49376,ID,TACHYON-AS-ID
+101.255.37.23,49376,ID,TACHYON-AS-ID
+101.255.37.25,49376,ID,TACHYON-AS-ID
+101.255.37.26,49376,ID,TACHYON-AS-ID
+101.255.37.27,49376,ID,TACHYON-AS-ID
+101.255.37.28,49376,ID,TACHYON-AS-ID
+101.255.37.30,49376,ID,TACHYON-AS-ID
+101.255.37.31,49376,ID,TACHYON-AS-ID
+101.255.37.32,49376,ID,TACHYON-AS-ID
+101.255.37.33,49376,ID,TACHYON-AS-ID
+101.255.37.34,49376,ID,TACHYON-AS-ID
+101.255.37.35,49376,ID,TACHYON-AS-ID
+101.255.37.36,49376,ID,TACHYON-AS-ID
+101.255.37.38,49376,ID,TACHYON-AS-ID
+101.255.37.40,49376,ID,TACHYON-AS-ID
+101.255.37.41,49376,ID,TACHYON-AS-ID
+101.255.37.42,49376,ID,TACHYON-AS-ID
+101.255.37.43,49376,ID,TACHYON-AS-ID
+101.255.37.45,49376,ID,TACHYON-AS-ID
+101.255.37.47,49376,ID,TACHYON-AS-ID
+101.255.37.48,49376,ID,TACHYON-AS-ID
+101.255.37.49,49376,ID,TACHYON-AS-ID
+101.255.37.51,49376,ID,TACHYON-AS-ID
+101.255.37.52,49376,ID,TACHYON-AS-ID
+101.255.37.53,49376,ID,TACHYON-AS-ID
+101.255.37.54,49376,ID,TACHYON-AS-ID
+101.255.37.55,49376,ID,TACHYON-AS-ID
+101.255.37.56,49376,ID,TACHYON-AS-ID
+101.255.37.57,49376,ID,TACHYON-AS-ID
+101.255.37.59,49376,ID,TACHYON-AS-ID
+101.255.37.60,49376,ID,TACHYON-AS-ID
+101.255.37.62,49376,ID,TACHYON-AS-ID
+101.255.37.63,49376,ID,TACHYON-AS-ID
+101.255.37.64,49376,ID,TACHYON-AS-ID
+101.255.37.67,49376,ID,TACHYON-AS-ID
+101.255.37.68,49376,ID,TACHYON-AS-ID
+101.255.37.69,49376,ID,TACHYON-AS-ID
+101.255.37.70,49376,ID,TACHYON-AS-ID
+101.255.37.71,49376,ID,TACHYON-AS-ID
+101.255.37.72,49376,ID,TACHYON-AS-ID
+101.255.37.73,49376,ID,TACHYON-AS-ID
+101.255.37.75,49376,ID,TACHYON-AS-ID
+101.255.37.76,49376,ID,TACHYON-AS-ID
+101.255.37.78,49376,ID,TACHYON-AS-ID
+101.255.37.79,49376,ID,TACHYON-AS-ID
+101.255.37.81,49376,ID,TACHYON-AS-ID
+101.255.37.82,49376,ID,TACHYON-AS-ID
+101.255.37.83,49376,ID,TACHYON-AS-ID
+101.255.37.84,49376,ID,TACHYON-AS-ID
+101.255.37.85,49376,ID,TACHYON-AS-ID
+101.255.37.86,49376,ID,TACHYON-AS-ID
+101.255.37.87,49376,ID,TACHYON-AS-ID
+101.255.37.89,49376,ID,TACHYON-AS-ID
+101.255.37.91,49376,ID,TACHYON-AS-ID
+101.255.37.93,49376,ID,TACHYON-AS-ID
+101.255.37.94,49376,ID,TACHYON-AS-ID
+101.255.37.95,49376,ID,TACHYON-AS-ID
+101.255.37.96,49376,ID,TACHYON-AS-ID
+101.255.37.97,49376,ID,TACHYON-AS-ID
+101.255.37.100,49376,ID,TACHYON-AS-ID
+101.255.37.101,49376,ID,TACHYON-AS-ID
+101.255.37.103,49376,ID,TACHYON-AS-ID
+101.255.37.104,49376,ID,TACHYON-AS-ID
+101.255.37.105,49376,ID,TACHYON-AS-ID
+101.255.37.106,49376,ID,TACHYON-AS-ID
+101.255.37.107,49376,ID,TACHYON-AS-ID
+101.255.37.109,49376,ID,TACHYON-AS-ID
+101.255.37.110,49376,ID,TACHYON-AS-ID
+101.255.37.111,49376,ID,TACHYON-AS-ID
+101.255.37.113,49376,ID,TACHYON-AS-ID
+101.255.37.114,49376,ID,TACHYON-AS-ID
+101.255.37.115,49376,ID,TACHYON-AS-ID
+101.255.37.116,49376,ID,TACHYON-AS-ID
+101.255.37.118,49376,ID,TACHYON-AS-ID
+101.255.37.119,49376,ID,TACHYON-AS-ID
+101.255.37.121,49376,ID,TACHYON-AS-ID
+101.255.37.123,49376,ID,TACHYON-AS-ID
+101.255.37.125,49376,ID,TACHYON-AS-ID
+101.255.37.126,49376,ID,TACHYON-AS-ID
+101.255.37.127,49376,ID,TACHYON-AS-ID
+36.89.251.230,80,ID,Telekomunikasi Indonesia
+36.95.225.220,82,ID,Telekomunikasi Indonesia
+36.89.251.230,91,ID,Telekomunikasi Indonesia
+36.89.251.230,443,ID,Telekomunikasi Indonesia
+36.95.225.220,855,ID,Telekomunikasi Indonesia
+36.95.225.220,856,ID,Telekomunikasi Indonesia
+36.89.251.230,888,ID,Telekomunikasi Indonesia
+36.89.251.230,8090,ID,Telekomunikasi Indonesia
+36.89.251.230,8415,ID,Telekomunikasi Indonesia
+36.89.251.230,8416,ID,Telekomunikasi Indonesia
+36.89.251.230,8888,ID,Telekomunikasi Indonesia
+36.89.251.230,26659,ID,Telekomunikasi Indonesia
+36.95.152.58,12137,ID,Telekomunikasi Indonesia
+36.67.203.74,80,ID,telkomnet-as-ap
+36.67.203.74,82,ID,telkomnet-as-ap
+36.67.203.74,855,ID,telkomnet-as-ap
+36.67.203.74,856,ID,telkomnet-as-ap
+43.133.145.156,53136,ID,Tencent Cloud Computing
+165.154.150.185,80,ID,Ucloud Information Technology (hk) Limited
+165.154.150.185,443,ID,Ucloud Information Technology (hk) Limited
+139.195.120.233,80,ID,FASTNET-AS-ID
+139.192.173.246,80,ID,FASTNET-AS-ID
+139.192.173.246,443,ID,FASTNET-AS-ID
+103.197.189.133,443,ID,Ikada
+103.197.189.133,80,ID,Ikada
