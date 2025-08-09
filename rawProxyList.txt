@@ -1132,30 +1132,7 @@
 36.67.203.74,80,ID,telkomnet-as-ap
 36.67.203.74,855,ID,telkomnet-as-ap
 36.67.203.74,856,ID,telkomnet-as-ap
-
-104.99.185.77,80,ID,Akamai Technologies. Inc.
-104.99.186.213,80,ID,Akamai Technologies. Inc.
-104.99.183.207,443,ID,Akamai Technologies. Inc.
-104.99.185.77,443,ID,Akamai Technologies. Inc.
-104.99.186.213,443,ID,Akamai Technologies. Inc.
-36.89.251.230,80,ID,Telekomunikasi Indonesia
-36.95.225.220,82,ID,Telekomunikasi Indonesia
-36.89.251.230,91,ID,Telekomunikasi Indonesia
-36.89.251.230,443,ID,Telekomunikasi Indonesia
-36.95.225.220,855,ID,Telekomunikasi Indonesia
-36.95.225.220,856,ID,Telekomunikasi Indonesia
-36.89.251.230,888,ID,Telekomunikasi Indonesia
-36.89.251.230,8090,ID,Telekomunikasi Indonesia
-36.89.251.230,8415,ID,Telekomunikasi Indonesia
-36.89.251.230,8416,ID,Telekomunikasi Indonesia
 36.89.251.230,8418,ID,Telekomunikasi Indonesia
-36.89.251.230,8888,ID,Telekomunikasi Indonesia
-36.89.251.230,26659,ID,Telekomunikasi Indonesia
-36.67.203.74,80,ID,telkomnet-as-ap
-36.67.203.74,82,ID,telkomnet-as-ap
-36.67.203.74,855,ID,telkomnet-as-ap
-36.67.203.74,856,ID,telkomnet-as-ap
-
 36.92.107.125,443,ID,Temporary
 43.157.250.232,443,ID,Tencent Cloud Computing
 43.129.41.119,443,ID,Tencent Cloud Computing
