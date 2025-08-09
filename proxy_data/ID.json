@@ -4615,5 +4615,41 @@
     "org": "Fajar Informasi Globalnet Jaya",
     "as": "AS58487 CV. Rumahweb Indonesia",
     "asname": "CRI-AS-AP"
+  },
+  {
+    "query": "156.244.1.250",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Kaopu Cloud HK Limited",
+    "org": "Lightnode Limited",
+    "as": "AS138915 Kaopu Cloud HK Limited",
+    "asname": "KAOPU-HK"
+  },
+  {
+    "query": "38.60.171.254",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Kaopu Cloud HK Limited",
+    "org": "Lightnode-ID",
+    "as": "AS138915 Kaopu Cloud HK Limited",
+    "asname": "KAOPU-HK"
+  },
+  {
+    "query": "154.205.159.100",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Kaopu Cloud HK Limited",
+    "org": "Lightnode Limited",
+    "as": "AS138915 Kaopu Cloud HK Limited",
+    "asname": "KAOPU-HK"
+  },
+  {
+    "query": "38.60.191.206",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Kaopu Cloud HK Limited",
+    "org": "Lightnode-ID",
+    "as": "AS138915 Kaopu Cloud HK Limited",
+    "asname": "KAOPU-HK"
   }
 ]
