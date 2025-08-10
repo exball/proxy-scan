@@ -88,5 +88,14 @@
     "org": "Akamai Technologies, Inc.",
     "as": "AS16625 Akamai Technologies, Inc.",
     "asname": "AKAMAI-AS"
+  },
+  {
+    "query": "103.135.245.115",
+    "country": "Malaysia",
+    "countryCode": "MY",
+    "isp": "M EAST SDN. BHD.",
+    "org": "M EAST SDN. BHD",
+    "as": "AS132531 M EAST SDN. BHD.",
+    "asname": "MCM-AS-AP"
   }
 ]
