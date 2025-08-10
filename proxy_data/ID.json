@@ -7612,5 +7612,2246 @@
     "org": "",
     "as": "AS24207 PT NettoCyber Indonesia",
     "asname": "EXPRESSNET-AS-ID"
+  },
+  {
+    "query": "103.150.116.183",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Biznet Gio Nusantara",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.58.101.60",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.87.66.118",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT PRADIPA SAPTA MEDIA",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.87.66.221",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT PRADIPA SAPTA MEDIA",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.89.0.244",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "Biznetgio",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.89.1.212",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "Biznetgio",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.89.6.39",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Biznet Gio Nusantara",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.93.52.39",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.93.57.211",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "Biznetgio",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.93.58.209",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "Biznetgio",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.93.130.242",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.94.238.84",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT PRADIPA SAPTA MEDIA",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.125.181.62",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BYOIP PT. Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.125.181.112",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BYOIP PT. Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.125.181.122",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BYOIP PT. Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.96.47",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "Banahaw Utilities Corp",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.96.85",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "Banahaw Utilities Corp",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.96.89",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "Banahaw Utilities Corp",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.96.177",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "Banahaw Utilities Corp",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.96.184",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "Banahaw Utilities Corp",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.96.253",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "Banahaw Utilities Corp",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.97.199",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "Banahaw Utilities Corp",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.98.118",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BYOIP PT. Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.98.206",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BYOIP PT. Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.99.36",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BYOIP PT. Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.99.93",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BYOIP PT. Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.99.135",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BYOIP PT. Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.99.167",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BYOIP PT. Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.99.224",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BYOIP PT. Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.99.240",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BYOIP PT. Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.132.6",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT. BERKAH PUTRI RAMADANI",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.132.101",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT. BERKAH PUTRI RAMADANI",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.132.146",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT. BERKAH PUTRI RAMADANI",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.132.153",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT. BERKAH PUTRI RAMADANI",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.132.163",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT. BERKAH PUTRI RAMADANI",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.132.211",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT. BERKAH PUTRI RAMADANI",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.133.213",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT. BERKAH PUTRI RAMADANI",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.134.105",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT. DAYA CIPTA SEJAHTERA",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.134.161",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT. DAYA CIPTA SEJAHTERA",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.134.168",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT. DAYA CIPTA SEJAHTERA",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.134.200",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT. DAYA CIPTA SEJAHTERA",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.134.228",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT. DAYA CIPTA SEJAHTERA",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.135.156",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT. DAYA CIPTA SEJAHTERA",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.136.9",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT. NURUL CIPTA ABADI",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.136.100",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT. NURUL CIPTA ABADI",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.139.38",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "CV. PRISAI SIAGATAMA SEJAHTERA",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.127.139.168",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "CV. PRISAI SIAGATAMA SEJAHTERA",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.129.148.83",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT. MITRA ECO FARMINDO",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.129.149.40",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT. MITRA ECO FARMINDO",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.129.149.125",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT. MITRA ECO FARMINDO",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.129.149.136",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT. MITRA ECO FARMINDO",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.129.149.144",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT. MITRA ECO FARMINDO",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.129.149.217",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT. MITRA ECO FARMINDO",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.150.84.198",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.150.86.30",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.150.86.126",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.150.89.2",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Muma Tora Sejahtera",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.150.89.146",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Muma Tora Sejahtera",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.150.91.89",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Gusindo Mulia Bersinar",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.150.92.16",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Biznet Gio Nusantara",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.150.93.207",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Biznet Gio Nusantara",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.150.100.92",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.150.101.30",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Biznet Gio Nusantara",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.150.103.29",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.150.116.33",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Biznet Gio Nusantara",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.150.116.65",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Biznet Gio Nusantara",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.150.116.71",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Biznet Gio Nusantara",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.150.117.25",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Biznet Gio Nusantara",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.150.117.139",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Biznet Gio Nusantara",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.150.117.247",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Biznet Gio Nusantara",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.150.117.249",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Biznet Gio Nusantara",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.150.190.65",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.150.190.70",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.150.190.126",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.150.190.144",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.150.190.232",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.150.191.223",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Biznet Gio Nusantara",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.150.192.148",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Biznet Gio Nusantara",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.150.195.141",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Biznet Gio Nusantara",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.150.196.243",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Biznet Gio Nusantara",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.175.216.3",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Biznet Gio Nusantara",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.175.216.8",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Biznet Gio Nusantara",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.175.216.121",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Biznet Gio Nusantara",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.175.216.123",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Biznet Gio Nusantara",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.175.217.70",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.175.217.121",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.175.217.224",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.175.218.169",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.175.219.171",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Biznet Gio Nusantara",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.175.219.217",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Biznet Gio Nusantara",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.175.220.43",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Biznet Gio Nusantara",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.175.220.82",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Biznet Gio Nusantara",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.175.220.155",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Biznet Gio Nusantara",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.175.221.20",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.195.59.109",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "PT. Supra Primatama Nusantara",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "103.196.146.61",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Degrenap Arkana Abadi",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.196.146.109",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Degrenap Arkana Abadi",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.196.146.214",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Degrenap Arkana Abadi",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.196.147.174",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.196.152.122",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Orion Navano Syandana",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.196.153.221",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Orion Navano Syandana",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.196.154.2",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "Cv Cahaya Ilham",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.196.155.40",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.196.155.207",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.197.188.160",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Biznet Gio Nusantara",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.197.190.105",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Biznet Gio Nusantara",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.197.190.124",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Biznet Gio Nusantara",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.197.191.154",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "HIGEN",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.197.191.176",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "HIGEN",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.197.191.192",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "HIGEN",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.233.155.30",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "112.78.143.18",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "112.78.149.14",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "Upajiwa Business Solution",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "112.78.152.189",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "Mastersystem Infotama",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "112.78.153.205",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "112.78.159.47",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "Mnet Postpaid OLT Midplaza",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "112.78.159.147",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "Mnet Postpaid OLT Midplaza",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "112.78.163.71",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "Metronet",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "112.78.164.156",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "Metronet",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "112.78.166.113",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "Metronet",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "112.78.176.60",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "Kaskus",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "112.78.191.254",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "116.206.196.142",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "PT Biznet Data Center",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "117.102.66.115",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "117.102.94.186",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "BPR Bahtera Masyarakat",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "117.102.95.71",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "Inti Everspring Indonesia",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "117.102.96.11",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "117.102.97.82",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "Jobsdb",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "117.102.97.194",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "117.102.101.13",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "Asuransi Msig",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "117.102.104.20",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "Bali",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "117.102.113.182",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "117.102.114.75",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "117.102.120.131",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "117.102.121.162",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "Triple Eight Energy",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "117.102.124.78",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "Konecranes",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "117.102.124.246",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "Strawland",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "118.99.66.18",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "FNA FACEBOOK CACHE DPS DL",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "118.99.66.33",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "FNA FACEBOOK CACHE DPS DL",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "118.99.66.120",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "118.99.70.237",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Metronet",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "118.99.74.18",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet BDI",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "118.99.77.117",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "118.99.82.253",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "118.99.85.30",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Metronet",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "118.99.87.42",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "118.99.93.14",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Gamers",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "118.99.95.183",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Metronet",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "118.99.103.19",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Metronet",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "118.99.105.69",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "Metronet",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "118.99.107.21",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Home",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "118.99.111.153",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "118.99.121.113",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Metronet",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.12.111",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Metronet",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.22.220",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "Primacom Interbuana",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.27.158",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.33.1",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.33.74",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.36.125",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.36.170",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.37.106",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.42.214",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.45.156",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.61.164",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.73.252",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.79.45",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.82.165",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.87.179",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.90.20",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.92.187",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.104.74",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.108.77",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.112.190",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.115.133",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.120.140",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.120.158",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.126.211",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.132.172",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "AS17451 BIZNET NETWORKS",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.144.5",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "MetroNET",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.147.204",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.149.172",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "Home",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.154.149",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.158.119",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.162.123",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.164.172",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "Biznet",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.173.119",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Metronet",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.173.136",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Metronet",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.179.209",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.188.77",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.197.173",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.200.163",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.202.34",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.203.202",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.211.99",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.212.124",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.214.202",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.216.182",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.225.206",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.229.212",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Metronet",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.236.180",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.239.42",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.252.112",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "202.74.74.116",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Global Port Binekatara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "202.74.74.138",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Global Port Binekatara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "202.74.75.208",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Global Port Binekatara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "202.169.37.155",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet - PSN-NAP",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "202.169.37.197",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet - PSN-NAP",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "202.169.45.210",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet - PSN-NAP",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "202.169.48.114",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet - PSN-NAP",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "202.169.50.93",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet - PSN-NAP",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "203.142.65.69",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "203.142.74.237",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "203.142.77.21",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "203.142.82.5",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "Hosting",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.68.132",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "103.105.81.127",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "PT Dinamika Raya Prima",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "103.105.81.204",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "PT Dinamika Raya Prima",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "112.78.143.2",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "Biznet",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "112.78.164.173",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "Metronet",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "117.102.67.62",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "117.102.71.147",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "SMA Negri 10 Bandung",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "117.102.81.36",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "JBK",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "117.102.127.73",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "118.99.72.42",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "118.99.77.76",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.26.138",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.69.77",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.91.18",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.97.187",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.97.194",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.105.54",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.105.211",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "Bendahara Pengeluaran Dinkominfo",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.158.255",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.170.165",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.175.232",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Metronet",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.200.162",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.202.75",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.209.188",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.211.66",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.211.114",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.212.134",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.220.133",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "182.253.246.174",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "202.169.33.215",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet - PSN-NAP",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "202.169.57.78",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet - PSN-NAP",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "202.169.57.154",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet - PSN-NAP",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "203.142.64.26",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "Christian",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "203.142.66.148",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Biznet Networks",
+    "org": "PT Asuransi Sinar MAS",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
+  },
+  {
+    "query": "118.99.67.10",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "asname": "BIZNET-AS-AP"
   }
 ]
