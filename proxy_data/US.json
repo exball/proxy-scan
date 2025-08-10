@@ -10780,5 +10780,14 @@
     "org": "Regxa LLC",
     "as": "AS16276 OVH SAS",
     "asname": "OVH"
+  },
+  {
+    "query": "18.161.46.211",
+    "country": "United States",
+    "countryCode": "US",
+    "isp": "Amazon.com, Inc.",
+    "org": "AWS CloudFront (GLOBAL)",
+    "as": "AS16509 Amazon.com, Inc.",
+    "asname": "AMAZON-02"
   }
 ]

@@ -6775,5 +6775,842 @@
     "org": "Skydigital Telecom LTD",
     "as": "AS214143 SKYDIGITAL TELECOM LTD",
     "asname": "skydigital-telecom"
+  },
+  {
+    "query": "160.187.150.65",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Topsetting Sentra Akses",
+    "org": "Indonesia Network Information Center",
+    "as": "AS153127 PT Topsetting Sentra Akses",
+    "asname": "IDNIC-TOPSETTING-AS-ID"
+  },
+  {
+    "query": "18.64.22.230",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Amazon Technologies Inc.",
+    "org": "AWS CloudFront (GLOBAL)",
+    "as": "AS16509 Amazon.com, Inc.",
+    "asname": "AMAZON-02"
+  },
+  {
+    "query": "18.154.4.2",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Amazon Technologies Inc.",
+    "org": "AWS CloudFront (GLOBAL)",
+    "as": "AS16509 Amazon.com, Inc.",
+    "asname": "AMAZON-02"
+  },
+  {
+    "query": "18.154.13.123",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Amazon Technologies Inc.",
+    "org": "AWS CloudFront (GLOBAL)",
+    "as": "AS16509 Amazon.com, Inc.",
+    "asname": "AMAZON-02"
+  },
+  {
+    "query": "18.154.13.125",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Amazon Technologies Inc.",
+    "org": "AWS CloudFront (GLOBAL)",
+    "as": "AS16509 Amazon.com, Inc.",
+    "asname": "AMAZON-02"
+  },
+  {
+    "query": "18.244.44.135",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Amazon.com, Inc.",
+    "org": "AWS CloudFront (GLOBAL)",
+    "as": "AS16509 Amazon.com, Inc.",
+    "asname": "AMAZON-02"
+  },
+  {
+    "query": "23.11.119.240",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS16625 Akamai Technologies, Inc.",
+    "asname": "AKAMAI-AS"
+  },
+  {
+    "query": "23.33.217.102",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies",
+    "org": "Akamai International, BV",
+    "as": "AS4761 INDOSAT Internet Network Provider",
+    "asname": "INDOSAT-INP-AP"
+  },
+  {
+    "query": "23.34.242.212",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai International B.V.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS20940 Akamai International B.V.",
+    "asname": "AKAMAI-ASN1"
+  },
+  {
+    "query": "23.36.131.77",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Telekomunikasi Indonesia",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS7713 PT Telekomunikasi Indonesia",
+    "asname": "telkomnet-as-ap"
+  },
+  {
+    "query": "23.41.0.199",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT. Telekomunikasi Selular",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS23693 PT. Telekomunikasi Selular",
+    "asname": "TELKOMSEL-ASN-ID"
+  },
+  {
+    "query": "23.50.45.48",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS16625 Akamai Technologies, Inc.",
+    "asname": "AKAMAI-AS"
+  },
+  {
+    "query": "23.54.48.196",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS16625 Akamai Technologies, Inc.",
+    "asname": "AKAMAI-AS"
+  },
+  {
+    "query": "23.212.133.128",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Telekomunikasi Indonesia",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS7713 PT Telekomunikasi Indonesia",
+    "asname": "telkomnet-as-ap"
+  },
+  {
+    "query": "23.216.158.48",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Telekomunikasi Indonesia",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS7713 PT Telekomunikasi Indonesia",
+    "asname": "telkomnet-as-ap"
+  },
+  {
+    "query": "23.216.242.17",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies",
+    "org": "Akamai International, BV",
+    "as": "AS7713 PT Telekomunikasi Indonesia",
+    "asname": "telkomnet-as-ap"
+  },
+  {
+    "query": "23.216.242.188",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies",
+    "org": "Akamai International, BV",
+    "as": "AS7713 PT Telekomunikasi Indonesia",
+    "asname": "telkomnet-as-ap"
+  },
+  {
+    "query": "23.217.19.232",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Telekomunikasi Indonesia",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS7713 PT Telekomunikasi Indonesia",
+    "asname": "telkomnet-as-ap"
+  },
+  {
+    "query": "23.217.21.104",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Telekomunikasi Indonesia",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS7713 PT Telekomunikasi Indonesia",
+    "asname": "telkomnet-as-ap"
+  },
+  {
+    "query": "23.219.204.20",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Telekomunikasi Indonesia",
+    "org": "Akamai Technologies",
+    "as": "AS7713 PT Telekomunikasi Indonesia",
+    "asname": "telkomnet-as-ap"
+  },
+  {
+    "query": "27.111.45.11",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "INET-ISP",
+    "org": "",
+    "as": "AS24532 PT. Inet Global Indo",
+    "asname": "INET-AS-ID"
+  },
+  {
+    "query": "34.101.248.100",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Google LLC",
+    "org": "Google Cloud (asia-southeast2)",
+    "as": "AS396982 Google LLC",
+    "asname": "GOOGLE-CLOUD-PLATFORM"
+  },
+  {
+    "query": "34.101.255.175",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Google LLC",
+    "org": "Google Cloud (asia-southeast2)",
+    "as": "AS396982 Google LLC",
+    "asname": "GOOGLE-CLOUD-PLATFORM"
+  },
+  {
+    "query": "34.128.104.69",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Google LLC",
+    "org": "Google Cloud (asia-southeast2)",
+    "as": "AS396982 Google LLC",
+    "asname": "GOOGLE-CLOUD-PLATFORM"
+  },
+  {
+    "query": "35.219.83.181",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Google LLC",
+    "org": "Google Cloud (asia-southeast2)",
+    "as": "AS15169 Google LLC",
+    "asname": "GOOGLE"
+  },
+  {
+    "query": "38.47.178.23",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Herza Digital Indonesia",
+    "org": "Herza Cloud",
+    "as": "AS140443 PT Herza Digital Indonesia",
+    "asname": "IDNIC-HERZA-AS-ID"
+  },
+  {
+    "query": "43.129.47.124",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
+    "org": "Tencent Cloud Computing",
+    "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
+    "asname": "TENCENT-NET-AP-CN"
+  },
+  {
+    "query": "43.230.131.28",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Internet Ini Saja",
+    "org": "",
+    "as": "AS23679 PT. Media Antar Nusa",
+    "asname": "NUSANET-AS-ID"
+  },
+  {
+    "query": "45.126.43.109",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Awan Data Teknologi",
+    "org": "PT Awan Data Teknologi",
+    "as": "AS151592 PT Awan Data Teknologi",
+    "asname": "IDNIC-AWANDATA-AS-ID"
+  },
+  {
+    "query": "46.254.93.15",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Cloudflare London, LLC",
+    "org": "PT MARONDI REZEKI BAROKAH BERSAMA",
+    "as": "AS209242 Cloudflare London, LLC",
+    "asname": "CLOUDFLARESPECTRUM"
+  },
+  {
+    "query": "103.5.51.67",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Wowrack Indonesia",
+    "org": "",
+    "as": "AS58381 Wow Internet Indonesia",
+    "asname": "WOWRACK-AS-ID"
+  },
+  {
+    "query": "103.18.239.182",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "IMEDIABIZ",
+    "org": "",
+    "as": "AS45711 Imediabiz Indonesia",
+    "asname": "IMEDIABIZ-AS-ID"
+  },
+  {
+    "query": "103.76.105.78",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Citra Prima Media",
+    "org": "Primavision",
+    "as": "AS151589 PT Citra Prima Media",
+    "asname": "PRIMAVISION-AS-ID"
+  },
+  {
+    "query": "103.89.250.74",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Badan Kepegawaian Negara",
+    "org": "",
+    "as": "AS136098 Badan Kepegawaian Negara",
+    "asname": "IDNIC-BKN-AS-ID"
+  },
+  {
+    "query": "103.94.169.107",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "BALIFIBERNET",
+    "org": "",
+    "as": "AS136119 PT Bali Towerindo Sentra, Tbk",
+    "asname": "BALIFIBERNET-AS-ID"
+  },
+  {
+    "query": "103.102.146.248",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Diginet Media",
+    "org": "PT Diginet Media",
+    "as": "AS136852 PT Diginet Media",
+    "asname": "IDNIC-DIGINETMEDIA-AS-ID"
+  },
+  {
+    "query": "103.102.152.214",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Qwords Company International",
+    "org": "PT Konsep Digital Indonesia",
+    "as": "AS58404 PT Qwords Company International",
+    "asname": "QWORDS-AS-ID"
+  },
+  {
+    "query": "103.109.168.37",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Cyberindo Aditama",
+    "org": "CBN",
+    "as": "AS4787 PT Cyberindo Aditama",
+    "asname": "ASN-CBN"
+  },
+  {
+    "query": "103.111.53.149",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Indonesia Comnets Plus",
+    "org": "",
+    "as": "AS9341 PT INDONESIA COMNETS PLUS",
+    "asname": "ICONPLN-ID-AP-ISP"
+  },
+  {
+    "query": "103.118.178.48",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "MEDIATARA",
+    "org": "",
+    "as": "AS137370 PT. Infomedia Global Nusantara",
+    "asname": "MEDIATARA-NET-AS-ID"
+  },
+  {
+    "query": "103.139.175.139",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT. Cybertechtonic Pratama",
+    "org": "CV Mitra Teknologi Indonesia",
+    "as": "AS131745 PT. Cybertechtonic Pratama",
+    "asname": "IDNIC-CYBERTECHTONIC-AS-ID"
+  },
+  {
+    "query": "103.141.238.72",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Dinas Kominfo Kota Jambi",
+    "org": "",
+    "as": "AS139367 Dinas Kominfo Kota Jambi",
+    "asname": "IDNIC-DISKOMINFO-JAMBIKOTA-AS-ID"
+  },
+  {
+    "query": "103.149.179.68",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "TIMORNET",
+    "org": "",
+    "as": "AS140026 PT. KUPANG INTERMEDIA",
+    "asname": "TIMORNET-AS-ID"
+  },
+  {
+    "query": "103.155.29.9",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Dinas Komunikasi Dan Informatika Kabupaten Kuningan",
+    "org": "Dinas Komunikasi Dan Informatika Kabupaten Kuningan",
+    "as": "AS141048 Dinas Komunikasi Dan Informatika Kabupaten Kuningan",
+    "asname": "IDNIC-KUNINGANKAB-AS-ID"
+  },
+  {
+    "query": "103.157.96.95",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Beon Intermedia",
+    "org": "",
+    "as": "AS55688 PT. Beon Intermedia",
+    "asname": "BEON-AS-ID"
+  },
+  {
+    "query": "103.177.212.54",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "umg.ac.id",
+    "org": "",
+    "as": "AS147161 Universitas Muhammadiyah Gresik",
+    "asname": "IDNIC-UMG-AS-ID"
+  },
+  {
+    "query": "103.196.154.108",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Biznet Gio Nusantara",
+    "org": "Cv Cahaya Ilham",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "103.209.10.75",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Lima Cahaya Kotim",
+    "org": "PT Lima Cahaya Kotim",
+    "as": "AS150927 PT Lima Cahaya Kotim",
+    "asname": "IDNIC-LIMACAHAYAKOTIM-AS-ID"
+  },
+  {
+    "query": "103.228.116.10",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT SumberKoneksi Indotelematika",
+    "org": "",
+    "as": "AS59281 PT Sumber Koneksi Indonesia",
+    "asname": "SKINET-AS-ID"
+  },
+  {
+    "query": "103.234.121.120",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT. Wireless Indonesia",
+    "org": "",
+    "as": "AS18004 PT WIRELESS INDONESIA ( WIN )",
+    "asname": "WIRELESSNET-ID"
+  },
+  {
+    "query": "103.245.72.49",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Universitas Tadulako",
+    "org": "Universitas Tadulako",
+    "as": "AS131763 Universitas Tadulako",
+    "asname": "IDNIC-TADULAKO-AS-ID"
+  },
+  {
+    "query": "104.68.50.36",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS16625 Akamai Technologies, Inc.",
+    "asname": "AKAMAI-AS"
+  },
+  {
+    "query": "104.68.55.137",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS16625 Akamai Technologies, Inc.",
+    "asname": "AKAMAI-AS"
+  },
+  {
+    "query": "104.93.86.63",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Telekomunikasi Indonesia",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS7713 PT Telekomunikasi Indonesia",
+    "asname": "telkomnet-as-ap"
+  },
+  {
+    "query": "104.93.89.91",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Telekomunikasi Indonesia",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS7713 PT Telekomunikasi Indonesia",
+    "asname": "telkomnet-as-ap"
+  },
+  {
+    "query": "104.93.125.61",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Telekomunikasi Indonesia",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS7713 PT Telekomunikasi Indonesia",
+    "asname": "telkomnet-as-ap"
+  },
+  {
+    "query": "104.118.146.82",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Telekomunikasi Indonesia",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS7713 PT Telekomunikasi Indonesia",
+    "asname": "telkomnet-as-ap"
+  },
+  {
+    "query": "108.136.33.25",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Amazon.com, Inc.",
+    "org": "AWS EC2 (ap-southeast-3)",
+    "as": "AS16509 Amazon.com, Inc.",
+    "asname": "AMAZON-02"
+  },
+  {
+    "query": "116.254.120.206",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Cyber Network Indonesia",
+    "org": "",
+    "as": "AS38496 PT Cyber Network Indonesia",
+    "asname": "CNI-AS-ID"
+  },
+  {
+    "query": "130.41.161.129",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Google LLC",
+    "org": "Palo Alto Networks, Inc",
+    "as": "AS394089 Google LLC",
+    "asname": "GCP-ENTERPRISE-USER-TRAFFIC"
+  },
+  {
+    "query": "147.139.194.46",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Alibaba Cloud LLC",
+    "org": "Alibaba Cloud - ID",
+    "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+    "asname": "ALIBABA-CN-NET"
+  },
+  {
+    "query": "149.129.200.167",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Alibaba.com Singapore E-Commerce Private Limited",
+    "org": "",
+    "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+    "asname": "ALIBABA-CN-NET"
+  },
+  {
+    "query": "154.223.40.29",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Kaopu Cloud HK Limited",
+    "org": "Kaopu Cloud HK Limited",
+    "as": "AS138915 Kaopu Cloud HK Limited",
+    "asname": "KAOPU-HK"
+  },
+  {
+    "query": "158.140.186.243",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "MYREPUBLIC",
+    "org": "",
+    "as": "AS63859 PT. Eka Mas Republik",
+    "asname": "MYREPUBLIC-AS-ID"
+  },
+  {
+    "query": "163.53.194.58",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Wowrack Indonesia",
+    "org": "",
+    "as": "AS58381 Wow Internet Indonesia",
+    "asname": "WOWRACK-AS-ID"
+  },
+  {
+    "query": "184.25.236.191",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Telekomunikasi Indonesia",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS7713 PT Telekomunikasi Indonesia",
+    "asname": "telkomnet-as-ap"
+  },
+  {
+    "query": "184.26.108.250",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Telekomunikasi Indonesia",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS7713 PT Telekomunikasi Indonesia",
+    "asname": "telkomnet-as-ap"
+  },
+  {
+    "query": "184.26.111.88",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Telekomunikasi Indonesia",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS7713 PT Telekomunikasi Indonesia",
+    "asname": "telkomnet-as-ap"
+  },
+  {
+    "query": "184.51.116.198",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Linknet-Fastnet ASN",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS23700 Linknet-Fastnet ASN",
+    "asname": "Fastnet-AS-ID"
+  },
+  {
+    "query": "202.10.35.196",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Digital Registra Indonesia",
+    "org": "",
+    "as": "AS58487 CV. Rumahweb Indonesia",
+    "asname": "CRI-AS-AP"
+  },
+  {
+    "query": "203.176.179.211",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Hipernet Indodata",
+    "org": "",
+    "as": "AS38758 PT. HIPERNET INDODATA",
+    "asname": "HYPERNET-AS-ID"
+  },
+  {
+    "query": "103.41.206.194",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Infinys Network",
+    "org": "",
+    "as": "AS58397 PT Infinys System Indonesia",
+    "asname": "INFINYS-AS-ID"
+  },
+  {
+    "query": "27.121.84.33",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "dashnet - PT Sumidhaz Permata Bunda",
+    "org": "",
+    "as": "AS55652 Sumidhaz Permata Bunda, PT",
+    "asname": "DASHNET-AS-ID"
+  },
+  {
+    "query": "27.124.88.111",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT. JAWA POS NATIONAL NETWORK MEDIALINK",
+    "org": "",
+    "as": "AS9341 PT INDONESIA COMNETS PLUS",
+    "asname": "ICONPLN-ID-AP-ISP"
+  },
+  {
+    "query": "36.95.68.254",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT. Telekomunikasi Indonesia",
+    "org": "Telekomunikasi Indonesia",
+    "as": "AS7713 PT Telekomunikasi Indonesia",
+    "asname": "telkomnet-as-ap"
+  },
+  {
+    "query": "43.218.181.255",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Amazon.com, Inc.",
+    "org": "AWS EC2 (ap-southeast-3)",
+    "as": "AS16509 Amazon.com, Inc.",
+    "asname": "AMAZON-02"
+  },
+  {
+    "query": "43.254.126.100",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Palapa Media Indonesia",
+    "org": "",
+    "as": "AS58482 PT. Palapa Media Indonesia",
+    "asname": "PALAPAMEDIA-AS-ID"
+  },
+  {
+    "query": "103.10.170.57",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "TRANSTECH",
+    "org": "",
+    "as": "AS56255 PT Transtech Communication Media",
+    "asname": "TRANSTECH-AS-ID"
+  },
+  {
+    "query": "103.23.200.17",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Varnion Technology Semesta, PT",
+    "org": "Dola Suidar",
+    "as": "AS45287 Varnion Technology Semesta, PT",
+    "asname": "VARNION-AS-ID"
+  },
+  {
+    "query": "103.93.158.71",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT. ALIANSI TEKNOLOGI INDONESIA",
+    "org": "PT. ALIANSI TEKNOLOGI INDONESIA",
+    "as": "AS136116 PT. ALIANSI TEKNOLOGI INDONESIA",
+    "asname": "IDNIC-ATI-AS-ID"
+  },
+  {
+    "query": "103.182.252.100",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT iForte Global Internet",
+    "org": "",
+    "as": "AS17995 PT iForte Global Internet",
+    "asname": "SOLUSINET-AS-ID"
+  },
+  {
+    "query": "103.184.56.84",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Gading Bhakti Utama",
+    "org": "PT Gading Bhakti Utama",
+    "as": "AS149667 PT Gading Bhakti Utama",
+    "asname": "IDNIC-GADING-NET-AS-ID"
+  },
+  {
+    "query": "103.247.120.204",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "GMEDIA",
+    "org": "",
+    "as": "AS55666 PT Media Sarana Data",
+    "asname": "GMEDIA-AS-ID"
+  },
+  {
+    "query": "108.137.27.189",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Amazon.com, Inc.",
+    "org": "AWS EC2 (ap-southeast-3)",
+    "as": "AS16509 Amazon.com, Inc.",
+    "asname": "AMAZON-02"
+  },
+  {
+    "query": "108.137.173.7",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Amazon.com, Inc.",
+    "org": "AWS EC2 (ap-southeast-3)",
+    "as": "AS16509 Amazon.com, Inc.",
+    "asname": "AMAZON-02"
+  },
+  {
+    "query": "108.137.174.95",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Amazon.com, Inc.",
+    "org": "AWS EC2 (ap-southeast-3)",
+    "as": "AS16509 Amazon.com, Inc.",
+    "asname": "AMAZON-02"
+  },
+  {
+    "query": "116.254.101.211",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Bangun Abadi Teknologi Indonesia",
+    "org": "",
+    "as": "AS55693 PT. Bangun Abadi Teknologi Indonesia",
+    "asname": "BATI-AS-ID"
+  },
+  {
+    "query": "118.97.190.173",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Telekomunikasi Indonesia",
+    "org": "Tlkm D3 AST",
+    "as": "AS7713 PT Telekomunikasi Indonesia",
+    "asname": "telkomnet-as-ap"
+  },
+  {
+    "query": "150.107.137.77",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "NUSANET",
+    "org": "Nusanet",
+    "as": "AS23679 PT. Media Antar Nusa",
+    "asname": "NUSANET-AS-ID"
+  },
+  {
+    "query": "202.59.161.163",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "NAP.Net.id - Network Access Point",
+    "org": "",
+    "as": "AS17727 PT. NAP Info Lintas Nusa",
+    "asname": "NAPINFO-AS-AP"
+  },
+  {
+    "query": "202.137.24.114",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "LINKNET",
+    "org": "",
+    "as": "AS9905 Linknet ASN",
+    "asname": "LINKNET-ID-AP"
+  },
+  {
+    "query": "210.79.141.57",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Reueus Sumber Data",
+    "org": "PT Reueus Sumber Data",
+    "as": "AS152048 PT Reueus Sumber Data",
+    "asname": "IDNIC-RIDHONET-AS-ID"
+  },
+  {
+    "query": "222.165.214.245",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT NettoCyber Indonesia",
+    "org": "",
+    "as": "AS24207 PT NettoCyber Indonesia",
+    "asname": "EXPRESSNET-AS-ID"
   }
 ]
