@@ -914,7 +914,6 @@
 103.227.253.169,21,ID,PT Raja Mitra Informatika
 103.161.184.235,80,ID,PT Registrasi Neva Angkasa
 103.146.63.149,443,ID,PT Semut Data Indonesia
-103.167.112.139,443,ID,PT Semut Data Indonesia
 103.167.113.99,80,ID,PT Semut Data Indonesia
 103.148.45.82,8088,ID,PT Trans Hybrid Communication
 117.53.44.97,80,ID,PT Trias Kemas Utama
