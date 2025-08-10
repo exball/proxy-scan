@@ -4651,5 +4651,1238 @@
     "org": "Lightnode-ID",
     "as": "AS138915 Kaopu Cloud HK Limited",
     "asname": "KAOPU-HK"
+  },
+  {
+    "query": "35.219.102.103",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Google LLC",
+    "org": "Google Cloud (asia-southeast2)",
+    "as": "AS15169 Google LLC",
+    "asname": "GOOGLE"
+  },
+  {
+    "query": "202.74.74.241",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Global Port Binekatara",
+    "org": "",
+    "as": "AS133800 PT Biznet Gio Nusantara",
+    "asname": "IDNIC-BIZNETGIO-AS-ID"
+  },
+  {
+    "query": "104.106.205.77",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT. INDOSAT Tbk",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS4761 INDOSAT Internet Network Provider",
+    "asname": "INDOSAT-INP-AP"
+  },
+  {
+    "query": "103.119.54.24",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT. Eka Mas Republik",
+    "org": "Myrepublic",
+    "as": "AS63859 PT. Eka Mas Republik",
+    "asname": "MYREPUBLIC-AS-ID"
+  },
+  {
+    "query": "23.47.196.77",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai International B.V.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS20940 Akamai International B.V.",
+    "asname": "AKAMAI-ASN1"
+  },
+  {
+    "query": "104.106.206.213",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT. INDOSAT Tbk",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS4761 INDOSAT Internet Network Provider",
+    "asname": "INDOSAT-INP-AP"
+  },
+  {
+    "query": "103.160.62.159",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Herza Digital Indonesia",
+    "org": "Herza.ID",
+    "as": "AS140443 PT Herza Digital Indonesia",
+    "asname": "IDNIC-HERZA-AS-ID"
+  },
+  {
+    "query": "156.59.107.225",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Zenlayer Inc",
+    "org": "ZEN",
+    "as": "AS21859 Zenlayer Inc",
+    "asname": "ZEN-ECN"
+  },
+  {
+    "query": "35.219.118.35",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Google LLC",
+    "org": "Google Cloud (asia-southeast2)",
+    "as": "AS15169 Google LLC",
+    "asname": "GOOGLE"
+  },
+  {
+    "query": "103.236.190.142",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Victory Network Indonesia",
+    "org": "",
+    "as": "AS63878 PT Victory Network Indonesia",
+    "asname": "VICTORYNET-AS-ID"
+  },
+  {
+    "query": "103.28.148.180",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Argon Data Communication",
+    "org": "",
+    "as": "AS58477 Argon Data Communication",
+    "asname": "ARGON-AS-ID"
+  },
+  {
+    "query": "124.40.252.54",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Lintas Data Prima",
+    "org": "",
+    "as": "AS45305 Lintas Data Prima, PT",
+    "asname": "LDP-AS-ID"
+  },
+  {
+    "query": "139.0.231.233",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT. First Media, Tbk",
+    "org": "",
+    "as": "AS23700 Linknet-Fastnet ASN",
+    "asname": "Fastnet-AS-ID"
+  },
+  {
+    "query": "172.232.231.155",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "139.0.236.199",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT. First Media, Tbk",
+    "org": "",
+    "as": "AS23700 Linknet-Fastnet ASN",
+    "asname": "Fastnet-AS-ID"
+  },
+  {
+    "query": "103.78.36.118",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "MORATELINDO",
+    "org": "Moratelindo",
+    "as": "AS131111 PT Mora Telematika Indonesia",
+    "asname": "CEPATNET-AS-ID"
+  },
+  {
+    "query": "8.215.54.21",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Alibaba Cloud (Singapore) Private Limited",
+    "org": "Alibaba.com Singapore E-Commerce Private Limited",
+    "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+    "asname": "ALIBABA-CN-NET"
+  },
+  {
+    "query": "8.215.43.90",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "org": "Alibaba.com Singapore E-Commerce Private Limited",
+    "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+    "asname": "ALIBABA-CN-NET"
+  },
+  {
+    "query": "139.0.230.64",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT. First Media, Tbk",
+    "org": "",
+    "as": "AS23700 Linknet-Fastnet ASN",
+    "asname": "Fastnet-AS-ID"
+  },
+  {
+    "query": "103.178.153.154",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Herza Digital Indonesia",
+    "org": "PT Herza Digital Indonesia",
+    "as": "AS140443 PT Herza Digital Indonesia",
+    "asname": "IDNIC-HERZA-AS-ID"
+  },
+  {
+    "query": "149.113.104.163",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Linknet-Fastnet ASN",
+    "org": "PT. Link Net Tbk",
+    "as": "AS23700 Linknet-Fastnet ASN",
+    "asname": "Fastnet-AS-ID"
+  },
+  {
+    "query": "147.139.132.79",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Alibaba Cloud LLC",
+    "org": "Alibaba Cloud - ID",
+    "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+    "asname": "ALIBABA-CN-NET"
+  },
+  {
+    "query": "103.153.131.69",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Sekolah Tinggi Teknologi Kedirgantaraan Yogyakarta",
+    "org": "Sekolah Tinggi Teknologi Kedirgantaraan Yogyakarta",
+    "as": "AS140463 Sekolah Tinggi Teknologi Kedirgantaraan Yogyakarta",
+    "asname": "IDNIC-STTKDYK-AS-ID"
+  },
+  {
+    "query": "103.66.86.108",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Linkgo Metro Teknologi",
+    "org": "CV. INDONETMEDIA CORPORATION",
+    "as": "AS141107 PT Linkgo Metro Teknologi",
+    "asname": "IDNIC-LINKGO-AS-ID"
+  },
+  {
+    "query": "139.195.115.162",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT. First Media",
+    "org": "Asia Pacific Network Information Centre",
+    "as": "AS23700 Linknet-Fastnet ASN",
+    "asname": "Fastnet-AS-ID"
+  },
+  {
+    "query": "139.0.238.26",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT. First Media, Tbk",
+    "org": "",
+    "as": "AS23700 Linknet-Fastnet ASN",
+    "asname": "Fastnet-AS-ID"
+  },
+  {
+    "query": "139.0.225.35",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT. First Media, Tbk",
+    "org": "",
+    "as": "AS23700 Linknet-Fastnet ASN",
+    "asname": "Fastnet-AS-ID"
+  },
+  {
+    "query": "149.113.99.235",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Linknet-Fastnet ASN",
+    "org": "PT. Link Net Tbk",
+    "as": "AS23700 Linknet-Fastnet ASN",
+    "asname": "Fastnet-AS-ID"
+  },
+  {
+    "query": "149.113.112.239",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Linknet-Fastnet ASN",
+    "org": "PT. Link Net Tbk",
+    "as": "AS23700 Linknet-Fastnet ASN",
+    "asname": "Fastnet-AS-ID"
+  },
+  {
+    "query": "139.0.110.228",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT. First Media, Tbk",
+    "org": "",
+    "as": "AS23700 Linknet-Fastnet ASN",
+    "asname": "Fastnet-AS-ID"
+  },
+  {
+    "query": "149.108.61.172",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Linknet-Fastnet ASN",
+    "org": "PT. Link Net Tbk",
+    "as": "AS23700 Linknet-Fastnet ASN",
+    "asname": "Fastnet-AS-ID"
+  },
+  {
+    "query": "147.139.192.176",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Alibaba Cloud LLC",
+    "org": "Alibaba Cloud - ID",
+    "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+    "asname": "ALIBABA-CN-NET"
+  },
+  {
+    "query": "147.139.140.142",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Alibaba Cloud LLC",
+    "org": "Alibaba Cloud - ID",
+    "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+    "asname": "ALIBABA-CN-NET"
+  },
+  {
+    "query": "8.215.46.53",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "org": "Alibaba.com Singapore E-Commerce Private Limited",
+    "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+    "asname": "ALIBABA-CN-NET"
+  },
+  {
+    "query": "8.215.45.195",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "org": "Alibaba.com Singapore E-Commerce Private Limited",
+    "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+    "asname": "ALIBABA-CN-NET"
+  },
+  {
+    "query": "149.108.18.87",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Linknet-Fastnet ASN",
+    "org": "PT. Link Net Tbk",
+    "as": "AS23700 Linknet-Fastnet ASN",
+    "asname": "Fastnet-AS-ID"
+  },
+  {
+    "query": "139.0.110.134",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT. First Media, Tbk",
+    "org": "",
+    "as": "AS23700 Linknet-Fastnet ASN",
+    "asname": "Fastnet-AS-ID"
+  },
+  {
+    "query": "149.108.29.172",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Linknet-Fastnet ASN",
+    "org": "PT. Link Net Tbk",
+    "as": "AS23700 Linknet-Fastnet ASN",
+    "asname": "Fastnet-AS-ID"
+  },
+  {
+    "query": "202.152.157.194",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Jembatan Citra Nusantara",
+    "org": "",
+    "as": "AS23951 PT JEMBATAN CITRA NUSANTARA",
+    "asname": "CITRA-AS-ID"
+  },
+  {
+    "query": "41.216.186.47",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "FASTHOSTING",
+    "org": "",
+    "as": "AS211407 PT Perwira Media Solusi",
+    "asname": "AS_Perwira_Media"
+  },
+  {
+    "query": "149.113.96.45",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Linknet-Fastnet ASN",
+    "org": "PT. Link Net Tbk",
+    "as": "AS23700 Linknet-Fastnet ASN",
+    "asname": "Fastnet-AS-ID"
+  },
+  {
+    "query": "149.108.59.224",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Linknet-Fastnet ASN",
+    "org": "PT. Link Net Tbk",
+    "as": "AS23700 Linknet-Fastnet ASN",
+    "asname": "Fastnet-AS-ID"
+  },
+  {
+    "query": "149.108.25.97",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Linknet-Fastnet ASN",
+    "org": "PT. Link Net Tbk",
+    "as": "AS23700 Linknet-Fastnet ASN",
+    "asname": "Fastnet-AS-ID"
+  },
+  {
+    "query": "103.28.21.51",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PNRI",
+    "org": "",
+    "as": "AS56256 Perpustakaan Nasional RI",
+    "asname": "PERPUSNAS-AS-ID"
+  },
+  {
+    "query": "152.118.24.31",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "University of Indonesia",
+    "org": "University of Indonesia",
+    "as": "AS3382 University of Indonesia",
+    "asname": "INDONESIAUNI-AS-AP"
+  },
+  {
+    "query": "202.9.69.7",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Politeknik Negeri Sriwijaya",
+    "org": "Politeknik Negeri Sriwijaya, University",
+    "as": "AS46047 Politeknik Negeri Sriwijaya",
+    "asname": "POLSRI-AS-ID"
+  },
+  {
+    "query": "149.108.53.2",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Linknet-Fastnet ASN",
+    "org": "PT. Link Net Tbk",
+    "as": "AS23700 Linknet-Fastnet ASN",
+    "asname": "Fastnet-AS-ID"
+  },
+  {
+    "query": "139.0.147.211",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT. First Media, Tbk",
+    "org": "",
+    "as": "AS23700 Linknet-Fastnet ASN",
+    "asname": "Fastnet-AS-ID"
+  },
+  {
+    "query": "149.108.28.158",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Linknet-Fastnet ASN",
+    "org": "PT. Link Net Tbk",
+    "as": "AS23700 Linknet-Fastnet ASN",
+    "asname": "Fastnet-AS-ID"
+  },
+  {
+    "query": "203.175.11.194",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "CV. Rumahweb Indonesia",
+    "org": "",
+    "as": "AS58487 CV. Rumahweb Indonesia",
+    "asname": "CRI-AS-AP"
+  },
+  {
+    "query": "103.82.13.52",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "MORATELINDO",
+    "org": "Moratelindo",
+    "as": "AS131111 PT Mora Telematika Indonesia",
+    "asname": "CEPATNET-AS-ID"
+  },
+  {
+    "query": "108.136.167.35",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Amazon.com, Inc.",
+    "org": "AWS EC2 (ap-southeast-3)",
+    "as": "AS16509 Amazon.com, Inc.",
+    "asname": "AMAZON-02"
+  },
+  {
+    "query": "202.73.26.66",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT.Semut Data Indonesia",
+    "org": "",
+    "as": "AS141892 CV Andhika Pratama Sanggoro",
+    "asname": "IDNIC-SENGKED-AS-ID"
+  },
+  {
+    "query": "139.0.145.240",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT. First Media, Tbk",
+    "org": "",
+    "as": "AS23700 Linknet-Fastnet ASN",
+    "asname": "Fastnet-AS-ID"
+  },
+  {
+    "query": "149.129.251.4",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Alibaba.com Singapore E-Commerce Private Limited",
+    "org": "",
+    "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+    "asname": "ALIBABA-CN-NET"
+  },
+  {
+    "query": "103.54.217.218",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT. Mora Telematika Indonesia",
+    "org": "",
+    "as": "AS131111 PT Mora Telematika Indonesia",
+    "asname": "CEPATNET-AS-ID"
+  },
+  {
+    "query": "149.113.108.221",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Linknet-Fastnet ASN",
+    "org": "PT. Link Net Tbk",
+    "as": "AS23700 Linknet-Fastnet ASN",
+    "asname": "Fastnet-AS-ID"
+  },
+  {
+    "query": "139.192.150.81",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT. First Media, Tbk",
+    "org": "",
+    "as": "AS23700 Linknet-Fastnet ASN",
+    "asname": "Fastnet-AS-ID"
+  },
+  {
+    "query": "103.125.37.180",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT. Eka Mas Republik",
+    "org": "Myrepublic",
+    "as": "AS63859 PT. Eka Mas Republik",
+    "asname": "MYREPUBLIC-AS-ID"
+  },
+  {
+    "query": "147.139.143.199",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Alibaba Cloud LLC",
+    "org": "Alibaba Cloud - ID",
+    "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+    "asname": "ALIBABA-CN-NET"
+  },
+  {
+    "query": "8.215.74.53",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "org": "Alibaba.com Singapore E-Commerce Private Limited",
+    "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+    "asname": "ALIBABA-CN-NET"
+  },
+  {
+    "query": "43.218.79.114",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Amazon.com, Inc.",
+    "org": "AWS EC2 (ap-southeast-3)",
+    "as": "AS16509 Amazon.com, Inc.",
+    "asname": "AMAZON-02"
+  },
+  {
+    "query": "139.192.168.249",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT. First Media, Tbk",
+    "org": "",
+    "as": "AS23700 Linknet-Fastnet ASN",
+    "asname": "Fastnet-AS-ID"
+  },
+  {
+    "query": "182.16.187.215",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT iForte Global Internet",
+    "org": "",
+    "as": "AS17995 PT iForte Global Internet",
+    "asname": "SOLUSINET-AS-ID"
+  },
+  {
+    "query": "172.232.248.101",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "38.60.171.102",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Kaopu Cloud HK Limited",
+    "org": "Lightnode-ID",
+    "as": "AS138915 Kaopu Cloud HK Limited",
+    "asname": "KAOPU-HK"
+  },
+  {
+    "query": "139.0.238.31",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT. First Media, Tbk",
+    "org": "",
+    "as": "AS23700 Linknet-Fastnet ASN",
+    "asname": "Fastnet-AS-ID"
+  },
+  {
+    "query": "43.218.122.144",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Amazon.com, Inc.",
+    "org": "AWS EC2 (ap-southeast-3)",
+    "as": "AS16509 Amazon.com, Inc.",
+    "asname": "AMAZON-02"
+  },
+  {
+    "query": "172.232.248.227",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "104.106.203.207",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT. INDOSAT Tbk",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS4761 INDOSAT Internet Network Provider",
+    "asname": "INDOSAT-INP-AP"
+  },
+  {
+    "query": "103.146.63.149",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT Semut Data Indonesia",
+    "org": "PT Semut Data Indonesia",
+    "as": "AS139457 PT Semut Data Indonesia",
+    "asname": "IDNIC-ANTMEDIAHOST-AS-ID"
+  },
+  {
+    "query": "23.36.242.207",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai International B.V.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS20940 Akamai International B.V.",
+    "asname": "AKAMAI-ASN1"
+  },
+  {
+    "query": "149.129.220.69",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Alibaba.com Singapore E-Commerce Private Limited",
+    "org": "",
+    "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+    "asname": "ALIBABA-CN-NET"
+  },
+  {
+    "query": "149.108.21.175",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Linknet-Fastnet ASN",
+    "org": "PT. Link Net Tbk",
+    "as": "AS23700 Linknet-Fastnet ASN",
+    "asname": "Fastnet-AS-ID"
+  },
+  {
+    "query": "103.130.17.116",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Authorize Advertise Via PT. Eka Mas Republik",
+    "org": "",
+    "as": "AS63859 PT. Eka Mas Republik",
+    "asname": "MYREPUBLIC-AS-ID"
+  },
+  {
+    "query": "158.140.190.168",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT. Eka Mas Republik",
+    "org": "Myrepublic",
+    "as": "AS63859 PT. Eka Mas Republik",
+    "asname": "MYREPUBLIC-AS-ID"
+  },
+  {
+    "query": "139.195.127.47",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT. First Media",
+    "org": "Asia Pacific Network Information Centre",
+    "as": "AS23700 Linknet-Fastnet ASN",
+    "asname": "Fastnet-AS-ID"
+  },
+  {
+    "query": "172.232.237.91",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.236.13",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "8.215.19.67",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Alibaba Cloud (Singapore) Private Limited",
+    "org": "Alibaba.com Singapore E-Commerce Private Limited",
+    "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+    "asname": "ALIBABA-CN-NET"
+  },
+  {
+    "query": "147.139.196.176",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Alibaba Cloud LLC",
+    "org": "Alibaba Cloud - ID",
+    "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+    "asname": "ALIBABA-CN-NET"
+  },
+  {
+    "query": "147.139.166.236",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Alibaba Cloud LLC",
+    "org": "Alibaba Cloud - ID",
+    "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+    "asname": "ALIBABA-CN-NET"
+  },
+  {
+    "query": "172.232.239.24",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.239.175",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.231.136",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.236.214",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.225.205",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.235.127",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.235.227",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.236.180",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.235.226",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.235.202",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "147.139.243.188",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Alibaba Cloud LLC",
+    "org": "Alibaba Cloud - ID",
+    "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+    "asname": "ALIBABA-CN-NET"
+  },
+  {
+    "query": "111.95.40.14",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Linknet-Fastnet ASN",
+    "org": "FastNet",
+    "as": "AS23700 Linknet-Fastnet ASN",
+    "asname": "Fastnet-AS-ID"
+  },
+  {
+    "query": "38.60.171.111",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Kaopu Cloud HK Limited",
+    "org": "Lightnode-ID",
+    "as": "AS138915 Kaopu Cloud HK Limited",
+    "asname": "KAOPU-HK"
+  },
+  {
+    "query": "8.215.23.33",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "org": "Alibaba.com Singapore E-Commerce Private Limited",
+    "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+    "asname": "ALIBABA-CN-NET"
+  },
+  {
+    "query": "165.154.48.233",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+    "org": "Ucloud Information Technology (hk) Limited",
+    "as": "AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+    "asname": "UCLOUD-HK-AS-AP"
+  },
+  {
+    "query": "8.215.23.109",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "org": "Alibaba.com Singapore E-Commerce Private Limited",
+    "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+    "asname": "ALIBABA-CN-NET"
+  },
+  {
+    "query": "158.140.185.96",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "MYREPUBLIC",
+    "org": "",
+    "as": "AS63859 PT. Eka Mas Republik",
+    "asname": "MYREPUBLIC-AS-ID"
+  },
+  {
+    "query": "172.232.234.189",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "8.215.19.204",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Alibaba Cloud (Singapore) Private Limited",
+    "org": "Alibaba.com Singapore E-Commerce Private Limited",
+    "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+    "asname": "ALIBABA-CN-NET"
+  },
+  {
+    "query": "172.232.239.107",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.239.77",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.239.60",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.239.47",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.239.54",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.239.162",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.239.56",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.239.181",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.238.169",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.238.103",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.252.119",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.252.106",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.252.193",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.239.203",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.239.219",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.239.246",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.239.235",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.239.180",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.239.10",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.239.82",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.249.190",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.252.109",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.252.101",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.252.108",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.252.35",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.234.33",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.234.119",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "172.232.234.10",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Akamai Technologies, Inc.",
+    "org": "Akamai Technologies, Inc.",
+    "as": "AS63949 Akamai Connected Cloud",
+    "asname": "AKAMAI-LINODE-AP"
+  },
+  {
+    "query": "8.215.56.120",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "org": "Alibaba.com Singapore E-Commerce Private Limited",
+    "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+    "asname": "ALIBABA-CN-NET"
+  },
+  {
+    "query": "103.54.217.210",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT. Mora Telematika Indonesia",
+    "org": "",
+    "as": "AS131111 PT Mora Telematika Indonesia",
+    "asname": "CEPATNET-AS-ID"
+  },
+  {
+    "query": "147.139.182.37",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Alibaba Cloud LLC",
+    "org": "Alibaba Cloud - ID",
+    "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+    "asname": "ALIBABA-CN-NET"
+  },
+  {
+    "query": "103.54.217.97",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "PT. Mora Telematika Indonesia",
+    "org": "",
+    "as": "AS131111 PT Mora Telematika Indonesia",
+    "asname": "CEPATNET-AS-ID"
+  },
+  {
+    "query": "38.60.191.154",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Kaopu Cloud HK Limited",
+    "org": "Lightnode-ID",
+    "as": "AS138915 Kaopu Cloud HK Limited",
+    "asname": "KAOPU-HK"
+  },
+  {
+    "query": "8.215.27.3",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "org": "Alibaba.com Singapore E-Commerce Private Limited",
+    "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
+    "asname": "ALIBABA-CN-NET"
+  },
+  {
+    "query": "165.154.150.9",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+    "org": "Ucloud Information Technology (hk) Limited",
+    "as": "AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+    "asname": "UCLOUD-HK-AS-AP"
+  },
+  {
+    "query": "108.137.62.197",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "isp": "Amazon.com, Inc.",
+    "org": "AWS EC2 (ap-southeast-3)",
+    "as": "AS16509 Amazon.com, Inc.",
+    "asname": "AMAZON-02"
   }
 ]

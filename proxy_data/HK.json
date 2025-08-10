@@ -20032,5 +20032,14 @@
     "org": "Colocation America Corporation",
     "as": "AS53616 ASYMPTOTE NETWORK, LLC",
     "asname": "ASYMPTOTE"
+  },
+  {
+    "query": "202.155.141.200",
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "isp": "Arisk Communications inc",
+    "org": "Arisk Communications inc.",
+    "as": "AS134677 Dromatics Systems Pte Ltd",
+    "asname": "IDC-AS-AP"
   }
 ]
