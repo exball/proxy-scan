@@ -1322,6 +1322,7 @@
 103.236.190.142,443,ID,VICTORYNET-AS-ID
 156.59.107.225,443,ID,ZEN
 34.101.86.59,443,ID,Google
+34.101.86.59,80,ID,Google
 34.101.58.244,80,ID,Google Cloud (asia-southeast2)
 34.128.92.18,80,ID,Google Cloud (asia-southeast2)
 34.128.100.18,80,ID,Google Cloud (asia-southeast2)
