@@ -3369,7 +3369,6 @@
 34.128.87.103,443,ID,Google Cloud (asia-southeast2)
 34.101.211.205,443,ID,Google Cloud (asia-southeast2)
 34.128.66.178,443,ID,Google Cloud (asia-southeast2)
-34.101.86.59,443,ID,Google Cloud (asia-southeast2)
 34.101.235.139,443,ID,Google Cloud (asia-southeast2)
 34.101.242.0,443,ID,Google Cloud (asia-southeast2)
 34.101.135.8,443,ID,Google Cloud (asia-southeast2)
