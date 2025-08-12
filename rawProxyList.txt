@@ -4725,3 +4725,13 @@
 36.67.203.74,856,ID,telkomnet-as-ap
 103.236.190.142,80,ID,VICTORYNET-AS-ID
 103.236.190.142,443,ID,VICTORYNET-AS-ID
+
+103.171.84.113,80,ID,PT Cloud Hosting Indonesia
+103.171.84.113,443,ID,PT Cloud Hosting Indonesia
+103.171.84.113,6002,ID,PT Cloud Hosting Indonesia
+103.171.84.113,7001,ID,PT Cloud Hosting Indonesia
+103.171.84.113,7800,ID,PT Cloud Hosting Indonesia
+103.171.84.113,8001,ID,PT Cloud Hosting Indonesia
+103.171.84.113,8002,ID,PT Cloud Hosting Indonesia
+103.171.84.113,8003,ID,PT Cloud Hosting Indonesia
+103.171.84.113,9100,ID,PT Cloud Hosting Indonesia
