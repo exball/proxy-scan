@@ -1,0 +1,128 @@
+[
+  {
+    "ip": "103.29.32.103",
+    "country": "IN",
+    "asn": "AS11179",
+    "as_name": "Aryaka Networks, Inc."
+  },
+  {
+    "ip": "115.242.180.202",
+    "country": "IN",
+    "asn": "AS55836",
+    "as_name": "Reliance Jio Infocomm Limited"
+  },
+  {
+    "ip": "128.199.18.189",
+    "country": "IN",
+    "asn": "AS14061",
+    "as_name": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "134.195.137.107",
+    "country": "IN",
+    "asn": "AS140543",
+    "as_name": "ReadyDedis, LLC"
+  },
+  {
+    "ip": "146.56.48.138",
+    "country": "IN",
+    "asn": "AS31898",
+    "as_name": "Oracle Corporation"
+  },
+  {
+    "ip": "147.75.228.22",
+    "country": "IN",
+    "asn": "AS11179",
+    "as_name": "Aryaka Networks, Inc."
+  },
+  {
+    "ip": "147.75.230.160",
+    "country": "IN",
+    "asn": "AS11179",
+    "as_name": "Aryaka Networks, Inc."
+  },
+  {
+    "ip": "147.75.230.207",
+    "country": "IN",
+    "asn": "AS11179",
+    "as_name": "Aryaka Networks, Inc."
+  },
+  {
+    "ip": "147.75.230.33",
+    "country": "IN",
+    "asn": "AS11179",
+    "as_name": "Aryaka Networks, Inc."
+  },
+  {
+    "ip": "148.113.43.228",
+    "country": "IN",
+    "asn": "AS16276",
+    "as_name": "OVH SAS"
+  },
+  {
+    "ip": "152.70.75.80",
+    "country": "IN",
+    "asn": "AS31898",
+    "as_name": "Oracle Corporation"
+  },
+  {
+    "ip": "152.70.76.104",
+    "country": "IN",
+    "asn": "AS31898",
+    "as_name": "Oracle Corporation"
+  },
+  {
+    "ip": "166.0.244.206",
+    "country": "IN",
+    "asn": "AS134465",
+    "as_name": "M/S HARVIL MEDIA"
+  },
+  {
+    "ip": "172.105.62.71",
+    "country": "IN",
+    "asn": "AS63949",
+    "as_name": "Akamai Connected Cloud"
+  },
+  {
+    "ip": "172.232.112.240",
+    "country": "IN",
+    "asn": "AS63949",
+    "as_name": "Akamai Connected Cloud"
+  },
+  {
+    "ip": "20.235.105.146",
+    "country": "IN",
+    "asn": "AS8075",
+    "as_name": "Microsoft Corporation"
+  },
+  {
+    "ip": "216.10.243.159",
+    "country": "IN",
+    "asn": "AS394695",
+    "as_name": "PDR"
+  },
+  {
+    "ip": "3.109.185.221",
+    "country": "IN",
+    "asn": "AS16509",
+    "as_name": "Amazon.com, Inc."
+  },
+  {
+    "ip": "65.20.74.136",
+    "country": "IN",
+    "asn": "AS20473",
+    "as_name": "The Constant Company, LLC"
+  },
+  {
+    "ip": "65.20.76.125",
+    "country": "IN",
+    "asn": "AS20473",
+    "as_name": "The Constant Company, LLC"
+  },
+  {
+    "ip": "65.20.82.22",
+    "country": "IN",
+    "asn": "AS20473",
+    "as_name": "The Constant Company, LLC"
+  }
+]

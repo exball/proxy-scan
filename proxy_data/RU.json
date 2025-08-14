@@ -1,0 +1,710 @@
+[
+  {
+    "ip": "109.120.189.103",
+    "country": "RU",
+    "asn": "AS47764",
+    "as_name": "LLC VK"
+  },
+  {
+    "ip": "109.71.242.105",
+    "country": "RU",
+    "asn": "AS57494",
+    "as_name": "Adman LLC"
+  },
+  {
+    "ip": "141.105.70.114",
+    "country": "RU",
+    "asn": "AS50867",
+    "as_name": "HOSTKEY B.V."
+  },
+  {
+    "ip": "147.45.143.22",
+    "country": "RU",
+    "asn": "AS9123",
+    "as_name": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "147.45.147.212",
+    "country": "RU",
+    "asn": "AS57494",
+    "as_name": "Adman LLC"
+  },
+  {
+    "ip": "147.45.164.133",
+    "country": "RU",
+    "asn": "AS9123",
+    "as_name": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "147.45.175.165",
+    "country": "RU",
+    "asn": "AS9123",
+    "as_name": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "147.45.245.15",
+    "country": "RU",
+    "asn": "AS9123",
+    "as_name": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "176.109.106.61",
+    "country": "RU",
+    "asn": "AS208677",
+    "as_name": "\"Cloud Technologies\" LLC trading as Cloud.ru"
+  },
+  {
+    "ip": "176.57.211.166",
+    "country": "RU",
+    "asn": "AS9123",
+    "as_name": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "178.20.44.2",
+    "country": "RU",
+    "asn": "AS48282",
+    "as_name": "Hosting technology LTD"
+  },
+  {
+    "ip": "178.20.46.46",
+    "country": "RU",
+    "asn": "AS48282",
+    "as_name": "Hosting technology LTD"
+  },
+  {
+    "ip": "178.208.94.90",
+    "country": "RU",
+    "asn": "AS210079",
+    "as_name": "EuroByte LLC"
+  },
+  {
+    "ip": "178.250.159.120",
+    "country": "RU",
+    "asn": "AS29182",
+    "as_name": "JSC IOT"
+  },
+  {
+    "ip": "185.103.109.139",
+    "country": "RU",
+    "asn": "AS205090",
+    "as_name": "FIRST SERVER LIMITED"
+  },
+  {
+    "ip": "185.105.117.222",
+    "country": "RU",
+    "asn": "AS209641",
+    "as_name": "I-SERVERS LTD"
+  },
+  {
+    "ip": "185.105.89.125",
+    "country": "RU",
+    "asn": "AS205090",
+    "as_name": "FIRST SERVER LIMITED"
+  },
+  {
+    "ip": "185.105.89.222",
+    "country": "RU",
+    "asn": "AS205090",
+    "as_name": "FIRST SERVER LIMITED"
+  },
+  {
+    "ip": "185.125.217.104",
+    "country": "RU",
+    "asn": "AS209641",
+    "as_name": "I-SERVERS LTD"
+  },
+  {
+    "ip": "185.125.219.207",
+    "country": "RU",
+    "asn": "AS209641",
+    "as_name": "I-SERVERS LTD"
+  },
+  {
+    "ip": "185.128.106.14",
+    "country": "RU",
+    "asn": "AS205090",
+    "as_name": "FIRST SERVER LIMITED"
+  },
+  {
+    "ip": "185.189.14.161",
+    "country": "RU",
+    "asn": "AS50113",
+    "as_name": "FIRST SERVER LIMITED"
+  },
+  {
+    "ip": "185.211.170.101",
+    "country": "RU",
+    "asn": "AS9123",
+    "as_name": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "185.22.153.42",
+    "country": "RU",
+    "asn": "AS51659",
+    "as_name": "LLC Baxet"
+  },
+  {
+    "ip": "185.229.66.180",
+    "country": "RU",
+    "asn": "AS211522",
+    "as_name": "Hypercore Ltd"
+  },
+  {
+    "ip": "185.229.66.213",
+    "country": "RU",
+    "asn": "AS211522",
+    "as_name": "Hypercore Ltd"
+  },
+  {
+    "ip": "185.233.200.93",
+    "country": "RU",
+    "asn": "AS205090",
+    "as_name": "FIRST SERVER LIMITED"
+  },
+  {
+    "ip": "185.251.89.102",
+    "country": "RU",
+    "asn": "AS35278",
+    "as_name": "SPRINTHOST.RU LLC"
+  },
+  {
+    "ip": "185.254.190.70",
+    "country": "RU",
+    "asn": "AS59504",
+    "as_name": "LLC Vpsville"
+  },
+  {
+    "ip": "185.84.162.186",
+    "country": "RU",
+    "asn": "AS9123",
+    "as_name": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "185.87.192.131",
+    "country": "RU",
+    "asn": "AS210079",
+    "as_name": "EuroByte LLC"
+  },
+  {
+    "ip": "188.225.34.155",
+    "country": "RU",
+    "asn": "AS9123",
+    "as_name": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "192.162.101.119",
+    "country": "RU",
+    "asn": "AS50113",
+    "as_name": "FIRST SERVER LIMITED"
+  },
+  {
+    "ip": "193.124.47.215",
+    "country": "RU",
+    "asn": "AS9123",
+    "as_name": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "193.160.209.226",
+    "country": "RU",
+    "asn": "AS9123",
+    "as_name": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "193.3.23.128",
+    "country": "RU",
+    "asn": "AS212913",
+    "as_name": "FOP Hornostay Mykhaylo Ivanovych"
+  },
+  {
+    "ip": "194.113.106.142",
+    "country": "RU",
+    "asn": "AS216246",
+    "as_name": "Aeza Group LLC"
+  },
+  {
+    "ip": "194.55.235.11",
+    "country": "RU",
+    "asn": "AS34959",
+    "as_name": "PROCLOUD MSK"
+  },
+  {
+    "ip": "194.67.204.158",
+    "country": "RU",
+    "asn": "AS209641",
+    "as_name": "I-SERVERS LTD"
+  },
+  {
+    "ip": "194.67.78.233",
+    "country": "RU",
+    "asn": "AS197695",
+    "as_name": "\"Domain names registrar REG.RU\", Ltd"
+  },
+  {
+    "ip": "194.87.190.57",
+    "country": "RU",
+    "asn": "AS9123",
+    "as_name": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "194.87.252.135",
+    "country": "RU",
+    "asn": "AS41745",
+    "as_name": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "195.80.50.74",
+    "country": "RU",
+    "asn": "AS9123",
+    "as_name": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "213.159.208.88",
+    "country": "RU",
+    "asn": "AS29182",
+    "as_name": "JSC IOT"
+  },
+  {
+    "ip": "213.171.10.123",
+    "country": "RU",
+    "asn": "AS9123",
+    "as_name": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "213.171.8.2",
+    "country": "RU",
+    "asn": "AS9123",
+    "as_name": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "213.183.48.227",
+    "country": "RU",
+    "asn": "AS56630",
+    "as_name": "Melbikomas UAB"
+  },
+  {
+    "ip": "213.226.126.183",
+    "country": "RU",
+    "asn": "AS9123",
+    "as_name": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "217.144.184.182",
+    "country": "RU",
+    "asn": "AS216246",
+    "as_name": "Aeza Group LLC"
+  },
+  {
+    "ip": "217.73.63.121",
+    "country": "RU",
+    "asn": "AS51219",
+    "as_name": "K2 Integration JSC"
+  },
+  {
+    "ip": "31.128.36.148",
+    "country": "RU",
+    "asn": "AS198610",
+    "as_name": "Beget LLC"
+  },
+  {
+    "ip": "31.128.37.116",
+    "country": "RU",
+    "asn": "AS198610",
+    "as_name": "Beget LLC"
+  },
+  {
+    "ip": "31.129.42.100",
+    "country": "RU",
+    "asn": "AS49505",
+    "as_name": "JSC Selectel"
+  },
+  {
+    "ip": "31.129.48.139",
+    "country": "RU",
+    "asn": "AS49505",
+    "as_name": "JSC Selectel"
+  },
+  {
+    "ip": "31.129.48.222",
+    "country": "RU",
+    "asn": "AS49505",
+    "as_name": "JSC Selectel"
+  },
+  {
+    "ip": "31.129.49.103",
+    "country": "RU",
+    "asn": "AS49505",
+    "as_name": "JSC Selectel"
+  },
+  {
+    "ip": "31.25.29.199",
+    "country": "RU",
+    "asn": "AS35815",
+    "as_name": "LLC Cifrovie Seti Urala"
+  },
+  {
+    "ip": "45.135.135.131",
+    "country": "RU",
+    "asn": "AS51659",
+    "as_name": "LLC Baxet"
+  },
+  {
+    "ip": "45.139.184.183",
+    "country": "RU",
+    "asn": "AS59504",
+    "as_name": "LLC Vpsville"
+  },
+  {
+    "ip": "45.142.122.152",
+    "country": "RU",
+    "asn": "AS211522",
+    "as_name": "Hypercore Ltd"
+  },
+  {
+    "ip": "45.142.122.39",
+    "country": "RU",
+    "asn": "AS211522",
+    "as_name": "Hypercore Ltd"
+  },
+  {
+    "ip": "45.67.57.249",
+    "country": "RU",
+    "asn": "AS198610",
+    "as_name": "Beget LLC"
+  },
+  {
+    "ip": "45.90.219.244",
+    "country": "RU",
+    "asn": "AS205090",
+    "as_name": "FIRST SERVER LIMITED"
+  },
+  {
+    "ip": "45.95.203.214",
+    "country": "RU",
+    "asn": "AS205090",
+    "as_name": "FIRST SERVER LIMITED"
+  },
+  {
+    "ip": "46.17.41.52",
+    "country": "RU",
+    "asn": "AS51659",
+    "as_name": "LLC Baxet"
+  },
+  {
+    "ip": "46.17.43.237",
+    "country": "RU",
+    "asn": "AS51659",
+    "as_name": "LLC Baxet"
+  },
+  {
+    "ip": "5.188.82.107",
+    "country": "RU",
+    "asn": "AS50340",
+    "as_name": "JSC Selectel"
+  },
+  {
+    "ip": "5.35.85.201",
+    "country": "RU",
+    "asn": "AS198610",
+    "as_name": "Beget LLC"
+  },
+  {
+    "ip": "51.250.15.177",
+    "country": "RU",
+    "asn": "AS200350",
+    "as_name": "Yandex.Cloud LLC"
+  },
+  {
+    "ip": "77.221.151.57",
+    "country": "RU",
+    "asn": "AS216246",
+    "as_name": "Aeza Group LLC"
+  },
+  {
+    "ip": "77.221.151.83",
+    "country": "RU",
+    "asn": "AS216246",
+    "as_name": "Aeza Group LLC"
+  },
+  {
+    "ip": "77.223.96.158",
+    "country": "RU",
+    "asn": "AS50340",
+    "as_name": "JSC Selectel"
+  },
+  {
+    "ip": "77.223.96.232",
+    "country": "RU",
+    "asn": "AS50340",
+    "as_name": "JSC Selectel"
+  },
+  {
+    "ip": "77.232.128.136",
+    "country": "RU",
+    "asn": "AS9123",
+    "as_name": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "77.73.69.96",
+    "country": "RU",
+    "asn": "AS43317",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "80.90.187.190",
+    "country": "RU",
+    "asn": "AS9123",
+    "as_name": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "81.163.17.22",
+    "country": "RU",
+    "asn": "AS50340",
+    "as_name": "JSC Selectel"
+  },
+  {
+    "ip": "81.163.28.53",
+    "country": "RU",
+    "asn": "AS50340",
+    "as_name": "JSC Selectel"
+  },
+  {
+    "ip": "81.200.151.49",
+    "country": "RU",
+    "asn": "AS9123",
+    "as_name": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "81.200.158.206",
+    "country": "RU",
+    "asn": "AS9123",
+    "as_name": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "82.148.30.224",
+    "country": "RU",
+    "asn": "AS50340",
+    "as_name": "JSC Selectel"
+  },
+  {
+    "ip": "82.97.247.226",
+    "country": "RU",
+    "asn": "AS9123",
+    "as_name": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "82.97.249.34",
+    "country": "RU",
+    "asn": "AS9123",
+    "as_name": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "82.97.254.184",
+    "country": "RU",
+    "asn": "AS9123",
+    "as_name": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "83.220.169.3",
+    "country": "RU",
+    "asn": "AS29182",
+    "as_name": "JSC IOT"
+  },
+  {
+    "ip": "84.252.73.35",
+    "country": "RU",
+    "asn": "AS205090",
+    "as_name": "FIRST SERVER LIMITED"
+  },
+  {
+    "ip": "84.54.44.58",
+    "country": "RU",
+    "asn": "AS48282",
+    "as_name": "Hosting technology LTD"
+  },
+  {
+    "ip": "85.193.91.193",
+    "country": "RU",
+    "asn": "AS9123",
+    "as_name": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "85.198.109.79",
+    "country": "RU",
+    "asn": "AS48282",
+    "as_name": "Hosting technology LTD"
+  },
+  {
+    "ip": "85.30.217.230",
+    "country": "RU",
+    "asn": "AS42610",
+    "as_name": "PJSC Rostelecom"
+  },
+  {
+    "ip": "87.228.13.130",
+    "country": "RU",
+    "asn": "AS49505",
+    "as_name": "JSC Selectel"
+  },
+  {
+    "ip": "87.228.25.176",
+    "country": "RU",
+    "asn": "AS49505",
+    "as_name": "JSC Selectel"
+  },
+  {
+    "ip": "87.228.3.217",
+    "country": "RU",
+    "asn": "AS49505",
+    "as_name": "JSC Selectel"
+  },
+  {
+    "ip": "89.110.89.229",
+    "country": "RU",
+    "asn": "AS48282",
+    "as_name": "Hosting technology LTD"
+  },
+  {
+    "ip": "89.111.172.106",
+    "country": "RU",
+    "asn": "AS197695",
+    "as_name": "\"Domain names registrar REG.RU\", Ltd"
+  },
+  {
+    "ip": "89.169.160.84",
+    "country": "RU",
+    "asn": "AS200350",
+    "as_name": "Yandex.Cloud LLC"
+  },
+  {
+    "ip": "89.223.31.216",
+    "country": "RU",
+    "asn": "AS49505",
+    "as_name": "JSC Selectel"
+  },
+  {
+    "ip": "89.23.113.215",
+    "country": "RU",
+    "asn": "AS207713",
+    "as_name": "GLOBAL INTERNET SOLUTIONS LLC"
+  },
+  {
+    "ip": "89.23.113.238",
+    "country": "RU",
+    "asn": "AS207713",
+    "as_name": "GLOBAL INTERNET SOLUTIONS LLC"
+  },
+  {
+    "ip": "89.248.207.37",
+    "country": "RU",
+    "asn": "AS49505",
+    "as_name": "JSC Selectel"
+  },
+  {
+    "ip": "90.156.211.232",
+    "country": "RU",
+    "asn": "AS9123",
+    "as_name": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "91.210.169.126",
+    "country": "RU",
+    "asn": "AS9123",
+    "as_name": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "91.219.227.106",
+    "country": "RU",
+    "asn": "AS47764",
+    "as_name": "LLC VK"
+  },
+  {
+    "ip": "92.241.18.106",
+    "country": "RU",
+    "asn": "AS58002",
+    "as_name": "JSC Svyazinform"
+  },
+  {
+    "ip": "92.38.152.30",
+    "country": "RU",
+    "asn": "AS210756",
+    "as_name": "EdgeCenter LLC"
+  },
+  {
+    "ip": "93.183.94.78",
+    "country": "RU",
+    "asn": "AS48282",
+    "as_name": "Hosting technology LTD"
+  },
+  {
+    "ip": "94.103.183.229",
+    "country": "RU",
+    "asn": "AS212913",
+    "as_name": "FOP Hornostay Mykhaylo Ivanovych"
+  },
+  {
+    "ip": "94.103.84.206",
+    "country": "RU",
+    "asn": "AS48282",
+    "as_name": "Hosting technology LTD"
+  },
+  {
+    "ip": "94.139.245.154",
+    "country": "RU",
+    "asn": "AS47764",
+    "as_name": "LLC VK"
+  },
+  {
+    "ip": "94.142.139.93",
+    "country": "RU",
+    "asn": "AS209641",
+    "as_name": "I-SERVERS LTD"
+  },
+  {
+    "ip": "94.228.120.157",
+    "country": "RU",
+    "asn": "AS9123",
+    "as_name": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "94.230.165.18",
+    "country": "RU",
+    "asn": "AS48670",
+    "as_name": "UNIS Ltd."
+  },
+  {
+    "ip": "94.242.53.158",
+    "country": "RU",
+    "asn": "AS43317",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "95.142.45.147",
+    "country": "RU",
+    "asn": "AS48282",
+    "as_name": "Hosting technology LTD"
+  },
+  {
+    "ip": "95.163.240.24",
+    "country": "RU",
+    "asn": "AS197695",
+    "as_name": "\"Domain names registrar REG.RU\", Ltd"
+  },
+  {
+    "ip": "95.163.242.122",
+    "country": "RU",
+    "asn": "AS197695",
+    "as_name": "\"Domain names registrar REG.RU\", Ltd"
+  },
+  {
+    "ip": "95.171.21.193",
+    "country": "RU",
+    "asn": "AS48822",
+    "as_name": "Universum bit Ltd."
+  },
+  {
+    "ip": "95.46.1.22",
+    "country": "RU",
+    "asn": "AS62366",
+    "as_name": "Stolica Telecom Ltd."
+  }
+]

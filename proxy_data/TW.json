@@ -1,0 +1,68 @@
+[
+  {
+    "ip": "103.106.230.186",
+    "country": "TW",
+    "asn": "AS136258",
+    "as_name": "BrainStorm Network, Inc"
+  },
+  {
+    "ip": "116.241.116.184",
+    "country": "TW",
+    "asn": "AS131596",
+    "as_name": "TBC"
+  },
+  {
+    "ip": "118.163.37.32",
+    "country": "TW",
+    "asn": "AS3462",
+    "as_name": "Data Communication Business Group"
+  },
+  {
+    "ip": "141.11.86.94",
+    "country": "TW",
+    "asn": "AS61112",
+    "as_name": "AkileCloud Network"
+  },
+  {
+    "ip": "167.179.27.92",
+    "country": "TW",
+    "asn": "AS11179",
+    "as_name": "Aryaka Networks, Inc."
+  },
+  {
+    "ip": "188.253.6.53",
+    "country": "TW",
+    "asn": "AS38136",
+    "as_name": "Akari Networks"
+  },
+  {
+    "ip": "210.61.97.241",
+    "country": "TW",
+    "asn": "AS3462",
+    "as_name": "Data Communication Business Group"
+  },
+  {
+    "ip": "220.130.80.171",
+    "country": "TW",
+    "asn": "AS3462",
+    "as_name": "Data Communication Business Group"
+  },
+  {
+    "ip": "220.135.202.250",
+    "country": "TW",
+    "asn": "AS3462",
+    "as_name": "Data Communication Business Group"
+  },
+  {
+    "ip": "60.249.114.181",
+    "country": "TW",
+    "asn": "AS3462",
+    "as_name": "Data Communication Business Group"
+  },
+  {
+    "ip": "61.63.235.53",
+    "country": "TW",
+    "asn": "AS9676",
+    "as_name": "SaveCom Internation Inc."
+  }
+]

@@ -147,3 +147,6 @@ proxy-validated-extracted_id3_20250812_222201-20250812_222237.txt
 proxy-validated-extracted_id3_20250812_222201-20250812_222527.txt
 extracted_proxy_20250813_014824.txt
 proxy-validated-extracted_proxy_20250813_014824-20250813_014856.txt
+__pycache__/proxy_validator_ipinfo.cpython-312.pyc
+proxy-validated-ipinfo-dirty-20250815_035637.txt
+dirty.txt

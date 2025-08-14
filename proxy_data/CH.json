@@ -1,0 +1,284 @@
+[
+  {
+    "ip": "176.10.125.114",
+    "country": "CH",
+    "asn": "AS51395",
+    "as_name": "Datasource AG"
+  },
+  {
+    "ip": "179.43.144.10",
+    "country": "CH",
+    "asn": "AS51852",
+    "as_name": "Private Layer INC"
+  },
+  {
+    "ip": "179.43.156.113",
+    "country": "CH",
+    "asn": "AS51852",
+    "as_name": "Private Layer INC"
+  },
+  {
+    "ip": "179.43.156.21",
+    "country": "CH",
+    "asn": "AS51852",
+    "as_name": "Private Layer INC"
+  },
+  {
+    "ip": "179.43.166.2",
+    "country": "CH",
+    "asn": "AS51852",
+    "as_name": "Private Layer INC"
+  },
+  {
+    "ip": "179.43.176.163",
+    "country": "CH",
+    "asn": "AS51852",
+    "as_name": "Private Layer INC"
+  },
+  {
+    "ip": "179.43.190.20",
+    "country": "CH",
+    "asn": "AS51852",
+    "as_name": "Private Layer INC"
+  },
+  {
+    "ip": "185.195.69.119",
+    "country": "CH",
+    "asn": "AS51395",
+    "as_name": "Datasource AG"
+  },
+  {
+    "ip": "185.195.69.200",
+    "country": "CH",
+    "asn": "AS51395",
+    "as_name": "Datasource AG"
+  },
+  {
+    "ip": "185.195.69.209",
+    "country": "CH",
+    "asn": "AS51395",
+    "as_name": "Datasource AG"
+  },
+  {
+    "ip": "194.135.22.181",
+    "country": "CH",
+    "asn": "AS215346",
+    "as_name": "Big Data Host LLC"
+  },
+  {
+    "ip": "194.87.18.92",
+    "country": "CH",
+    "asn": "AS26383",
+    "as_name": "Baxet Group Inc."
+  },
+  {
+    "ip": "194.87.97.6",
+    "country": "CH",
+    "asn": "AS215346",
+    "as_name": "Big Data Host LLC"
+  },
+  {
+    "ip": "38.180.15.197",
+    "country": "CH",
+    "asn": "AS51852",
+    "as_name": "Private Layer INC"
+  },
+  {
+    "ip": "38.180.15.45",
+    "country": "CH",
+    "asn": "AS51852",
+    "as_name": "Private Layer INC"
+  },
+  {
+    "ip": "38.180.161.11",
+    "country": "CH",
+    "asn": "AS51852",
+    "as_name": "Private Layer INC"
+  },
+  {
+    "ip": "38.180.84.46",
+    "country": "CH",
+    "asn": "AS51852",
+    "as_name": "Private Layer INC"
+  },
+  {
+    "ip": "38.180.85.203",
+    "country": "CH",
+    "asn": "AS51852",
+    "as_name": "Private Layer INC"
+  },
+  {
+    "ip": "45.85.93.121",
+    "country": "CH",
+    "asn": "AS199058",
+    "as_name": "SERVA ONE LTD"
+  },
+  {
+    "ip": "45.85.93.21",
+    "country": "CH",
+    "asn": "AS199058",
+    "as_name": "SERVA ONE LTD"
+  },
+  {
+    "ip": "45.85.93.243",
+    "country": "CH",
+    "asn": "AS199058",
+    "as_name": "SERVA ONE LTD"
+  },
+  {
+    "ip": "45.85.93.49",
+    "country": "CH",
+    "asn": "AS199058",
+    "as_name": "SERVA ONE LTD"
+  },
+  {
+    "ip": "45.85.93.59",
+    "country": "CH",
+    "asn": "AS199058",
+    "as_name": "SERVA ONE LTD"
+  },
+  {
+    "ip": "45.85.93.83",
+    "country": "CH",
+    "asn": "AS199058",
+    "as_name": "SERVA ONE LTD"
+  },
+  {
+    "ip": "45.85.93.96",
+    "country": "CH",
+    "asn": "AS199058",
+    "as_name": "SERVA ONE LTD"
+  },
+  {
+    "ip": "45.90.58.58",
+    "country": "CH",
+    "asn": "AS204957",
+    "as_name": "GREEN FLOID LLC"
+  },
+  {
+    "ip": "45.95.232.115",
+    "country": "CH",
+    "asn": "AS215540",
+    "as_name": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+  },
+  {
+    "ip": "45.95.232.18",
+    "country": "CH",
+    "asn": "AS215540",
+    "as_name": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+  },
+  {
+    "ip": "45.95.232.203",
+    "country": "CH",
+    "asn": "AS215540",
+    "as_name": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+  },
+  {
+    "ip": "45.95.232.209",
+    "country": "CH",
+    "asn": "AS215540",
+    "as_name": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+  },
+  {
+    "ip": "45.95.232.220",
+    "country": "CH",
+    "asn": "AS215540",
+    "as_name": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+  },
+  {
+    "ip": "45.95.232.232",
+    "country": "CH",
+    "asn": "AS215540",
+    "as_name": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+  },
+  {
+    "ip": "45.95.232.236",
+    "country": "CH",
+    "asn": "AS215540",
+    "as_name": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+  },
+  {
+    "ip": "45.95.232.243",
+    "country": "CH",
+    "asn": "AS215540",
+    "as_name": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+  },
+  {
+    "ip": "83.173.198.77",
+    "country": "CH",
+    "asn": "AS3303",
+    "as_name": "Swisscom (Switzerland) Ltd"
+  },
+  {
+    "ip": "91.192.102.170",
+    "country": "CH",
+    "asn": "AS51395",
+    "as_name": "Datasource AG"
+  },
+  {
+    "ip": "91.192.102.55",
+    "country": "CH",
+    "asn": "AS51395",
+    "as_name": "Datasource AG"
+  },
+  {
+    "ip": "91.192.102.92",
+    "country": "CH",
+    "asn": "AS51395",
+    "as_name": "Datasource AG"
+  },
+  {
+    "ip": "91.245.224.37",
+    "country": "CH",
+    "asn": "AS215346",
+    "as_name": "Big Data Host LLC"
+  },
+  {
+    "ip": "91.245.225.69",
+    "country": "CH",
+    "asn": "AS215346",
+    "as_name": "Big Data Host LLC"
+  },
+  {
+    "ip": "91.245.225.79",
+    "country": "CH",
+    "asn": "AS215346",
+    "as_name": "Big Data Host LLC"
+  },
+  {
+    "ip": "91.90.193.24",
+    "country": "CH",
+    "asn": "AS204957",
+    "as_name": "GREEN FLOID LLC"
+  },
+  {
+    "ip": "94.131.12.56",
+    "country": "CH",
+    "asn": "AS44477",
+    "as_name": "PQ HOSTING PLUS S.R.L."
+  },
+  {
+    "ip": "94.247.42.207",
+    "country": "CH",
+    "asn": "AS51395",
+    "as_name": "Datasource AG"
+  },
+  {
+    "ip": "95.183.51.10",
+    "country": "CH",
+    "asn": "AS197988",
+    "as_name": "Solar Communications GmbH"
+  },
+  {
+    "ip": "104.244.77.65",
+    "country": "CH",
+    "asn": "AS53667",
+    "as_name": "FranTech Solutions"
+  },
+  {
+    "ip": "107.189.8.158",
+    "country": "CH",
+    "asn": "AS53667",
+    "as_name": "FranTech Solutions"
+  }
+]

@@ -1,0 +1,674 @@
+[
+  {
+    "ip": "103.231.73.153",
+    "country": "LV",
+    "asn": "AS209847",
+    "as_name": "WorkTitans B.V"
+  },
+  {
+    "ip": "138.124.182.204",
+    "country": "LV",
+    "asn": "AS41745",
+    "as_name": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "178.248.75.36",
+    "country": "LV",
+    "asn": "AS199058",
+    "as_name": "SERVA ONE LTD"
+  },
+  {
+    "ip": "185.135.86.120",
+    "country": "LV",
+    "asn": "AS56630",
+    "as_name": "Melbikomas UAB"
+  },
+  {
+    "ip": "185.135.86.207",
+    "country": "LV",
+    "asn": "AS56630",
+    "as_name": "Melbikomas UAB"
+  },
+  {
+    "ip": "185.135.86.252",
+    "country": "LV",
+    "asn": "AS56630",
+    "as_name": "Melbikomas UAB"
+  },
+  {
+    "ip": "185.135.86.89",
+    "country": "LV",
+    "asn": "AS56630",
+    "as_name": "Melbikomas UAB"
+  },
+  {
+    "ip": "185.237.218.134",
+    "country": "LV",
+    "asn": "AS50979",
+    "as_name": "GREEN FLOID LLC"
+  },
+  {
+    "ip": "185.237.219.169",
+    "country": "LV",
+    "asn": "AS50979",
+    "as_name": "GREEN FLOID LLC"
+  },
+  {
+    "ip": "185.242.106.162",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "185.242.106.215",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "185.242.106.50",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "185.242.107.130",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "185.242.107.80",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "185.72.86.16",
+    "country": "LV",
+    "asn": "AS43513",
+    "as_name": "Sia Nano IT"
+  },
+  {
+    "ip": "185.8.60.108",
+    "country": "LV",
+    "asn": "AS58269",
+    "as_name": "CloudHosting SIA"
+  },
+  {
+    "ip": "185.8.60.113",
+    "country": "LV",
+    "asn": "AS58269",
+    "as_name": "CloudHosting SIA"
+  },
+  {
+    "ip": "188.253.16.238",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "188.253.18.111",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "192.144.39.33",
+    "country": "LV",
+    "asn": "AS59615",
+    "as_name": "SIA Serverum"
+  },
+  {
+    "ip": "193.124.22.168",
+    "country": "LV",
+    "asn": "AS26383",
+    "as_name": "Baxet Group Inc."
+  },
+  {
+    "ip": "193.124.22.20",
+    "country": "LV",
+    "asn": "AS26383",
+    "as_name": "Baxet Group Inc."
+  },
+  {
+    "ip": "195.123.211.204",
+    "country": "LV",
+    "asn": "AS50979",
+    "as_name": "GREEN FLOID LLC"
+  },
+  {
+    "ip": "195.123.212.222",
+    "country": "LV",
+    "asn": "AS50979",
+    "as_name": "GREEN FLOID LLC"
+  },
+  {
+    "ip": "195.123.212.237",
+    "country": "LV",
+    "asn": "AS50979",
+    "as_name": "GREEN FLOID LLC"
+  },
+  {
+    "ip": "195.123.212.250",
+    "country": "LV",
+    "asn": "AS50979",
+    "as_name": "GREEN FLOID LLC"
+  },
+  {
+    "ip": "195.135.252.139",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "195.135.252.148",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "195.135.252.244",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "195.135.252.27",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "195.135.252.35",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "195.135.252.36",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "195.135.253.29",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "195.135.253.47",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "195.135.254.166",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "195.135.255.199",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "195.20.208.151",
+    "country": "LV",
+    "asn": "AS50979",
+    "as_name": "GREEN FLOID LLC"
+  },
+  {
+    "ip": "212.6.44.92",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "216.173.68.7",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "216.173.69.115",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "216.173.70.192",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "216.173.70.80",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "216.173.71.106",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "216.173.71.171",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "216.173.71.220",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "216.173.71.246",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "31.128.33.253",
+    "country": "LV",
+    "asn": "AS9002",
+    "as_name": "RETN Limited"
+  },
+  {
+    "ip": "31.128.34.61",
+    "country": "LV",
+    "asn": "AS9002",
+    "as_name": "RETN Limited"
+  },
+  {
+    "ip": "31.128.34.77",
+    "country": "LV",
+    "asn": "AS9002",
+    "as_name": "RETN Limited"
+  },
+  {
+    "ip": "31.128.35.216",
+    "country": "LV",
+    "asn": "AS9002",
+    "as_name": "RETN Limited"
+  },
+  {
+    "ip": "37.128.204.140",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "37.128.204.20",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "37.128.204.34",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "37.128.204.4",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "37.128.205.186",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "37.128.206.80",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "37.128.207.111",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "37.128.207.179",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "37.128.207.235",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "45.133.216.186",
+    "country": "LV",
+    "asn": "AS209847",
+    "as_name": "WorkTitans B.V"
+  },
+  {
+    "ip": "45.142.215.217",
+    "country": "LV",
+    "asn": "AS209847",
+    "as_name": "WorkTitans B.V"
+  },
+  {
+    "ip": "46.32.184.115",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "46.32.184.137",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "46.32.184.247",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "46.32.184.64",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "46.32.184.75",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "46.32.185.253",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "46.32.186.234",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "46.32.186.61",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "46.32.187.228",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "5.34.208.100",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "5.34.208.154",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "5.34.208.235",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "5.34.208.44",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "5.34.209.105",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "5.34.209.139",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "5.34.209.174",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "5.34.209.18",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "5.34.209.203",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "5.34.209.219",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "5.34.209.231",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "5.34.210.151",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "5.34.211.194",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "5.34.211.29",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "5.34.211.87",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "5.34.211.94",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "5.34.212.179",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "5.34.215.32",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "62.192.174.170",
+    "country": "LV",
+    "asn": "AS199058",
+    "as_name": "SERVA ONE LTD"
+  },
+  {
+    "ip": "62.192.174.175",
+    "country": "LV",
+    "asn": "AS199058",
+    "as_name": "SERVA ONE LTD"
+  },
+  {
+    "ip": "62.192.174.228",
+    "country": "LV",
+    "asn": "AS199058",
+    "as_name": "SERVA ONE LTD"
+  },
+  {
+    "ip": "77.73.71.180",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "77.73.71.196",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "80.233.248.56",
+    "country": "LV",
+    "asn": "AS5518",
+    "as_name": "SIA Tet"
+  },
+  {
+    "ip": "85.159.228.11",
+    "country": "LV",
+    "asn": "AS215540",
+    "as_name": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+  },
+  {
+    "ip": "85.159.228.84",
+    "country": "LV",
+    "asn": "AS215540",
+    "as_name": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+  },
+  {
+    "ip": "89.36.161.27",
+    "country": "LV",
+    "asn": "AS56630",
+    "as_name": "Melbikomas UAB"
+  },
+  {
+    "ip": "91.197.0.117",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "91.197.0.206",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "91.197.0.63",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "91.197.1.113",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "91.197.1.93",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "91.197.2.42",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "91.197.3.157",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "91.197.3.168",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "91.197.3.252",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "91.197.3.61",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "91.218.142.38",
+    "country": "LV",
+    "asn": "AS9002",
+    "as_name": "RETN Limited"
+  },
+  {
+    "ip": "94.131.104.64",
+    "country": "LV",
+    "asn": "AS209847",
+    "as_name": "WorkTitans B.V"
+  },
+  {
+    "ip": "94.158.218.180",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "94.158.219.198",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  },
+  {
+    "ip": "94.158.219.211",
+    "country": "LV",
+    "asn": "AS42532",
+    "as_name": "SIA VEESP"
+  }
+]
