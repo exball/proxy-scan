@@ -37,29 +37,17 @@ Features:
 
 # API Configuration - Multiple Tokens Support
 API_TOKENS = [
-    "78b59887616e57",  # Token 1 - Primary token
-    "ea23036aa3f797",   # Token 2 - For testing (will fail but shows switching logic)
-    "2c18bfaab2f28c",  # Token 3 - Uncomment dan isi jika ada token ketiga
-    "c89402dd5554ac",  # Token 4 - Tambahkan lebih banyak sesuai kebutuhan
+    "78b59887616e57",
+    "ea23036aa3f797",
+    "2c18bfaab2f28c",
+    "c89402dd5554ac",
     "df780be2632088",
 ]
-
-# CARA MENAMBAH TOKEN:
-# 1. Uncomment baris token yang diinginkan
-# 2. Ganti "your_token_X" dengan token IPinfo.io yang valid
-# 3. Script akan otomatis menggunakan token berikutnya jika limit habis
-# 
-# CONTOH:
-# API_TOKENS = [
-#     "78b59887616e57",
-#     "abcd1234567890",
-#     "efgh0987654321",
-# ]
 
 API_URL = "https://ipinfo.io/batch"  # IPinfo.io batch API endpoint
 
 # Batch Processing Configuration
-BATCH_SIZE = 500  # Jumlah IP per batch (max: 1000 untuk IPinfo.io)
+BATCH_SIZE = 800  # Jumlah IP per batch (max: 1000 untuk IPinfo.io)
                   # Rekomendasi: 500 (optimal untuk stabilitas dan kecepatan)
                   # Semakin besar = lebih cepat, tapi lebih berisiko timeout
                   # Semakin kecil = lebih lambat, tapi lebih stabil
