@@ -39,8 +39,9 @@ Features:
 API_TOKENS = [
     "78b59887616e57",  # Token 1 - Primary token
     "ea23036aa3f797",   # Token 2 - For testing (will fail but shows switching logic)
-    # "your_token_3",  # Token 3 - Uncomment dan isi jika ada token ketiga
-    # "your_token_4",  # Token 4 - Tambahkan lebih banyak sesuai kebutuhan
+    "2c18bfaab2f28c",  # Token 3 - Uncomment dan isi jika ada token ketiga
+    "c89402dd5554ac",  # Token 4 - Tambahkan lebih banyak sesuai kebutuhan
+    "df780be2632088",
 ]
 
 # CARA MENAMBAH TOKEN:
