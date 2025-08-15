@@ -1,56 +1,33 @@
 [
   {
-    "ip": "3.249.49.224",
+    "ip": [
+      "3.249.49.224",
+      "34.253.234.62",
+      "52.19.178.111",
+      "52.213.11.150",
+      "54.229.164.147",
+      "54.246.42.63",
+      "63.32.194.15"
+    ],
     "country": "IE",
     "asn": "AS16509",
     "as_name": "Amazon.com, Inc."
   },
   {
-    "ip": "34.253.234.62",
-    "country": "IE",
-    "asn": "AS16509",
-    "as_name": "Amazon.com, Inc."
-  },
-  {
-    "ip": "38.180.21.33",
+    "ip": [
+      "38.180.21.33"
+    ],
     "country": "IE",
     "asn": "AS9009",
     "as_name": "M247 Europe SRL"
   },
   {
-    "ip": "40.113.60.248",
+    "ip": [
+      "40.113.60.248",
+      "40.113.60.248"
+    ],
     "country": "IE",
     "asn": "AS8075",
     "as_name": "Microsoft Corporation"
-  },
-  {
-    "ip": "52.19.178.111",
-    "country": "IE",
-    "asn": "AS16509",
-    "as_name": "Amazon.com, Inc."
-  },
-  {
-    "ip": "52.213.11.150",
-    "country": "IE",
-    "asn": "AS16509",
-    "as_name": "Amazon.com, Inc."
-  },
-  {
-    "ip": "54.229.164.147",
-    "country": "IE",
-    "asn": "AS16509",
-    "as_name": "Amazon.com, Inc."
-  },
-  {
-    "ip": "54.246.42.63",
-    "country": "IE",
-    "asn": "AS16509",
-    "as_name": "Amazon.com, Inc."
-  },
-  {
-    "ip": "63.32.194.15",
-    "country": "IE",
-    "asn": "AS16509",
-    "as_name": "Amazon.com, Inc."
   }
 ]

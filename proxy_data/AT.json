@@ -1,138 +1,30 @@
 [
   {
-    "ip": "94.177.8.10",
-    "country": "AT",
-    "asn": "AS40994",
-    "as_name": "Hohl IT e.U."
-  },
-  {
-    "ip": "94.177.8.11",
-    "country": "AT",
-    "asn": "AS40994",
-    "as_name": "Hohl IT e.U."
-  },
-  {
-    "ip": "94.177.8.19",
-    "country": "AT",
-    "asn": "AS40994",
-    "as_name": "Hohl IT e.U."
-  },
-  {
-    "ip": "94.177.8.2",
-    "country": "AT",
-    "asn": "AS40994",
-    "as_name": "Hohl IT e.U."
-  },
-  {
-    "ip": "94.177.8.21",
-    "country": "AT",
-    "asn": "AS40994",
-    "as_name": "Hohl IT e.U."
-  },
-  {
-    "ip": "94.177.8.23",
-    "country": "AT",
-    "asn": "AS40994",
-    "as_name": "Hohl IT e.U."
-  },
-  {
-    "ip": "94.177.8.26",
-    "country": "AT",
-    "asn": "AS40994",
-    "as_name": "Hohl IT e.U."
-  },
-  {
-    "ip": "94.177.8.3",
-    "country": "AT",
-    "asn": "AS40994",
-    "as_name": "Hohl IT e.U."
-  },
-  {
-    "ip": "94.177.8.31",
-    "country": "AT",
-    "asn": "AS40994",
-    "as_name": "Hohl IT e.U."
-  },
-  {
-    "ip": "94.177.8.34",
-    "country": "AT",
-    "asn": "AS40994",
-    "as_name": "Hohl IT e.U."
-  },
-  {
-    "ip": "94.177.8.4",
-    "country": "AT",
-    "asn": "AS40994",
-    "as_name": "Hohl IT e.U."
-  },
-  {
-    "ip": "94.177.8.40",
-    "country": "AT",
-    "asn": "AS40994",
-    "as_name": "Hohl IT e.U."
-  },
-  {
-    "ip": "94.177.8.43",
-    "country": "AT",
-    "asn": "AS40994",
-    "as_name": "Hohl IT e.U."
-  },
-  {
-    "ip": "94.177.8.48",
-    "country": "AT",
-    "asn": "AS40994",
-    "as_name": "Hohl IT e.U."
-  },
-  {
-    "ip": "94.177.8.5",
-    "country": "AT",
-    "asn": "AS40994",
-    "as_name": "Hohl IT e.U."
-  },
-  {
-    "ip": "94.177.8.50",
-    "country": "AT",
-    "asn": "AS40994",
-    "as_name": "Hohl IT e.U."
-  },
-  {
-    "ip": "94.177.8.51",
-    "country": "AT",
-    "asn": "AS40994",
-    "as_name": "Hohl IT e.U."
-  },
-  {
-    "ip": "94.177.8.54",
-    "country": "AT",
-    "asn": "AS40994",
-    "as_name": "Hohl IT e.U."
-  },
-  {
-    "ip": "94.177.8.6",
-    "country": "AT",
-    "asn": "AS40994",
-    "as_name": "Hohl IT e.U."
-  },
-  {
-    "ip": "94.177.8.60",
-    "country": "AT",
-    "asn": "AS40994",
-    "as_name": "Hohl IT e.U."
-  },
-  {
-    "ip": "94.177.8.62",
-    "country": "AT",
-    "asn": "AS40994",
-    "as_name": "Hohl IT e.U."
-  },
-  {
-    "ip": "94.177.8.8",
-    "country": "AT",
-    "asn": "AS40994",
-    "as_name": "Hohl IT e.U."
-  },
-  {
-    "ip": "94.177.8.9",
+    "ip": [
+      "94.177.8.10",
+      "94.177.8.11",
+      "94.177.8.19",
+      "94.177.8.2",
+      "94.177.8.21",
+      "94.177.8.23",
+      "94.177.8.26",
+      "94.177.8.3",
+      "94.177.8.31",
+      "94.177.8.34",
+      "94.177.8.4",
+      "94.177.8.40",
+      "94.177.8.43",
+      "94.177.8.48",
+      "94.177.8.5",
+      "94.177.8.50",
+      "94.177.8.51",
+      "94.177.8.54",
+      "94.177.8.6",
+      "94.177.8.60",
+      "94.177.8.62",
+      "94.177.8.8",
+      "94.177.8.9"
+    ],
     "country": "AT",
     "asn": "AS40994",
     "as_name": "Hohl IT e.U."

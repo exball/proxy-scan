@@ -1,18 +1,17 @@
 [
   {
-    "ip": "103.113.69.46",
+    "ip": [
+      "103.113.69.46"
+    ],
     "country": "LT",
     "asn": "AS44477",
     "as_name": "PQ HOSTING PLUS S.R.L."
   },
   {
-    "ip": "195.238.126.52",
-    "country": "LT",
-    "asn": "AS56630",
-    "as_name": "Melbikomas UAB"
-  },
-  {
-    "ip": "195.238.126.94",
+    "ip": [
+      "195.238.126.52",
+      "195.238.126.94"
+    ],
     "country": "LT",
     "asn": "AS56630",
     "as_name": "Melbikomas UAB"

@@ -1,92 +1,69 @@
 [
   {
-    "ip": "129.152.2.127",
+    "ip": [
+      "129.152.2.127",
+      "158.180.233.125"
+    ],
     "country": "IT",
     "asn": "AS31898",
     "as_name": "Oracle Corporation"
   },
   {
-    "ip": "158.180.233.125",
-    "country": "IT",
-    "asn": "AS31898",
-    "as_name": "Oracle Corporation"
-  },
-  {
-    "ip": "185.247.184.186",
+    "ip": [
+      "185.247.184.186",
+      "185.247.184.186"
+    ],
     "country": "IT",
     "asn": "AS215540",
     "as_name": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
-    "ip": "185.47.172.172",
+    "ip": [
+      "185.47.172.172"
+    ],
     "country": "IT",
     "asn": "AS36007",
     "as_name": "Kamatera, Inc."
   },
   {
-    "ip": "188.213.168.52",
+    "ip": [
+      "188.213.168.52",
+      "212.237.30.220",
+      "77.81.234.27",
+      "77.81.234.27",
+      "80.211.22.60",
+      "80.211.231.169",
+      "80.211.55.235",
+      "85.235.151.34",
+      "94.177.199.119",
+      "94.177.199.119"
+    ],
     "country": "IT",
     "asn": "AS31034",
     "as_name": "Aruba S.p.A."
   },
   {
-    "ip": "212.237.30.220",
-    "country": "IT",
-    "asn": "AS31034",
-    "as_name": "Aruba S.p.A."
-  },
-  {
-    "ip": "38.180.22.20",
+    "ip": [
+      "38.180.22.20"
+    ],
     "country": "IT",
     "asn": "AS9009",
     "as_name": "M247 Europe SRL"
   },
   {
-    "ip": "77.81.234.27",
-    "country": "IT",
-    "asn": "AS31034",
-    "as_name": "Aruba S.p.A."
-  },
-  {
-    "ip": "80.211.22.60",
-    "country": "IT",
-    "asn": "AS31034",
-    "as_name": "Aruba S.p.A."
-  },
-  {
-    "ip": "80.211.231.169",
-    "country": "IT",
-    "asn": "AS31034",
-    "as_name": "Aruba S.p.A."
-  },
-  {
-    "ip": "80.211.55.235",
-    "country": "IT",
-    "asn": "AS31034",
-    "as_name": "Aruba S.p.A."
-  },
-  {
-    "ip": "85.235.151.34",
-    "country": "IT",
-    "asn": "AS31034",
-    "as_name": "Aruba S.p.A."
-  },
-  {
-    "ip": "87.120.237.36",
+    "ip": [
+      "87.120.237.36"
+    ],
     "country": "IT",
     "asn": "AS202422",
     "as_name": "G-Core Labs S.A."
   },
   {
-    "ip": "91.201.67.6",
+    "ip": [
+      "91.201.67.6"
+    ],
     "country": "IT",
     "asn": "AS56630",
     "as_name": "Melbikomas UAB"
-  },
-  {
-    "ip": "94.177.199.119",
-    "country": "IT",
-    "asn": "AS31034",
-    "as_name": "Aruba S.p.A."
   }
 ]

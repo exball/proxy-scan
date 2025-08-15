@@ -1,48 +1,32 @@
 [
   {
-    "ip": "194.156.103.31",
+    "ip": [
+      "194.156.103.31",
+      "194.156.103.58"
+    ],
     "country": "AM",
     "asn": "AS215540",
     "as_name": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
-    "ip": "194.156.103.58",
-    "country": "AM",
-    "asn": "AS215540",
-    "as_name": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
-    "ip": "2.56.204.183",
-    "country": "AM",
-    "asn": "AS216058",
-    "as_name": "Proitlab LLC"
-  },
-  {
-    "ip": "2.56.205.182",
+    "ip": [
+      "2.56.204.183",
+      "2.56.205.182",
+      "2.56.205.182",
+      "2.56.206.114",
+      "2.56.206.114",
+      "2.56.206.64"
+    ],
     "country": "AM",
     "asn": "AS216058",
     "as_name": "Proitlab LLC"
   },
   {
-    "ip": "2.56.206.114",
-    "country": "AM",
-    "asn": "AS216058",
-    "as_name": "Proitlab LLC"
-  },
-  {
-    "ip": "2.56.206.64",
-    "country": "AM",
-    "asn": "AS216058",
-    "as_name": "Proitlab LLC"
-  },
-  {
-    "ip": "213.159.76.175",
-    "country": "AM",
-    "asn": "AS44477",
-    "as_name": "PQ HOSTING PLUS S.R.L."
-  },
-  {
-    "ip": "213.159.76.202",
+    "ip": [
+      "213.159.76.175",
+      "213.159.76.202",
+      "213.159.76.202"
+    ],
     "country": "AM",
     "asn": "AS44477",
     "as_name": "PQ HOSTING PLUS S.R.L."

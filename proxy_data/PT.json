@@ -1,12 +1,9 @@
 [
   {
-    "ip": "45.159.251.8",
-    "country": "PT",
-    "asn": "AS209847",
-    "as_name": "WorkTitans B.V"
-  },
-  {
-    "ip": "45.83.142.46",
+    "ip": [
+      "45.159.251.8",
+      "45.83.142.46"
+    ],
     "country": "PT",
     "asn": "AS209847",
     "as_name": "WorkTitans B.V"

@@ -1,6 +1,8 @@
 [
   {
-    "ip": "38.60.193.247",
+    "ip": [
+      "38.60.193.247"
+    ],
     "country": "MY",
     "asn": "AS138915",
     "as_name": "Kaopu Cloud HK Limited"

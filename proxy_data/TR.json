@@ -1,230 +1,130 @@
 [
   {
-    "ip": "103.231.75.238",
+    "ip": [
+      "103.231.75.238",
+      "185.153.182.58",
+      "185.153.182.58",
+      "185.234.66.91",
+      "195.16.74.240",
+      "2.56.127.220",
+      "2.56.127.220",
+      "45.89.52.247",
+      "62.3.12.185",
+      "62.3.12.76",
+      "94.131.123.44",
+      "94.131.123.74",
+      "95.164.116.218"
+    ],
     "country": "TR",
     "asn": "AS44477",
     "as_name": "PQ HOSTING PLUS S.R.L."
   },
   {
-    "ip": "104.239.87.213",
+    "ip": [
+      "104.239.87.213",
+      "104.239.87.213",
+      "194.87.39.166",
+      "194.87.39.166"
+    ],
     "country": "TR",
     "asn": "AS26383",
     "as_name": "Baxet Group Inc."
   },
   {
-    "ip": "176.223.66.5",
+    "ip": [
+      "176.223.66.5",
+      "77.83.203.104",
+      "77.83.203.110",
+      "77.83.203.163"
+    ],
     "country": "TR",
     "asn": "AS207483",
     "as_name": "Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti."
   },
   {
-    "ip": "185.153.182.58",
-    "country": "TR",
-    "asn": "AS44477",
-    "as_name": "PQ HOSTING PLUS S.R.L."
-  },
-  {
-    "ip": "185.181.210.92",
+    "ip": [
+      "185.181.210.92",
+      "185.181.210.92",
+      "185.219.134.25"
+    ],
     "country": "TR",
     "asn": "AS205399",
     "as_name": "Hostigger INC."
   },
   {
-    "ip": "185.219.134.25",
-    "country": "TR",
-    "asn": "AS205399",
-    "as_name": "Hostigger INC."
-  },
-  {
-    "ip": "185.234.66.91",
-    "country": "TR",
-    "asn": "AS44477",
-    "as_name": "PQ HOSTING PLUS S.R.L."
-  },
-  {
-    "ip": "185.39.204.55",
+    "ip": [
+      "185.39.204.55",
+      "62.133.63.149",
+      "62.133.63.86",
+      "83.217.9.110",
+      "83.217.9.216",
+      "83.217.9.216"
+    ],
     "country": "TR",
     "asn": "AS215540",
     "as_name": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
-    "ip": "185.8.129.187",
+    "ip": [
+      "185.8.129.187",
+      "185.8.129.187",
+      "185.8.129.187",
+      "185.8.129.187"
+    ],
     "country": "TR",
     "asn": "AS3188",
     "as_name": "Alastyr Telekomunikasyon A.S."
   },
   {
-    "ip": "188.132.129.199",
+    "ip": [
+      "188.132.129.199",
+      "188.132.129.199",
+      "188.132.129.2",
+      "188.132.129.2",
+      "188.132.129.84",
+      "188.132.129.84",
+      "188.132.183.166",
+      "188.132.184.15"
+    ],
     "country": "TR",
     "asn": "AS214036",
     "as_name": "Ultahost, Inc."
   },
   {
-    "ip": "188.132.129.2",
-    "country": "TR",
-    "asn": "AS214036",
-    "as_name": "Ultahost, Inc."
-  },
-  {
-    "ip": "188.132.129.84",
-    "country": "TR",
-    "asn": "AS214036",
-    "as_name": "Ultahost, Inc."
-  },
-  {
-    "ip": "188.132.183.166",
-    "country": "TR",
-    "asn": "AS214036",
-    "as_name": "Ultahost, Inc."
-  },
-  {
-    "ip": "188.132.184.15",
-    "country": "TR",
-    "asn": "AS214036",
-    "as_name": "Ultahost, Inc."
-  },
-  {
-    "ip": "188.132.192.133",
+    "ip": [
+      "188.132.192.133",
+      "188.132.192.190",
+      "188.132.192.194",
+      "188.132.192.194",
+      "188.132.192.195"
+    ],
     "country": "TR",
     "asn": "AS201575",
     "as_name": "TradeZone LLC"
   },
   {
-    "ip": "188.132.192.190",
-    "country": "TR",
-    "asn": "AS201575",
-    "as_name": "TradeZone LLC"
-  },
-  {
-    "ip": "188.132.192.194",
-    "country": "TR",
-    "asn": "AS201575",
-    "as_name": "TradeZone LLC"
-  },
-  {
-    "ip": "188.132.192.195",
-    "country": "TR",
-    "asn": "AS201575",
-    "as_name": "TradeZone LLC"
-  },
-  {
-    "ip": "194.87.39.166",
-    "country": "TR",
-    "asn": "AS26383",
-    "as_name": "Baxet Group Inc."
-  },
-  {
-    "ip": "195.16.74.240",
-    "country": "TR",
-    "asn": "AS44477",
-    "as_name": "PQ HOSTING PLUS S.R.L."
-  },
-  {
-    "ip": "2.56.127.220",
-    "country": "TR",
-    "asn": "AS44477",
-    "as_name": "PQ HOSTING PLUS S.R.L."
-  },
-  {
-    "ip": "216.9.224.105",
+    "ip": [
+      "216.9.224.105"
+    ],
     "country": "TR",
     "asn": "AS44382",
     "as_name": "Fiba Cloud Operation Company, LLC"
   },
   {
-    "ip": "38.180.105.164",
+    "ip": [
+      "38.180.105.164",
+      "38.180.105.201"
+    ],
     "country": "TR",
     "asn": "AS58061",
     "as_name": "Scalaxy B.V."
   },
   {
-    "ip": "38.180.105.201",
-    "country": "TR",
-    "asn": "AS58061",
-    "as_name": "Scalaxy B.V."
-  },
-  {
-    "ip": "45.89.52.247",
-    "country": "TR",
-    "asn": "AS44477",
-    "as_name": "PQ HOSTING PLUS S.R.L."
-  },
-  {
-    "ip": "62.133.63.149",
-    "country": "TR",
-    "asn": "AS215540",
-    "as_name": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
-    "ip": "62.133.63.86",
-    "country": "TR",
-    "asn": "AS215540",
-    "as_name": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
-    "ip": "62.3.12.185",
-    "country": "TR",
-    "asn": "AS44477",
-    "as_name": "PQ HOSTING PLUS S.R.L."
-  },
-  {
-    "ip": "62.3.12.76",
-    "country": "TR",
-    "asn": "AS44477",
-    "as_name": "PQ HOSTING PLUS S.R.L."
-  },
-  {
-    "ip": "77.83.203.104",
-    "country": "TR",
-    "asn": "AS207483",
-    "as_name": "Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti."
-  },
-  {
-    "ip": "77.83.203.110",
-    "country": "TR",
-    "asn": "AS207483",
-    "as_name": "Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti."
-  },
-  {
-    "ip": "77.83.203.163",
-    "country": "TR",
-    "asn": "AS207483",
-    "as_name": "Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti."
-  },
-  {
-    "ip": "83.217.9.110",
-    "country": "TR",
-    "asn": "AS215540",
-    "as_name": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
-    "ip": "83.217.9.216",
-    "country": "TR",
-    "asn": "AS215540",
-    "as_name": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
-    "ip": "89.207.12.80",
+    "ip": [
+      "89.207.12.80"
+    ],
     "country": "TR",
     "asn": "AS201863",
     "as_name": "Star of Bosphorus Bilgi Teknolojiler San ve Tic A.S."
-  },
-  {
-    "ip": "94.131.123.44",
-    "country": "TR",
-    "asn": "AS44477",
-    "as_name": "PQ HOSTING PLUS S.R.L."
-  },
-  {
-    "ip": "94.131.123.74",
-    "country": "TR",
-    "asn": "AS44477",
-    "as_name": "PQ HOSTING PLUS S.R.L."
-  },
-  {
-    "ip": "95.164.116.218",
-    "country": "TR",
-    "asn": "AS44477",
-    "as_name": "PQ HOSTING PLUS S.R.L."
   }
 ]

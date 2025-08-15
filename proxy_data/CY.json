@@ -1,12 +1,9 @@
 [
   {
-    "ip": "185.106.103.168",
-    "country": "CY",
-    "asn": "AS197648",
-    "as_name": "CLOUDLAYER8 LIMITED"
-  },
-  {
-    "ip": "91.223.208.217",
+    "ip": [
+      "185.106.103.168",
+      "91.223.208.217"
+    ],
     "country": "CY",
     "asn": "AS197648",
     "as_name": "CLOUDLAYER8 LIMITED"
