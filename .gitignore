@@ -156,3 +156,8 @@ proxy-tested.txt
 .vscode/extensions.json
 proxy-validated-ipinfo-dirty-20250815_181312.txt
 proxy-validated-ipinfo-dirty-20250815_180858.txt
+strip_proxy_tested.py
+proxy-validated-ipinfo-extracted_proxy_20250816_025944-20250816_030030.txt
+proxy-tested-stripped.txt
+extracted_proxy_20250816_025944.txt
+extracted_proxy_20250816_005750.txt
