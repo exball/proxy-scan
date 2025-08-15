@@ -76,7 +76,7 @@ BACKOFF_JITTER = 5    # Random jitter maksimal (detik)
                       # Retry 3: ~31-35 detik
 
 # Rate Limiting Configuration
-RATE_LIMIT_MONTHLY = 50000  # Limit bulanan untuk free plan IPinfo.io
+RATE_LIMIT_MONTHLY = 100000  # Limit bulanan untuk free plan IPinfo.io
 RATE_LIMIT_JITTER = 2       # Random jitter untuk delay antar batch (detik)
 
 # Token Management Configuration
@@ -849,76 +849,64 @@ class ProxyValidatorIPinfo:
         return all_validated
     
     def save_proxy_data_by_country(self, validated_proxies: List[Dict]):
-        """Save proxy data by country in JSON format"""
+        """Save proxy data by country in JSON format, grouped by identical data except IP."""
         if not self.save_proxy_data:
             return
-            
-        self.log("Menyimpan data proxy berdasarkan negara...")
-        
+
+        self.log("Menyimpan data proxy berdasarkan negara (grouping)...")
+
         # Create proxy_data directory if it doesn't exist
         if not os.path.exists(self.proxy_data_dir):
             os.makedirs(self.proxy_data_dir)
             self.log(f"Direktori {self.proxy_data_dir}/ dibuat")
-        
-        # Group proxies by country
+
+        # Group proxies by country, then by (country, asn, as_name)
         country_data = {}
         for proxy in validated_proxies:
             if 'api_data' in proxy:
+                api = proxy['api_data']
                 country_code = proxy['country_code']
+                asn = api.get('asn', 'Unknown ASN')
+                as_name = api.get('as_name', 'Unknown AS Name')
+                # Key: (asn, as_name)
+                group_key = (asn, as_name)
                 if country_code not in country_data:
-                    country_data[country_code] = []
-                
-                # Add the API data to country group
-                country_data[country_code].append(proxy['api_data'])
-        
-        # Save each country's data to separate JSON files
+                    country_data[country_code] = {}
+                if group_key not in country_data[country_code]:
+                    country_data[country_code][group_key] = []
+                country_data[country_code][group_key].append(api.get('ip'))
+
         saved_countries = 0
         total_proxies_saved = 0
-        
-        for country_code, proxies_data in country_data.items():
+
+        for country_code, group_dict in country_data.items():
             if country_code == 'UNKNOWN':
                 filename = f"{self.proxy_data_dir}/UNKNOWN.json"
             else:
                 filename = f"{self.proxy_data_dir}/{country_code}.json"
-            
+
+            # Build grouped data list
+            grouped_list = []
+            for (asn, as_name), ip_list in group_dict.items():
+                grouped_list.append({
+                    "ip": ip_list,
+                    "country": country_code,
+                    "asn": asn,
+                    "as_name": as_name
+                })
+                total_proxies_saved += len(ip_list)
+
             try:
-                # Load existing data if file exists
-                existing_data = []
-                if os.path.exists(filename):
-                    try:
-                        with open(filename, 'r', encoding='utf-8') as f:
-                            existing_data = json.load(f)
-                    except:
-                        existing_data = []
-                
-                # Add new data to existing data
-                all_data = existing_data + proxies_data
-                
-                # Remove duplicates based on IP
-                seen_ips = set()
-                unique_data = []
-                for item in all_data:
-                    ip = item.get('ip')
-                    if ip and ip not in seen_ips:
-                        seen_ips.add(ip)
-                        unique_data.append(item)
-                
-                # Save the data
                 with open(filename, 'w', encoding='utf-8') as f:
-                    json.dump(unique_data, f, indent=2, ensure_ascii=False)
-                
+                    json.dump(grouped_list, f, indent=2, ensure_ascii=False)
                 saved_countries += 1
-                new_proxies_count = len(proxies_data)
-                total_proxies_saved += new_proxies_count
-                
-                self.log(f"  - {country_code}: {new_proxies_count} proxy disimpan ke {filename}")
-                    
+                self.log(f"  - {country_code}: {len(grouped_list)} grup, {sum(len(g['ip']) for g in grouped_list)} IP disimpan ke {filename}")
             except Exception as e:
                 self.log(f"Error menyimpan data untuk negara {country_code}: {e}")
-        
+
         self.log(f"Data proxy berhasil disimpan:")
         self.log(f"  - {saved_countries} file negara")
-        self.log(f"  - {total_proxies_saved} proxy ditambahkan")
+        self.log(f"  - {total_proxies_saved} IP ditambahkan (grouped)")
         self.log(f"  - Lokasi: {self.proxy_data_dir}/")
     
     def save_results(self, validated_proxies: List[Dict]):
