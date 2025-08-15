@@ -342,15 +342,18 @@ class ProxyValidatorIPinfo:
         print("dengan file terpisah untuk setiap negara.")
         print()
         print("Contoh format data yang akan disimpan:")
-        print('''{
-    "query": "129.151.128.105",
-    "country": "United Arab Emirates", 
-    "countryCode": "AE",
-    "isp": "Oracle Corporation",
-    "org": "Oracle Corporation",
-    "as": "AS31898 Oracle Corporation",
-    "asname": "ORACLE-BMC-31898"
-}''')
+        print('''[
+            {
+                "ip": [
+                    "45.196.29.0",
+                    "45.196.29.1",
+                    "45.196.29.2"
+                ],
+                "country": "ID",
+                "asn": "AS13335",
+                "as_name": "Cloudflare, Inc."
+            }
+        ]''')
         print("="*60)
         
         while True:
