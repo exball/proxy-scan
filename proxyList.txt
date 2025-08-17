@@ -1,15 +1,14 @@
 47.250.139.59,443,MY,Alibaba Cloud LLC
-47.250.153.156,443,MY,Alibaba Cloud LLC
 155.254.60.225,443,MY,Evoxt Enterprise
 23.27.200.223,443,MY,Evoxt.com
 45.194.27.74,17874,MY,Evoxt Enterprise
 23.27.53.119,35209,MY,Evoxt.com
 38.60.193.247,13300,MY,Kaopu Cloud HK Limited
 38.54.98.54,31842,MY,Kaopu Cloud HK Limited
-20.17.107.137,443,MY,Microsoft Corporation
 20.17.104.31,443,MY,Microsoft Corporation
-111.90.147.240,74,MY,Unknown
+20.17.107.137,443,MY,Microsoft Corporation
 111.90.147.240,386,MY,Unknown
+111.90.147.240,74,MY,Unknown
 111.90.147.240,443,MY,Unknown
 111.90.147.240,12306,MY,Unknown
 111.90.147.240,20205,MY,Unknown
