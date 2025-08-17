@@ -42,6 +42,7 @@ API_TOKENS = [
     "2c18bfaab2f28c",
     "c89402dd5554ac",
     "df780be2632088",
+    "878e3e53210405",
 ]
 
 API_URL = "https://ipinfo.io/batch"  # IPinfo.io batch API endpoint
@@ -76,7 +77,7 @@ BACKOFF_JITTER = 5    # Random jitter maksimal (detik)
                       # Retry 3: ~31-35 detik
 
 # Rate Limiting Configuration
-RATE_LIMIT_MONTHLY = 100000  # Limit bulanan untuk free plan IPinfo.io
+RATE_LIMIT_MONTHLY = 300000  # Limit bulanan untuk free plan IPinfo.io
 RATE_LIMIT_JITTER = 2       # Random jitter untuk delay antar batch (detik)
 
 # Token Management Configuration
@@ -209,15 +210,20 @@ class ProxyValidatorIPinfo:
         best_remaining = -1
         
         for i, token in enumerate(self.API_TOKENS):
-            # Check current limit for this token
-            remaining = self.check_token_limit(token)
-            
+            # Use cached remaining limit if available to avoid unnecessary network calls
+            if self.token_limits.get(i) is not None:
+                remaining = self.token_limits[i]
+            else:
+                # Check current limit for this token via API
+                remaining = self.check_token_limit(token)
+
             if remaining is not None:
+                # Cache the fetched remaining value
                 self.token_limits[i] = remaining
                 available_requests = remaining - self.SAFETY_BUFFER
-                
+
                 self.log(f"Token {i+1}: {remaining:,} remaining, {available_requests:,} available (after buffer)")
-                
+
                 # Check if this token can handle the needed requests
                 if available_requests >= needed_requests:
                     if remaining > best_remaining:
@@ -619,6 +625,68 @@ class ProxyValidatorIPinfo:
         """Save validation progress"""
         with open(self.progress_file, 'w') as f:
             json.dump(progress, f, indent=2)
+
+    def reset_token_usage(self):
+        """Reset token usage counters to zero for all configured tokens."""
+        for k in list(self.token_usage.keys()):
+            self.token_usage[k] = 0
+        # Also set token_limits cache to the known RATE_LIMIT so the script
+        # treats tokens as available until we explicitly re-check with the API.
+        # This allows a user reset to take effect locally without requiring
+        # immediate network requests to refresh headers.
+        for k in list(self.token_limits.keys()):
+            self.token_limits[k] = self.RATE_LIMIT
+        # Reset current token index to start from the first token
+        self.current_token_index = 0
+        self.current_token = self.API_TOKENS[0] if self.API_TOKENS else None
+        self.log("Token usage counters telah di-reset ke 0 untuk semua token")
+
+    def ask_reset_token_usage_option(self):
+        """Ask user whether to reset token usage counters before running."""
+        try:
+            choice = input("Reset token usage counters sebelum mulai? (y/n): ").strip().lower()
+            if choice in ('y', 'yes', 'ya'):
+                self.reset_token_usage()
+            else:
+                self.log("Token usage counters: tidak di-reset")
+        except KeyboardInterrupt:
+            self.log("\nProses dibatalkan oleh user")
+            sys.exit(0)
+
+    def ask_select_token_option(self):
+        """Allow user to select which API token to use or enable auto-switching."""
+        try:
+            # Show available tokens (masked)
+            print("\nAvailable API tokens:")
+            for i, t in enumerate(self.API_TOKENS, 1):
+                used = self.token_usage.get(i-1, 0)
+                remaining = self.token_limits.get(i-1, 'Unknown')
+                print(f"  {i}. Token {i} (...{t[-8:]}): used={used}, remaining={remaining}")
+
+            print("\nPilihan token:\n  a = Auto switch tokens (default)\n  1..N = Gunakan token tertentu (non-auto)")
+            while True:
+                choice = input("Pilih token atau 'a' untuk auto: ").strip().lower()
+                if choice == '' or choice == 'a' or choice == 'auto':
+                    # Keep or enable auto-switching
+                    self.AUTO_SWITCH_TOKENS = True
+                    self.log("Mode token: Auto-switch ENABLED")
+                    break
+                else:
+                    try:
+                        num = int(choice)
+                        if 1 <= num <= len(self.API_TOKENS):
+                            # Use selected token and disable auto-switch
+                            self.AUTO_SWITCH_TOKENS = False
+                            self.switch_token(num - 1)
+                            self.log(f"Mode token: Menggunakan Token {num} secara manual")
+                            break
+                        else:
+                            print(f"Masukkan angka antara 1 dan {len(self.API_TOKENS)} atau 'a'")
+                    except ValueError:
+                        print("Masukkan 'a' atau nomor token yang valid")
+        except KeyboardInterrupt:
+            self.log("\nProses dibatalkan oleh user")
+            sys.exit(0)
     
     def validate_batch(self, batch_num: int) -> List[Dict]:
         """Validate single batch using IPinfo.io API"""
@@ -1025,6 +1093,10 @@ class ProxyValidatorIPinfo:
             self.log("Features: File selection, flexible parsing, data enrichment/correction")
             self.log(f"Using IPinfo.io API with batch processing up to {self.BATCH_SIZE} IPs per request")
             self.display_configuration()
+            # Offer to reset token usage counters before starting
+            self.ask_reset_token_usage_option()
+            # Allow user to select token mode (auto-switch or specific token)
+            self.ask_select_token_option()
             
             # Step 1: File selection
             txt_files = self.scan_txt_files()
