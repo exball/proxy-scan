@@ -77,16 +77,7 @@ BACKOFF_JITTER = 5    # Random jitter maksimal (detik)
                       # Retry 2: ~21-25 detik  
                       # Retry 3: ~31-35 detik
 
-# Rate Limiting Configuration
-RATE_LIMIT_MONTHLY = 300000  # Limit bulanan untuk free plan IPinfo.io
-RATE_LIMIT_JITTER = 2       # Random jitter untuk delay antar batch (detik)
 
-# Token Management Configuration
-AUTO_SWITCH_TOKENS = True   # Otomatis ganti token jika limit tidak cukup
-SAFETY_BUFFER = 100         # Buffer minimum requests yang disisakan per token
-                           # Contoh: Jika sisa limit 150 dan butuh 200 requests,
-                           # script akan switch ke token berikutnya untuk menjaga
-                           # buffer 100 requests di token pertama
 
 # Directory Configuration
 TEMP_DIR = "temp_batches_ipinfo"        # Direktori untuk file batch sementara
@@ -115,16 +106,12 @@ class ProxyValidatorIPinfo:
         self.current_token_index = 0
         self.current_token = self.API_TOKENS[0] if self.API_TOKENS else None
         self.API_URL = API_URL
-        self.AUTO_SWITCH_TOKENS = AUTO_SWITCH_TOKENS
-        self.SAFETY_BUFFER = SAFETY_BUFFER
         self.BATCH_SIZE = BATCH_SIZE
-        self.RATE_LIMIT = RATE_LIMIT_MONTHLY
         self.REQUEST_DELAY = REQUEST_DELAY
         self.TIMEOUT_SECONDS = TIMEOUT_SECONDS
         self.MAX_RETRIES = MAX_RETRIES
         self.BACKOFF_BASE = BACKOFF_BASE
         self.BACKOFF_JITTER = BACKOFF_JITTER
-        self.RATE_LIMIT_JITTER = RATE_LIMIT_JITTER
         
         # File and directory settings
         self.input_file = None  # Will be selected by user
@@ -134,12 +121,9 @@ class ProxyValidatorIPinfo:
         self.proxy_data_dir = PROXY_DATA_DIR
         self.save_proxy_data = False  # Option to save proxy data by country
         
-        # Token usage tracking
-        self.token_usage = {}  # Track usage per token
-        self.token_limits = {}  # Track remaining limits per token
-        for i, token in enumerate(self.API_TOKENS):
-            self.token_usage[i] = 0
-            self.token_limits[i] = None  # Will be fetched from API
+    # Token selection (manual only)
+    # self.current_token_index = 0
+    # self.current_token = self.API_TOKENS[0] if self.API_TOKENS else None
         
         self.stats = {
             'total_lines': 0,
@@ -163,88 +147,15 @@ class ProxyValidatorIPinfo:
         self.log("Current Configuration:")
         self.log("="*50)
         self.log(f"API Tokens: {len(self.API_TOKENS)} token(s) configured")
-        self.log(f"Auto Token Switch: {'Enabled' if self.AUTO_SWITCH_TOKENS else 'Disabled'}")
-        self.log(f"Safety Buffer: {self.SAFETY_BUFFER} requests per token")
         self.log(f"Batch Size: {self.BATCH_SIZE} IPs per batch")
         self.log(f"Max Retries: {self.MAX_RETRIES} attempts per failed batch")
         self.log(f"Request Delay: {self.REQUEST_DELAY}s between batches")
         self.log(f"Timeout: {self.TIMEOUT_SECONDS}s per API request")
         self.log(f"Backoff Base: {self.BACKOFF_BASE}s (retry timing)")
         self.log(f"Backoff Jitter: ±{self.BACKOFF_JITTER}s (random variation)")
-        self.log(f"Rate Limit Jitter: ±{self.RATE_LIMIT_JITTER}s (batch delay variation)")
-        self.log(f"Monthly Rate Limit: {self.RATE_LIMIT:,} requests per token")
+        # No more rate limit logic
         self.log("="*50)
     
-    def check_token_limit(self, token: str) -> Optional[int]:
-        """Check remaining requests for a token"""
-        try:
-            # Use a simple request to check limits
-            response = requests.get(f"https://ipinfo.io/8.8.8.8?token={token}", timeout=10)
-            
-            if response.status_code == 200:
-                # Check rate limit headers
-                remaining = response.headers.get('X-RateLimit-Remaining')
-                if remaining:
-                    return int(remaining)
-                else:
-                    # If no header, assume we have requests available
-                    return self.RATE_LIMIT
-            elif response.status_code == 429:
-                # Rate limited
-                return 0
-            else:
-                self.log(f"Warning: Could not check token limit (status: {response.status_code})")
-                return None
-                
-        except Exception as e:
-            self.log(f"Warning: Error checking token limit: {e}")
-            return None
-    
-    def get_best_token_for_requests(self, needed_requests: int) -> Optional[int]:
-        """Find the best token that can handle the needed requests"""
-        if not self.AUTO_SWITCH_TOKENS or len(self.API_TOKENS) == 1:
-            return 0  # Use current token
-        
-        self.log(f"Checking token limits for {needed_requests} needed requests...")
-        
-        best_token_index = None
-        best_remaining = -1
-        
-        for i, token in enumerate(self.API_TOKENS):
-            # Use cached remaining limit if available to avoid unnecessary network calls
-            if self.token_limits.get(i) is not None:
-                remaining = self.token_limits[i]
-            else:
-                # Check current limit for this token via API
-                remaining = self.check_token_limit(token)
-
-            if remaining is not None:
-                # Cache the fetched remaining value
-                self.token_limits[i] = remaining
-                available_requests = remaining - self.SAFETY_BUFFER
-
-                self.log(f"Token {i+1}: {remaining:,} remaining, {available_requests:,} available (after buffer)")
-
-                # Check if this token can handle the needed requests
-                if available_requests >= needed_requests:
-                    if remaining > best_remaining:
-                        best_remaining = remaining
-                        best_token_index = i
-                else:
-                    self.log(f"Token {i+1}: Not sufficient for {needed_requests:,} requests")
-            else:
-                self.log(f"Token {i+1}: Could not check limit, assuming available")
-                # If we can't check, assume it's available (fallback)
-                if best_token_index is None:
-                    best_token_index = i
-        
-        if best_token_index is not None:
-            self.log(f"Selected Token {best_token_index+1} with {self.token_limits.get(best_token_index, 'unknown')} remaining requests")
-        else:
-            self.log("Warning: No token has sufficient requests available")
-            best_token_index = 0  # Fallback to first token
-        
-        return best_token_index
     
     def switch_token(self, token_index: int):
         """Switch to a different token"""
@@ -576,40 +487,32 @@ class ProxyValidatorIPinfo:
         return unique_proxies
     
     def create_batch_files(self, proxies: List[Tuple[str, str, str, str]]) -> int:
-        """Split proxies into smaller JSON batch files for IPinfo.io"""
+        """Split proxies into smaller TXT batch files (one IP per line) for IPinfo.io curl usage"""
         if not os.path.exists(self.temp_dir):
             os.makedirs(self.temp_dir)
-            
         batch_count = 0
         for i in range(0, len(proxies), self.BATCH_SIZE):
             batch = proxies[i:i + self.BATCH_SIZE]
-            
-            # Create IP list for IPinfo.io batch API
-            ip_list = []
+            ip_lines = []
             metadata = []
-            
             for proxy in batch:
                 ip, port, old_country, old_org = proxy
-                ip_list.append(ip)
+                ip_lines.append(ip)
                 metadata.append({
                     "original_port": port,
                     "original_country": old_country,
                     "original_org": old_org
                 })
-            
-            # Save IP list for API request
-            batch_file = f"{self.temp_dir}/batch_{batch_count:03d}.json"
+            # Save IPs as .txt (one IP per line)
+            batch_file = f"{self.temp_dir}/batch_{batch_count:03d}.txt"
             with open(batch_file, 'w', encoding='utf-8') as f:
-                json.dump(ip_list, f, indent=2)
-                
-            # Store metadata separately
+                f.write("\n".join(ip_lines) + "\n")
+            # Store metadata as JSON
             meta_file = f"{self.temp_dir}/meta_{batch_count:03d}.json"
             with open(meta_file, 'w', encoding='utf-8') as f:
                 json.dump(metadata, f, indent=2)
-                
             batch_count += 1
-            
-        self.log(f"Created {batch_count} batch files ({self.BATCH_SIZE} IPs each) in {self.temp_dir}/")
+        self.log(f"Created {batch_count} batch files ({self.BATCH_SIZE} IPs each) in {self.temp_dir}/ (TXT format)")
         return batch_count
     
     def load_progress(self) -> Dict:
@@ -627,181 +530,85 @@ class ProxyValidatorIPinfo:
         with open(self.progress_file, 'w') as f:
             json.dump(progress, f, indent=2)
 
-    def reset_token_usage(self):
-        """Reset token usage counters to zero for all configured tokens."""
-        for k in list(self.token_usage.keys()):
-            self.token_usage[k] = 0
-        # Also set token_limits cache to the known RATE_LIMIT so the script
-        # treats tokens as available until we explicitly re-check with the API.
-        # This allows a user reset to take effect locally without requiring
-        # immediate network requests to refresh headers.
-        for k in list(self.token_limits.keys()):
-            self.token_limits[k] = self.RATE_LIMIT
-        # Reset current token index to start from the first token
-        self.current_token_index = 0
-        self.current_token = self.API_TOKENS[0] if self.API_TOKENS else None
-        self.log("Token usage counters telah di-reset ke 0 untuk semua token")
-
-    def ask_reset_token_usage_option(self):
-        """Ask user whether to reset token usage counters before running."""
-        try:
-            choice = input("Reset token usage counters sebelum mulai? (y/n): ").strip().lower()
-            if choice in ('y', 'yes', 'ya'):
-                self.reset_token_usage()
-            else:
-                self.log("Token usage counters: tidak di-reset")
-        except KeyboardInterrupt:
-            self.log("\nProses dibatalkan oleh user")
-            sys.exit(0)
 
     def ask_select_token_option(self):
-        """Allow user to select which API token to use or enable auto-switching."""
+        """Allow user to select which API token to use manually."""
         try:
-            # Show available tokens (masked)
             print("\nAvailable API tokens:")
             for i, t in enumerate(self.API_TOKENS, 1):
-                used = self.token_usage.get(i-1, 0)
-                remaining = self.token_limits.get(i-1, 'Unknown')
-                print(f"  {i}. Token {i} (...{t[-8:]}): used={used}, remaining={remaining}")
-
-            print("\nPilihan token:\n  a = Auto switch tokens (default)\n  1..N = Gunakan token tertentu (non-auto)")
+                print(f"  {i}. Token {i} (...{t[-8:]})")
             while True:
-                choice = input("Pilih token atau 'a' untuk auto: ").strip().lower()
-                if choice == '' or choice == 'a' or choice == 'auto':
-                    # Keep or enable auto-switching
-                    self.AUTO_SWITCH_TOKENS = True
-                    self.log("Mode token: Auto-switch ENABLED")
-                    break
-                else:
-                    try:
-                        num = int(choice)
-                        if 1 <= num <= len(self.API_TOKENS):
-                            # Use selected token and disable auto-switch
-                            self.AUTO_SWITCH_TOKENS = False
-                            self.switch_token(num - 1)
-                            self.log(f"Mode token: Menggunakan Token {num} secara manual")
-                            break
-                        else:
-                            print(f"Masukkan angka antara 1 dan {len(self.API_TOKENS)} atau 'a'")
-                    except ValueError:
-                        print("Masukkan 'a' atau nomor token yang valid")
+                choice = input(f"Pilih token (1-{len(self.API_TOKENS)}): ").strip()
+                try:
+                    num = int(choice)
+                    if 1 <= num <= len(self.API_TOKENS):
+                        self.switch_token(num - 1)
+                        self.log(f"Menggunakan Token {num} secara manual")
+                        break
+                    else:
+                        print(f"Masukkan angka antara 1 dan {len(self.API_TOKENS)}")
+                except ValueError:
+                    print("Masukkan nomor token yang valid")
         except KeyboardInterrupt:
             self.log("\nProses dibatalkan oleh user")
             sys.exit(0)
     
     def validate_batch(self, batch_num: int) -> List[Dict]:
-        """Validate single batch using IPinfo.io API"""
-        batch_file = f"{self.temp_dir}/batch_{batch_num:03d}.json"
+        """Validate single batch using IPinfo.io API via curl and txt file (one IP per line)"""
+        import subprocess
+        batch_file = f"{self.temp_dir}/batch_{batch_num:03d}.txt"
         meta_file = f"{self.temp_dir}/meta_{batch_num:03d}.json"
-        
         try:
-            # Load batch IP list
+            # Load IPs (one per line)
             with open(batch_file, 'r') as f:
-                ip_list = json.load(f)
-                
+                ip_lines = [line.strip() for line in f if line.strip()]
             # Load metadata
             with open(meta_file, 'r') as f:
                 metadata = json.load(f)
-            
-            # Make API request to IPinfo.io
-            headers = {
-                'Content-Type': 'application/json',
-                'User-Agent': 'ProxyValidator-IPinfo/1.0',
-                'Authorization': f'Bearer {self.current_token}'
-            }
-            
-            # IPinfo.io batch API expects array of IPs
-            response = requests.post(
-                self.API_URL,
-                json=ip_list,
-                headers=headers,
-                timeout=self.TIMEOUT_SECONDS
-            )
-            
-            if response.status_code == 200:
-                api_results = response.json()
-                self.log(f"Batch {batch_num + 1}: Successfully processed {len(api_results)} IPs")
-                
-                # Track token usage
-                unique_ips_in_batch = len(set(ip_list))
-                self.token_usage[self.current_token_index] += unique_ips_in_batch
-                
-                # Update remaining limit if available in headers
-                remaining = response.headers.get('X-RateLimit-Remaining')
-                if remaining:
-                    self.token_limits[self.current_token_index] = int(remaining)
-                
-
-                
-                # Combine API results with original data
-                validated_proxies = []
-                
-                # Process ALL input IPs (including duplicates) and match with API results
-                for i, ip in enumerate(ip_list):
-                    if i < len(metadata):
-                        original = metadata[i]
-                        
-                        # Check if this IP has API data
-                        if ip in api_results:
-                            result = api_results[ip]
-                            
-                            # Check if API returned valid data
-                            if isinstance(result, dict) and 'country' in result:
-                                org_info = self.get_organization_info(result)
-                                
-                                proxy_data = {
+            # Build curl command
+            api_url = f"https://api.ipinfo.io/batch/lite?token={self.current_token}"
+            curl_cmd = [
+                "curl", "-sS", "-XPOST", "--data-binary", f"@{batch_file}", api_url
+            ]
+            # Run curl and capture output
+            result = subprocess.run(curl_cmd, capture_output=True, text=True, timeout=self.TIMEOUT_SECONDS)
+            if result.returncode != 0:
+                self.log(f"Curl error: {result.stderr}")
+                return None
+            try:
+                api_results = json.loads(result.stdout)
+            except Exception as e:
+                self.log(f"Error parsing API response: {e}\nResponse: {result.stdout}")
+                return None
+            self.log(f"Batch {batch_num + 1}: Successfully processed {len(api_results)} IPs")
+            # No more token usage tracking
+            # Combine API results with original data
+            validated_proxies = []
+            for i, ip in enumerate(ip_lines):
+                if i < len(metadata):
+                    original = metadata[i]
+                    if ip in api_results:
+                        result = api_results[ip]
+                        if isinstance(result, dict) and 'country' in result:
+                            org_info = result.get('as_name', 'Unknown Organization')
+                            proxy_data = {
+                                'ip': ip,
+                                'port': original['original_port'],
+                                'country_code': result.get('country_code', 'UNKNOWN'),
+                                'org': org_info,
+                                'original_country': original['original_country'],
+                                'original_org': original['original_org']
+                            }
+                            if self.save_proxy_data:
+                                proxy_data['api_data'] = {
                                     'ip': ip,
-                                    'port': original['original_port'],
-                                    'country_code': result.get('country', 'UNKNOWN'),  # IPinfo.io uses 'country' for country code
-                                    'org': org_info,
-                                    'original_country': original['original_country'],
-                                    'original_org': original['original_org']
+                                    'country': result.get('country', 'UNKNOWN'),
+                                    'asn': result.get('asn', 'Unknown ASN'),
+                                    'as_name': result.get('as_name', 'Unknown AS Name')
                                 }
-                                
-                                # Add simplified API data for proxy data saving
-                                if self.save_proxy_data:
-                                    # Extract ASN and AS name from org field
-                                    org_field = result.get('org', '')
-                                    asn = 'Unknown ASN'
-                                    as_name = 'Unknown AS Name'
-                                    
-                                    if org_field.startswith('AS') and ' ' in org_field:
-                                        parts = org_field.split(' ', 1)
-                                        asn = parts[0]  # e.g., "AS63949"
-                                        as_name = parts[1]  # e.g., "Akamai Connected Cloud"
-                                    
-                                    proxy_data['api_data'] = {
-                                        'ip': ip,
-                                        'country': result.get('country', 'UNKNOWN'),
-                                        'asn': asn,
-                                        'as_name': as_name
-                                    }
-                                
-                                validated_proxies.append(proxy_data)
-                            else:
-                                # Keep original data if validation failed
-                                self.log(f"Warning: No valid data for IP {ip}")
-                                proxy_data = {
-                                    'ip': ip,
-                                    'port': original['original_port'],
-                                    'country_code': original['original_country'],
-                                    'org': self.clean_org_name(original['original_org']),
-                                    'original_country': original['original_country'],
-                                    'original_org': original['original_org']
-                                }
-                                
-                                # Add minimal API data for failed validations
-                                if self.save_proxy_data:
-                                    proxy_data['api_data'] = {
-                                        'ip': ip,
-                                        'country': original['original_country'],
-                                        'asn': 'Unknown ASN',
-                                        'as_name': original['original_org']
-                                    }
-                                
-                                validated_proxies.append(proxy_data)
+                            validated_proxies.append(proxy_data)
                         else:
-                            # IP not returned by API - use original data
+                            self.log(f"Warning: No valid data for IP {ip}")
                             proxy_data = {
                                 'ip': ip,
                                 'port': original['original_port'],
@@ -810,8 +617,6 @@ class ProxyValidatorIPinfo:
                                 'original_country': original['original_country'],
                                 'original_org': original['original_org']
                             }
-                            
-                            # Add minimal API data for missing IPs
                             if self.save_proxy_data:
                                 proxy_data['api_data'] = {
                                     'ip': ip,
@@ -819,44 +624,28 @@ class ProxyValidatorIPinfo:
                                     'asn': 'Unknown ASN',
                                     'as_name': original['original_org']
                                 }
-                            
                             validated_proxies.append(proxy_data)
-
-                
-                return validated_proxies
-                
-            elif response.status_code == 429:
-                self.log(f"Rate limit exceeded for Token {self.current_token_index + 1}")
-                
-                # Try to switch to another token if available
-                if len(self.API_TOKENS) > 1 and self.AUTO_SWITCH_TOKENS:
-                    # Mark current token as exhausted
-                    self.token_limits[self.current_token_index] = 0
-                    
-                    # Find next available token
-                    for i in range(len(self.API_TOKENS)):
-                        if i != self.current_token_index:
-                            remaining = self.check_token_limit(self.API_TOKENS[i])
-                            if remaining and remaining > self.SAFETY_BUFFER:
-                                self.log(f"Switching to Token {i + 1} (has {remaining:,} requests remaining)")
-                                self.switch_token(i)
-                                return None  # Signal to retry with new token
-                    
-                    self.log("No other tokens available with sufficient limits")
-                
-                self.log(f"Waiting 90s for rate limit reset...")
-                time.sleep(90)
-                return None  # Signal to retry
-            else:
-                self.log(f"API Error {response.status_code}: {response.text}")
-                return []
-                
-        except requests.exceptions.ConnectionError as e:
-            self.log(f"Connection error for batch {batch_num}: {e}")
-            return None  # Signal to retry
-        except requests.exceptions.Timeout as e:
-            self.log(f"Timeout error for batch {batch_num}: {e}")
-            return None  # Signal to retry
+                    else:
+                        proxy_data = {
+                            'ip': ip,
+                            'port': original['original_port'],
+                            'country_code': original['original_country'],
+                            'org': self.clean_org_name(original['original_org']),
+                            'original_country': original['original_country'],
+                            'original_org': original['original_org']
+                        }
+                        if self.save_proxy_data:
+                            proxy_data['api_data'] = {
+                                'ip': ip,
+                                'country': original['original_country'],
+                                'asn': 'Unknown ASN',
+                                'as_name': original['original_org']
+                            }
+                        validated_proxies.append(proxy_data)
+            return validated_proxies
+        except subprocess.TimeoutExpired:
+            self.log(f"Timeout error for batch {batch_num}")
+            return None
         except Exception as e:
             self.log(f"Unexpected error validating batch {batch_num}: {e}")
             return []
@@ -909,11 +698,10 @@ class ProxyValidatorIPinfo:
                     progress["failed_batches"].append(batch_num)
                     self.save_progress(progress)
             
-            # Rate limiting delay with jitter
+            # Delay antar batch (tanpa jitter rate limit)
             if batch_num < total_batches - 1:
-                delay = self.REQUEST_DELAY + random.uniform(0, self.RATE_LIMIT_JITTER)  # Add jitter
-                self.log(f"Waiting {delay:.1f}s (rate limit + jitter)...")
-                time.sleep(delay)
+                self.log(f"Waiting {self.REQUEST_DELAY:.1f}s before next batch...")
+                time.sleep(self.REQUEST_DELAY)
         
         if progress["failed_batches"]:
             self.log(f"Warning: {len(progress['failed_batches'])} batches failed: {progress['failed_batches']}")
@@ -1047,29 +835,7 @@ class ProxyValidatorIPinfo:
             percentage = (count / len(validated_proxies)) * 100
             self.log(f"  - {country}: {count:,} ({percentage:.1f}%)")
         
-        # Token usage summary
-        if len(self.API_TOKENS) > 1:
-            self.log("")
-            self.log("TOKEN USAGE SUMMARY:")
-            total_used = 0
-            for i, token in enumerate(self.API_TOKENS):
-                used = self.token_usage.get(i, 0)
-                remaining = self.token_limits.get(i, 'Unknown')
-                total_used += used
-                
-                if used > 0:
-                    self.log(f"  - Token {i+1} (...{token[-8:]}): {used:,} requests used, {remaining} remaining")
-                else:
-                    self.log(f"  - Token {i+1} (...{token[-8:]}): Not used")
-            
-            self.log(f"  - Total API requests made: {total_used:,}")
-        else:
-            used = self.token_usage.get(0, 0)
-            remaining = self.token_limits.get(0, 'Unknown')
-            self.log("")
-            self.log("TOKEN USAGE:")
-            self.log(f"  - API requests made: {used:,}")
-            self.log(f"  - Remaining requests: {remaining}")
+    # Token usage summary dihapus
         
         self.log("="*60)
     
@@ -1094,9 +860,7 @@ class ProxyValidatorIPinfo:
             self.log("Features: File selection, flexible parsing, data enrichment/correction")
             self.log(f"Using IPinfo.io API with batch processing up to {self.BATCH_SIZE} IPs per request")
             self.display_configuration()
-            # Offer to reset token usage counters before starting
-            self.ask_reset_token_usage_option()
-            # Allow user to select token mode (auto-switch or specific token)
+            # Allow user to select token manually
             self.ask_select_token_option()
             
             # Step 1: File selection
@@ -1139,23 +903,7 @@ class ProxyValidatorIPinfo:
             # Step 5: Remove duplicates
             unique_proxies = self.remove_duplicates(proxies)
             
-            # Step 6: Select best token for the job
-            if len(self.API_TOKENS) > 1 and self.AUTO_SWITCH_TOKENS:
-                # Calculate needed requests (unique IPs, not total proxies)
-                unique_ips = set()
-                for proxy in unique_proxies:
-                    ip, port, country, org = proxy  # Unpack tuple
-                    unique_ips.add(ip)
-                needed_requests = len(unique_ips)
-                
-                self.log(f"Need to validate {needed_requests:,} unique IPs from {len(unique_proxies):,} total proxies")
-                
-                # Find best token
-                best_token_index = self.get_best_token_for_requests(needed_requests)
-                if best_token_index != self.current_token_index:
-                    self.switch_token(best_token_index)
-            else:
-                self.log(f"Using Token 1: ...{self.current_token[-8:]} (single token or auto-switch disabled)")
+            # Step 6: Token sudah dipilih manual, tidak ada auto switch
             
             # Step 7: Create batches and validate
             batch_count = self.create_batch_files(unique_proxies)
