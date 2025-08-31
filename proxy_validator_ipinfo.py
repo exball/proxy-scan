@@ -43,12 +43,13 @@ API_TOKENS = [
     "c89402dd5554ac",
     "df780be2632088",
     "878e3e53210405",
+    "04b42435d8eded",
 ]
 
 API_URL = "https://ipinfo.io/batch"  # IPinfo.io batch API endpoint
 
 # Batch Processing Configuration
-BATCH_SIZE = 800  # Jumlah IP per batch (max: 1000 untuk IPinfo.io)
+BATCH_SIZE = 500  # Jumlah IP per batch (max: 1000 untuk IPinfo.io)
                   # Rekomendasi: 500 (optimal untuk stabilitas dan kecepatan)
                   # Semakin besar = lebih cepat, tapi lebih berisiko timeout
                   # Semakin kecil = lebih lambat, tapi lebih stabil
