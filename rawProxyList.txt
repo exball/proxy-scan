@@ -8,7 +8,7 @@
 184.28.232.207,443,AR,Akamai International B.V.
 184.30.144.77,80,AR,Akamai International B.V.
 184.29.85.213,443,AR,Akamai International B.V.
-31.40.212.145,443,AR,BrainStorm Network, Inc
+31.40.212.145,443,AR,BrainStorm Network
 201.219.68.224,10410,AR,Cooperativa Telefónica Pinamar Ltda.
 201.219.68.224,19628,AR,Cooperativa Telefónica Pinamar Ltda.
 201.219.68.224,23207,AR,Cooperativa Telefónica Pinamar Ltda.
