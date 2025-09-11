@@ -1,18 +1,12 @@
 [
   {
     "ip": [
-      "54.192.117.55"
+      "43.217.246.125",
+      "43.217.148.226",
+      "43.217.143.74"
     ],
     "country": "MY",
     "asn": "AS16509",
     "as_name": "Amazon.com, Inc."
-  },
-  {
-    "ip": [
-      "23.202.180.248"
-    ],
-    "country": "MY",
-    "asn": "AS16625",
-    "as_name": "Akamai Technologies, Inc."
   }
 ]
