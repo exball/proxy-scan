@@ -3,25 +3,6 @@
 102.208.107.209,20205,CM,ST DIGITAL
 102.208.107.206,443,CM,ST DIGITAL
 102.207.216.176,443,DZ,AYRADE
-102.207.40.208,443,NG,Suburban Broadband Ltd
-102.207.40.39,20051,NG,Suburban Broadband Ltd
-102.207.41.153,443,NG,Suburban Broadband Ltd
-102.207.40.132,443,NG,Suburban Broadband Ltd
-102.207.40.96,443,NG,Suburban Broadband Ltd
-102.208.105.139,443,TG,ST DIGITAL
-102.208.105.139,20205,TG,ST DIGITAL
-102.209.117.215,443,ZA,Host Africa (Pty) Ltd
-102.209.117.38,80,ZA,Host Africa (Pty) Ltd
-102.210.146.151,2052,ZA,Host Africa (Pty) Ltd
-102.209.117.38,443,ZA,Host Africa (Pty) Ltd
-102.209.119.48,80,ZA,Host Africa (Pty) Ltd
-102.210.146.57,443,ZA,Host Africa (Pty) Ltd
-102.210.146.57,80,ZA,Host Africa (Pty) Ltd
-102.209.21.221,443,ZA,Rackzar  (Pty) Ltd
-102.209.21.221,20205,ZA,Rackzar  (Pty) Ltd
-102.209.21.101,443,ZA,Rackzar  (Pty) Ltd
-102.209.21.101,80,ZA,Rackzar  (Pty) Ltd
-102.209.85.90,443,ZA,Telasera Technologies PTY LTD
 41.198.56.20,80,MU,Africa Online Operations (Mauritius) Limited
 41.198.59.122,80,MU,Africa Online Operations (Mauritius) Limited
 41.198.60.70,80,MU,Africa Online Operations (Mauritius) Limited
@@ -7408,5 +7389,24 @@
 196.207.57.4,8111,MU,VGR Communications Ltd
 196.207.48.246,44368,MU,VGR Communications Ltd
 196.207.48.254,56443,MU,VGR Communications Ltd
-66.102.35.86,80,MU,WoodyNet, Inc.
-66.102.35.86,443,MU,WoodyNet, Inc.
+66.102.35.86,80,MU,WoodyNet
+66.102.35.86,443,MU,WoodyNet
+102.207.40.208,443,NG,Suburban Broadband Ltd
+102.207.40.39,20051,NG,Suburban Broadband Ltd
+102.207.41.153,443,NG,Suburban Broadband Ltd
+102.207.40.132,443,NG,Suburban Broadband Ltd
+102.207.40.96,443,NG,Suburban Broadband Ltd
+102.208.105.139,443,TG,ST DIGITAL
+102.208.105.139,20205,TG,ST DIGITAL
+102.209.117.215,443,ZA,Host Africa (Pty) Ltd
+102.209.117.38,80,ZA,Host Africa (Pty) Ltd
+102.210.146.151,2052,ZA,Host Africa (Pty) Ltd
+102.209.117.38,443,ZA,Host Africa (Pty) Ltd
+102.209.119.48,80,ZA,Host Africa (Pty) Ltd
+102.210.146.57,443,ZA,Host Africa (Pty) Ltd
+102.210.146.57,80,ZA,Host Africa (Pty) Ltd
+102.209.21.221,443,ZA,Rackzar  (Pty) Ltd
+102.209.21.221,20205,ZA,Rackzar  (Pty) Ltd
+102.209.21.101,443,ZA,Rackzar  (Pty) Ltd
+102.209.21.101,80,ZA,Rackzar  (Pty) Ltd
+102.209.85.90,443,ZA,Telasera Technologies PTY LTD
