@@ -6,31 +6,31 @@
 212.192.23.3,8443,LT,Baxet Group Inc.
 84.15.200.73,80,LT,Bite IP Network
 84.15.200.73,443,LT,Bite IP Network
-185.237.185.110,80,LT,BrainStorm Network, Inc
-185.237.185.182,80,LT,BrainStorm Network, Inc
-185.237.185.89,443,LT,BrainStorm Network, Inc
-185.237.185.98,443,LT,BrainStorm Network, Inc
-185.237.185.110,443,LT,BrainStorm Network, Inc
-185.237.185.182,443,LT,BrainStorm Network, Inc
-185.237.185.89,843,LT,BrainStorm Network, Inc
-185.237.185.89,844,LT,BrainStorm Network, Inc
-185.237.185.89,845,LT,BrainStorm Network, Inc
-185.237.185.110,2053,LT,BrainStorm Network, Inc
-185.237.185.182,2053,LT,BrainStorm Network, Inc
-185.237.185.110,2083,LT,BrainStorm Network, Inc
-185.237.185.182,2083,LT,BrainStorm Network, Inc
-185.237.185.110,8000,LT,BrainStorm Network, Inc
-185.237.185.182,8081,LT,BrainStorm Network, Inc
-185.237.185.182,8082,LT,BrainStorm Network, Inc
-185.237.185.110,8086,LT,BrainStorm Network, Inc
-185.237.185.182,8086,LT,BrainStorm Network, Inc
-185.237.185.110,8443,LT,BrainStorm Network, Inc
-185.237.185.182,8443,LT,BrainStorm Network, Inc
-185.237.185.110,8444,LT,BrainStorm Network, Inc
-185.237.185.182,8444,LT,BrainStorm Network, Inc
-185.237.185.110,9100,LT,BrainStorm Network, Inc
-185.237.185.182,9100,LT,BrainStorm Network, Inc
-185.237.185.89,10101,LT,BrainStorm Network, Inc
+185.237.185.110,80,LT,BrainStorm Network
+185.237.185.182,80,LT,BrainStorm Network
+185.237.185.89,443,LT,BrainStorm Network
+185.237.185.98,443,LT,BrainStorm Network
+185.237.185.110,443,LT,BrainStorm Network
+185.237.185.182,443,LT,BrainStorm Network
+185.237.185.89,843,LT,BrainStorm Network
+185.237.185.89,844,LT,BrainStorm Network
+185.237.185.89,845,LT,BrainStorm Network
+185.237.185.110,2053,LT,BrainStorm Network
+185.237.185.182,2053,LT,BrainStorm Network
+185.237.185.110,2083,LT,BrainStorm Network
+185.237.185.182,2083,LT,BrainStorm Network
+185.237.185.110,8000,LT,BrainStorm Network
+185.237.185.182,8081,LT,BrainStorm Network
+185.237.185.182,8082,LT,BrainStorm Network
+185.237.185.110,8086,LT,BrainStorm Network
+185.237.185.182,8086,LT,BrainStorm Network
+185.237.185.110,8443,LT,BrainStorm Network
+185.237.185.182,8443,LT,BrainStorm Network
+185.237.185.110,8444,LT,BrainStorm Network
+185.237.185.182,8444,LT,BrainStorm Network
+185.237.185.110,9100,LT,BrainStorm Network
+185.237.185.182,9100,LT,BrainStorm Network
+185.237.185.89,10101,LT,BrainStorm Network
 185.212.113.2,2050,LT,CUZDAN ELEKTRONIK PARA VE ODEME HIZMETLERI ANONIM SIRKETI
 185.212.113.3,2050,LT,CUZDAN ELEKTRONIK PARA VE ODEME HIZMETLERI ANONIM SIRKETI
 185.212.113.4,2050,LT,CUZDAN ELEKTRONIK PARA VE ODEME HIZMETLERI ANONIM SIRKETI
@@ -1980,19 +1980,19 @@
 45.93.136.141,8443,LT,Hostinger International Limited
 45.93.136.141,9090,LT,Hostinger International Limited
 45.93.136.141,9095,LT,Hostinger International Limited
-195.12.191.160,443,LT,HOSTLINE, UAB
-195.12.191.160,2053,LT,HOSTLINE, UAB
-195.12.191.160,2083,LT,HOSTLINE, UAB
-195.12.191.160,8000,LT,HOSTLINE, UAB
-195.12.191.160,8080,LT,HOSTLINE, UAB
-195.12.191.160,51821,LT,HOSTLINE, UAB
-213.252.232.170,80,LT,Informacines sistemos ir technologijos, UAB
-213.252.232.177,80,LT,Informacines sistemos ir technologijos, UAB
-85.206.172.44,443,LT,Informacines sistemos ir technologijos, UAB
-213.252.232.177,443,LT,Informacines sistemos ir technologijos, UAB
-213.252.232.170,2060,LT,Informacines sistemos ir technologijos, UAB
-213.252.232.177,2060,LT,Informacines sistemos ir technologijos, UAB
-213.252.232.170,44443,LT,Informacines sistemos ir technologijos, UAB
+195.12.191.160,443,LT,HOSTLINE
+195.12.191.160,2053,LT,HOSTLINE
+195.12.191.160,2083,LT,HOSTLINE
+195.12.191.160,8000,LT,HOSTLINE
+195.12.191.160,8080,LT,HOSTLINE
+195.12.191.160,51821,LT,HOSTLINE
+213.252.232.170,80,LT,Informacines sistemos ir technologijos
+213.252.232.177,80,LT,Informacines sistemos ir technologijos
+85.206.172.44,443,LT,Informacines sistemos ir technologijos
+213.252.232.177,443,LT,Informacines sistemos ir technologijos
+213.252.232.170,2060,LT,Informacines sistemos ir technologijos
+213.252.232.177,2060,LT,Informacines sistemos ir technologijos
+213.252.232.170,44443,LT,Informacines sistemos ir technologijos
 81.16.232.128,80,LT,Litgrid AB
 81.16.232.128,2052,LT,Litgrid AB
 81.16.232.128,2082,LT,Litgrid AB
@@ -2015,11 +2015,11 @@
 185.224.250.84,8443,LT,Melbikomas UAB
 195.238.126.188,8443,LT,Melbikomas UAB
 195.238.126.52,9001,LT,Melbikomas UAB
-213.159.53.100,443,LT,Penkiu kontinentu komunikaciju centras, Ltd.
-213.159.53.100,5006,LT,Penkiu kontinentu komunikaciju centras, Ltd.
-213.159.53.100,7443,LT,Penkiu kontinentu komunikaciju centras, Ltd.
-213.159.53.100,8443,LT,Penkiu kontinentu komunikaciju centras, Ltd.
-213.159.53.100,9443,LT,Penkiu kontinentu komunikaciju centras, Ltd.
+213.159.53.100,443,LT,Penkiu kontinentu komunikaciju centras
+213.159.53.100,5006,LT,Penkiu kontinentu komunikaciju centras
+213.159.53.100,7443,LT,Penkiu kontinentu komunikaciju centras
+213.159.53.100,8443,LT,Penkiu kontinentu komunikaciju centras
+213.159.53.100,9443,LT,Penkiu kontinentu komunikaciju centras
 146.103.25.107,80,LT,UAB "Baltnetos komunikacijos"
 176.118.198.111,80,LT,UAB "Baltnetos komunikacijos"
 195.14.189.96,80,LT,UAB "Baltnetos komunikacijos"
